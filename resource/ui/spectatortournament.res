@@ -168,7 +168,7 @@
 				"visible"			"1"
 				"labelText"			"%playername%"
 				"textAlignment"		"west"
-				"fgcolor"			"TanLight"
+				"fgcolor"			"ColorWhite"
 			}
 
 			"HealthIcon"

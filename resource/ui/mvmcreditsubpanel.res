@@ -11,7 +11,7 @@
 		"ypos"				"0"
 		"wide"				"300"
 		"tall"				"15"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"TableBackground"
@@ -38,7 +38,7 @@
 		"ypos"				"15"
 		"wide"				"70"
 		"tall"				"12"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"CreditCollectedCountLabel"
@@ -66,7 +66,7 @@
 		"ypos"				"27"
 		"wide"				"70"
 		"tall"				"12"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"CreditMissedCountLabel"
@@ -94,7 +94,7 @@
 		"ypos"				"39"
 		"wide"				"70"
 		"tall"				"12"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"CreditBonusCountLabel"
@@ -123,6 +123,6 @@
 		"zpos"				"1"
 		"wide"				"70"
 		"tall"				"20"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 }

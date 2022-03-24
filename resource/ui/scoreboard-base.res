@@ -791,7 +791,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"AvatarTextLabel"
-				"fgcolor"		"TanLight"
+				"fgcolor"		"ColorWhite"
 				"xpos"			"50"
 				"ypos"			"7"
 				"zpos"			"2"
@@ -870,7 +870,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"AvatarTextLabel"
-				"fgcolor"		"TanLight"
+				"fgcolor"		"ColorWhite"
 				"xpos"			"50"
 				"ypos"			"7"
 				"zpos"			"2"
@@ -981,7 +981,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor" 		"TanLight"
+			"fgcolor" 		"ColorWhite"
 
 			"pin_to_sibling"		"Kills"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1042,7 +1042,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Deaths"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1065,7 +1065,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 		}
 
 		"AssistsLabel"
@@ -1122,7 +1122,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Assists"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1187,7 +1187,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Destruction"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1252,7 +1252,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Captures"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1317,7 +1317,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Defenses"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1382,7 +1382,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Domination"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1447,7 +1447,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Revenge"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1512,7 +1512,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Healing"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1577,7 +1577,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Invuln"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1638,7 +1638,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Teleports"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1703,7 +1703,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Headshots"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1768,7 +1768,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Backstabs"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1833,7 +1833,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Bonus"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1898,7 +1898,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Support"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -1963,7 +1963,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 
 			"pin_to_sibling"		"Damage"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"

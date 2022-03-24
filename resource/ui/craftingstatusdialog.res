@@ -86,7 +86,7 @@
 		"enabled"				"1"
 		"labelText"				"%ellipses%"
 		"textAlignment"			"west"
-		"fgcolor_override"		"TanLight"
+		"fgcolor_override"		"ColorWhite"
 		"bgcolor_override"		"Transparent"
 
 		"pin_to_sibling"		"TitleLabel"

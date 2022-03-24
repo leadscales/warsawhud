@@ -74,7 +74,7 @@
 		"font"			"Font32"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 	}
 
 	"teambutton0"
@@ -105,9 +105,9 @@
 		"selectedBgColor_override" 	"BlueSolid"
 		
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"TanLight"
+		"selectedFgColor_override" 	"ColorWhite"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
@@ -145,9 +145,9 @@
 		"selectedBgColor_override" 	"RedSolid"
 		
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"TanLight"
+		"selectedFgColor_override" 	"ColorWhite"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
@@ -184,9 +184,9 @@
 		"depressedBgColor_override" "TransparentBlack"
 		"selectedBgColor_override" 	"ColorWhite"
 		
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"TanDark"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
@@ -224,9 +224,9 @@
 		"depressedBgColor_override" "TransparentBlack"
 		"selectedBgColor_override" 	"ColorWhite"
 		
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"TanDark"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
@@ -321,7 +321,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"Font12"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"centerwrap"	"1"
 	}
 

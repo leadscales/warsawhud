@@ -74,7 +74,7 @@
 				"sound_released"		"UI/buttonclickrelease.wav"
 				
 				"defaultFgColor_override"	"TanDark"
-				"armedFgColor_override"		"TanLight"
+				"armedFgColor_override"		"ColorWhite"
 				"depressedFgColor_override"	"TanDark"
 			}
 
@@ -103,7 +103,7 @@
 				"sound_released"		"UI/buttonclickrelease.wav"
 				
 				"defaultFgColor_override"	"TanDark"
-				"armedFgColor_override"		"TanLight"
+				"armedFgColor_override"		"ColorWhite"
 				"depressedFgColor_override"	"TanDark"
 			}
 
@@ -134,7 +134,7 @@
 				"sound_released"		"UI/buttonclickrelease.wav"
 		
 				"defaultFgColor_override" 	"TanDark"
-				"armedFgColor_override" 	"TanLight"
+				"armedFgColor_override" 	"ColorWhite"
 				"depressedFgColor_override" "TanDark"
 
 				"SubImage"
@@ -258,7 +258,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"wrap"					"1"
-			"fgcolor_override"		"TanLight"
+			"fgcolor_override"		"ColorWhite"
 		}
 
 		// Scrollable editable panel for right-hand side of preview, for all text details
@@ -723,7 +723,7 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
 		"defaultFgColor_override"	"TanDark"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override"	"TanDark"
 	}
 
@@ -753,7 +753,7 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
 		"defaultFgColor_override"	"TanDark"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override"	"TanDark"
 	}
 
@@ -903,7 +903,7 @@
 			
 			"fgcolor"					"TanDark"
 			"defaultFgColor_override" 	"TanDark"
-			"armedFgColor_override" 	"TanLight"
+			"armedFgColor_override" 	"ColorWhite"
 			"depressedFgColor_override" "TanDark"
 
 			"sound_depressed"			"UI/buttonclick.wav"
@@ -917,8 +917,8 @@
 			"paintborder"				"0"
 
 			"image_drawcolor"			"TanDark"
-			"image_armedcolor"			"TanLight"
-			"image_selectedcolor"		"TanLight"
+			"image_armedcolor"			"ColorWhite"
+			"image_selectedcolor"		"ColorWhite"
 
 			"stayselectedonclick"		"1"
 			"keyboardinputenabled"		"0"

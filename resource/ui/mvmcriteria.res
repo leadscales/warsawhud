@@ -542,7 +542,7 @@
 			"zpos"				"0"
 			"wide"				"400"
 			"tall"				"26"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"allcaps"			"1"
 		}
 
@@ -558,7 +558,7 @@
 			"zpos"				"0"
 			"wide"				"100"
 			"tall"				"24"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"allcaps"			"1"
 		}
 

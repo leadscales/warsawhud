@@ -120,12 +120,12 @@
 		"NumericInputOnly"		"0"
 		"unicode"				"0"
 
-		"fgcolor_override"					"TanLight"
+		"fgcolor_override"					"ColorWhite"
 		"bgcolor_override"					"PanelDark"
-		"disabledFgColor_override"			"TanLight"
+		"disabledFgColor_override"			"ColorWhite"
 		"disabledBgColor_override"			"PanelDark"
 		"selectionColor_override"			"PanelDark"
-		"selectionTextColor_override"		"TanLight"
+		"selectionTextColor_override"		"ColorWhite"
 		"defaultSelectionBG2Color_override"	"PanelDark"
 	}
 
@@ -158,7 +158,7 @@
 			"pinCorner"				"0"
 			"visible"				"1"
 			"enabled"				"1"
-			"fgcolor"				"TanLight"
+			"fgcolor"				"ColorWhite"
 			"wrap"					"1"
 			"highlight_color"		"AccentMain"
 			"itemset_color"			"216 244 9 255"

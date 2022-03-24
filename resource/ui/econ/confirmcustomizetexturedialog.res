@@ -201,7 +201,7 @@
 		"tall"			"160"
 		"visible"		"1"
 		"bgcolor_override"		"0 0 0 0"
-		"noitem_textcolor"		"TanLight"
+		"noitem_textcolor"		"ColorWhite"
 		//"PaintBackgroundType"	"2"
 		"paintborder"	"0"
 		"model_xpos"	"00"
@@ -353,12 +353,12 @@
 				"editable"			"0"
 				"font"				"HudFontSmall"
 
-				//"fgcolor_override"				"TanLight"
+				//"fgcolor_override"				"ColorWhite"
 				"bgcolor_override"					"0 0 0 255"
-				//"disabledFgColor_override" 		"TanLight"
+				//"disabledFgColor_override" 		"ColorWhite"
 				"disabledBgColor_override" 			"0 0 0 255"
 				"selectionColor_override" 			"0 0 0 255"
-				"selectionTextColor_override" 		"TanLight"
+				"selectionTextColor_override" 		"ColorWhite"
 				"defaultSelectionBG2Color_override" "0 0 0 0"
 			}
 		}
@@ -464,12 +464,12 @@
 				"font"			"HudFontSmall"
 				"visible"		"0"
 
-				//"fgcolor_override"				"TanLight"
+				//"fgcolor_override"				"ColorWhite"
 				"bgcolor_override"					"0 0 0 255"
-				//"disabledFgColor_override" 		"TanLight"
+				//"disabledFgColor_override" 		"ColorWhite"
 				"disabledBgColor_override" 			"0 0 0 255"
 				"selectionColor_override" 			"0 0 0 255"
-				"selectionTextColor_override" 		"TanLight"
+				"selectionTextColor_override" 		"ColorWhite"
 				"defaultSelectionBG2Color_override" "0 0 0 0"
 			}
 
@@ -593,12 +593,12 @@
 					"editable"		"0"
 					"font"			"HudFontSmall"
 
-					//"fgcolor_override"				"TanLight"
+					//"fgcolor_override"				"ColorWhite"
 					"bgcolor_override"					"0 0 0 255"
-					//"disabledFgColor_override" 		"TanLight"
+					//"disabledFgColor_override" 		"ColorWhite"
 					"disabledBgColor_override" 			"0 0 0 255"
 					"selectionColor_override" 			"0 0 0 255"
-					"selectionTextColor_override" 		"TanLight"
+					"selectionTextColor_override" 		"ColorWhite"
 					"defaultSelectionBG2Color_override" "0 0 0 0"
 				}
 			}

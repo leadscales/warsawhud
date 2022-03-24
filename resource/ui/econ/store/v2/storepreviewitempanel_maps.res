@@ -152,7 +152,7 @@
 		"wrap"			"1"
 		"centerwrap"	"1"
 		"allcaps"		"1"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"ClassUsageImage1"

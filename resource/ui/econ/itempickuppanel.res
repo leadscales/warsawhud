@@ -103,7 +103,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelectedItemFoundMethodLabel"
 		"font"			"HudFontMediumSmall"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"labelText"		""
 		"textAlignment"	"center"
 		"xpos"			"0"
@@ -274,7 +274,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
 
 		"SubImage"
@@ -325,7 +325,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -370,7 +370,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		"wrap"				"0"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"ColorBlack"
 		"labelText"			"Enter Score Here"
 		"textAlignment"		"center"

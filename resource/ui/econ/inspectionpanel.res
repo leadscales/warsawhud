@@ -329,12 +329,12 @@
 				"visible"	"0"
 			}
 
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"Transparent"
 			"disabledFgColor_override" "TanDark"
 			"disabledBgColor_override" "Transparent"
 			"selectionColor_override" "Transparent"
-			"selectionTextColor_override" "TanLight"
+			"selectionTextColor_override" "ColorWhite"
 			"defaultSelectionBG2Color_override" "Transparent"
 		}
 
@@ -353,7 +353,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 
 			"fixed_paintkit"
 			{
@@ -396,12 +396,12 @@
 				"visible"	"0"
 			}
 
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"Transparent"
 			"disabledFgColor_override" "TanDark"
 			"disabledBgColor_override" "Transparent"
 			"selectionColor_override" "Transparent"
-			"selectionTextColor_override" "TanLight"
+			"selectionTextColor_override" "ColorWhite"
 			"defaultSelectionBG2Color_override" "Transparent"
 		}
 
@@ -543,7 +543,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"command"	"random_seed"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"White"
 
 			"consume_mode"
@@ -582,9 +582,9 @@
 			"maxchars"		"18"
 			"textAlignment"	"center"
 			"defaultFgColor_override"	"PanelMain"
-			"defaultBgColor_override"	"TanLight"
+			"defaultBgColor_override"	"ColorWhite"
 			"selectedFgColor_override"	"PanelMain"
-			"selectedBgColor_override"	"TanLight"
+			"selectedBgColor_override"	"ColorWhite"
 
 			"consume_mode"
 			{
@@ -622,7 +622,7 @@
 			"actionsignallevel" 	"2"
 			"RoundedCorners"		"0"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"White"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"

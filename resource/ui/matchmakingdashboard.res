@@ -110,7 +110,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 
 			"armedBgColor_override"		"Transparent"
@@ -354,7 +354,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"HudFontSmall"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"ColorWhite"
 				"textAlignment"	"west"
 				"labelText"		"%queue_state%"
 				"proportionaltoparent"	"1"
@@ -389,7 +389,7 @@
 				"paintbackground"	"0"
 
 				"defaultFgColor_override" "TanDarker"
-				"armedFgColor_override" "TanLight"
+				"armedFgColor_override" "ColorWhite"
 				"depressedFgColor_override" "TanDarker"
 
 				"image_drawcolor"	"TextColor"
@@ -439,9 +439,9 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"TanLight"
+				"defaultFgColor_override" 	"ColorWhite"
 				"armedFgColor_override" 	"LightRed"
-				"depressedFgColor_override" "TanLight"
+				"depressedFgColor_override" "ColorWhite"
 			}
 		}
 
@@ -498,7 +498,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"HudFontSmallestBold"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"ColorWhite"
 				"textAlignment"	"west"
 				"labelText"		"#TF_MM_JoinPartyLobby_Prompt"
 				"proportionaltoparent"	"1"
@@ -573,8 +573,8 @@
 			"textinsety"		"4"
 			"sound_depressed"	"UI/buttonclick.wav"
 			
-			"FgColor"						"TanLight"
-			"defaultFgColor_override" 		"TanLight"
+			"FgColor"						"ColorWhite"
+			"defaultFgColor_override" 		"ColorWhite"
 			"armedFgColor_override" 		"LightRed"
 			"depressedFgColor_override" 	"LightRed"
 		}
@@ -607,8 +607,8 @@
 			"textinsety"		"4"
 			"sound_depressed"	"UI/buttonclick.wav"
 			
-			"FgColor"						"TanLight"
-			"defaultFgColor_override" 		"TanLight"
+			"FgColor"						"ColorWhite"
+			"defaultFgColor_override" 		"ColorWhite"
 			"armedFgColor_override" 		"LightRed"
 			"depressedFgColor_override" 	"LightRed"
 		}
@@ -641,8 +641,8 @@
 			"textinsety"		"4"
 			"sound_depressed"	"UI/buttonclick.wav"
 			
-			"FgColor"						"TanLight"
-			"defaultFgColor_override" 		"TanLight"
+			"FgColor"						"ColorWhite"
+			"defaultFgColor_override" 		"ColorWhite"
 			"armedFgColor_override" 		"TFOrange"
 			"depressedFgColor_override" 	"TFOrange"
 		}
@@ -675,8 +675,8 @@
 			"textinsety"		"4"
 			"sound_depressed"	"UI/buttonclick.wav"
 			
-			"FgColor"						"TanLight"
-			"defaultFgColor_override" 		"TanLight"
+			"FgColor"						"ColorWhite"
+			"defaultFgColor_override" 		"ColorWhite"
 			"armedFgColor_override" 		"CreditsGreen"
 			"depressedFgColor_override" 	"CreditsGreen"
 		}

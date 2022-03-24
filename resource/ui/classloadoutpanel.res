@@ -93,9 +93,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
-			"depressedFgColor_override"	"TanLight"
+			"depressedFgColor_override"	"ColorWhite"
 		}
 	}
 

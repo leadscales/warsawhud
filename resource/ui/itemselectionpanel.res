@@ -139,7 +139,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"NameFilterTextEntry"
@@ -161,7 +161,7 @@
 		"editable"		"1"
 		"unicode"		"1"
 		"fgcolor_override"	"PanelDark"
-		"bgcolor_override"	"TanLight"
+		"bgcolor_override"	"ColorWhite"
 		"paintbackgroundtype" "2"
 	}
 

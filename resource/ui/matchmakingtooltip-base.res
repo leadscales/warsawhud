@@ -48,7 +48,7 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"wrap"				"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"auto_wide_tocontents"	"1"
 			"auto_tall_tocontents"	"1"
 		}

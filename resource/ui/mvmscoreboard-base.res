@@ -25,7 +25,7 @@
 		"ypos"				"c-30"
 		"wide"				"270"
 		"tall"				"30"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"PlayerListBackground"
@@ -136,7 +136,7 @@
 			"xpos"			"9999"
 			"ypos"			"9999"
 			"wide"			"200"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 		}
 
 		"PreviousWaveCreditInfoPanel"
@@ -198,7 +198,7 @@
 			"ypos"			"8"
 			"wide"			"220"
 			"tall"			"40"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 		}
 	}
 }

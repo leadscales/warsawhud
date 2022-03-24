@@ -61,9 +61,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"RedSolid"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"Notifications_TitleLabel"
@@ -143,7 +143,7 @@
 			"paintborder"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -187,7 +187,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -229,7 +229,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}

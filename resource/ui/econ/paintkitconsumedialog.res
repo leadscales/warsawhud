@@ -118,7 +118,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 			"proportionaltoparent"	"1"
 		}
 	}

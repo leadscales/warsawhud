@@ -131,7 +131,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"wrap"					"1"
-			"fgcolor"				"TanLight"
+			"fgcolor"				"ColorWhite"
 		}
 
 		// Scrollable editable panel for right-hand side of preview, for all text details
@@ -938,7 +938,7 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
 		"defaultFgColor_override"	"TanDark"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override"	"TanDark"
 	}
 
@@ -968,7 +968,7 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
 		"defaultFgColor_override"	"TanDark"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override"	"TanDark"
 	}
 
@@ -1105,10 +1105,10 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"image_drawcolor"		"TanDark"
-		"image_armedcolor"		"TanLight"
+		"image_armedcolor"		"ColorWhite"
 		
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override" 	"TanLight"
+		"armedFgColor_override" 	"ColorWhite"
 		"depressedFgColor_override" "TanDark"
 
 		"SubImage"
@@ -1399,9 +1399,9 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"LightRed"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 	}
 
 	"BackButton"

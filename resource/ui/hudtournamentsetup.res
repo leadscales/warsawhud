@@ -75,7 +75,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"		"0"
 		"wrap"			"0"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"Black"
 		"labelText"			"%teamname%"
 		"textAlignment"		"west"
@@ -113,7 +113,7 @@
 		"allcaps"		"1"
 
 		"defaultBgColor_override"	"Blank"
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedBgColor_override"		"Blank"
 		"armedFgColor_override" 	"ColorRed"
 		"depressedBgColor_override"	"Blank"
@@ -143,7 +143,7 @@
 		"fgcolor"		"ColorGreen"
 
 		"defaultBgColor_override"	"Blank"
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedBgColor_override"		"Blank"
 		"armedFgColor_override" 	"ColorGreen"
 		"depressedBgColor_override"	"Blank"

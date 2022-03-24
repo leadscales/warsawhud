@@ -220,7 +220,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"1"
 		"fgcolor_override"	"ColorBlack"
-		"bgcolor_override"	"TanLight"
+		"bgcolor_override"	"ColorWhite"
 		"paintbackgroundtype"	"2"
 		"font"					"HudFontSmall"
 	}
@@ -264,7 +264,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"1"
 		"fgcolor_override"	"ColorBlack"
-		"bgcolor_override"	"TanLight"
+		"bgcolor_override"	"ColorWhite"
 		"paintbackgroundtype"	"2"
 		"font"					"HudFontSmall"
 	}
@@ -400,7 +400,7 @@
 		"brighttext"		"0"
 		"wrap"				"1"
 		"font"				"HudFontSmallest"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 	}
 
 	"TagsTitle"

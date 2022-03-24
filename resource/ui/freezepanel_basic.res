@@ -118,7 +118,7 @@
 			"enabled"			"1"
 			"labelText"			"%killername%"
 			"textAlignment"		"center"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"ColorWhite"
 		}
 
 		"AvatarImage"

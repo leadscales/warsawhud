@@ -42,7 +42,7 @@
 			"font"				"Font28"
 			"labelText"			"%blue_alive%"
 			"textAlignment"		"east"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"ColorWhite"
 			"textinsetx"		"10"
 		}
 		"countshadow"
@@ -124,7 +124,7 @@
 			"font"				"Font28"
 			"labelText"			"%red_alive%"
 			"textAlignment"		"west"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"ColorWhite"
 			"textinsetx"		"10"
 		}
 		"countshadow"

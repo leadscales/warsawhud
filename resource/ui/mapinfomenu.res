@@ -45,7 +45,7 @@
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
 		"font"			"Font32"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"allcaps"		"1"
 	}
 
@@ -65,7 +65,7 @@
 		"labelText"		"%gamemode%"
 		"textAlignment"	"center"
 		"font"			"HudFontSmallishBold"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		
 		"pin_to_sibling"			"MapInfoTitle"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -87,7 +87,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"font"			"HudFontSmall"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"bgcolor_override"	"Transparent"
 		
 		"pin_to_sibling"			"MapImage"
@@ -138,9 +138,9 @@
 		"selectedBgColor_override" 	"HudBlack"
 
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" 	"TanLight"
+		"selectedFgColor_override" 	"ColorWhite"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
@@ -180,9 +180,9 @@
 		"selectedBgColor_override" 	"HudBlack"
 
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" 	"TanLight"
+		"selectedFgColor_override" 	"ColorWhite"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"

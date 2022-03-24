@@ -112,7 +112,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"font"				"HudFontSmallest"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"ChargeMeter"

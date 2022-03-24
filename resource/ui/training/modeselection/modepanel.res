@@ -29,7 +29,7 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"mouseinputenabled"	"0"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"DescLabel"
@@ -48,7 +48,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"auto_wide_tocontents" "0"
 			"wrap"				   "1"
 			"centerwrap"		   "1"

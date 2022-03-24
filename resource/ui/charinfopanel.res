@@ -136,7 +136,7 @@
 			"textinsety"				"5"
 			"textAlignment"				"north"
 			"font"						"HudFontSmall"
-			"selectedcolor"				"TanLight"
+			"selectedcolor"				"ColorWhite"
 			"unselectedcolor"			"TanDark"
 			"defaultBgColor_override"	"PanelMain"
 			"paintbackground"			"1"

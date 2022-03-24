@@ -754,12 +754,12 @@
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
 			"disabledBgColor_override" "251 235 202 0"
 			"selectionColor_override" "Transparent"
-			"selectionTextColor_override" "TanLight"
+			"selectionTextColor_override" "ColorWhite"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
 
@@ -965,8 +965,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"image_armedcolor"		"TanLight"
-			"image_drawcolor"		"TanLight"
+			"image_armedcolor"		"ColorWhite"
+			"image_drawcolor"		"ColorWhite"
 			"image_selectedcolor"	"TanDarker"
 
 			"SubImage"

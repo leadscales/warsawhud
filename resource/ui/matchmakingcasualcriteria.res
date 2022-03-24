@@ -193,7 +193,7 @@
 			"labeltext"		"#TF_Casual_QueueEstimation"
 			"textAlignment"	"east"
 			"font"			"HudFontSmallest"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"textinsetx"	"5"
 			"visible"		"0"
 			"mouseinputenabled"	"0"

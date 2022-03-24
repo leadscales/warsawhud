@@ -34,7 +34,7 @@
 		"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"proportionaltoparent"	"1"
 	}
 	"CountdownLabelShadow"
@@ -180,7 +180,7 @@
 		"labelText"		"%rank_possibility%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"RankUpShadowLabel"
@@ -235,7 +235,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"3"

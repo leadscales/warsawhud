@@ -135,7 +135,7 @@
 			"textinsetx"		"25"
 			"textAlignment"		"center"
 			"font"				"HudFontSmall"
-			"selectedcolor"		"TanLight"
+			"selectedcolor"		"ColorWhite"
 			"unselectedcolor"	"TanDark"
 			"defaultBgColor_override"	"25 25 25 255"
 			"paintbackground"			"1"

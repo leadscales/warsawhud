@@ -125,7 +125,7 @@
 		"maxchars"			"128"
 		"NumericInputOnly"	"0"
 		"unicode"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"ColorBlack"
 		"paintbackgroundtype"	"2"
 		"font"					"Font12"
@@ -165,7 +165,7 @@
 		"pinCorner"			"0"
 		"editable"			"0"
 		"visible"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"ColorBlack"
 	}
 
@@ -216,7 +216,7 @@
 			"pinCorner"			"0"
 			"editable"			"0"
 			"visible"			"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"ColorBlack"
 		}
 	}
@@ -260,7 +260,7 @@
 		"maxchars"			"128"
 		"NumericInputOnly"	"1"
 		"unicode"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"ColorBlack"
 		"paintbackgroundtype"	"2"
 		"font"					"Font12"
@@ -305,7 +305,7 @@
 		"maxchars"			"128"
 		"NumericInputOnly"	"0"
 		"unicode"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"ColorBlack"
 		"paintbackgroundtype"	"2"
 		"font"					"Font12"
@@ -412,7 +412,7 @@
 			"textAlignment"	"west"
 			"labelText"		""
 			"command"		"BrowseIcon"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"170 221 183 255"
 			"image_disabledcolor"	"0 0 0 255"
 			"paintbackground"		"0"
@@ -520,7 +520,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_Scout"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 		"ClassHighlight2"
 		{
@@ -544,7 +544,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_Sniper"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 		"ClassHighlight3"
 		{
@@ -568,7 +568,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_Soldier"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 		"ClassHighlight4"
 		{
@@ -592,7 +592,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_Demoman"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 		"ClassHighlight5"
 		{
@@ -616,7 +616,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_Medic"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 		"ClassHighlight6"
 		{
@@ -640,7 +640,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_HWGuy"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 		"ClassHighlight7"
 		{
@@ -664,7 +664,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_Pyro"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 		"ClassHighlight8"
 		{
@@ -688,7 +688,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_Spy"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 		"ClassHighlight9"
 		{
@@ -712,7 +712,7 @@
 			"tall"			"25"
 			"labelText"		"#TF_Class_Name_Engineer"
 			"font"			"Font12"
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 		}
 	}
 
@@ -1031,7 +1031,7 @@
 				"textAlignment"	"west"
 				"labelText"		""
 				"command"		"BrowseLOD0"
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"ColorWhite"
 				"image_armedcolor"	"170 221 183 255"
 				"image_disabledcolor"	"0 0 0 255"
 				"paintbackground"		"0"
@@ -1150,7 +1150,7 @@
 				"enabled"		"0"
 				"labelText"		""
 				"command"		"BrowseLOD1"
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"ColorWhite"
 				"image_armedcolor"	"170 221 183 255"
 				"image_disabledcolor"	"0 0 0 255"
 				"paintbackground"		"0"
@@ -1271,7 +1271,7 @@
 				"enabled"		"0"
 				"labelText"		""
 				"command"		"BrowseLOD2"
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"ColorWhite"
 				"image_armedcolor"	"170 221 183 255"
 				"image_disabledcolor"	"0 0 0 255"
 				"paintbackground"		"0"
@@ -1413,7 +1413,7 @@
 			"pinCorner"			"0"
 			"editable"			"0"
 			"visible"			"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"ColorBlack"
 		}
 
@@ -1849,7 +1849,7 @@
 				"textAlignment"	"west"
 				"labelText"		""
 				"command"		"BrowseAnimationSource"
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"ColorWhite"
 				"image_armedcolor"	"170 221 183 255"
 				"image_disabledcolor"	"0 0 0 255"
 				"paintbackground"		"0"
@@ -1966,7 +1966,7 @@
 				"textAlignment"	"west"
 				"labelText"		""
 				"command"		"BrowseAnimationVCD"
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"ColorWhite"
 				"image_armedcolor"	"170 221 183 255"
 				"image_disabledcolor"	"0 0 0 255"
 				"paintbackground"		"0"
@@ -2067,7 +2067,7 @@
 			"maxchars"			"128"
 			"NumericInputOnly"	"1"
 			"unicode"			"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"ColorBlack"
 			"paintbackgroundtype" "2"
 			"proportionaltoparent"	"1"

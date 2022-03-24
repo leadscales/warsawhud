@@ -53,7 +53,7 @@
 				"border_armed"		""
 				"paintbackground"	"0"
 
-				"defaultFgColor_override"	"TanLight"
+				"defaultFgColor_override"	"ColorWhite"
 				"armedFgColor_override"		"AccentMain"
 				"depressedFgColor_override" "AccentMain"
 			}
@@ -213,7 +213,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -244,11 +244,11 @@
 		"sound_depressed"	""
 		"sound_released"	"UI/wooo_tree.wav"
 
-		"defaultFgColor_override" "TanLight"
+		"defaultFgColor_override" "ColorWhite"
 		"armedFgColor_override" "AccentMain"
 		"depressedFgColor_override" "AccentMain"
 
-		"image_drawcolor"	"TanLight"
+		"image_drawcolor"	"ColorWhite"
 		"image_armedcolor"	"AccentMain"
 	}
 
@@ -309,9 +309,9 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"AccentMain"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 	}
 
 	"RankTooltipPanel"
@@ -452,7 +452,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"allcaps"		"1"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 			"auto_wide_tocontents" "1"
 		}
 	}
@@ -495,7 +495,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"InnerShadow"
@@ -553,7 +553,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"TanLight"
+					"fgcolor_override"	"ColorWhite"
 				}
 
 				"UpButton"
@@ -611,7 +611,7 @@
 		"border_default"	""
 		"border_armed"		"MainMenuTabs"
 
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
@@ -640,7 +640,7 @@
 		"border_default"	""
 		"border_armed"		"MainMenuTabs"
 
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
@@ -670,7 +670,7 @@
 		"border_default"	""
 		"border_armed"		"MainMenuTabs"
 
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
@@ -700,7 +700,7 @@
 		"border_default"	""
 		"border_armed"		"MainMenuTabs"
 
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
@@ -730,7 +730,7 @@
 		"border_default"	""
 		"border_armed"		"MainMenuTabs"
 
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
@@ -760,7 +760,7 @@
 		"border_default"	""
 		"border_armed"		"MainMenuTabs"
 
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
@@ -801,7 +801,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -844,7 +844,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -887,7 +887,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -930,7 +930,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -973,7 +973,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -1016,7 +1016,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -1059,7 +1059,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -1102,7 +1102,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}
@@ -1145,7 +1145,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
+			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 		}
 	}

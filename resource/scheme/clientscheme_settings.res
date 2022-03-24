@@ -21,7 +21,7 @@ Scheme
 		Econ.Button.BgColor						"TanDarker"
 		Econ.Button.FgColor						"TanDark"
 		Econ.Button.ArmedBgColor				"TanDark"
-		Econ.Button.ArmedFgColor				"TanLight"
+		Econ.Button.ArmedFgColor				"ColorWhite"
 		Econ.Button.DepressedBgColor			"TanDarker"
 		Econ.Button.DepressedFgColor			"TanDark"
 		Econ.Button.PresetDefaultColorFg		"15 255 255 255"
@@ -37,13 +37,13 @@ Scheme
 		Border.Dark								"NoBorder"
 		Border.Selection						"NoBorder"
 
-		Button.TextColor						"TanLight"
+		Button.TextColor						"ColorWhite"
 		Button.BgColor							"TanDarker"
-		Button.ArmedTextColor					"TanLight"
+		Button.ArmedTextColor					"ColorWhite"
 		Button.ArmedBgColor						"TanDark"
-		Button.SelectedTextColor				"TanLight"
+		Button.SelectedTextColor				"ColorWhite"
 		Button.SelectedBgColor					"TanDarker"
-		Button.DepressedTextColor				"TanLight"
+		Button.DepressedTextColor				"ColorWhite"
 		Button.DepressedBgColor					"TanDark"
 
 		CheckButton.TextColor					"Yellow"
@@ -54,8 +54,8 @@ Scheme
 		CheckButton.Check						"Yellow"		// color of the check itself
 		CheckButton.HighlightFgColor			"Yellow"
 
-		ComboBoxButton.ArrowColor				"TanLight"
-		ComboBoxButton.ArmedArrowColor			"TanLight"
+		ComboBoxButton.ArrowColor				"ColorWhite"
+		ComboBoxButton.ArmedArrowColor			"ColorWhite"
 		ComboBoxButton.BgColor					"Blank"
 		ComboBoxButton.DisabledBgColor			"Blank"
 
@@ -83,8 +83,8 @@ Scheme
 		GraphPanel.BgColor						"TransparentBlack"
 
 		Label.TextDullColor						"TanDark"
-		Label.TextColor							"TanLight"
-		Label.TextBrightColor					"TanLight"
+		Label.TextColor							"ColorWhite"
+		Label.TextBrightColor					"ColorWhite"
 		Label.SelectedTextColor					"White"
 		Label.BgColor							"Blank"
 		Label.DisabledFgColor1					"Blank"
@@ -97,10 +97,10 @@ Scheme
 		ListPanel.SelectedOutOfFocusBgColor		"Red"
 		ListPanel.EmptyListInfoTextColor		"Orange"
 
-		Menu.TextColor							"TanLight"
+		Menu.TextColor							"ColorWhite"
 		Menu.BgColor							"PanelMain"
 		Menu.ArmedTextColor						"TanDark"
-		Menu.ArmedBgColor						"TanLight"
+		Menu.ArmedBgColor						"ColorWhite"
 		Menu.TextInset							"6"
 
 		Chat.TypingText							"Orange"
@@ -164,7 +164,7 @@ Scheme
 		TextEntry.CursorColor					"Gray"
 		TextEntry.DisabledTextColor				"Gray"
 		TextEntry.DisabledBgColor				"Blank"
-		TextEntry.SelectedTextColor				"TanLight"
+		TextEntry.SelectedTextColor				"ColorWhite"
 		TextEntry.SelectedBgColor				"Gray"
 		TextEntry.OutOfFocusSelectedBgColor		"Blank"
 		TextEntry.FocusEdgeColor				"Blank"

@@ -66,7 +66,7 @@
 		"font"			"Font32"
 		"visible"		"0"
 		"enabled"		"0"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"scout"
@@ -92,9 +92,9 @@
 		"allcaps"			"1"
 		"textinsetx"		"13"
 		
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -128,9 +128,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"1"
 		
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"ColorWhite"
 		"selectedFgColor_override"	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -168,9 +168,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"1"
 		
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"ColorWhite"
 		"selectedFgColor_override"	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -208,9 +208,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"1"
 		
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"ColorWhite"
 		"selectedFgColor_override"	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -248,9 +248,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"1"
 		
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"ColorWhite"
 		"selectedFgColor_override"	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -288,9 +288,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"1"
 		
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"ColorWhite"
 		"selectedFgColor_override"	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -328,9 +328,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"1"
 		
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"ColorWhite"
 		"selectedFgColor_override"	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -368,9 +368,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"1"
 		
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"ColorWhite"
 		"selectedFgColor_override"	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -408,9 +408,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"1"
 		
-		"defaultFgColor_override"	"TanLight"
+		"defaultFgColor_override"	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"ColorWhite"
 		"selectedFgColor_override"	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -456,9 +456,9 @@
 		"allcaps"			"1"
 		"Default"			"1"
 		
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -491,9 +491,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"0"
 		
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -526,9 +526,9 @@
 		"paintbackground"	"0"
 		"allcaps"			"0"
 		
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -690,7 +690,7 @@
 		"labelText"		"%numScout%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"scout"
@@ -715,7 +715,7 @@
 		"labelText"		"%numSoldier%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"soldier"
@@ -740,7 +740,7 @@
 		"labelText"		"%numPyro%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"pyro"
@@ -765,7 +765,7 @@
 		"labelText"		"%numDemoman%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"demoman"
@@ -790,7 +790,7 @@
 		"labelText"		"%numHeavy%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"heavyweapons"
@@ -815,7 +815,7 @@
 		"labelText"		"%numEngineer%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"engineer"
@@ -840,7 +840,7 @@
 		"labelText"		"%numMedic%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"medic"
@@ -865,7 +865,7 @@
 		"labelText"		"%numSniper%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"sniper"
@@ -890,7 +890,7 @@
 		"labelText"		"%numSpy%"
 		"font"			"Font14"
 		"textAlignment"	"east"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"mouseinputenabled"	"0"
 
 		"pin_to_sibling"			"spy"

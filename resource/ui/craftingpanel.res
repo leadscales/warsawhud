@@ -85,7 +85,7 @@
 					"enabled"		"1"
 					"labelText"		"%itemname%"
 					"textAlignment"	"south"
-					"fgcolor"		"TanLight"
+					"fgcolor"		"ColorWhite"
 					"wrap"			"1"
 					"centerwrap"	"1"
 				}
@@ -110,7 +110,7 @@
 
 			"defaultFgColor_override"	"TextColor"
 			"defaultBgColor_override"	"Transparent"
-			"armedFgColor_override"		"TanLight"
+			"armedFgColor_override"		"ColorWhite"
 			"armedBgColor_override"		"Transparent"
 			"depressedFgColor_override"	"15 255 255 255"
 			"depressedBgColor_override"	"Transparent"
@@ -158,7 +158,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 	}
 
 	"selectedrecipecontainer"
@@ -452,7 +452,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"wrap"				"1"
 			"centerwrap"		"1"
 		}

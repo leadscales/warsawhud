@@ -66,7 +66,7 @@
 			"command"			"show_leaderboards"
 			"labeltext"			"#TF_Competitive_ViewLeaderboards"
 			"font"				"HudFontSmallest"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"textAlignment"		"center"
 			"allcaps"			"1"
 
@@ -89,7 +89,7 @@
 			"command"			"show_match_history"
 			"labeltext"			"#TF_Competitive_ViewMatches"
 			"font"				"HudFontSmallest"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"textAlignment"		"center"
 			"allcaps"			"1"
 
@@ -196,7 +196,7 @@
 
 					"defaultFgColor_override" 	"TanDark"
 					"armedFgColor_override"		"Orange"
-					"selectedFgColor_override"	"TanLight"
+					"selectedFgColor_override"	"ColorWhite"
 
 					"image_selectedcolor"	"White"
 					"image_armedcolor"		"Transparent"
@@ -223,13 +223,13 @@
 					"border_default"	"SortCategoryBorder"
 					"labeltext"			"#TF_Competitive_Date"
 					"font"				"HudFontSmallest"
-					"fgcolor_override"	"TanLight"
+					"fgcolor_override"	"ColorWhite"
 					"textAlignment"		"west"
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
 					"armedFgColor_override"	"Orange"
-					"selectedFgColor_override" "TanLight"
+					"selectedFgColor_override" "ColorWhite"
 
 					"image_selectedcolor"	"White"
 					"image_armedcolor"		"Transparent"
@@ -256,13 +256,13 @@
 					"border_default"		"SortCategoryBorder"
 					"labeltext"			"#TF_Competitive_Map"
 					"font"				"HudFontSmallest"
-					"fgcolor_override"	"TanLight"
+					"fgcolor_override"	"ColorWhite"
 					"textAlignment"		"west"
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
 					"armedFgColor_override"	"Orange"
-					"selectedFgColor_override" "TanLight"
+					"selectedFgColor_override" "ColorWhite"
 
 					"image_selectedcolor"	"White"
 					"image_armedcolor"		"Transparent"
@@ -288,12 +288,12 @@
 					"paintbackground"	"0"
 					"labeltext"			"#TF_Competitive_KDR"
 					"font"				"HudFontSmallest"
-					"fgcolor_override"	"TanLight"
+					"fgcolor_override"	"ColorWhite"
 					"textAlignment"		"west"
 
 					"defaultFgColor_override" "TanDark"
 					"armedFgColor_override"	"Orange"
-					"selectedFgColor_override" "TanLight"
+					"selectedFgColor_override" "ColorWhite"
 
 					"image_selectedcolor"	"White"
 					"image_armedcolor"		"Transparent"

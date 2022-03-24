@@ -41,7 +41,7 @@
 			"visible"			"0"
 			"enabled"			"0"
 			"bgcolor_override"	"Transparent"
-			"noitem_TanLight"	"TanLight"
+			"noitem_TanLight"	"ColorWhite"
 			"PaintBackgroundType"	"2"
 			"paintborder"			"1"
 
@@ -116,7 +116,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 			"wrap"			"1"
 		}
 
@@ -136,7 +136,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 		}
 
 		"OutputLabel"
@@ -155,7 +155,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 		}
 
 		"UntradableLabel"
@@ -297,7 +297,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 			"wrap"			"1"
 		}
 
@@ -319,7 +319,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 		}
 
 		"BackpackItems"
@@ -339,7 +339,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 		}
 		
 		"CancelButton"
@@ -444,7 +444,7 @@
 		"tall"					"300"
 		"visible"				"0"
 		"bgcolor_override"		"Transparent"
-		"noitem_TanLight"		"TanLight"
+		"noitem_TanLight"		"ColorWhite"
 		"PaintBackgroundType"	"2"
 		"paintborder"			"1"
 		"text_ypos"				"20"
@@ -467,7 +467,7 @@
 			"enabled"			"1"
 			"labelText"			"%attriblist%"
 			"textAlignment"		"center"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"ColorWhite"
 			"centerwrap"		"1"
 		}
 	}
@@ -483,7 +483,7 @@
 		"tall"					"42"
 		"visible"				"0"
 		"bgcolor_override"		"Transparent"
-		"noitem_TanLight"		"TanLight"
+		"noitem_TanLight"		"ColorWhite"
 		"PaintBackgroundType"	"2"
 		"paintborder"			"1"
 		"model_ypos"			"5"

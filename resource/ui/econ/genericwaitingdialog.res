@@ -51,7 +51,7 @@
 		"enabled"				"1"
 		"labelText"				"%ellipses%"
 		"textAlignment"			"north"
-		"fgcolor_override"		"TanLight"
+		"fgcolor_override"		"ColorWhite"
 		"bgcolor_override"		"Transparent"
 	}
 
@@ -71,7 +71,7 @@
 		"enabled"				"1"
 		"labelText"				"%duration%"
 		"textAlignment"			"north"
-		"fgcolor_override"		"TanLight"
+		"fgcolor_override"		"ColorWhite"
 		"bgcolor_override"		"Transparent"
 	}
 

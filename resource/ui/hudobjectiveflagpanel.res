@@ -97,7 +97,7 @@
 		"textAlignment"	"east"
 		"labelText"		"%bluescore%"
 		"font"			"Font40"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"textinsetx"	"10"
 
 		"if_hybrid"
@@ -163,7 +163,7 @@
 		"textAlignment"	"west"
 		"labelText"		"%redscore%"
 		"font"			"Font40"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"textinsetx"	"10"
 
 		"if_hybrid"
@@ -267,7 +267,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontSmall"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 
 		"if_hybrid"
 		{
@@ -451,7 +451,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"HudFontMedium"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"SpecCarriedImage"

@@ -66,7 +66,7 @@
 		"font"				"Font20"
 		"labelText"			"#TF_Arena_Team_Layout"
 		"textAlignment"		"center"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 	"titleShadow"
 	{
@@ -104,7 +104,7 @@
 		"font"				"HudFontSmall"
 		"labelText"			"#TF_Arena_F4_ChangeClass"
 		"textAlignment"		"center"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 	"changeLabelShadow"
 	{

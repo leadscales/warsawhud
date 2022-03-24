@@ -41,7 +41,7 @@
 		"ypos"				"25"
 		"wide"				"50"
 		"tall"				"10"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 		"visible"			"1"
 	}
 
@@ -66,7 +66,7 @@
 		"xpos_minmode"		"5"
 		"wide"				"20"
 		"tall"				"20"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 		"pin_to_sibling"	"SpellIcon"
 		"pin_corner_to_sibling"	"PIN_CENTER_LEFT"
 		"pin_to_sibling_corner"	"PIN_CENTER_RIGHT"

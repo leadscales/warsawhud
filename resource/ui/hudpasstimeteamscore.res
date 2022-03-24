@@ -64,7 +64,7 @@
 		"textAlignment"	"east"
 		"labelText"		"%bluescore%"
 		"font"			"Font40"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"textinsetx"	"10"
 	}
 	"BlueScoreShadow"
@@ -100,7 +100,7 @@
 		"textAlignment"	"west"
 		"labelText"		"%redscore%"
 		"font"			"Font40"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"textinsetx"	"10"
 	}
 
@@ -151,7 +151,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"HudFontSmall"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"ColorWhite"
 		}
 
 		"PlayingToBG"

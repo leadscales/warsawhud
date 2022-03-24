@@ -229,12 +229,12 @@
 		"unicode"			"0"
 		"default"			"0"
 
-		"fgcolor_override"					"TanLight"
+		"fgcolor_override"					"ColorWhite"
 		"bgcolor_override"					"Transparent"
-		"disabledFgColor_override"			"TanLight"
+		"disabledFgColor_override"			"ColorWhite"
 		"disabledBgColor_override"			"Transparent"
 		"selectionColor_override"			"Transparent"
-		"selectionTextColor_override"		"TanLight"
+		"selectionTextColor_override"		"ColorWhite"
 		"defaultSelectionBG2Color_override"	"Transparent"
 	}
 
@@ -276,7 +276,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"NameFilterTextEntry"
@@ -296,7 +296,7 @@
 		"editable"			"1"
 		"unicode"			"1"
 		"fgcolor_override"	"PanelDark"
-		"bgcolor_override"	"TanLight"
+		"bgcolor_override"	"ColorWhite"
 		"paintbackgroundtype" "2"
 		"font"				"HudFontSmallest"
 	}
@@ -321,12 +321,12 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 
-		"fgcolor_override"				"TanLight"
+		"fgcolor_override"				"ColorWhite"
 		"bgcolor_override"				"Transparent"
-		"disabledFgColor_override"		"TanLight"
+		"disabledFgColor_override"		"ColorWhite"
 		"disabledBgColor_override"		"Transparent"
 		"selectionColor_override"		"Transparent"
-		"selectionTextColor_override"	"TanLight"
+		"selectionTextColor_override"	"ColorWhite"
 		"defaultSelectionBG2Color_override" "Transparent"
 	}
 
@@ -417,9 +417,9 @@
 		"Command"		"prevpage"
 		
 		"paintbackground"			"0"
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"AccentMain"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
@@ -467,9 +467,9 @@
 		"Command"		"nextpage"
 		
 		"paintbackground"			"0"
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"AccentMain"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
@@ -702,7 +702,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -841,7 +841,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -907,7 +907,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1046,7 +1046,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override"		"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"TanLight"
+			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"White"
 
 			"SubImage"
@@ -1093,7 +1093,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override"		"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"TanLight"
+			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"White"
 
 			"SubImage"
@@ -1252,7 +1252,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override" 	"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"TanLight"
+			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"White"
 
 			"SubImage"
@@ -1299,7 +1299,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override" 	"LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"			"TanLight"
+			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"White"
 
 			"SubImage"
@@ -1457,7 +1457,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override"		"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"TanLight"
+			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"White"
 
 			"SubImage"

@@ -83,7 +83,7 @@
 
 				"image_default"		"glyph_collapse"
 
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"ColorWhite"
 				"image_armedcolor"	"200 80 60 255"
 
 				"SubImage"
@@ -133,7 +133,7 @@
 
 				"image_default"		"glyph_expand"
 
-				"image_drawcolor"	"TanLight"
+				"image_drawcolor"	"ColorWhite"
 				"image_armedcolor"	"200 80 60 255"
 
 				"SubImage"
@@ -165,7 +165,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"HudFontSmall"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"ColorWhite"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchOver"
 				"proportionaltoparent"	"1"

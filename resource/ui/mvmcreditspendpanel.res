@@ -11,7 +11,7 @@
 		"ypos"				"0"
 		"wide"				"300"
 		"tall"				"15"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"TableBackground"
@@ -38,7 +38,7 @@
 		"ypos"				"15"
 		"wide"				"70"
 		"tall"				"20"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"UpgradesCountLabel"
@@ -52,7 +52,7 @@
 		"ypos"				"15"
 		"wide"				"30"
 		"tall"				"20"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"BuyBackLabel"
@@ -66,7 +66,7 @@
 		"ypos"				"27"
 		"wide"				"70"
 		"tall"				"20"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"BuyBackCountLabel"
@@ -80,7 +80,7 @@
 		"ypos"				"27"
 		"wide"				"30"
 		"tall"				"20"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"BottleLabel"
@@ -94,7 +94,7 @@
 		"ypos"				"39"
 		"wide"				"70"
 		"tall"				"20"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 
 	"BottleCountLabel"
@@ -108,6 +108,6 @@
 		"ypos"				"39"
 		"wide"				"30"
 		"tall"				"20"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 	}
 }

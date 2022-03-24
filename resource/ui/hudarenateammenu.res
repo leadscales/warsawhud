@@ -74,7 +74,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"allcaps"		"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 	}
 
 	"teambutton2"
@@ -104,9 +104,9 @@
 		"depressedBgColor_override" "TransparentBlack"
 		"selectedBgColor_override" 	"ColorWhite"
 		
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"TanDark"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
@@ -143,9 +143,9 @@
 		"depressedBgColor_override" "TransparentBlack"
 		"selectedBgColor_override" 	"ColorWhite"
 		
-		"defaultFgColor_override" 	"TanLight"
+		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override"		"TanDark"
-		"depressedFgColor_override" "TanLight"
+		"depressedFgColor_override" "ColorWhite"
 		"selectedFgColor_override" 	"TanDark"
 		
 		"sound_depressed"			"UI/buttonclick.wav"

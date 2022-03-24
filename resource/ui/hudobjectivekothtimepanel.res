@@ -133,7 +133,7 @@
 		"tall"				"3"
 		"visible"			"0"
 		"enabled"			"1"
-		"bgcolor_override"	"TanLight"
+		"bgcolor_override"	"ColorWhite"
 		"PaintBackgroundType"	"0"
 	}
 }

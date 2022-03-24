@@ -308,7 +308,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		"wrap"				"0"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"35 35 35 255"
 		"paintbackgroundtype" "2"
 		"labelText"			""
@@ -332,7 +332,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "TanLight"
+		"fgcolor_override" "ColorWhite"
 	}
 
 	"CancelButton"

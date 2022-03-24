@@ -113,7 +113,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override" "TanLight"
+				"fgcolor_override" "ColorWhite"
 			}
 
 			"DescLabel"
@@ -133,7 +133,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"1"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"ColorWhite"
 			}
 
 			"LearnMoreButton"
@@ -196,7 +196,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override" "TanLight"
+				"fgcolor_override" "ColorWhite"
 			}
 
 			"SteamWorkshopItem0"
@@ -366,7 +366,7 @@
 				"command"			"edit"
 				"border_default"	"NoBorder"
 
-				"image_drawcolor"		"TanLight"
+				"image_drawcolor"		"ColorWhite"
 				"image_disabledcolor"	"ColorBlack"
 
 				"SubImage"
@@ -411,7 +411,7 @@
 				"command"			"view"
 				"border_default"	"NoBorder"
 
-				"image_drawcolor"		"TanLight"
+				"image_drawcolor"		"ColorWhite"
 				"image_disabledcolor"	"ColorBlack"
 
 				"SubImage"
@@ -456,7 +456,7 @@
 				"command"			"delete_item"
 				"border_default"	"NoBorder"
 
-				"image_drawcolor"		"TanLight"
+				"image_drawcolor"		"ColorWhite"
 				"image_disabledcolor"	"ColorBlack"
 
 				"SubImage"

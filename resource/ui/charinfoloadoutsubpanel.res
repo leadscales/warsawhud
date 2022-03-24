@@ -580,7 +580,7 @@
 		"pinCorner"			"0"
 		"visible"			"0"
 		"enabled"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 	}
 
 	"NoGCLabel"
@@ -599,7 +599,7 @@
 		"pinCorner"			"0"
 		"visible"			"0"
 		"enabled"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 	}
 
 	"SelectLabel"
@@ -637,7 +637,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 	}
 
 	"class_loadout_panel"
@@ -775,9 +775,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 		"PositionLabel"
 		{
@@ -795,7 +795,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 		}
 		"NextButton"
 		{
@@ -824,9 +824,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -933,9 +933,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -965,9 +965,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1002,7 +1002,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 		}
 
 		"NextButton"
@@ -1032,9 +1032,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1140,9 +1140,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -1172,9 +1172,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1209,7 +1209,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 		}
 
 		"NextButton"
@@ -1239,9 +1239,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1347,9 +1347,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -1379,9 +1379,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1416,7 +1416,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 		}
 
 		"NextButton"
@@ -1446,9 +1446,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1554,9 +1554,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -1588,7 +1588,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1655,7 +1655,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1761,9 +1761,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -1793,9 +1793,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1830,7 +1830,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 		}
 
 		"NextButton"
@@ -1860,9 +1860,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1967,9 +1967,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -1999,9 +1999,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "TanLight"
+			"armedFgColor_override" "ColorWhite"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanLight"
+			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -2036,7 +2036,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "TanLight"
+			"fgcolor_override" "ColorWhite"
 		}
 	}
 

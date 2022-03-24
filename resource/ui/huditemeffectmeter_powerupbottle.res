@@ -55,7 +55,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"CanteenLabel"
 		"font"				"HudFontSmall"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 		"xpos"				"5"
 		"ypos"				"0"
 		"zpos"				"3"

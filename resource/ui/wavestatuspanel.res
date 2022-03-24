@@ -26,7 +26,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"WaveCountLabel"
 		"font"					"Font14"
-		"fgcolor"				"TanLight"
+		"fgcolor"				"ColorWhite"
 		"xpos"					"5"
 		"ypos"					"0"
 		"zpos"					"3"
@@ -73,7 +73,7 @@
 		"enabled"				"1"
 		"scaleImage"			"1"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"		"TanLight"
+		"bgcolor_override"		"ColorWhite"
 
 		if_verbose
 		{
@@ -86,7 +86,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"SupportLabel"
 		"font"					"Font14"
-		"fgcolor"				"TanLight"
+		"fgcolor"				"ColorWhite"
 		"xpos"					"55"
 		"ypos"					"6"
 		"zpos"					"3"

@@ -611,7 +611,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override" "TanLight"
+		"fgcolor_override" "ColorWhite"
 	}
 	"KillStreakMaxCountLabel"
 	{

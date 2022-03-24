@@ -63,7 +63,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "TanLight"
+		"fgcolor_override" "ColorWhite"
 	}
 
 	"MapLabel"
@@ -83,7 +83,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"allcaps"		"1"
-		"fgcolor_override" "TanLight"
+		"fgcolor_override" "ColorWhite"
 	}
 	"MapType"
 	{
@@ -102,7 +102,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"allcaps"		"1"
-		"fgcolor_override" "TanLight"
+		"fgcolor_override" "ColorWhite"
 	}
 
 	"StatData"

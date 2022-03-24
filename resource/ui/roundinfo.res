@@ -46,7 +46,7 @@
 		"labelText"		"#round_info_header"
 		"textAlignment"	"center"
 		"font"			"HudFontMedium"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"allcaps"		"1"
 	}
 
@@ -67,7 +67,7 @@
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
 		"font"			"HudFontSmallishBold"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"ColorWhite"
 		"allcaps"		"1"
 	}
 
@@ -94,7 +94,7 @@
 		"paintbackground"	"0"
 
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"ColorWhite"
 		"depressedFgColor_override" "TanDark"
 	}
 

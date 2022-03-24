@@ -188,7 +188,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "TanLight"
+		"fgcolor_override" "ColorWhite"
 	}
 
 	"CancelButton"

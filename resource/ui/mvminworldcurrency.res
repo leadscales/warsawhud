@@ -20,7 +20,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"CurrencyLabel"
 		"font"				"HudFontSmall"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 		"xpos"				"4"
 		"ypos"				"0"
 		"zpos"				"3"

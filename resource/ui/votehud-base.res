@@ -118,7 +118,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ColorWhite"
 			"wrap"				"1"
 			"noshortcutsyntax"	"1"
 		}
@@ -563,7 +563,7 @@
 		"header_fgcolor"			"AccentMain"
 		"issue_width"				"180"
 		"issue_font"				"ItemFontNameSmall"
-		"issue_fgcolor"				"TanLight"
+		"issue_fgcolor"				"ColorWhite"
 		"issue_fgcolor_disabled"	"TanDark"
 		"parameter_width"			"200"
 
@@ -660,12 +660,12 @@
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 
-			"fgcolor_override"					"TanLight"
+			"fgcolor_override"					"ColorWhite"
 			"bgcolor_override"					"LightRed"
-			"disabledFgColor_override"			"TanLight"
+			"disabledFgColor_override"			"ColorWhite"
 			"disabledBgColor_override"			"LightRed"
 			"selectionColor_override"			"LightRed"
-			"selectionTextColor_override"		"TanLight"
+			"selectionTextColor_override"		"ColorWhite"
 			"defaultSelectionBG2Color_override" "LightRed"
 		}
 

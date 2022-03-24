@@ -58,7 +58,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"font"				"HudFontSmallest"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"ColorWhite"
 
 		"if_hybrid"
 		{
@@ -163,7 +163,7 @@
 			"textAlignment"		"west"
 			"labelText"			"%flagvalue%"
 			"font"				"HudFontMediumSmall"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"ColorWhite"
 			"proportionalToParent"	"1"
 		}
 		"FlagValueShadow"
@@ -273,7 +273,7 @@
 				"textAlignment"		"west"
 				"labelText"			"%blue_escrow%"
 				"font"				"FontBold12"
-				"fgcolor"			"TanLight"
+				"fgcolor"			"ColorWhite"
 				"proportionalToParent"	"1"
 			}
 
@@ -326,7 +326,7 @@
 				"textAlignment"		"east"
 				"labelText"			"%red_escrow%"
 				"font"				"FontBold12"
-				"fgcolor"			"TanLight"
+				"fgcolor"			"ColorWhite"
 				"proportionalToParent"	"1"
 			}
 
@@ -376,7 +376,7 @@
 					"textAlignment"		"west"
 					"labelText"			"#TF_RD_BlueFinale"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"TanLight"
+					"fgcolor"			"ColorWhite"
 					"proportionalToParent"	"1"
 				}
 
@@ -412,7 +412,7 @@
 					"textAlignment"		"west"
 					"labelText"			"%victorytime%"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"TanLight"
+					"fgcolor"			"ColorWhite"
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"			"VictoryLabel"
@@ -515,7 +515,7 @@
 					"textAlignment"		"west"
 					"labelText"			"#TF_RD_RedFinale"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"TanLight"
+					"fgcolor"			"ColorWhite"
 					"proportionalToParent"	"1"
 				}
 
@@ -551,7 +551,7 @@
 					"textAlignment"		"west"
 					"labelText"			"%victorytime%"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"TanLight"
+					"fgcolor"			"ColorWhite"
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"			"VictoryLabel"
@@ -659,7 +659,7 @@
 				"textAlignment"		"east"
 				"labelText"			"%score%"
 				"font"				"HudFontMediumSmall"
-				"fgcolor"			"TanLight"
+				"fgcolor"			"ColorWhite"
 				"proportionalToParent"	"1"
 			}
 
@@ -711,7 +711,7 @@
 				"textAlignment"		"west"
 				"labelText"			"%score%"
 				"font"				"HudFontMediumSmall"
-				"fgcolor"			"TanLight"
+				"fgcolor"			"ColorWhite"
 				"proportionalToParent"	"1"
 			}
 
@@ -810,7 +810,7 @@
 				"textAlignment"		"center"
 				"labelText"			"%intelvalue%"
 				"font"				"HudFontSmallishBold"
-				"fgcolor"			"TanLight"
+				"fgcolor"			"ColorWhite"
 				"bgcolor_override"	"Transparent"
 				"proportionalToParent"	"1"
 			}
@@ -909,7 +909,7 @@
 				"textAlignment"	"center"
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
-				"fgcolor"		"TanLight"
+				"fgcolor"		"ColorWhite"
 				"bgcolor_override"		"Transparent"
 				"proportionalToParent"	"1"
 			}
@@ -1009,7 +1009,7 @@
 			"textAlignment"		"center"
 			"labelText"			"%countdowntime%"
 			"font"				"HudFontMedium"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"ColorWhite"
 			"proportionalToParent"	"1"
 		}
 

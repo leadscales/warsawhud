@@ -87,7 +87,7 @@
 		"wide"			"230"
 		"tall"			"125"
 		"PaintBackgroundType"	"0"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"200 187 161 0"
 		"autohide_buttons" "1"
 	}

@@ -74,9 +74,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"TanLight"
+			"defaultFgColor_override" 	"ColorWhite"
 			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanLight"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"MOTD_HeaderIcon"
@@ -342,7 +342,7 @@
 			"labelText"				"DAMAGE COLOR:"
 			"font"					"HudFontSmall"
 			"textAlignment"			"center"
-			"fgcolor_override"		"TanLight"
+			"fgcolor_override"		"ColorWhite"
 			"wrap"					"1"
 			
 			"pin_to_sibling"		"NetgraphToggle"
@@ -545,7 +545,7 @@
 			"labelText"				"VERSION: 2021.1218"
 			"font"					"HudFontSmall"
 			"textAlignment"			"center"
-			"fgcolor_override"		"TanLight"
+			"fgcolor_override"		"ColorWhite"
 			
 			"pin_to_sibling"		"MatchStatusToggle"
 			"pin_corner_to_sibling" "PIN_TOPLEFT"
