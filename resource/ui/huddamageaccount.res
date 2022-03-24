@@ -9,8 +9,8 @@
 		"PositiveColor"			"Heal Numbers"
 		"NegativeColor"			"Damage Numbers"
 		"delta_lifetime"		"2"
-		"delta_item_font"		"Cerbetica24Outline"
-		"delta_item_font_big"	"Cerbetica24Outline"
+		"delta_item_font"		"Font24Outline"
+		"delta_item_font_big"	"Font24Outline"
 	}
 
 	"DamageAccountValue"
@@ -28,8 +28,8 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"Cerbetica28"
-		"font_minmode"			"Cerbetica20"
+		"font"					"Font28"
+		"font_minmode"			"Font20"
 		"fgcolor"				"Damage Numbers"
 	}
 
@@ -46,8 +46,8 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"Cerbetica28"
-		"font_minmode"			"Cerbetica20"
+		"font"					"Font28"
+		"font_minmode"			"Font20"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"DamageAccountValue"
 	}

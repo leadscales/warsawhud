@@ -34,7 +34,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"ItemFontAttribLarge"
-		"font_minmode"			"Cerbetica10"
+		"font_minmode"			"Font10"
 	}
 
 	"ItemEffectMeter"
@@ -74,8 +74,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Cerbetica28"
-		"font_minmode"			"Cerbetica16"
+		"font"					"Font28"
+		"font_minmode"			"Font14"
 	}
 
 	"ItemEffectMeterCountShadow"
@@ -95,8 +95,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Cerbetica28"
-		"font_minmode"			"Cerbetica16"
+		"font"					"Font28"
+		"font_minmode"			"Font14"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"ItemEffectMeterCount"
 	}

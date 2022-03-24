@@ -37,8 +37,8 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"Cerbetica56"
-		"font_minmode"		"Cerbetica32"
+		"font"				"Font56"
+		"font_minmode"		"Font32"
 		"fgcolor"			"Ammo In Clip"
 	}
 
@@ -60,8 +60,8 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"Cerbetica56"
-		"font_minmode"		"Cerbetica32"
+		"font"				"Font56"
+		"font_minmode"		"Font32"
 		"fgcolor"			"TransparentBlack"
 
 		"pin_to_sibling"		"ChargeLabel"

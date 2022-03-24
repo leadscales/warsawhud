@@ -44,7 +44,7 @@
 		"enabled"		"1"
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
-		"font"			"Cerbetica32"
+		"font"			"Font32"
 		"fgcolor"		"TanLight"
 		"allcaps"		"1"
 	}

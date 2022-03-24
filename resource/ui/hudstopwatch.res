@@ -100,7 +100,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"StopWatchLabel"
-		"font"			"Cerbetica10"
+		"font"			"Font10"
 		"labelText"		"%stopwatchlabel%"
 		"textAlignment"	"center"
 		"xpos"			"0"

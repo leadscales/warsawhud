@@ -73,8 +73,8 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Cerbetica24"
-			"font_minmode"		"Cerbetica20"
+			"font"				"Font24"
+			"font_minmode"		"Font20"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -95,8 +95,8 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Cerbetica24"
-			"font_minmode"		"Cerbetica20"
+			"font"				"Font24"
+			"font_minmode"		"Font20"
 			"fgcolor"			"TransparentBlack"
 			"pin_to_sibling"	"NumPipesLabel"
 		}

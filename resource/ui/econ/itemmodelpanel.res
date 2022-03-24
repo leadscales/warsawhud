@@ -173,7 +173,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"serieslabel"
-			"font"			"Cerbetica10"
+			"font"			"Font10"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"

@@ -20,7 +20,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"Cerbetica28"
+		"font"				"Font28"
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"3"
@@ -40,7 +40,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabelDropshadow"
-		"font"				"Cerbetica28"
+		"font"				"Font28"
 		"fgcolor"			"TransparentBlack"
 		"xpos"				"-2"
 		"ypos"				"-2"
@@ -334,7 +334,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"Cerbetica20"
+		"font"				"Font20"
 		"fgcolor"			"TanLight"
 		"xpos"				"10"
 		"ypos"				"40"
@@ -371,7 +371,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"Cerbetica20"
+		"font"				"Font20"
 		"fgcolor"			"TanLight"
 		"xpos"				"10"
 		"ypos"				"85"
@@ -408,7 +408,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"Cerbetica20"
+		"font"				"Font20"
 		"fgcolor"			"TanLight"
 		"xpos"				"10"
 		"ypos"				"130"

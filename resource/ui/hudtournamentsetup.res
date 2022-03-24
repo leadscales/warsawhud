@@ -108,7 +108,7 @@
 		"brighttext"	"0"
 		"command"		"teamnotready"
 		"default"		"1"
-		"font"			"Cerbetica12"
+		"font"			"Font12"
 		"fgcolor"		"ColorRed"
 		"allcaps"		"1"
 
@@ -139,7 +139,7 @@
 		"brighttext"	"0"
 		"command"		"teamready"
 		"default"		"1"
-		"font"			"Cerbetica12"
+		"font"			"Font12"
 		"fgcolor"		"ColorGreen"
 
 		"defaultBgColor_override"	"Blank"
