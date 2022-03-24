@@ -124,7 +124,7 @@ Scheme
 		PropertySheet.SelectedTextColor			"White"
 		PropertySheet.TransitionEffectTime		"0.25"		// time to change from one tab to another
 
-		RadioButton.TextColor					"ColorCyan"
+		RadioButton.TextColor					"AccentMain"
 		RadioButton.SelectedTextColor			"Orange"
 
 		RichText.TextColor						"Gray"

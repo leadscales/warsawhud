@@ -41,7 +41,7 @@
 				"visible"				"1"
 				"enabled"				"1"
 				"paintbackground" 		"0"
-				"fgcolor_override"		"ColorCyan"
+				"fgcolor_override"		"AccentMain"
 				"labelText"				"#TF_OptionCategory_HUD"
 				"allcaps"				"1"
 			}

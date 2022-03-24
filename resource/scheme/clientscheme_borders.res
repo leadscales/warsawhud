@@ -13,7 +13,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -21,7 +21,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -29,7 +29,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -37,7 +37,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -83,17 +83,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "1 1"
 				}
 			}
@@ -130,27 +130,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "4 1"
 				}
 			}
@@ -158,27 +158,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "4 1"
 				}
 			}
@@ -186,27 +186,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "4 1"
 				}
 			}
@@ -218,27 +218,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "4 1"
 				}
 			}
@@ -246,27 +246,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "4 1"
 				}
 			}
@@ -274,27 +274,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "AccentMainDark"
 					"offset" "4 1"
 				}
 			}
@@ -307,7 +307,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 4"
 				}
 			}
@@ -315,7 +315,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -323,7 +323,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -331,7 +331,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -344,17 +344,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "2 0"
 				}
 			}
@@ -362,17 +362,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "2 0"
 				}
 			}
@@ -380,17 +380,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "2 0"
 				}
 			}
@@ -398,17 +398,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "2 0"
 				}
 			}
@@ -913,7 +913,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -921,7 +921,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -929,7 +929,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -937,7 +937,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -950,7 +950,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -958,7 +958,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -966,7 +966,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}
@@ -974,7 +974,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "AccentMain"
 					"offset" "0 0"
 				}
 			}

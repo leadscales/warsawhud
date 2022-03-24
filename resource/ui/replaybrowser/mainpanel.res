@@ -100,7 +100,7 @@
 		"tall"			"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"ColorCyan"
+		"bgcolor_override"	"AccentMain"
 		"PaintBackgroundType"	"2"
 	}
 
@@ -127,7 +127,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorCyan"
+			"bgcolor_override"		"AccentMain"
 		}
 
 		"tabskv"

@@ -54,8 +54,8 @@
 				"paintbackground"	"0"
 
 				"defaultFgColor_override"	"TanLight"
-				"armedFgColor_override"		"ColorCyan"
-				"depressedFgColor_override" "ColorCyan"
+				"armedFgColor_override"		"AccentMain"
+				"depressedFgColor_override" "AccentMain"
 			}
 		}
 
@@ -214,7 +214,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 	
@@ -245,11 +245,11 @@
 		"sound_released"	"UI/wooo_tree.wav"
 
 		"defaultFgColor_override" "TanLight"
-		"armedFgColor_override" "ColorCyan"
-		"depressedFgColor_override" "ColorCyan"
+		"armedFgColor_override" "AccentMain"
+		"depressedFgColor_override" "AccentMain"
 
 		"image_drawcolor"	"TanLight"
-		"image_armedcolor"	"ColorCyan"
+		"image_armedcolor"	"AccentMain"
 	}
 
 	"TFLogoImage"
@@ -310,7 +310,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"AccentMain"
 		"depressedFgColor_override" "TanLight"
 	}
 
@@ -362,7 +362,7 @@
 		"textinsetx"		"15"
 		"textinsety"		"5"
 		"font"				"HudFontSmall"
-		"fgcolor_override"	"ColorCyan"
+		"fgcolor_override"	"AccentMain"
 		"labelText"			"#TF_MM_NoGC_Rank"
 		"textAlignment"		"north-west"
 		"bgcolor_override"	"Transparent"
@@ -612,7 +612,7 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"25 25 25 148"
@@ -641,7 +641,7 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"25 25 25 148"
@@ -671,7 +671,7 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"25 25 25 148"
@@ -701,7 +701,7 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"25 25 25 148"
@@ -731,7 +731,7 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"25 25 25 148"
@@ -761,7 +761,7 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"AccentMain"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"25 25 25 148"
@@ -802,7 +802,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 
@@ -845,7 +845,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 
@@ -888,7 +888,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 
@@ -931,7 +931,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 
@@ -974,7 +974,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 
@@ -1017,7 +1017,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 
@@ -1060,7 +1060,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 
@@ -1103,7 +1103,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 
@@ -1146,7 +1146,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"AccentMain"
 		}
 	}
 

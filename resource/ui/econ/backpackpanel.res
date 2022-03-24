@@ -418,9 +418,9 @@
 		
 		"paintbackground"			"0"
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"AccentMain"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"AccentMain"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
@@ -442,7 +442,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ColorCyan"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"NextPageButton"
@@ -468,9 +468,9 @@
 		
 		"paintbackground"			"0"
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"AccentMain"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"AccentMain"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
