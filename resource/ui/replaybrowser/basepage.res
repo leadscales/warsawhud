@@ -15,7 +15,7 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 	}
 	
 	"SearchTextEntry"
@@ -37,7 +37,7 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"fgcolor_override"		"White"
-		"bgcolor_override"		"DarkerGrey"
+		"bgcolor_override"		"PanelDark"
 		"Font"					"Font14"
 	}
 	

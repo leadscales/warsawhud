@@ -15,9 +15,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"DarkGrey"
-		"infocus_bgcolor_override"		"DarkGrey"
-		"outoffocus_bgcolor_override"	"DarkGrey"
+		"bgcolor_override"				"PanelMain"
+		"infocus_bgcolor_override"		"PanelMain"
+		"outoffocus_bgcolor_override"	"PanelMain"
 
 		"title"				"#StoreTitle"
 		"title_font"		"HudFontMedium"
@@ -25,7 +25,7 @@
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"			"HudOffWhite"
 		"titlebardisabledfgcolor_override"	"HudOffWhite"
-		"titlebarbgcolor_override"			"DarkGrey"
+		"titlebarbgcolor_override"			"PanelMain"
 
 		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
@@ -235,7 +235,7 @@
 		"ypos"			"55"
 		"wide"			"f0"
 		"tall"			"368"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 
 		"HeaderLine"
 		{
@@ -315,7 +315,7 @@
 			"tall"			"240"
 			"PaintBackgroundType"	"2"
 			"fgcolor_override"	"DullWhite"	// Gets copied to the scrollbar fgcolor as part of ScrollableEditablePanel
-			"bgcolor_override"	"DarkGrey"
+			"bgcolor_override"	"PanelMain"
 			"autohide_buttons" "1"
 
 			"Scrollbar"

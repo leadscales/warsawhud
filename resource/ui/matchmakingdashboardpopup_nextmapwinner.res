@@ -50,7 +50,7 @@
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"NoBorder"
-			"bgcolor_override"	"DarkGrey"
+			"bgcolor_override"	"PanelMain"
 			"proportionaltoparent"	"1"
 			"pinCorner"		"2"
 

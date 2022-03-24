@@ -12,7 +12,7 @@
 		"visible"				"0"
 		"PaintBackgroundType"	"2"
 		"border"				"ButtonHover"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"mouseinputenabled"		"0"
 		
 		"TipLabel"

@@ -46,7 +46,7 @@
 		"enabled"		"1"
 		"paintbackground"	"1"
 		"border"			"CyanBorderThick"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 		"PaintBorder"		"1"
 
 		// Background for the player model & item preview panels
@@ -63,7 +63,7 @@
 			"enabled"		"0"
 			"paintborder"	"1"
 			"border"		"PanelBorder"
-			"bgcolor_override"	"Grey"
+			"bgcolor_override"	"PanelLight"
 		}
 	}
 

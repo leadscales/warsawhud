@@ -13,7 +13,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	"0"
 		"paintborder"			"1"
@@ -126,7 +126,7 @@
 		"visible"			"0"
 		"paintbackground"	"1"
 		"border"			"ButtonHover"
-		"bgcolor_override"	"DarkerGrey"
+		"bgcolor_override"	"PanelDark"
 
 		"TipLabel"
 		{

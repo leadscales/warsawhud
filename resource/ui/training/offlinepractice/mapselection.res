@@ -189,7 +189,7 @@
 		"textinsetx"		"50"
 
 		"fgcolor_override"	"TanLight"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 
 		"disabledFgColor_override" "235 226 202 255"
 		"disabledBgColor_override" "51 47 46 255"
@@ -239,7 +239,7 @@
 		"maxchars"			"2"
 		"NumericInputOnly"	"1"
 		"selectallonfirstfocus"	"1"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"fgcolor_override"		"TanLight"
 	}
 

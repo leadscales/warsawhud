@@ -15,7 +15,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 
 		"item_ypos"					"60"
 		"item_ydelta"				"80"
@@ -160,7 +160,7 @@
 		"textHidden"	"0"
 		"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"DarkerGrey"
+		"fgcolor_override"	"PanelDark"
 		"bgcolor_override"	"TanLight"
 		"paintbackgroundtype" "2"
 	}

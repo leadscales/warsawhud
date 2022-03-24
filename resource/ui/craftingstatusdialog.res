@@ -11,7 +11,7 @@
 		"tall"					"110"
 		"settitlebarvisible"	"0"
 		"border"				"CyanBorder"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"paintbackgroundtype"	"0"
 	}
 

@@ -52,7 +52,7 @@
 		"mouseinputenabled"			"1"
 		"keyboardinputenabled"		"0"
 		//"actionsignallevel"		"1"
-		"defaultBgColor_override"	"DarkerGrey"
+		"defaultBgColor_override"	"PanelDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -82,7 +82,7 @@
 		"mouseinputenabled"			"1"
 		"keyboardinputenabled"		"0"
 		"actionsignallevel"			"1"
-		"defaultBgColor_override"	"DarkerGrey"
+		"defaultBgColor_override"	"PanelDark"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -112,7 +112,7 @@
 		"mouseinputenabled"			"1"
 		"keyboardinputenabled"		"0"
 		"actionsignallevel"			"1"
-		"defaultBgColor_override"	"DarkerGrey"
+		"defaultBgColor_override"	"PanelDark"
 
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
@@ -142,7 +142,7 @@
 		"mouseinputenabled"			"1"
 		"keyboardinputenabled"		"0"
 		//"actionsignallevel"		"1"
-		"defaultBgColor_override"	"DarkerGrey"
+		"defaultBgColor_override"	"PanelDark"
 
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"

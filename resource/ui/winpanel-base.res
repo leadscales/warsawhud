@@ -110,7 +110,7 @@
 			"enabled"			"1"
 			"image"				""
 			"scaleImage"		"1"
-			"color_outline"		"Grey"
+			"color_outline"		"PanelLight"
 		}
 
 		"RedTeamLabel"
@@ -181,7 +181,7 @@
 			"enabled"			"1"
 			"image"				""
 			"scaleImage"		"1"
-			"color_outline"		"Grey"
+			"color_outline"		"PanelLight"
 		}
 	}
 

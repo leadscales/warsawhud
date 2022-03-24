@@ -138,7 +138,7 @@
 			"font"				"HudFontSmall"
 			"selectedcolor"		"TanLight"
 			"unselectedcolor"	"TanDark"
-			"defaultBgColor_override"	"DarkGrey"
+			"defaultBgColor_override"	"PanelMain"
 			"paintbackground"			"1"
 			"activeborder_override"		"CyanBorderTabs"
 			"normalborder_override" 	"CyanBorderTabsInactive"

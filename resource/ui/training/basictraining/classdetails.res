@@ -37,7 +37,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"paintbackground"	"1"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 		"paintbackgroundtype"	"2"
 
 		"ClassNameLabel"

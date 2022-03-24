@@ -39,7 +39,7 @@
 			"enabled"				"1"
 			"paintbackground"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override" 		"DarkGrey"
+			"bgcolor_override" 		"PanelMain"
 			"proportionaltoparent"	"1"
 
 			"fullscreen_fade_to_black_duration"	"0.32"
@@ -222,7 +222,7 @@
 		"enabled"				"1"
 		"paintbackground"		"1"
 		"border"				"CyanBorderThick"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"PaintBorder"			"1"
 
 		// Background for the player model & item preview panels
@@ -574,7 +574,7 @@
 			"visible"				"1"
 			"enabled"				"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"Grey"
+			"bgcolor_override"		"PanelLight"
 		}
 
 		"itempanel"

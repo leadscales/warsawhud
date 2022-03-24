@@ -25,7 +25,7 @@
 		"titletextinsetY"					"0"
 		"titlebarfgcolor_override"			"HudOffWhite"
 		"titlebardisabledfgcolor_override"	"HudOffWhite"
-		"titlebarbgcolor_override"			"DarkGrey"
+		"titlebarbgcolor_override"			"PanelMain"
 
 		"clientinsetx_override"				"0"
 		"sheetinset_bottom"					"40"
@@ -138,7 +138,7 @@
 			"font"						"HudFontSmall"
 			"selectedcolor"				"TanLight"
 			"unselectedcolor"			"TanDark"
-			"defaultBgColor_override"	"DarkGrey"
+			"defaultBgColor_override"	"PanelMain"
 			"paintbackground"			"1"
 			"activeborder_override"		"CyanBorderTabs"
 			"normalborder_override"		"CyanBorderTabsInactive"

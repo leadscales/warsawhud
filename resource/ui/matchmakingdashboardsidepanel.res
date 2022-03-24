@@ -151,7 +151,7 @@
 		"tall"			"f-20"
 		"visible"		"1"
 		"border"		"TeamMenuBorder"
-		"bgcolor_override"		"DarkerGrey"
+		"bgcolor_override"		"PanelDark"
 		"proportionaltoparent"	"1"
 	}
 }

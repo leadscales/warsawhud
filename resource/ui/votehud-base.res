@@ -555,7 +555,7 @@
 		"settitlebarvisible"	"0"
 		"paintborder"			"1"
 		"border"				"CyanBorder"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"PaintBackground"		"1"
 		"PaintBackgroundType"	"2"
 

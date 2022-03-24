@@ -98,7 +98,7 @@ Scheme
 		ListPanel.EmptyListInfoTextColor		"Orange"
 
 		Menu.TextColor							"TanLight"
-		Menu.BgColor							"DarkGrey"
+		Menu.BgColor							"PanelMain"
 		Menu.ArmedTextColor						"TanDark"
 		Menu.ArmedBgColor						"TanLight"
 		Menu.TextInset							"6"

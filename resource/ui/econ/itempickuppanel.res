@@ -16,9 +16,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"DarkGrey"
-		"infocus_bgcolor_override"		"DarkGrey"
-		"outoffocus_bgcolor_override"	"DarkGrey"
+		"bgcolor_override"				"PanelMain"
+		"infocus_bgcolor_override"		"PanelMain"
+		"outoffocus_bgcolor_override"	"PanelMain"
 
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
@@ -29,7 +29,7 @@
 		{
 			"PaintBackgroundType"	"0"
 			"paintborder"			"1"
-			"bgcolor_override"		"DarkGrey"
+			"bgcolor_override"		"PanelMain"
 
 			"model_xpos"		"0"
 			"model_center_y"	"1"
@@ -308,7 +308,7 @@
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"1"
 		"border"		"NoBorder"
-		"bgcolor_override"	"DarkerGrey"
+		"bgcolor_override"	"PanelDark"
 
 		"TipLabel"
 		{

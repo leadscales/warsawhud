@@ -8,24 +8,31 @@ Scheme
 		"ColorNegative"				"255 96 0 255"
 		"ColorPositive"				"0 255 224 255"
 		// HUD COLORS
-		//---------------------------------------------
 		"ColorRed"					"255 0 0 255"
 		"ColorYellow"				"255 255 0 255"
 		"ColorGreen"				"48 255 48 255"
 		"ColorCyan"					"72 255 255 255"
-		"ColorCyanShadow"			"72 100 100 255"
 		"ColorBlue"					"0 0 255 255"
 		"ColorPurple"				"128 0 255 255"
 		"ColorMagenta"				"255 0 255 255"
 		"ColorBlack"				"0 0 0 255"
 		"ColorGreyMid"				"128 128 128 255"
 		"ColorWhite"				"255 255 255 255"
-		"DullWhite"					"132 132 132 255"
-		"Grey"						"51 47 46 255"
-		"DarkGrey"					"27 27 27 255"
-		"DarkerGrey"				"22 22 22 255"
-		"TextColor"					"117 107 94 255"
-		//---------------------------------------------
+		"DullWhite"					"160 160 160 255"
+		"Grey"						"48 48 48 255"
+		"DarkGrey"					"24 24 24 255"
+		"DarkerGrey"				"16 16 16 255"
+		"TextColor"					"255 255 255 255"
+		// GUI COLORS
+		"TextMain"					"255 255 255 255"
+		"TextDark"					"192 192 192 255"
+		"TextDarker"				"128 128 128 255"
+		"TextDarkest"				"0 0 0 255"
+		"PanelLight"				"24 48 64 255"
+		"PanelMain"					"12 24 32 255"
+		"PanelDark"					"4 8 16 255"
+		"PanelDarkest"				"0 4 8 255"
+
 		// Gameplay
 		"Ammo In Clip"				"48 255 48 255"
 		"Ammo In Reserve"			"72 255 255 255"
@@ -38,17 +45,14 @@ Scheme
 		"Damage Numbers"			"72 255 255 255"
 		"ItemPanelBG"				"50 50 50 255"
 		"Button Color"				"72 255 255 255"
-		//---------------------------------------------
 		// Crosshair Colors
 		"Crosshair"					"242 242 242 255"
 		"CrosshairDamage"			"255 0 0 255"
-		//---------------------------------------------
 		// Ubercharge
 		"Uber Bar Color"			"235 226 202 255"
 		"Solid Color Uber"			"255 50 25 255"
 		"Flashing Uber Color1"		"255 165 0 255"
 		"Flashing Uber Color2"		"255 69 0 255"
-		//---------------------------------------------
 		// Player Stats
 		"StatBar1"					"15 255 255 128"
 		"StatBar2"					"15 225 225 128"

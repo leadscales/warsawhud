@@ -10,7 +10,7 @@
 		"tall"			"480"
 		"visible"		"0"
 		"enabled"		"1"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 	}
 
 	"MainBackground"
@@ -203,7 +203,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"DarkerGrey"
+			"bgcolor_override"	"PanelDark"
 			"PaintBackgroundType"	"2"
 		}
 		"AveragesLabel"
@@ -1377,7 +1377,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"DarkerGrey"
+			"bgcolor_override"	"PanelDark"
 		}
 		"RecordsLabel1"
 		{
@@ -1409,7 +1409,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"DarkerGrey"
+			"fillcolor"		"PanelDark"
 			"PaintBackgroundType"	"0"
 		}
 		"RecordsLabel"

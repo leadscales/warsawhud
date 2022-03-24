@@ -431,7 +431,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"DarkGrey"
+			"fillcolor"		"PanelMain"
 			"wrap"			"1"
 		}
 

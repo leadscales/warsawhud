@@ -94,7 +94,7 @@
 		"enabled"				"1"
 		"paintbackground"		"1"
 		"border"				"CyanBorderThick"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"PaintBorder"			"1"
 
 		// Background for the player model & item preview panels
@@ -111,7 +111,7 @@
 			"enabled"				"1"
 			"paintborder"			"1"
 			"border"				"NoBorder"
-			"bgcolor_override"		"Grey"
+			"bgcolor_override"		"PanelLight"
 		}
 
 		"ItemNameLabel"
@@ -581,7 +581,7 @@
 			"visible"				"1"
 			"enabled"				"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"Grey"
+			"bgcolor_override"		"PanelLight"
 		}
 
 		"itempanel"
@@ -633,7 +633,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "Grey"
+			"bgcolor_override" "PanelLight"
 		}
 
 		"itempanel"
@@ -685,7 +685,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "Grey"
+			"bgcolor_override" "PanelLight"
 		}
 
 		"itempanel"
@@ -737,7 +737,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "Grey"
+			"bgcolor_override" "PanelLight"
 		}
 
 		"itempanel"
@@ -789,7 +789,7 @@
 			"visible"		"1"
 			"enabled"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override" "Grey"
+			"bgcolor_override" "PanelLight"
 		}
 
 		"itempanel"

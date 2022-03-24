@@ -9,7 +9,7 @@
 		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"480"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	""
 		"paintborder"			"0"

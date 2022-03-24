@@ -49,7 +49,7 @@
 			"tall"			"f5"
 			"visible"		"1"
 			"border"		"NoBorder"
-			"bgcolor_override"		"DarkGrey"
+			"bgcolor_override"		"PanelMain"
 			"proportionaltoparent"	"1"
 			"pinCorner"		"2"
 

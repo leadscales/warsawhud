@@ -58,7 +58,7 @@
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
 		"border"		"CyanBorderThick"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 	}
 
 	"Shade"
@@ -88,7 +88,7 @@
 		"proportionaltoparent"	"1"
 		"visible"		"0"
 		"border"		"CyanBorderThick"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 
 		"CTFLogoPanel"
 		{
@@ -135,7 +135,7 @@
 		"proportionaltoparent"	"1"
 		"visible"		"0"
 		"border"		"CyanBorderThick"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 
 		"CTFLogoPanel"
 		{
@@ -182,7 +182,7 @@
 		"proportionaltoparent"	"1"
 		"visible"		"0"
 		"border"		"CyanBorderThick"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 
 		"CTFLogoPanel"
 		{

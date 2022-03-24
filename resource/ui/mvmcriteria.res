@@ -81,7 +81,7 @@
 			"tall"				"197"
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
-			"bgcolor_override"		"DarkerGrey"
+			"bgcolor_override"		"PanelDark"
 
 			"GreyOutPanel"
 			{
@@ -140,7 +140,7 @@
 		"tall"				"120"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"bgcolor_override"		"DarkerGrey"
+		"bgcolor_override"		"PanelDark"
 
 		"TourLootImage"
 		{

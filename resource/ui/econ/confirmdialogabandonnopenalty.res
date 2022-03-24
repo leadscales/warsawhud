@@ -14,7 +14,7 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"paintbackground"		"1"
 		"border"				"CyanBorderThick"
 	}

@@ -64,7 +64,7 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"DarkerGrey"
+			"bgcolor_override"	"PanelDark"
 		}
 
 		"TitleLabel"

@@ -134,7 +134,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"DarkGrey"
+			"fillcolor"		"PanelMain"
 		}
 
 		"InnerPanelRim"
@@ -223,8 +223,8 @@
 			"tall"			"220"
 			"visible"		"0"
 			"PaintBackgroundType"	"0"
-			"border"			"DarkGrey"
-			"bgcolor_override"	"DarkerGrey"
+			"border"			"PanelMain"
+			"bgcolor_override"	"PanelDark"
 		}
 
 		"PlayerUpgradeButton"

@@ -18,7 +18,7 @@
 		"paintbackground"		"1"
 		"paintborder"			"1"
 		"border"				"CyanBorderThick"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 	}
 
 	"TitleLabel"

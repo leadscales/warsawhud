@@ -14,9 +14,9 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"DarkGrey"
-		"infocus_bgcolor_override"		"DarkGrey"
-		"outoffocus_bgcolor_override"	"DarkGrey"
+		"bgcolor_override"				"PanelMain"
+		"infocus_bgcolor_override"		"PanelMain"
+		"outoffocus_bgcolor_override"	"PanelMain"
 
 		"item_xpos_offcenter_a"			"-310"
 		"item_xpos_offcenter_b"			"165"
@@ -292,7 +292,7 @@
 		"tall"				"75"
 		"autoResize"		"1"
 		"visible"			"0"
-		"bgcolor_override"	"DarkerGrey"
+		"bgcolor_override"	"PanelDark"
 		"PaintBackgroundType"	"0"
 	}
 

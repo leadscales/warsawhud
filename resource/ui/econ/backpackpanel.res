@@ -14,9 +14,9 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"DarkGrey"
-		"infocus_bgcolor_override"		"DarkGrey"
-		"outoffocus_bgcolor_override" 	"DarkGrey"
+		"bgcolor_override"				"PanelMain"
+		"infocus_bgcolor_override"		"PanelMain"
+		"outoffocus_bgcolor_override" 	"PanelMain"
 
 		"item_xpos_offcenter_a"			"-310"
 		"item_xpos_offcenter_b"			"165"
@@ -295,7 +295,7 @@
 		"textHidden"		"0"
 		"editable"			"1"
 		"unicode"			"1"
-		"fgcolor_override"	"DarkerGrey"
+		"fgcolor_override"	"PanelDark"
 		"bgcolor_override"	"TanLight"
 		"paintbackgroundtype" "2"
 		"font"				"HudFontSmallest"
@@ -550,7 +550,7 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"bgcolor_override"	"DarkerGrey"
+		"bgcolor_override"	"PanelDark"
 	}
 
 	"ShowExplanationsButton"

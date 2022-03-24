@@ -12,7 +12,7 @@
 		"visible"			"0"
 		"paintbackground"	"1"
 		"paintborder"		"0"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 		"PaintBackgroundType"	"0"
 
 		"MOTD_HeaderContainer"
@@ -24,7 +24,7 @@
 			"wide"				"300"
 			"tall"				"22"
 			"visible"			"1"
-			"bgcolor_override"	"DarkerGrey"
+			"bgcolor_override"	"PanelDark"
 
 			"HeaderLabel"
 			{

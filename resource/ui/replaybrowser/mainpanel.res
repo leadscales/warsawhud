@@ -25,7 +25,7 @@
 		"titletextinsetY"				"0"
 		"titlebarfgcolor_override"		"HudOffWhite"
 		"titlebardisabledfgcolor_override"	"HudOffWhite"
-		"titlebarbgcolor_override"		"DarkGrey"
+		"titlebarbgcolor_override"		"PanelMain"
 
 		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"

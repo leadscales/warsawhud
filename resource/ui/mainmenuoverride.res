@@ -31,7 +31,7 @@
 		"visible"		"0"
 		"paintbackground"		"1"
 		"border"				"NoBorder"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"PaintBackgroundType"	"2"
 
 		"Notifications_CloseButton"

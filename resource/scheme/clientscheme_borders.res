@@ -414,6 +414,19 @@ Scheme
 			}
 		}
 
+		ScanlineBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"PanelMain"
+
+			"image"					"replay/thumbnails/panels/scanlines"
+			"src_corner_height"		"4"
+			"src_corner_width"		"4"
+			"draw_corner_width"		"1"
+			"draw_corner_height"	"1"
+		}
+
 		NoBorder
 		{
 			"inset" "0 0 0 0"

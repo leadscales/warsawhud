@@ -61,7 +61,7 @@
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"				"NoBorder"
-			"bgcolor_override"		"DarkGrey"
+			"bgcolor_override"		"PanelMain"
 			"proportionaltoparent"	"1"
 		}
 
@@ -295,7 +295,7 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 				"border"		"ReplayDefaultBorder"
-				"bgcolor_override"	"DarkGrey"
+				"bgcolor_override"	"PanelMain"
 			}
 
 			"QueueLogoButton"
@@ -483,7 +483,7 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 				"border"		"ReplayDefaultBorder"
-				"bgcolor_override"	"DarkGrey"
+				"bgcolor_override"	"PanelMain"
 			}
 
 			"PromptText"

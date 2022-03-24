@@ -11,7 +11,7 @@
 		"tall"				"50"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"DarkGrey"
+		"bgcolor_override"	"PanelMain"
 		"border"			"CyanBorder"
 	}
 

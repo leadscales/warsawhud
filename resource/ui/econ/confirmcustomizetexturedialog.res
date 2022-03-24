@@ -9,7 +9,7 @@
 		"ypos"					"c-225"
 		"wide"					"560"
 		"tall"					"345"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"PanelMain"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"0"
 		"border"				"CyanBorderThick"
@@ -259,7 +259,7 @@
 			"wide"		"350"
 			"tall"		"200"
 			"border"		"GrayDialogBorder"
-			"bgcolor_override"		"DarkGrey"
+			"bgcolor_override"		"PanelMain"
 
 			"UseAvatarRadio"
 			{
@@ -328,7 +328,7 @@
 			"wide"				"180"
 			"tall"				"200"
 			"border"			"GrayDialogBorder"
-			"bgcolor_override"	"DarkGrey"
+			"bgcolor_override"	"PanelMain"
 
 			"PreviewCroppedImage"
 			{
@@ -435,7 +435,7 @@
 			"wide"				"160"
 			"tall"				"200"
 			"border"			"GrayDialogBorder"
-			"bgcolor_override"	"DarkGrey"
+			"bgcolor_override"	"PanelMain"
 
 			"FilterLabel"
 			{
@@ -614,7 +614,7 @@
 			"wide"			"180"
 			"tall"			"200"
 			"border"		"GrayDialogBorder"
-			"bgcolor_override"	"DarkGrey"
+			"bgcolor_override"	"PanelMain"
 
 			"PreviewFilteredImage"
 			{
@@ -638,7 +638,7 @@
 			"wide"			"180"
 			"tall"			"200"
 			"border"		"GrayDialogBorder"
-			"bgcolor_override"	"DarkGrey"
+			"bgcolor_override"	"PanelMain"
 
 			"GradientBgPanel"
 			{
@@ -761,7 +761,7 @@
 			"wide"			"350"
 			"tall"			"200"
 			"border"		"GrayDialogBorder"
-			"bgcolor_override"	"DarkGrey"
+			"bgcolor_override"	"PanelMain"
 
 			"WarningText"
 			{
@@ -788,7 +788,7 @@
 			"wide"			"180"
 			"tall"			"200"
 			"border"		"GrayDialogBorder"
-			"bgcolor_override"	"DarkGrey"
+			"bgcolor_override"	"PanelMain"
 
 			"GradientBgPanel"
 			{
@@ -913,7 +913,7 @@
 			"wide"		"180"
 			"tall"		"200"
 			"border"		"GrayDialogBorder"
-			"bgcolor_override"		"DarkGrey"
+			"bgcolor_override"		"PanelMain"
 
 				"GradientBgPanel"
 				{
