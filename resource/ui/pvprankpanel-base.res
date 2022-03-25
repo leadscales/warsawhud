@@ -307,7 +307,7 @@
 				"Controlname"	"EditablePanel"
 				"fieldName"		"XPBar"
 				"xpos"			"0"
-				"ypos"			"rs1-78"
+				"ypos"			"rs1-77"
 				"wide"			"170"
 				"tall"			"35"
 				"proportionaltoparent"	"1"
@@ -405,12 +405,12 @@
 						"fieldName"		"ContinuousProgressBar"
 						"xpos"			"cs-0.5"
 						"ypos"			"0"
-						"wide"			"f2"
+						"wide"			"f0"
 						"tall"			"f0"
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"CreditsGreen"
+						"fgcolor_override"	"AccentMain"
 					}
 
 					"Frame"

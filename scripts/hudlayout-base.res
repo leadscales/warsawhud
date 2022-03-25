@@ -494,7 +494,7 @@
 		"ypos"	 				"25"
 		"wide"	 				"580"
 		"tall"	 				"468"
-		"MaxDeathNotices"		"5"
+		"MaxDeathNotices"		"6"
 		"IconScale"				"0.35"
 		"LineHeight"			"14"
 		"LineSpacing"			"0"
@@ -503,10 +503,10 @@
 		"TextFont"				"HudFontSmallest"
 		"TeamBlue"				"HUDBlueTeamSolid"
 		"TeamRed"				"HUDRedTeamSolid"
-		"IconColor"				"HudWhite"
-		"LocalPlayerColor"		"65 65 65 255"
-		"BaseBackgroundColor"	"TransparentBlack"
-		"LocalBackgroundColor"	"245 229 196 200"
+		"IconColor"				"ColorWhite"
+		"LocalPlayerColor"		"ColorBlack"
+		"BaseBackgroundColor"	"PanelBlack3"
+		"LocalBackgroundColor"	"PanelWhite1"
 	}
 
 	"HudVehicle"
