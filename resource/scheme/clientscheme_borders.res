@@ -307,7 +307,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "0 4"
 				}
 			}
@@ -315,7 +315,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "0 0"
 				}
 			}
@@ -323,7 +323,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "0 0"
 				}
 			}
@@ -331,7 +331,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "0 0"
 				}
 			}
@@ -344,72 +344,52 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "1 0"
-				}
-				"3"
-				{
-					"color" "AccentMain"
-					"offset" "2 0"
 				}
 			}
 			Right
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "1 0"
-				}
-				"3"
-				{
-					"color" "AccentMain"
-					"offset" "2 0"
 				}
 			}
 			Top
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "1 0"
-				}
-				"3"
-				{
-					"color" "AccentMain"
-					"offset" "2 0"
 				}
 			}
 			Bottom
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "AccentMain"
+					"color" "ColorWhite"
 					"offset" "1 0"
-				}
-				"3"
-				{
-					"color" "AccentMain"
-					"offset" "2 0"
 				}
 			}
 		}
@@ -528,44 +508,44 @@ Scheme
 			{
 				"1"
 				{
-					"color"	"ButtonArmed"
+					"color"	"AccentMain"
 				}
 				"2"
 				{
-					"color"	"ButtonArmed"
+					"color"	"AccentMain"
 				}
 			}
 			Right
 			{
 				"1"
 				{
-					"color"	"ButtonArmed"
+					"color"	"AccentMain"
 				}
 				"2"
 				{
-					"color"	"ButtonArmed"
+					"color"	"AccentMain"
 				}
 			}
 			Top
 			{
 				"1"
 				{
-					"color"	"ButtonArmed"
+					"color"	"AccentMain"
 				}
 				"2"
 				{
-					"color"	"ButtonArmed"
+					"color"	"AccentMain"
 				}
 			}
 			Bottom
 			{
 				"1"
 				{
-					"color"	"ButtonArmed"
+					"color"	"AccentMain"
 				}
 				"2"
 				{
-					"color"	"ButtonArmed"
+					"color"	"AccentMain"
 				}
 			}
 		}

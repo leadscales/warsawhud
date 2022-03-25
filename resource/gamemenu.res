@@ -1,24 +1,32 @@
 "GameMenu"
 {
+	"InGameButtonsPanel"
+	{
+		"command" 									"engine"
+		"OnlyInGame"								"1"
+	}
 	"CallVoteButton"
 	{
-		"label"			"i"
-		"command"		"callvote"
-		"OnlyInGame"	"1"
-		"tooltip"		"#MMenu_CallVote"
+		"label"										"c"
+		"command" 									"callvote"
+		"OnlyInGame"								"1"
 	}
 	"MutePlayersButton"
 	{
-		"label"			"j"
-		"command"		"OpenMutePlayerDialog"
-		"OnlyInGame"	"1"
-		"tooltip"		"#MMenu_MutePlayers"
+		"label"										"M"
+		"command" 									"OpenMutePlayerDialog"
+		"OnlyInGame"								"1"
 	}
 	"ReportPlayerButton"
 	{
-		"label"			"k"
-		"command"		"OpenReportPlayerDialog"
-		"OnlyInGame"	"1"
-		"tooltip"		"#MMenu_ReportPlayer"
+		"label"										"!"
+		"command" 									"OpenReportPlayerDialog"
+		"OnlyInGame"								"1"
+	}
+	"FixIssuesButton"
+	{
+		"label"										"w"
+		"command" 									"engine echo sus"
+		"OnlyInGame"								"1"
 	}
 }

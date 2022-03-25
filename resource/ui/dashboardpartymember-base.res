@@ -23,10 +23,10 @@
 		"zpos"			"100"
 		"wide"			"f2"
 		"tall"			"f2"
-		"visible"		"1"
+		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
-		"image"			"class_portraits/silhouette_alpha"
+		"image"			"replay/thumbnails/transparent"
 		"mouseinputenabled"	"0"
 	}
 
@@ -142,11 +142,11 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultBgColor_override"	"235 226 202 2"
-		"armedBgColor_override"	"94 150 49 20"
+		"defaultBgColor_override"	"PanelBlack3"
+		"armedBgColor_override"	"AccentMainTransparent2"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"FriendHighlightBorderThick"
+		"border_armed"		"NoBorder"
 	}
 
 	"Spinner"

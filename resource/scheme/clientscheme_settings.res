@@ -39,12 +39,12 @@ Scheme
 
 		Button.TextColor						"ColorWhite"
 		Button.BgColor							"Button"
-		Button.ArmedTextColor					"ColorWhite"
-		Button.ArmedBgColor						"ButtonArmed"
-		Button.SelectedTextColor				"ColorWhite"
-		Button.SelectedBgColor					"ButtonArmed"
-		Button.DepressedTextColor				"ColorWhite"
-		Button.DepressedBgColor					"ButtonArmed"
+		Button.ArmedTextColor					"ColorBlack"
+		Button.ArmedBgColor						"AccentMain"
+		Button.SelectedTextColor				"ColorBlack"
+		Button.SelectedBgColor					"AccentMain"
+		Button.DepressedTextColor				"ColorBlack"
+		Button.DepressedBgColor					"AccentMain"
 
 		CheckButton.TextColor					"Yellow"
 		CheckButton.SelectedTextColor			"Yellow"

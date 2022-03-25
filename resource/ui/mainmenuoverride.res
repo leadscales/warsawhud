@@ -49,7 +49,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labeltext"		"("
+			"labeltext"		"x"
 			"font"			"CustomIcons"
 			"textAlignment"	"center"
 			"dulltext"		"0"
