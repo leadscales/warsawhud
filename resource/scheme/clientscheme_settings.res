@@ -38,13 +38,13 @@ Scheme
 		Border.Selection						"NoBorder"
 
 		Button.TextColor						"ColorWhite"
-		Button.BgColor							"TanDarker"
+		Button.BgColor							"Button"
 		Button.ArmedTextColor					"ColorWhite"
-		Button.ArmedBgColor						"TanDark"
+		Button.ArmedBgColor						"ButtonArmed"
 		Button.SelectedTextColor				"ColorWhite"
-		Button.SelectedBgColor					"TanDarker"
+		Button.SelectedBgColor					"ButtonArmed"
 		Button.DepressedTextColor				"ColorWhite"
-		Button.DepressedBgColor					"TanDark"
+		Button.DepressedBgColor					"ButtonArmed"
 
 		CheckButton.TextColor					"Yellow"
 		CheckButton.SelectedTextColor			"Yellow"
@@ -111,7 +111,7 @@ Scheme
 		HTML.BgColor							"Blank"
 
 		ProgressBar.FgColor						"ProgressOffWhite"
-		ProgressBar.BgColor						"ProgressBackground"
+		ProgressBar.BgColor						"PanelBlack3"
 
 		CircularProgressBar.FgColor				"White"
 		CircularProgressBar.BgColor				"White"

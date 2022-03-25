@@ -212,8 +212,8 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"HudFontSmallishBold"
-			"fgcolor_override"	"ColorWhite"
+			"font"			"Font14"
+			"fgcolor_override"	"AccentMain"
 			"textAlignment"	"center"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
@@ -229,7 +229,7 @@
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine1"
 			"xpos"			"0"
-			"ypos"			"13"
+			"ypos"			"12"
 			"wide"			"170"
 			"zpos"			"100"
 			"tall"			"20"
@@ -307,7 +307,7 @@
 				"Controlname"	"EditablePanel"
 				"fieldName"		"XPBar"
 				"xpos"			"0"
-				"ypos"			"rs1-63"
+				"ypos"			"rs1-82"
 				"wide"			"170"
 				"tall"			"35"
 				"proportionaltoparent"	"1"
@@ -328,7 +328,7 @@
 					"zpos"			"0"
 					"wide"			"50"
 					"tall"			"10"
-					"visible"		"1"
+					"visible"		"0"
 					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"ColorWhite"
@@ -339,6 +339,7 @@
 					if_mini
 					{
 						"xpos"			"40"
+						"visible"		"1"
 					}
 				}
 
@@ -351,23 +352,28 @@
 					"zpos"			"0"
 					"wide"			"50"
 					"tall"			"10"
-					"visible"		"1"
+					"visible"		"0"
 					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"ColorWhite"
 					"textAlignment"	"east"
 					"labelText"		"%next_level_xp%"
 					"proportionaltoparent"	"1"
+
+					if_mini
+					{
+						"visible"	"1"
+					}
 				}
 
 				"ProgressBarsContainer"
 				{
 					"Controlname"	"EditablePanel"
 					"fieldName"		"ProgressBarsContainer"
-					"xpos"			"35"
-					"ypos"			"rs1-10"
-					"wide"			"100"
-					"tall"			"7"
+					"xpos"			"0"
+					"ypos"			"rs1"
+					"wide"			"f0"
+					"tall"			"2"
 					"proportionaltoparent"	"1"
 
 					if_mini
@@ -382,9 +388,9 @@
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
 						"xpos"			"0"
-						"ypos"			"cs-0.5"
+						"ypos"			"0"
 						"wide"			"f0"
-						"tall"			"f-2"
+						"tall"			"f0"
 						"zpos"			"1"
 						"proportionaltoparent"	"1"
 						"progress"		"1"
@@ -398,9 +404,9 @@
 						"ControlName"	"ContinuousProgressBar"
 						"fieldName"		"ContinuousProgressBar"
 						"xpos"			"cs-0.5"
-						"ypos"			"cs-0.5"
+						"ypos"			"0"
 						"wide"			"f2"
-						"tall"			"f2"
+						"tall"			"f0"
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
@@ -419,7 +425,7 @@
 						"visible"		"0"
 						"enabled"		"0"
 						"proportionaltoparent"	"1"
-						"border"		"InnerShadowBorderThin"
+						"border"		"NoBorder"
 					}
 				}
 			}

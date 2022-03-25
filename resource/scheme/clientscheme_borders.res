@@ -414,17 +414,160 @@ Scheme
 			}
 		}
 
+		ScanlinePanel
+		{
+			"bordertype"			"image"
+			"backgroundtype"		"0"
+
+			"image"					"replay/thumbnails/panels/scanlines2"
+			"tiled"					"1"
+		}
+
 		ScanlineBorder
 		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
-			"color"					"PanelMain"
+			"inset"	"0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color"	"PanelMain"
+				}
+				"2"
+				{
+					"color"	"PanelMain"
+				}
+			}
+			Right
+			{
+				"1"
+				{
+					"color"	"PanelMain"
+				}
+				"2"
+				{
+					"color"	"PanelMain"
+				}
+			}
+			Top
+			{
+				"1"
+				{
+					"color"	"PanelMain"
+				}
+				"2"
+				{
+					"color"	"PanelMain"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color"	"PanelMain"
+				}
+				"2"
+				{
+					"color"	"PanelMain"
+				}
+			}
+		}
 
-			"image"					"replay/thumbnails/panels/scanlines"
-			"src_corner_height"		"4"
-			"src_corner_width"		"4"
-			"draw_corner_width"		"1"
-			"draw_corner_height"	"1"
+		ButtonDefaultBorder
+		{
+			"inset"	"0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color"	"Button"
+				}
+				"2"
+				{
+					"color"	"Button"
+				}
+			}
+			Right
+			{
+				"1"
+				{
+					"color"	"Button"
+				}
+				"2"
+				{
+					"color"	"Button"
+				}
+			}
+			Top
+			{
+				"1"
+				{
+					"color"	"Button"
+				}
+				"2"
+				{
+					"color"	"Button"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color"	"Button"
+				}
+				"2"
+				{
+					"color"	"Button"
+				}
+			}
+		}
+
+		ButtonArmedBorder
+		{
+			"inset"	"0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color"	"ButtonArmed"
+				}
+				"2"
+				{
+					"color"	"ButtonArmed"
+				}
+			}
+			Right
+			{
+				"1"
+				{
+					"color"	"ButtonArmed"
+				}
+				"2"
+				{
+					"color"	"ButtonArmed"
+				}
+			}
+			Top
+			{
+				"1"
+				{
+					"color"	"ButtonArmed"
+				}
+				"2"
+				{
+					"color"	"ButtonArmed"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color"	"ButtonArmed"
+				}
+				"2"
+				{
+					"color"	"ButtonArmed"
+				}
+			}
 		}
 
 		NoBorder

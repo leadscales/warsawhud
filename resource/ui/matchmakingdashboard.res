@@ -30,25 +30,6 @@
 		"pinCorner"			"2"
 		"autoResize"		"1"
 
-		"Gradient"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"Gradient"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"p0.5"
-			"tall"			"f6"
-			"zpos"			"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"rotation"		"2"
-			"proportionaltoparent"	"1"
-			"scaleimage"		"1"
-			"mouseinputenabled"	"0"
-			"alpha"				"100"
-			"image"				"gradient_pure_black"
-		}
-
 		"BGPanel"
 		{
 			"ControlName"	"EditablePanel"
@@ -61,22 +42,7 @@
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"				"NoBorder"
-			"bgcolor_override"		"PanelMain"
-			"proportionaltoparent"	"1"
-		}
-
-		"OuterShadow"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"OuterShadow"
-			"xpos"			"cs-0.5"
-			"ypos"			"cs-0.5"
-			"zpos"			"-2"
-			"wide"			"p1.1"
-			"tall"			"p1"
-			"visible"		"1"
-			"PaintBackgroundType"	"2"
-			"border"		"OuterShadowBorder"
+			"bgcolor_override"		"PanelBlack1"
 			"proportionaltoparent"	"1"
 		}
 

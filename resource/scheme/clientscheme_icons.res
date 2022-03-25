@@ -26,34 +26,12 @@ Scheme
 			}
 		}
 
-		"MediumIcons"
-		{
-			"1"
-			{
-				"name"			"TF2Icons"
-				"tall"			"20"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-
 		"CustomIcons"
 		{
 			"1"
 			{
 				"name"			"TF2Icons"
 				"tall"			"18"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-
-		"LargeIcons"
-		{
-			"1"
-			{
-				"name"			"TF2Icons"
-				"tall"			"62"
 				"additive"		"0"
 				"antialias"		"1"
 			}

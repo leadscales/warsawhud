@@ -81,9 +81,9 @@ Scheme
 		// Training
 		"HudTrainingHint"						"212 160 23 255"
 
-		"TanDark"								"117 107 94 255"
-		"TanLight"								"235 226 202 255"
-		"TanDarker"								"46 43 42 255"
+		"TanDark"								"128 128 128 255"
+		"TanLight"								"255 255 255 255"
+		"TanDarker"								"64 64 64 255"
 
 		"StoreDarkTan"							"131 121 104 255"
 		"StoreGreen"							"76 107 34 255"
