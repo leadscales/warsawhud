@@ -19,6 +19,7 @@ Scheme
 		"ColorMagenta"				"255 0 160 255"
 		"ColorBlack"				"0 0 0 255"
 		"ColorWhite"				"255 255 255 255"
+		"ColorWhiteTransparent"		"255 255 255 128"
 		"DullWhite"					"160 160 160 255"
 		"ColorGreyMid"				"128 128 128 255"
 		"Grey"						"48 48 48 255"

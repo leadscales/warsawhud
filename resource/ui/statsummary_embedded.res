@@ -10,7 +10,7 @@
 		"tall"			"480"
 		"visible"		"0"
 		"enabled"		"1"
-		"bgcolor_override"	"PanelMain"
+		"bgcolor_override"	"PanelBlack2"
 	}
 
 	"MainBackground"
@@ -203,8 +203,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"PanelDark"
-			"PaintBackgroundType"	"2"
+			"bgcolor_override"	"PanelBlack3"
+			"PaintBackgroundType"	"0"
 		}
 		"AveragesLabel"
 		{
@@ -1377,7 +1377,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"PanelDark"
+			"bgcolor_override"	"PanelBlack3"
 		}
 		"RecordsLabel1"
 		{
@@ -1995,6 +1995,7 @@
 		"Command"		"nexttip"
 		"border_default"	"ButtonHover"
 		"border_armed"		"ButtonHover"
+		"defaultBgColor_override"	"PanelBlack3"
 	}
 
 	"ResetStatsButton"
@@ -2018,6 +2019,7 @@
 		"Command"		"resetstatsbutton"
 		"border_default"	"ButtonHover"
 		"border_armed"		"ButtonHover"
+		"defaultBgColor_override"	"PanelBlack3"
 	}
 
 	"CloseButton"

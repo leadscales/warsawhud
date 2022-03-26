@@ -138,21 +138,6 @@ Scheme
 					"color" "AccentMain"
 					"offset" "1 1"
 				}
-				"3"
-				{
-					"color" "AccentMain"
-					"offset" "2 1"
-				}
-				"4"
-				{
-					"color" "AccentMain"
-					"offset" "3 1"
-				}
-				"5"
-				{
-					"color" "AccentMain"
-					"offset" "4 1"
-				}
 			}
 			Right
 			{
@@ -166,21 +151,6 @@ Scheme
 					"color" "AccentMain"
 					"offset" "1 1"
 				}
-				"3"
-				{
-					"color" "AccentMain"
-					"offset" "2 1"
-				}
-				"4"
-				{
-					"color" "AccentMain"
-					"offset" "3 1"
-				}
-				"5"
-				{
-					"color" "AccentMain"
-					"offset" "4 1"
-				}
 			}
 			Top
 			{
@@ -193,21 +163,6 @@ Scheme
 				{
 					"color" "AccentMain"
 					"offset" "1 1"
-				}
-				"3"
-				{
-					"color" "AccentMain"
-					"offset" "2 1"
-				}
-				"4"
-				{
-					"color" "AccentMain"
-					"offset" "3 1"
-				}
-				"5"
-				{
-					"color" "AccentMain"
-					"offset" "4 1"
 				}
 			}
 		}
@@ -226,21 +181,6 @@ Scheme
 					"color" "AccentMainDark"
 					"offset" "1 1"
 				}
-				"3"
-				{
-					"color" "AccentMainDark"
-					"offset" "2 1"
-				}
-				"4"
-				{
-					"color" "AccentMainDark"
-					"offset" "3 1"
-				}
-				"5"
-				{
-					"color" "AccentMainDark"
-					"offset" "4 1"
-				}
 			}
 			Right
 			{
@@ -254,21 +194,6 @@ Scheme
 					"color" "AccentMainDark"
 					"offset" "1 1"
 				}
-				"3"
-				{
-					"color" "AccentMainDark"
-					"offset" "2 1"
-				}
-				"4"
-				{
-					"color" "AccentMainDark"
-					"offset" "3 1"
-				}
-				"5"
-				{
-					"color" "AccentMainDark"
-					"offset" "4 1"
-				}
 			}
 			Top
 			{
@@ -281,21 +206,6 @@ Scheme
 				{
 					"color" "AccentMainDark"
 					"offset" "1 1"
-				}
-				"3"
-				{
-					"color" "AccentMainDark"
-					"offset" "2 1"
-				}
-				"4"
-				{
-					"color" "AccentMainDark"
-					"offset" "3 1"
-				}
-				"5"
-				{
-					"color" "AccentMainDark"
-					"offset" "4 1"
 				}
 			}
 		}
@@ -792,7 +702,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "Blank"
 					"offset" "0 1"
 				}
 			}
@@ -800,7 +710,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "Blank"
 					"offset" "1 0"
 				}
 			}

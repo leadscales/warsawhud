@@ -46,6 +46,16 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"ClassIcons"
+		{
+			"1"
+			{
+				"name"			"Chars"
+				"tall"			"26"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 	}
 
 	CustomFontFiles
@@ -54,6 +64,11 @@ Scheme
 		{
 			"font"	"resource/fonts/Icons.ttf"
 			"name"	"Icons"
+		}
+		"122"
+		{
+			"font"	"resource/fonts/Chars.ttf"
+			"name"	"Chars"
 		}
 	}
 }
