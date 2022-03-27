@@ -24,7 +24,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"cs-1.0"
-			"ypos"					"0"
+			"ypos"					"-7"
 			"wide"					"26"
 			"delta_item_x"			"10"
 			"delta_item_start_y"	"12"
@@ -81,7 +81,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"cs0"
-			"ypos"					"0"
+			"ypos"					"-7"
 			"wide"					"26"
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"12"

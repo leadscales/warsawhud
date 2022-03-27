@@ -4,8 +4,8 @@
 {
 	"HudItemEffectMeter"
 	{
-		"xpos"				"c115"
-		"xpos_minmode"		"c65"
+		"xpos"				"c0-s1-100"
+		"ypos"				"c95"
 	}
 	
 	"ItemEffectMeterLabel"

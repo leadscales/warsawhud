@@ -111,7 +111,7 @@ Scheme
 		HTML.BgColor							"Blank"
 
 		ProgressBar.FgColor						"ColorWhite"
-		ProgressBar.BgColor						"PanelBlack3"
+		ProgressBar.BgColor						"PanelBlack2"
 
 		CircularProgressBar.FgColor				"White"
 		CircularProgressBar.BgColor				"White"

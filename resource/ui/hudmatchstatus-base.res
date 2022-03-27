@@ -248,7 +248,7 @@
 
 			if_match
 			{
-				"ypos"			"10"
+				"ypos"			"4"
 				"tall"			"15"
 				"font"			"HudFontSmall"
 			}
@@ -260,7 +260,7 @@
 		"ControlName"	"CTFTeamStatus"
 		"fieldName"		"TeamStatus"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"1"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"75"
@@ -276,7 +276,7 @@
 		"team1_max_expand"	"220"
 
 		"team2_grow_dir"	"east"
-		"team2_base_x"		"c31"
+		"team2_base_x"		"c30"
 		"team2_max_expand"	"220"
 
 		"playerpanels_kv"
@@ -287,15 +287,15 @@
 			"zpos"			"1"
 			"proportionaltoparent"	"1"
 
-			"color_portrait_bg_red"				"Red"
-			"color_portrait_bg_blue"			"Blue"
-			"color_portrait_bg_red_dead"		"79 54 52 255"
-			"color_portrait_bg_blue_dead"		"44 49 51 255"
-			"color_bar_health_high"				"Health Buff"
+			"color_portrait_bg_red"				"PanelBlack2"
+			"color_portrait_bg_blue"			"PanelBlack2"
+			"color_portrait_bg_red_dead"		"PanelBlack3"
+			"color_portrait_bg_blue_dead"		"PanelBlack3"
+			"color_bar_health_high"				"Health Normal"
 			"color_bar_health_med"				"Health Normal"
 			"percentage_health_med"				"0.5"
 			"color_bar_health_low"				"Health Hurt"
-			"percentage_health_low"				"0.2"
+			"percentage_health_low"				"0.49"
 			"color_portrait_blend_dead_red"		"235 235 235 255"
 			"color_portrait_blend_dead_blue"	"235 235 235 255"
 
@@ -342,16 +342,17 @@
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
 			}
+
 			"healthbar"
 			{
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"healthbar"
 				"font"			"Default"
 				"xpos"			"0"
-				"ypos"			"19"
+				"ypos"			"20"
 				"zpos"			"5"
 				"wide"			"f0"
-				"tall"			"3"
+				"tall"			"1"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -359,19 +360,21 @@
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
-				"bgcolor_override"		"80 80 80 255"
+				"bgcolor_override"		"PanelBlack3"
+				"fgcolor_override"		"Health Normal"
 				"proportionaltoparent"	"1"
 			}
+
 			"overhealbar"
 			{
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"overhealbar"
 				"font"			"Default"
 				"xpos"			"0"
-				"ypos"			"19"
+				"ypos"			"20"
 				"zpos"			"6"
 				"wide"			"f0"
-				"tall"			"3"
+				"tall"			"1"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -380,7 +383,7 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"bgcolor_override"		"0 0 0 0"
-				"fgcolor_override"		"255 255 255 160"
+				"fgcolor_override"		"Health Buff"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"

@@ -46,6 +46,16 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"SmallerIcons"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"10"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		"ClassIcons"
 		{
 			"1"
