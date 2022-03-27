@@ -101,8 +101,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusAnchor"
-		"xpos"			"cs-0.5-200"
-		"ypos"			"cs-0.5+80"
+		"xpos"			"c0-s1-145"
+		"ypos"			"c63"
 		"wide"			"23"
 		"tall"			"23"
 		"visible"		"1"

@@ -66,6 +66,16 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"SmallerClassIcons"
+		{
+			"1"
+			{
+				"name"			"Chars"
+				"tall"			"16"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 	}
 
 	CustomFontFiles

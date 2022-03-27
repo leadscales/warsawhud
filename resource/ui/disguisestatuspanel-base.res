@@ -37,13 +37,13 @@
 		"tall"				"30"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"TransparentBlack"
+		"bgcolor_override"	"PanelBlack1"
 		"PaintBackgroundType"	"0"
 	}
 
 	"DisguiseStatusBG"
 	{
-		"ControlName"		"CTFImagePanel"
+		"ControlName"		"EditablePanel"
 		"fieldName"			"DisguiseStatusBG"
 		"xpos"				"30"
 		"ypos"				"0"
@@ -54,11 +54,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"../hud/color_panel_brown"
-		"scaleImage"		"1"
-		"teambg_1"			"../hud/color_panel_brown"
-		"teambg_2"			"../hud/color_panel_red"
-		"teambg_3"			"../hud/color_panel_blu"
+		"bgcolor_override"	"PanelBlack3"
 
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
