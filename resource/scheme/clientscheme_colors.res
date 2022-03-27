@@ -6,11 +6,11 @@ Scheme
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
-		"Orange"								"AccentMain"
-		"OrangeDim"								"AccentMain"
+		"Orange"								"96 192 255 255"
+		"OrangeDim"								"96 192 255 255"
 		"LightOrange"							"188 112 0 128"
 		"GoalOrange"							"255 133 0 255"
-		"TFOrange"								"145 73 59 255"
+		"TFOrange"								"96 192 255 255"
 		"Purple"								"137 69 99 255"
 
 		"HalloweenThemeColor2015_Light"			"238 126 17 255"
