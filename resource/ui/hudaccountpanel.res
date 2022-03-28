@@ -55,7 +55,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Font22"
+		"font"					"Font12"
 		"bgcolor_override"		"PanelBlack3"
 	}
 }

@@ -86,62 +86,28 @@ event HudLowAmmoPulseStop
 // Ubercharge Meters
 event HudMedicCharged
 {
-	RunEvent HudMedicOrangePulseCharge 	0.0
-	//RunEvent HudMedicSolidColorCharge	0.0
-	//RunEvent HudMedicRainbowCharged 	0.0
+	Animate	ChargeMeter 				FgColor		"Uber Charged 1"	Linear 0.0 0.2
+	Animate	ChargeMeter 				FgColor		"Uber Charged 2"	Linear 0.2 0.4
 
-	RunEvent HudMedicChargedLoop		0.6
+	Animate ChargeLabel					FgColor		"ColorBlack"		Linear 0.0 0.2
+	Animate ChargeBG					BgColor		"Uber Charged 1"	Linear 0.0 0.2
+
+	RunEvent HudMedicChargedLoop		0.4
 }
 
-event HudMedicRainbowCharged
+event HudMedicChargedLoop
 {
-	Animate	ChargeLabel 				FgColor		"ColorGreen"		Linear 0.0 0.1
-	Animate	ChargeLabel 				FgColor		"AccentMain"			Linear 0.1 0.1
-	Animate	ChargeLabel 				FgColor		"ColorBlue"			Linear 0.2 0.1
-	Animate	ChargeLabel 				FgColor		"ColorMagenta"		Linear 0.3 0.1
-	Animate	ChargeLabel 				FgColor		"ColorRed"			Linear 0.4 0.1
-	Animate	ChargeLabel 				FgColor		"ColorYellow"		Linear 0.5 0.1
-
-	Animate	ChargeMeter 				FgColor		"ColorGreen"		Linear 0.0 0.1
-	Animate	ChargeMeter 				FgColor		"AccentMain"			Linear 0.1 0.1
-	Animate	ChargeMeter 				FgColor		"ColorBlue"			Linear 0.2 0.1
-	Animate	ChargeMeter 				FgColor		"ColorMagenta"		Linear 0.3 0.1
-	Animate	ChargeMeter 				FgColor		"ColorRed"			Linear 0.4 0.1
-	Animate	ChargeMeter 				FgColor		"ColorYellow"		Linear 0.5 0.1
-
-	RunEvent HudMedicChargedLoop		0.6
-}
-
-event HudMedicSolidColorCharge
-{
-	Animate ChargeLabel					FgColor		"Solid Color Uber"	Linear 0.0 0.0
-
-	Animate ChargeMeter					FgColor		"Solid Color Uber"	Linear 0.0 0.0
-
-	RunEvent HudMedicChargedLoop		0.6
-}
-
-event HudMedicOrangePulseCharge
-{
-	Animate	ChargeLabel 				FgColor		"Flashing Uber Color1"	Linear 0.0 0.1
-	Animate	ChargeLabel 				FgColor		"Flashing Uber Color2"	Linear 0.3 0.4
-
-	Animate	ChargeMeter 				FgColor		"Flashing Uber Color1"	Linear 0.0 0.1
-	Animate	ChargeMeter 				FgColor		"Flashing Uber Color2"	Linear 0.3 0.4
-
-	RunEvent HudMedicChargedLoop		0.6
+	RunEvent HudMedicCharged			0.0
 }
 
 event HudMedicChargedStop
 {
-	StopEvent HudMedicCharged			0.0
-	StopEvent HudMedicRainbowCharged	0.0
-	StopEvent HudMedicSolidColorCharge	0.0
-	StopEvent HudMedicOrangePulseCharge	0.0
-	StopEvent HudMedicChargedLoop		0.0
+	StopEvent HudMedicCharged		0.0
+	StopEvent HudMedicChargedLoop	0.0
 
-	Animate	ChargeMeter					FgColor		"Uber Bar Color"	Linear 0.0 0.0001
-	Animate	ChargeLabel 				FgColor		"Ammo In Clip"		Linear 0.0 0.0001
+	Animate	ChargeMeter					FgColor		"Uber Bar Color"	Linear 0.0 0.2
+	Animate ChargeLabel					FgColor		"Ammo In Clip"		Linear 0.0 0.2
+	Animate ChargeBG					BgColor		"PanelBlack3"		Linear 0.0 0.2
 }
 //==================================================================================
 

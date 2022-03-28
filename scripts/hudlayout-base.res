@@ -113,9 +113,9 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"0"
-		"ypos"				"c25"
+		"ypos"				"0"
 		"wide"				"f0"
-		"tall"				"300"
+		"tall"				"480"
 	}
 
 	"HudDemomanCharge"
@@ -942,8 +942,8 @@
 		"xpos"				"cs-0.5"
 		"ypos"				"cs-0.5"
 		"zpos"				"1"
-		"wide"				"300"
-		"tall"				"80"
+		"wide"				"315"
+		"tall"				"65"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -955,8 +955,8 @@
 		"xpos"				"cs-0.5"
 		"ypos"				"cs-0.5"
 		"zpos"				"1"
-		"wide"				"300"
-		"tall"				"80"
+		"wide"				"315"
+		"tall"				"45"
 		"PaintBackgroundType"	"0"
 	}
 

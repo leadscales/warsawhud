@@ -42,7 +42,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"fillcolor"		"0 0 0 64"
+		"fillcolor"		"PanelBlack4"
 	}
 
 	"SysMenu"
@@ -76,9 +76,9 @@
 		"xpos"						"cs-0.5"
 		"ypos"						"cs-0.5"
 		"zpos"						"5"
-		"wide"						"180"
-		"tall"						"180"
-		"bgcolor_override"			"0 0 0 64"
+		"wide"						"190"
+		"tall"						"190"
+		"bgcolor_override"			"Blank"
 		"mouseinputenabled"			"0"
 	}
 
@@ -109,7 +109,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -129,7 +129,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"soldier"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"0"
 		"zpos"				"6"
 		"wide"				"60"
@@ -151,7 +151,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -173,7 +173,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"pyro"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"0"
 		"zpos"				"6"
 		"wide"				"60"
@@ -195,7 +195,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -218,7 +218,7 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"demoman"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"5"
 		"zpos"				"6"
 		"wide"				"60"
 		"tall"				"60"
@@ -239,7 +239,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -261,7 +261,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"heavyweapons"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"0"
 		"zpos"				"6"
 		"wide"				"60"
@@ -283,7 +283,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -305,7 +305,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"engineer"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"0"
 		"zpos"				"6"
 		"wide"				"60"
@@ -327,7 +327,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -350,7 +350,7 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"medic"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"5"
 		"zpos"				"6"
 		"wide"				"60"
 		"tall"				"60"
@@ -371,7 +371,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -393,7 +393,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"sniper"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"0"
 		"zpos"				"6"
 		"wide"				"60"
@@ -415,7 +415,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -437,7 +437,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"spy"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"0"
 		"zpos"				"6"
 		"wide"				"60"
@@ -459,7 +459,7 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
@@ -490,9 +490,9 @@
 		"ControlName"		"CExButton"
 		"fieldName"			"random2"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"5"
 		"zpos"				"6"
-		"wide"				"180"
+		"wide"				"190"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"2"
@@ -566,9 +566,9 @@
 		"ControlName"		"CExButton"
 		"fieldName"			"CancelButton"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"5"
 		"zpos"				"6"
-		"wide"				"180"
+		"wide"				"190"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"2"

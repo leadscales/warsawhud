@@ -32,9 +32,10 @@ Scheme
 		"PanelMain"					"16 16 16 255"
 		"PanelDark"					"8 8 8 255"
 		"PanelDarkest"				"4 4 4 255"
-		"PanelBlack1"				"0 0 0 192"
-		"PanelBlack2"				"0 0 0 160"
-		"PanelBlack3"				"0 0 0 128"
+		"PanelBlack1"				"0 0 0 192" // Title bar
+		"PanelBlack2"				"0 0 0 160"	// Important element or cat.
+		"PanelBlack3"				"0 0 0 128" // Information
+		"PanelBlack4"				"0 0 0 64" // Background if applicable
 		"PanelWhite1"				"255 255 255 192"
 		"PanelWhite2"				"255 255 255 160"
 		"PanelWhite3"				"255 255 255 128"
@@ -60,10 +61,9 @@ Scheme
 		"Crosshair"					"242 242 242 255"
 		"CrosshairDamage"			"255 0 0 255"
 		// Ubercharge
-		"Uber Bar Color"			"235 226 202 255"
-		"Solid Color Uber"			"255 50 25 255"
-		"Flashing Uber Color1"		"255 165 0 255"
-		"Flashing Uber Color2"		"255 69 0 255"
+		"Uber Bar Color"			"255 255 2555 255"
+		"Uber Charged 1"			"0 255 224 255"
+		"Uber Charged 2"			"0 255 224 255"
 		// Player Stats
 		"StatBar1"					"15 255 255 128"
 		"StatBar2"					"15 225 225 128"
