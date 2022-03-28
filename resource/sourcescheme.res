@@ -9,48 +9,48 @@ Scheme
 	{
 		// HUD COLORS
 		//---------------------------------------------
-		"Yellow"					"169 123 53 255"
-		"White"						"242 242 242 255"
-		"DullWhite"					"132 132 132 255"
-		"DarkGrey"					"27 27 27 255"
-		"Black"						"17 17 17 255"
+		"Yellow"					"96 192 255 255"
+		"White"						"255 255 255 255"
+		"DullWhite"					"128 128 128 255"
+		"DarkGrey"					"32 32 32 255"
+		"Black"						"16 16 16 255"
 		"Blank"						"0 0 0 0"
-		"HudBlack"					"0 0 0 200"
-		"Cyan"						"72 255 255 255"
+		"HudBlack"					"0 0 0 192"
+		"Cyan"						"96 192 255 255"
 
 		// BASE COLORS
 		//---------------------------------------------
-	    "TFDarkBrown"               "60 56 53 255"
-	    "TFDarkBrownTransparent"    "60 56 53 190"
-	    "TFTanBright"               "236 227 203 150"
-	    "TFTanLight"                "201 188 162 150"
-	    "TFTanMedium"               "131 121 104 150"
+	    "TFDarkBrown"               "64 64 64 255"
+	    "TFDarkBrownTransparent"    "64 64 64 192"
+	    "TFTanBright"               "255 255 255 160"
+	    "TFTanLight"                "128 128 128 160"
+	    "TFTanMedium"               "96 96 96 160"
 
-	    "TFTanLightBright"          "229 223 211 90"
-	    "TFTanLightDark"            "96 90 78 90"
+	    "TFTanLightBright"          "255 255 255 90"
+	    "TFTanLightDark"            "96 96 96 90"
 
-	    "TFOrangeBright"            "156 82 33 255"
+	    "TFOrangeBright"            "96 192 255 255"
 
-	    "TFTextBright"              "251 236 203 150"
-	    "TFTextLight"               "201 188 162 255"
-	    "TFTextMedium"              "131 121 104 255"
-	    "TFTextMediumDark"          "104 96 83 255"
-	    "TFTextBlack"               "42 39 37 255"
-	    "TFTextDull"                "131 121 104 255"
+	    "TFTextBright"              "255 255 255 150"
+	    "TFTextLight"               "192 192 192 255"
+	    "TFTextMedium"              "160 160 160 255"
+	    "TFTextMediumDark"          "128 128 128 255"
+	    "TFTextBlack"               "64 64 64 255"
+	    "TFTextDull"                "96 96 96 255"
 
-	    "TFMediumBrown"				"69 64 58 255"
+	    "TFMediumBrown"				"64 64 64 255"
 
 	    "QuickListBGDeselected"		"0 0 0 0"
-	    "QuickListBGSelected"		"169 123 53 255"
+	    "QuickListBGSelected"		"96 192 255 255"
 
 	    "Blank"						"0 0 0 0"
 
-		"ControlBG"					"76 88 68 255"		// background color of controls
-		"ControlDarkBG"				"90 106 80 255"		// darker background color; used for background of scrollbars
-		"WindowBG"					"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"				"90 84 75 255"		// background color of any selected text or menu item
-		"SelectionBG2"				"69 64 57 255"		// selection background in window w/o focus
-		"ListBG"					"39 36 34 255"		// background of server browser, buddy list, etc.
+		"ControlBG"					"64 64 64 255"		// background color of controls
+		"ControlDarkBG"				"96 96 96 255"		// darker background color; used for background of scrollbars
+		"WindowBG"					"48 48 48 255"		// background color of text edit panes (chat, text entries, etc.)
+		"SelectionBG"				"80 80 80 255"		// background color of any selected text or menu item
+		"SelectionBG2"				"64 64 64 255"		// selection background in window w/o focus
+		"ListBG"					"32 32 32 255"		// background of server browser, buddy list, etc.
 	}
 
 	BaseSettings
