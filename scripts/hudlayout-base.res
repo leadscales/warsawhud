@@ -939,11 +939,11 @@
 		"fieldName" 		"HudMenuEngyBuild"
 		"visible" 			"1"
 		"enabled" 			"1"
-		"xpos"				"c-200"
-		"ypos"				"c-75"
+		"xpos"				"cs-0.5"
+		"ypos"				"cs-0.5"
 		"zpos"				"1"
-		"wide"				"400"
-		"tall"				"150"
+		"wide"				"300"
+		"tall"				"80"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -978,11 +978,11 @@
 		"fieldName" 		"HudMenuSpyDisguise"
 		"visible" 			"1"
 		"enabled" 			"1"
-		"xpos"				"c90"
-		"ypos"				"c-72"
+		"xpos"				"cs-0.5"
+		"ypos"				"cs-0.5"
 		"zpos"				"1"
 		"wide"				"100"
-		"tall"				"190"
+		"tall"				"155"
 		"PaintBackgroundType"	"0"
 	}
 
