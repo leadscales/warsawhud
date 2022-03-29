@@ -15,8 +15,8 @@
 		"paintborder"			"1"
 		"paintbackground"		"1"
 		"PaintBackgroundType"	"0"
-		"defaultbgcolor_override"	"ColorWhite"
-		"bgcolor_override"			"ColorWhite"
+		"defaultbgcolor_override"	"PanelWhite2"
+		"bgcolor_override"			"PanelWhite2"
 	}
 
 	"DeleteButton"
@@ -42,9 +42,12 @@
 		"Command"				"delete"
 		"paintbackground"		"1"
 
-		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override" 	"LightRed"
-		"depressedBgColor_override" "Black"
+		"defaultBgColor_override" 	"PanelBlack1"
+		"defaultFgColor_override"	"ColorWhite"
+		"armedBgColor_override" 	"ColorNegative"
+		"armedFgColor_override"		"ColorBlack"
+		"depressedBgColor_override" "ColorNegative"
+		"depressedFgColor_override"	"ColorBlack"
 	}
 
 	"TriggerButton"
@@ -65,7 +68,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labeltext"				"s"
+		"labeltext"				"i"
 		"font"					"CustomIcons"
 		"textAlignment"			"center"
 		"dulltext"				"0"
@@ -76,9 +79,12 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override" 	"CreditsGreen"
-		"depressedBgColor_override" "Black"
+		"defaultBgColor_override" 	"PanelBlack1"
+		"defaultFgColor_override"	"ColorWhite"
+		"armedBgColor_override" 	"ColorPositive"
+		"armedFgColor_override"		"ColorBlack"
+		"depressedBgColor_override" "ColorPositive"
+		"depressedFgColor_override"	"ColorBlack"
 	}
 
 	"AcceptButton"
@@ -99,7 +105,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labeltext"				"s"
+		"labeltext"				"V"
 		"font"					"CustomIcons"
 		"textAlignment"			"center"
 		"dulltext"				"0"
@@ -110,9 +116,12 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override"		"CreditsGreen"
-		"depressedBgColor_override" "Black"
+		"defaultBgColor_override" 	"PanelBlack1"
+		"defaultFgColor_override"	"ColorWhite"
+		"armedBgColor_override" 	"ColorPositive"
+		"armedFgColor_override"		"ColorBlack"
+		"depressedBgColor_override" "ColorPositive"
+		"depressedFgColor_override"	"ColorBlack"
 	}
 
 	"DeclineButton"
@@ -140,8 +149,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override" 	"LightRed"
-		"depressedBgColor_override" "Black"
+		"defaultBgColor_override" 	"PanelBlack1"
+		"defaultFgColor_override"	"ColorWhite"
+		"armedBgColor_override" 	"ColorNegative"
+		"armedFgColor_override"		"ColorBlack"
+		"depressedBgColor_override" "ColorNegative"
+		"depressedFgColor_override"	"ColorBlack"
 	}
 }
