@@ -1,5 +1,40 @@
 "Resource/UI/econ/QuestEditorPanel.res"
 {
+	"Background"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"Background"
+		"xpos"				"0"
+		"ypos"				"-48"
+		"zpos"				"-5"
+		"wide"				"f0"
+		"tall"				"f0"
+		"image"				"replay/thumbnails/wallpaper_blurred"
+		"visible"			"1"
+		"enabled"			"1"
+		"scaleImage"		"1"
+
+		"consume_mode"
+		{
+			"wide"									"0"
+		}
+	}
+
+	"BackgroundPanel"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"BackgroundPanel"
+		"xpos"				"0"
+		"ypos"				"-48"
+		"zpos"				"-4"
+		"wide"				"f0"
+		"tall"				"f0"
+		"bgcolor_override"	"PanelBlack2"
+		"visible"			"1"
+		"enabled"			"1"
+		"scaleImage"		"1"
+	}
+
 	"BGImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -229,8 +264,8 @@
 		"tall"			"200"
 		"zpos"			"100"
 		"visible"		"1"
-		"bgcolor_override"	"PanelDark"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"	"PanelBlack3"
+		"PaintBackgroundType"	"0"
 		"mouseinputenabled"		"1"
 		"proportionaltoparent"	"1"
 		"paintborder"			"0"
@@ -543,8 +578,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"command"	"random_seed"
 
-			"defaultFgColor_override"	"ColorWhite"
-			"armedFgColor_override"		"White"
+			"defaultBgColor_Override"	"PanelBlack3"
 
 			"consume_mode"
 			{
@@ -622,8 +656,7 @@
 			"actionsignallevel" 	"2"
 			"RoundedCorners"		"0"
 
-			"defaultFgColor_override"	"ColorWhite"
-			"armedFgColor_override"		"White"
+			"defaultBgColor_Override"	"PanelBlack3"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"

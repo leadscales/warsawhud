@@ -99,6 +99,36 @@
 		}
 	}
 
+	"Background"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"Background"
+		"xpos"				"0"
+		"ypos"				"-47"
+		"zpos"				"-5"
+		"wide"				"f0"
+		"tall"				"f0"
+		"image"				"replay/thumbnails/wallpaper_blurred"
+		"visible"			"1"
+		"enabled"			"1"
+		"scaleImage"		"1"
+	}
+
+	"BackgroundPanel"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"BackgroundPanel"
+		"xpos"				"0"
+		"ypos"				"-50"
+		"zpos"				"-4"
+		"wide"				"f0"
+		"tall"				"f0"
+		"fillcolor"			"PanelBlack2"
+		"visible"			"1"
+		"enabled"			"1"
+		"scaleImage"		"1"
+	}
+
 	"CaratLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -109,12 +139,12 @@
 		"xpos"				"c-290"
 		"ypos"				"26"
 		"zpos"				"1"
-		"wide"				"20"
-		"tall"				"16"
+		"wide"				"0"
+		"tall"				"0"
 		"autoResize"		"1"
 		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
+		"visible"			"0"
+		"enabled"			"0"
 		"fgcolor_override"	"ColorPurple"
 	}
 
@@ -125,7 +155,7 @@
 		"font"				"HudFontMedium"
 		"labelText"			"#ClassBeingEquipped"
 		"textAlignment"		"west"
-		"xpos"				"c-270"
+		"xpos"				"c-290"
 		"ypos"				"15"
 		"zpos"				"1"
 		"wide"				"350"
@@ -324,8 +354,10 @@
 		"command"			"sv_cheats 1;r_skin 0"
 		"paintbackground"	"1"
 
-		"defaultFgColor_override"	"180 92 77 127"
-		"armedFgColor_override"		"180 92 77 127"
+		"defaultFgColor_override"	"RedSolid"
+		"armedFgColor_override"		"ColorBlack"
+		"defaultBgColor_override"	"Button"
+		"armedBgColor_override"		"RedSolid"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -353,8 +385,10 @@
 		"command"			"sv_cheats 1;r_skin 1"
 		"paintbackground"	"1"
 
-		"defaultFgColor_override"	"104 124 155 127"
-		"armedFgColor_override"		"104 124 155 127"
+		"defaultFgColor_override"	"BlueSolid"
+		"armedFgColor_override"		"ColorBlack"
+		"defaultBgColor_override"	"Button"
+		"armedBgColor_override"		"BlueSolid"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

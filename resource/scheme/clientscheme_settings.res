@@ -18,18 +18,21 @@ Scheme
 		Replay.RenderDialog.BgColor						"TanDark"
 
 		Econ.Dialog.BgColor						"Blank"
-		Econ.Button.BgColor						"Button"
+		Econ.Button.BgColor						"PanelBlack3"
 		Econ.Button.FgColor						"ColorWhite"
 		Econ.Button.ArmedBgColor				"AccentMain"
-		Econ.Button.ArmedFgColor				"ColorWhite"
+		Econ.Button.ArmedFgColor				"ColorBlack"
 		Econ.Button.DepressedBgColor			"AccentMain"
-		Econ.Button.DepressedFgColor			"ColorWhite"
-		Econ.Button.PresetDefaultColorFg		"AccentMain"
-		Econ.Button.PresetArmedColorFg			"AccentMain"
-		Econ.Button.PresetDepressedColorFg		"AccentMain"
-		Econ.Button.PresetDefaultColorBg		"PanelBlack3"
-		Econ.Button.PresetArmedColorBg			"PanelBlack2"
-		Econ.Button.PresetDepressedColorBg		"PanelBlack3"
+		Econ.Button.DepressedFgColor			"ColorBlack"
+
+		Econ.Button.PresetDefaultColorFg		"ColorBlack"
+		Econ.Button.PresetArmedColorFg			"ColorBlack"
+		Econ.Button.PresetDepressedColorFg		"ColorBlack"
+
+		Econ.Button.PresetDefaultColorBg		"AccentMain"
+		Econ.Button.PresetArmedColorBg			"AccentMain"
+		Econ.Button.PresetDepressedColorBg		"AccentMain"
+
 		Econ.Button.Border.Default				"PanelBlack3"
 		Econ.Button.Border.Armed				"PanelBlack2"
 

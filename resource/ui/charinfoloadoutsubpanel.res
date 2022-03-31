@@ -685,9 +685,9 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MenusContainer"
-		"xpos"			"0"
-		"ypos"			"rs1-106"
-		"wide"			"f0"
+		"xpos"			"cs-0.5"
+		"ypos"			"c0-s1-15"
+		"wide"			"540"
 		"tall"			"20"
 		"bgcolor_override"	"PanelBlack3"
 

@@ -336,7 +336,7 @@
 		"ypos"				"0"
 		"zpos"				"99"
 		"wide"				"170"
-		"tall"				"30"
+		"tall"				"35"
 		"visible"			"1"
 		"centerwrap"				"1"
 		"font"				"CustomIcons"

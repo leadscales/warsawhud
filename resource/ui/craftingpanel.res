@@ -142,6 +142,34 @@
 		}
 	}
 
+	"Background"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"Background"
+		"xpos"				"0"
+		"ypos"				"-47"
+		"zpos"				"-5"
+		"wide"				"f0"
+		"tall"				"f0"
+		"image"				"replay/thumbnails/wallpaper_blurred"
+		"visible"			"1"
+		"enabled"			"1"
+		"scaleImage"		"1"
+	}
+
+	"BackgroundPanel"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"BackgroundPanel"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"-4"
+		"wide"				"f0"
+		"tall"				"f0"
+		"bgcolor_override"	"PanelBlack2"
+		"visible"			"1"
+	}
+
 	"ClassLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -339,7 +367,7 @@
 		"wide"					"280"
 		"tall"					"240"
 		"PaintBackgroundType"	"2"
-		"fgcolor_override"		"59 54 48 255"
+		"fgcolor_override"		"ColorWhite"
 		"bgcolor_override"		"200 187 161 0"
 		"autohide_buttons"		"1"
 	}

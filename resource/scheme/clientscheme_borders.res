@@ -1030,6 +1030,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
+			"color"					"PanelBlack2"
 			"image"					"replay/thumbnails/panels/backpack"
 			"src_corner_height"		"4"				// pixels inside the image
 			"src_corner_width"		"4"
@@ -1078,6 +1079,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
+			"color"					"Grey"
 			"image"					"replay/thumbnails/panels/backpack"
 			"src_corner_height"		"4"				// pixels inside the image
 			"src_corner_width"		"4"
@@ -1089,6 +1091,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
+			"color"					"Grey"
 			"image"					"replay/thumbnails/panels/backpack"
 			"src_corner_height"		"4"				// pixels inside the image
 			"src_corner_width"		"4"
@@ -1100,6 +1103,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
+			"color"					"Grey"
 			"image"					"replay/thumbnails/panels/backpack_hover"
 			"src_corner_height"		"4"				// pixels inside the image
 			"src_corner_width"		"4"
