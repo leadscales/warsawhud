@@ -1,3 +1,5 @@
+// And so does this
+
 "Resource/UI/ObjectiveStatusMultipleEscort.res"
 {
 	"ObjectiveStatusMultipleEscort"
@@ -16,10 +18,10 @@
 	{
 		"ControlName"		"CTFHudEscort"
 		"fieldName"			"BlueEscortPanel"
-		"xpos"				"0"
-		"ypos"				"r150"
-		"zpos"				"220"
-		"wide"				"f0"
+		"xpos"				"c-100"
+		"ypos"				"r160"
+		"zpos"				"1"
+		"wide"				"400"
 		"tall"				"200"
 		"visible"			"1"
 		"enabled"			"1"
@@ -28,7 +30,7 @@
 
 		"if_blue_is_top"
 		{
-			"ypos"			"r162"
+			"ypos"				"r176"
 		}
 	}
 
@@ -36,10 +38,10 @@
 	{
 		"ControlName"		"CTFHudEscort"
 		"fieldName"			"RedEscortPanel"
-		"xpos"				"0"
-		"ypos"				"r150"
-		"zpos"				"220"
-		"wide"				"f0"
+		"xpos"				"c-100"
+		"ypos"				"r160"
+		"zpos"				"1"
+		"wide"				"400"
 		"tall"				"200"
 		"visible"			"1"
 		"enabled"			"1"
@@ -48,7 +50,7 @@
 
 		"if_red_is_top"
 		{
-			"ypos"			"r162"
+			"ypos"				"r176"
 		}
 	}
 }
