@@ -208,7 +208,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"%recede%"
-			"textinsety"	"2"
+			"textinsety"	"0"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -389,62 +389,6 @@
 			}
 		}
 
-		"Speed_Forwards"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"Speed_Forwards"
-			"xpos"			"250"
-			"ypos"			"3"
-			"zpos"			"5"
-			"wide"			"8"
-			"tall"			"8"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		""
-			"image"			"replay/thumbnails/cart_icons/cart_forwards"
-			"scaleImage"	"1"
-
-			"if_single_with_hills_blue"
-			{
-				"ypos"			"3"
-				"image"			"replay/thumbnails/cart_icons/cart_forwards"
-			}
-
-			"if_single_with_hills_red"
-			{
-				"ypos"			"3"
-				"image"			"replay/thumbnails/cart_icons/cart_forwards"
-			}
-
-			"if_multiple_trains"
-			{
-				"xpos"		"22"
-			}
-
-			"if_multiple_trains_top"
-			{
-				"visible"	"1"
-				"enabled"	"1"
-				"ypos"		"63"
-				"wide"		"8"
-				"tall"		"8"
-				"image"		"replay/thumbnails/cart_icons/cart_forwards_alt"
-			}
-
-			"if_multiple_trains_bottom"
-			{
-				"visible"	"1"
-				"enabled"	"1"
-				"ypos"		"67"
-				"wide"		"8"
-				"tall"		"8"
-				"image"		"replay/thumbnails/cart_icons/cart_forwards"
-			}
-		}
-
 		"CapPlayerImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -467,13 +411,12 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"labelText"		"#ControlPointIconCappers"
-			"textinsety"	"2"
+			"textinsety"	"0"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"bgcolor_override"	"PanelBlack3"
+			"bgcolor_override"	"Blank"
 			"border"			"HudMenuBorderUpperAlt"
-			"textinsety"	"1"	
 
 			"if_single_with_hills_blue"
 			{
@@ -494,14 +437,14 @@
 			{
 				"ypos"		"53"
 				"border"	"HudMenuBorderLowerAlt"
-				"textinsety"	"-1"	
+				"textinsety"	"0"	
 			}
 
 			"if_multiple_trains_bottom"
 			{
 				"ypos"		"75"
 				"border"	"HudMenuBorderUpperAlt"
-				"textinsety"	"1"	
+				"textinsety"	"0"	
 			}
 
 			SubImage
@@ -527,6 +470,7 @@
 			"labelText"		""
 			"image"			"replay/thumbnails/cart_icons/cart_blocked"
 			"scaleImage"	"1"
+			"drawcolor"		"ColorNegative"
 
 			"if_single_with_hills_blue"
 			{

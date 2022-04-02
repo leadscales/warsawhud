@@ -1,72 +1,113 @@
 "Resource/UI/MainMenuOverride.res"
 {
-	"CPIconBlu"
+	"cpiconbluunlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBlu"
+		"fieldName"		"cpiconbluunlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_blu"
 	}
-
-	"CPIconBluLocked"
+	
+	"cpiconblulock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconBluLocked"
+		"fieldName"		"cpiconblulock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_blu_locked"
-	}
-	"CPIconRed"
+	}	
+	
+	"cpiconredunlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRed"
+		"fieldName"		"cpiconredunlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_red"
 	}
-
-	"CPIconRedLocked"
+	
+	"cpiconredlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconRedLocked"
+		"fieldName"		"cpiconredlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_red_locked"
-	}
-
-	"CPIconNeutral"
+	}	
+	
+	"cpiconneutralunlock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutral"
+		"fieldName"		"cpiconneutralunlock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_neutral"
-	}
-
-	"CPIconNeutralLocked"
+	}	
+	
+	"cpiconneutrallock"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconNeutralLocked"
+		"fieldName"		"cpiconneutrallock"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_neutral_locked"
 	}
-
-	"CPIconWhite"
+	
+	"cpicona"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconWhite"
+		"fieldName"		"cpicona"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_white"
+		"image"			"../sprites/obj_icons/icon_obj_a"
+	}
+	
+	"cpiconb"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconb"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_b"
+	}
+	
+	"cpiconc"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconc"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_c"
+	}
+	
+	"cpicond"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpicond"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_d"
+	}
+	
+	"cpicone"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpicone"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_e"
 	}
 
 	"CPIconBlu1"
@@ -309,7 +350,7 @@
 		"image"			"../sprites/obj_icons/icon_obj_4_neutral_locked"
 	}
 
-		"CPIconBlu5"
+	"CPIconBlu5"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CPIconBlu5"
@@ -369,58 +410,281 @@
 		"image"			"../sprites/obj_icons/icon_obj_5_neutral_locked"
 	}
 
-	"CPIconA"
+	"CPIconMVM"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconA"
+		"fieldName"		"CPIconMVM"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_a"
+		"image"			"../sprites/obj_icons/icon_obj_blu_mannhattan"
 	}
-	"CPIconB"
+
+	"CPIconMVMLocked"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconB"
+		"fieldName"		"CPIconMVMLocked"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_b"
+		"image"			"../sprites/obj_icons/icon_obj_blu_mannhattan_locked"
 	}
-	"CPIconC"
+
+	"CPIconWhite"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconC"
+		"fieldName"		"CPIconWhite"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_c"
+		"image"			"../sprites/obj_icons/icon_obj_white"
 	}
-	"CPIconD"
+
+	"CPMask"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconD"
+		"fieldName"		"CPMask"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_d"
+		"image"			"../sprites/obj_icons/icon_obj_cap_mask"
 	}
-	"CPIconE"
+
+	// CTF
+	"CaptureDropped"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"CPIconE"
+		"fieldName"		"CaptureDropped"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_e"
+		"image"			"../hud/objectives_flagpanel_ico_flag_dropped"
 	}
-	"MenuThumbMissing"
+
+	"CaptureHome"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"MenuThumbMissing"
+		"fieldName"		"CaptureHome"
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/maps/menu_thumb_Missing"
+		"image"			"../hud/objectives_flagpanel_ico_flag_home"
 	}
+
+	"CaptureHomeAlt"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureHomeAlt"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_home_alt"
+	}
+
+	"CaptureMoving"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureMoving"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_moving"
+	}
+
+	"CaptureMovingAlt"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureMovingAlt"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_moving_alt"
+	}
+
+	"CaptureArrowRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_red"
+	}
+
+	"CaptureArrowBLue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowBlue"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_blue"
+	}
+
+	"CaptureArrowGrey"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowGrey"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_grey"
+	}
+
+	"CaptureArrowGreyRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowGreyRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_grey_with_red"
+	}
+
+	"CaptureArrowRedNone"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowRedNone"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_red_noarrow"
+	}
+
+	"CaptureArrowBlueNone"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowBlueNone"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_blue_noarrow"
+	}
+	// PAYLOAD
+	"CartBlue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartBlue"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_blue"
+	}
+
+	"CartPointBlu"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointBlu"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_blue"
+	}
+	"CartPointBluOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointBluOpaque"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_blue_opaque"
+	}
+
+	"CartPointNeutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointNeutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_neutral"
+	}
+	"CartPointNeutralOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointNeutralOpaque"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_neutral_opaque"
+	}
+
+	"cartpointred"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cartpointred"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_red"
+	}
+	"CartPointRedOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartPointRedOpaque"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_point_red_opaque"
+	}
+
+	"CartRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_red"
+	}
+
+	"CartTrackBlue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackBlue"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_blue"
+	}
+
+	"CartTrackBlueOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackBlueOpaque"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_blue_opaque"
+	}
+
+	"CartTrackNeutralOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackNeutralOpaque"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_neutral_opaque"
+	}
+	"CartTrackRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_red"
+	}
+
+	"CartTrackRedOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CartTrackRedOpaque"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/cart_track_red_opaque"
+	}
+
 }
