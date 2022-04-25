@@ -7,21 +7,21 @@ Scheme
 	{
 		// base colors
 		"White"				"255 255 255 255"
-		"OffWhite"			"216 216 216 255"
-		"DullWhite"			"142 142 142 255"
-		"Orange"			"156 82 33 255"
+		"OffWhite"			"224 224 224 255"
+		"DullWhite"			"160 160 160 255"
+		"Orange"			"96 192 255 255"
 		"TransparentBlack"	"0 0 0 128"
 		"Black"				"0 0 0 255"
-		"Green"				"63 185 73 255"
+		"Green"				"0 192 128 255"
 		"Blank"				"0 0 0 0"
 		
-		"DarkBrown"			"60 56 53 255"
-		"TanBright"			"236 227 203 150"
-		"TanLight"			"201 188 162 150"
-		"TanDark"			"96 90 78 90"
-		"TextBright"		"251 236 203 150"
-		"TextBlack"			"42 39 37 255"
-		"TextDull"			"131 121 104 255"
+		"DarkBrown"			"64 64 64 255"
+		"TanBright"			"224 224 224 150"
+		"TanLight"			"192 192 192 150"
+		"TanDark"			"96 96 96 90"
+		"TextBright"		"255 255 255 150"
+		"TextBlack"			"64 64 64 255"
+		"TextDull"			"128 128 128 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -341,43 +341,48 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Verdana"
+				"name"			"Nudista"
 				"tall"			"12"
 				"weight"		"700"
 				"yres"			"480 599"
 				"dropshadow"	"1"
+				"antialias" 	"1"
 			}
 			"2"
 			{
-				"name"			"Verdana"
+				"name"			"Nudista"
 				"tall"			"14"
 				"weight"		"700"
 				"yres"			"600 767"
 				"dropshadow"	"1"
+				"antialias" 	"1"
 			}
 			"3"
 			{
-				"name"			"Verdana"
+				"name"			"Nudista"
 				"tall"			"15"
 				"weight"		"700"
 				"yres"			"768 1023"
 				"dropshadow"	"1"
+				"antialias" 	"1"
 			}
 			"4"
 			{
-				"name"			"Verdana"
+				"name"			"Nudista"
 				"tall"			"17"
 				"weight"		"700"
 				"yres"			"1024 1199"
 				"dropshadow"	"1"
+				"antialias" 	"1"
 			}
 			"5"
 			{
-				"name"			"Verdana"
+				"name"			"Nudista"
 				"tall"			"22"
 				"weight"		"700"
 				"yres"			"1200 10000"
 				"dropshadow"	"1"
+				"antialias" 	"1"
 			}
 		}
 

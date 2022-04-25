@@ -32,10 +32,10 @@ Scheme
 		"PanelMain"					"16 16 16 255"
 		"PanelDark"					"8 8 8 255"
 		"PanelDarkest"				"4 4 4 255"
-		"PanelBlack1"				"0 0 0 192" // Title bar
-		"PanelBlack2"				"0 0 0 160"	// Important element or cat.
-		"PanelBlack3"				"0 0 0 128" // Information
-		"PanelBlack4"				"0 0 0 64" // Background if applicable
+		"PanelBlack1"				"0 0 0 224" // Title bar
+		"PanelBlack2"				"0 0 0 192"	// Important element or cat.
+		"PanelBlack3"				"0 0 0 160" // Information
+		"PanelBlack4"				"0 0 0 128" // Background if applicable
 		"PanelWhite1"				"255 255 255 192"
 		"PanelWhite2"				"255 255 255 160"
 		"PanelWhite3"				"255 255 255 128"

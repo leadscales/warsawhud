@@ -76,6 +76,16 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"ScoreboardClassIcons"
+		{
+			"1"
+			{
+				"name"			"Chars"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 	}
 
 	CustomFontFiles

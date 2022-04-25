@@ -195,7 +195,7 @@
 					"border_default"		"SortCategoryBorder"
 
 					"defaultFgColor_override" 	"TanDark"
-					"armedFgColor_override"		"Orange"
+					"armedFgColor_override"		"AccentMain"
 					"selectedFgColor_override"	"ColorWhite"
 
 					"image_selectedcolor"	"White"
@@ -228,7 +228,7 @@
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"Orange"
+					"armedFgColor_override"	"AccentMain"
 					"selectedFgColor_override" "ColorWhite"
 
 					"image_selectedcolor"	"White"
@@ -261,7 +261,7 @@
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"Orange"
+					"armedFgColor_override"	"AccentMain"
 					"selectedFgColor_override" "ColorWhite"
 
 					"image_selectedcolor"	"White"
@@ -292,7 +292,7 @@
 					"textAlignment"		"west"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"Orange"
+					"armedFgColor_override"	"AccentMain"
 					"selectedFgColor_override" "ColorWhite"
 
 					"image_selectedcolor"	"White"

@@ -131,7 +131,7 @@ Scheme
 			"2"
 			{
 				"name"			"Nudista"
-				"tall"			"14"
+				"tall"			"12"
 				"range"			"0x0000 0x00FF"
 				"weight"		"800"
 			}

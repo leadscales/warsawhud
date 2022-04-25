@@ -231,7 +231,7 @@
 
 				"radius"		"10"
 				"velocity"		"250"
-				"fgcolor_override"	"Orange"
+				"fgcolor_override"	"AccentMain"
 			}
 		}
 	}

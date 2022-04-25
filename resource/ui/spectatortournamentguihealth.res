@@ -25,17 +25,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"cs-0.5"
-		"ypos"			"cs-0.5"
-		"zpos"			"2"
-		"wide"			"208"
-		"tall"			"234"
-		"visible"		"0"
-		"enabled"		"1"
-		"alpha"			"0"
-		"scaleImage"	"1"
-		"proportionaltoparent"	"1"
-		"image"			""
+		"xpos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
 	}
 
 	"SpecHealthValue"

@@ -165,7 +165,7 @@
 		"zpos"				"-5"
 		"wide"				"f0"
 		"tall"				"f0"
-		"image"				"replay/thumbnails/wallpaper_blurred"
+		"image"				"replay/thumbnails/wallpaper_blurred_2"
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"
@@ -180,7 +180,7 @@
 		"zpos"				"-4"
 		"wide"				"f0"
 		"tall"				"f0"
-		"bgcolor_override"	"PanelBlack2"
+		"bgcolor_override"	"PanelBlack3"
 		"visible"			"1"
 	}
 

@@ -82,7 +82,7 @@ Scheme
 		FrameTitleBar.DisabledTextColor			"AccentMain"
 		FrameTitleBar.DisabledBgColor			"Blank"
 
-		GraphPanel.FgColor						"Orange"
+		GraphPanel.FgColor						"AccentMain"
 		GraphPanel.BgColor						"PanelBlack1"
 
 		Label.TextDullColor						"DullWhite"
@@ -106,7 +106,7 @@ Scheme
 		Menu.ArmedBgColor						"AccentMain"
 		Menu.TextInset							"6"
 
-		Chat.TypingText							"Orange"
+		Chat.TypingText							"AccentMain"
 
 		Panel.FgColor							"Gray"
 		Panel.BgColor							"Blank"
@@ -128,7 +128,7 @@ Scheme
 		PropertySheet.TransitionEffectTime		"0.25"		// time to change from one tab to another
 
 		RadioButton.TextColor					"AccentMain"
-		RadioButton.SelectedTextColor			"Orange"
+		RadioButton.SelectedTextColor			"AccentMain"
 
 		RichText.TextColor						"Gray"
 		RichText.BgColor						"Blank"
@@ -153,7 +153,7 @@ Scheme
 		SectionedListPanel.BgColor				"TransparentLightBlack"
 		SectionedListPanel.SelectedTextColor	"Black"
 		SectionedListPanel.SelectedBgColor		"Red"
-		SectionedListPanel.OutOfFocusSelectedTextColor	"Orange"
+		SectionedListPanel.OutOfFocusSelectedTextColor	"AccentMain"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
 		Slider.NobColor							"ColorWhite"
