@@ -19,9 +19,13 @@
 		"fieldName"				"DamageAccountValue"
 		"xpos"					"c0-s1-100"
 		"ypos"					"c43"
+		"xpos_minmode"			"rs3-5-6"
+		"ypos_minmode"			"rs2-5-18"
 		"zpos"					"2"
 		"wide"					"60"
 		"tall"					"15"
+		"wide_minmode"			"28"
+		"tall_minmode"			"14"
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"%metal%"
@@ -29,5 +33,6 @@
 		"font"					"Font12"
 		"fgcolor"				"Damage Numbers"
 		"bgcolor_override"		"PanelBlack2"
+		"bgcolor_override_minmode"	"Blank"
 	}
 }

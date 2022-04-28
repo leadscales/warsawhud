@@ -29,6 +29,34 @@
 		"bgcolor_override"		"Blank"
 	}
 
+	"MinmodePanel"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"MinmodePanel"
+		"xpos"				"rs1-5"
+		"ypos"				"rs1-5"
+		"wide"				"60"
+		"tall"				"30"
+		"visible"			"0"
+		"visible_minmode"	"1"
+		"enabled"			"1"
+		"bgcolor_override"	"PanelBlack2"
+	}
+
+	"UpperMinmodePanel"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"MinmodePanel"
+		"xpos"				"rs1-5"
+		"ypos"				"rs3-5-4"
+		"wide"				"14"
+		"tall"				"14"
+		"visible"			"0"
+		"visible_minmode"	"1"
+		"enabled"			"1"
+		"bgcolor_override"	"PanelBlack2"
+	}
+
 	"PlayerStatusClassImage"
 	{
 		"ControlName"	"CTFClassImage"

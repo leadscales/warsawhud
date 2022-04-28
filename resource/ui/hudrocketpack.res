@@ -36,6 +36,8 @@
 	"ItemEffectMeter"
 	{
 		"wide"				"40"
+		"wide_minmode"		"30"
+		"tall_minmode"		"2"
 	}
 
 	"ItemEffectMeter2"
@@ -45,9 +47,13 @@
 		"font"				"Default"
 		"xpos"				"40"
 		"ypos"				"1"
+		"xpos_minmode"		"30"
+		"ypos_minmode"		"0"
 		"zpos"				"2"
 		"wide"				"40"
 		"tall"				"1"
+		"wide_minmode"		"30"
+		"tall_minmode"		"2"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"

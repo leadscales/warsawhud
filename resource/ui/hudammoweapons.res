@@ -26,6 +26,8 @@
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"c0+100"
 		"ypos"				"c60"
+		"xpos_minmode"		"rs2-5"
+		"ypos_minmode"		"rs1-5"
 		"zpos"				"5"
 		"wide"				"30"
 		"tall"				"30"
@@ -35,6 +37,7 @@
 		"labelText"			"%Ammo%"
 		"fgcolor"			"Ammo In Clip"
 		"bgcolor_override"			"PanelBlack2"
+		"bgcolor_override_minmode"	"Blank"
 	}
 
 	"AmmoInClipShadow"
@@ -54,7 +57,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserve"
-		"font"				"Font22"
+		"font"				"Font12"
 		"fgcolor"			"Ammo In Reserve"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -67,6 +70,7 @@
 		"labelText"			"%AmmoInReserve%"
 		"fgcolor"			"Ammo In Reserve"
 		"bgcolor_override"	"PanelBlack2"
+		"bgcolor_override_minmode"	"Blank"
 
 		"pin_to_sibling"	"AmmoInClip"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -94,6 +98,8 @@
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"c0+100"
 		"ypos"				"c60"
+		"xpos_minmode"		"rs1-5"
+		"ypos_minmode"		"rs1-5"
 		"zpos"				"5"
 		"wide"				"60"
 		"tall"				"30"
@@ -103,6 +109,7 @@
 		"labelText"			"%Ammo%"
 		"fgcolor"			"Ammo In Clip"
 		"bgcolor_override"			"PanelBlack2"
+		"bgcolor_override_minmode"	"Blank"
 	}
 
 	"AmmoNoClipShadow"
