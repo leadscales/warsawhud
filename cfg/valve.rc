@@ -21,3 +21,4 @@ sv_unlockedchapters 99
 // Apply HUD settings
 vgui_cache_res_files 0
 tf_contract_progress_show 2
+tf_hud_target_id_show_avatars 0

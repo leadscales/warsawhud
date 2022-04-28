@@ -176,7 +176,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"Notifications_ShowButtonPanel"
-		"xpos"				"5"
+		"xpos"				"2"
 		"ypos"				"0"
 		"zpos"				"0"
 		"wide"				"35"
@@ -268,14 +268,14 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"s"
-		"font"			"SmallIcons"
+		"font"			"SmallerIcons"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"actionsignallevel" "1"
 		"command"			"open_rank_type_menu"
-		"paintbackground"	"0"
+		"paintbackground"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -283,6 +283,10 @@
 		"defaultFgColor_override" 	"ColorWhite"
 		"armedFgColor_override" 	"AccentMain"
 		"depressedFgColor_override" "ColorWhite"
+
+		"defaultBgColor_override"	"PanelBlack4"
+		"armedBgColor_override"		"PanelBlack4"
+		"depressedBgColor_override"	"PanelBlack4"
 
 		"pin_to_sibling"		"RankPanel"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -313,7 +317,7 @@
 		"xpos"			"-5"
 		"ypos"			"5"
 		"zpos"			"0"
-		"wide"			"170"
+		"wide"			"164"
 		"tall"			"35"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
@@ -321,7 +325,7 @@
 		"matchgroup"	"MatchGroup_Casual_12v12"
 		"xp_source_notification_center_x"	"350"
 		"show_model"	"0"
-		"bgcolor_override"	"PanelBlack2"
+		"bgcolor_override"	"Blank"
 
 		"pin_to_sibling"	"MainButtonsPanel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -439,10 +443,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FriendsContainer"
 		"xpos"			"0"
-		"ypos"			"5"
+		"ypos"			"2"
 		"zpos"			"5"
-		"wide"			"170"
-		"tall"			"310"
+		"wide"			"164"
+		"tall"			"356"
 		"visible"		"1"
 		"border"		"NoBorder"
 		"bgcolor_override"	"Transparent"
@@ -666,15 +670,71 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"SecondaryButtonsPanel"	
-		"xpos"			"-5"
-		"ypos"			"5"
-		"wide"			"170"
-		"tall"			"60"
-		"bgcolor_override"	"PanelBlack2"
+		"xpos"			"5"
+		"ypos"			"rs1-5"
+		"wide"			"f10"
+		"tall"			"20"
+		"bgcolor_override"	"Blank"
 
-		"pin_to_sibling"	"MainButtonsPanel"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
+		"HudSettingsBG"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"HudSettingsBG"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"20"
+			"tall"			"20"
+			"bgcolor_override"	"PanelBlack2"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
+		}
+
+		"HudSettingsButton"
+		{
+			"ControlName"	"CExButton"
+			"fieldname"		"HudSettingsButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"12"
+			"wide"			"20"
+			"tall"			"20"
+			"proportionaltoparent"	"1"
+			"visible"		"1"
+			"labeltext"		"s"
+			"font"			"SmallIcons"
+			"textalignment"	"center"
+			"command"		"motd_show"
+			"actionsignallevel"	"2"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override" 	"ColorWhite"
+			"armedFgColor_override" 	"AccentMain"
+
+			"defaultBgColor_override" 	"Blank"
+			"armedBgColor_override" 	"AccentMainTransparent2"
+
+			"pin_to_sibling"	"HudSettingsBG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		}
+
+		"Section1BG"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Section1BG"
+			"xpos"			"2"
+			"ypos"			"0"
+			"wide"			"80"
+			"tall"			"20"
+			"bgcolor_override"	"PanelBlack2"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"	"HudSettingsBG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
 
 		"AchievementsButton"
 		{
@@ -683,15 +743,13 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"f0"
+			"wide"			"20"
 			"tall"			"20"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			"labeltext"		"#Achievements"
-			"font"			"HudFontSmall"
-			"allcaps"		"1"
-			"textalignment"	"west"
-			"textinsetx"	"10"
+			"labeltext"		"a"
+			"font"			"SmallIcons"
+			"textalignment"	"center"
 			"command"		"OpenAchievementsDialog"
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -702,31 +760,10 @@
 
 			"defaultBgColor_override" 	"Blank"
 			"armedBgColor_override" 	"AccentMainTransparent2"
-		}
 
-		"AchievementsIcon"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"AchievementsIcon"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"13"
-			"wide"			"20"
-			"tall"			"20"
-			"visible"		"1"
-			"enabled"		"1"
-			"mouseinputenabled"	"0"
-			"proportionaltoparent"	"1"
-			"labelText"		"a"
-			"font"			"SmallIcons"
-			"textalignment"	"center"
-
-			"fgcolor_override"	"ColorBlack"
-			"bgcolor_override"	"AccentMain"
-
-			"pin_to_sibling"	"AchievementsButton"
-			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+			"pin_to_sibling"			"Section1BG"
+			"pin_corner_to_sibling"		"PIN_TOPLEFT"
+			"pin_to_sibling_corner"		"PIN_TOPLEFT"
 		}
 
 		"ContractsButton"
@@ -736,15 +773,13 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"f0"
+			"wide"			"20"
 			"tall"			"20"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			"labeltext"		"Contracts"
-			"font"			"HudFontSmall"
-			"allcaps"		"1"
-			"textalignment"	"west"
-			"textinsetx"	"10"
+			"labeltext"		"C"
+			"font"			"SmallIcons"
+			"textalignment"	"center"
 			"command"		"engine show_quest_log"
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -758,32 +793,7 @@
 
 			"pin_to_sibling"			"AchievementsButton"
 			"pin_corner_to_sibling"		"PIN_TOPLEFT"
-			"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
-		}
-
-		"ContractsIcon"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"ContractsIcon"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"13"
-			"wide"			"20"
-			"tall"			"20"
-			"visible"		"1"
-			"enabled"		"1"
-			"mouseinputenabled"	"0"
-			"proportionaltoparent"	"1"
-			"labelText"		"C"
-			"font"			"SmallIcons"
-			"textalignment"	"center"
-
-			"fgcolor_override"	"ColorBlack"
-			"bgcolor_override"	"AccentMain"
-
-			"pin_to_sibling"	"ContractsButton"
-			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 		}
 
 		"DemosButton"
@@ -793,15 +803,13 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"f0"
+			"wide"			"20"
 			"tall"			"20"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			"labeltext"		"Demos"
-			"font"			"HudFontSmall"
-			"allcaps"		"1"
-			"textalignment"	"west"
-			"textinsetx"	"10"
+			"labeltext"		"]"
+			"font"			"SmallIcons"
+			"textalignment"	"center"
 			"command"		"engine demoui"
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -815,100 +823,7 @@
 
 			"pin_to_sibling"			"ContractsButton"
 			"pin_corner_to_sibling"		"PIN_TOPLEFT"
-			"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
-		}
-
-		"DemosIcon"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"DemosIcon"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"13"
-			"wide"			"20"
-			"tall"			"20"
-			"visible"		"1"
-			"enabled"		"1"
-			"mouseinputenabled"	"0"
-			"proportionaltoparent"	"1"
-			"labelText"		"]"
-			"font"			"SmallIcons"
-			"textalignment"	"center"
-
-			"fgcolor_override"	"ColorBlack"
-			"bgcolor_override"	"AccentMain"
-
-			"pin_to_sibling"	"DemosButton"
-			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
-		}
-	}
-
-	"TertiaryButtonsPanel"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"TertiaryButtonsPanel"	
-		"xpos"			"0"
-		"ypos"			"5"
-		"wide"			"170"
-		"tall"			"160"
-		"bgcolor_override"	"PanelBlack2"
-
-		"pin_to_sibling"	"SecondaryButtonsPanel"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
-
-		"HudSettingsButton"
-		{
-			"ControlName"	"CExButton"
-			"fieldname"		"HudSettingsButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"12"
-			"wide"			"f0"
-			"tall"			"20"
-			"proportionaltoparent"	"1"
-			"visible"		"1"
-			"labeltext"		"HUD Options"
-			"font"			"HudFontSmall"
-			"allcaps"		"1"
-			"textalignment"	"west"
-			"textinsetx"	"10"
-			"command"		"motd_show"
-			"actionsignallevel"	"2"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"defaultFgColor_override" 	"ColorWhite"
-			"armedFgColor_override" 	"AccentMain"
-
-			"defaultBgColor_override" 	"Blank"
-			"armedBgColor_override" 	"AccentMainTransparent2"
-		}
-
-		"HudSettingsIcon"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"HudSettingsIcon"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"13"
-			"wide"			"20"
-			"tall"			"20"
-			"visible"		"1"
-			"enabled"		"1"
-			"mouseinputenabled"	"0"
-			"proportionaltoparent"	"1"
-			"labelText"		"s"
-			"font"			"SmallIcons"
-			"textalignment"	"center"
-
-			"fgcolor_override"	"ColorBlack"
-			"bgcolor_override"	"AccentMain"
-
-			"pin_to_sibling"	"HudSettingsButton"
-			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 		}
 
 		"ConsoleButton"
@@ -918,15 +833,13 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"f0"
+			"wide"			"20"
 			"tall"			"20"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			"labeltext"		"Console"
-			"font"			"HudFontSmall"
-			"allcaps"		"1"
-			"textalignment"	"west"
-			"textinsetx"	"10"
+			"labeltext"		"$"
+			"font"			"SmallIcons"
+			"textalignment"	"center"
 			"command"		"engine toggleconsole"
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -938,50 +851,64 @@
 			"defaultBgColor_override" 	"Blank"
 			"armedBgColor_override" 	"AccentMainTransparent2"
 
-			"pin_to_sibling"			"HudSettingsButton"
+			"pin_to_sibling"			"DemosButton"
 			"pin_corner_to_sibling"		"PIN_TOPLEFT"
-			"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
+			"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 		}
 
-		"ConsoleIcon"
+		// servers.res goes here
+
+		"Section2BG"
 		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"ConsoleIcon"
-			"xpos"			"0"
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Section2BG"
+			"xpos"			"2"
 			"ypos"			"0"
-			"zpos"			"13"
-			"wide"			"20"
+			"wide"			"60"
 			"tall"			"20"
+			"bgcolor_override"	"PanelBlack2"
 			"visible"		"1"
-			"enabled"		"1"
-			"mouseinputenabled"	"0"
 			"proportionaltoparent"	"1"
-			"labelText"		"$"
-			"font"			"SmallIcons"
-			"textalignment"	"center"
 
-			"fgcolor_override"	"ColorBlack"
-			"bgcolor_override"	"AccentMain"
-
-			"pin_to_sibling"	"ConsoleButton"
-			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+			"pin_to_sibling"	"Section1BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
-	}
 
-	"InGameButtonsPanel"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"InGameButtonsPanel"	
-		"xpos"			"0"
-		"ypos"			"5"
-		"wide"			"170"
-		"tall"			"120"
-		"bgcolor_override"	"PanelBlack2"
+		// after servers.res, bookmarks.res will go here
 
-		"pin_to_sibling"	"TertiaryButtonsPanel"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
+		"Section3BG"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Section3BG"
+			"xpos"			"2"
+			"ypos"			"0"
+			"wide"			"60"
+			"tall"			"20"
+			"bgcolor_override"	"PanelBlack2"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"	"Section2BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
+		// buttons that only show up in-game will go here
+		// vote calling, muting, reporting, etc.
+
+		"Section4BG"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Section4BG"
+			"xpos"			"rs1"
+			"ypos"			"0"
+			"wide"			"80"
+			"tall"			"20"
+			"bgcolor_override"	"PanelBlack2"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
+		}
 
 		"CallVoteButton"
 		{
@@ -990,10 +917,14 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"p0.5"
-			"tall"			"p0.5"
+			"wide"			"20"
+			"tall"			"20"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"	"Section4BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 
 			"SubButton"
 			{
@@ -1008,7 +939,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"NormalIcons"
+				"font"			"SmallIcons"
 				"textAlignment"	"center"
 				"labelText"		"c"
 				"use_proportional_insets" "1"
@@ -1017,31 +948,16 @@
 				"actionsignallevel" "2"
 				"paintbackground"	"1"
 				"paintborder"		"0"
-				"textinsety"		"-20"
+				"textinsety"		"0"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"FgColor"						"ColorWhite"
-				"defaultBgColor_override"		"Blank"
-				"armedBgColor_override"			"AccentMain"
-				"defaultFgColor_override"		"ColorWhite"
-				"armedFgColor_override"			"ColorBlack"
-			}
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"AccentMain"
 
-			"SubLabel"
-			{
-				"ControlName"		"CExLabel"
-				"fieldname"			"SubLabel"
-				"xpos"				"0"
-				"ypos"				"rs1"
-				"wide"				"f0"
-				"tall"				"15"
-				"proportionaltoparent"	"1"
-				"textalignment"		"Center"
-				"labelText"			"Call Vote"
-				"bgcolor_override"	"PanelBlack3"
-				"mouseinputenabled"	"0"
+				"defaultBgColor_override" 	"Blank"
+				"armedBgColor_override" 	"AccentMainTransparent2"
 			}
 		}
 
@@ -1052,8 +968,8 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"p0.5"
-			"tall"			"p0.5"
+			"wide"			"20"
+			"tall"			"20"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -1074,7 +990,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"NormalIcons"
+				"font"			"SmallIcons"
 				"textAlignment"	"center"
 				"labelText"		"M"
 				"use_proportional_insets" "1"
@@ -1083,31 +999,15 @@
 				"actionsignallevel" "2"
 				"paintbackground"	"1"
 				"paintborder"		"0"
-				"textinsety"		"-20"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"FgColor"						"ColorWhite"
-				"defaultBgColor_override"		"Blank"
-				"armedBgColor_override"			"AccentMain"
-				"defaultFgColor_override"		"ColorWhite"
-				"armedFgColor_override"			"ColorBlack"
-			}
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"AccentMain"
 
-			"SubLabel"
-			{
-				"ControlName"		"CExLabel"
-				"fieldname"			"SubLabel"
-				"xpos"				"0"
-				"ypos"				"rs1"
-				"wide"				"f0"
-				"tall"				"15"
-				"proportionaltoparent"	"1"
-				"textalignment"		"Center"
-				"labelText"			"Mute Player"
-				"bgcolor_override"	"PanelBlack3"
-				"mouseinputenabled"	"0"
+				"defaultBgColor_override" 	"Blank"
+				"armedBgColor_override" 	"AccentMainTransparent2"
 			}
 		}
 
@@ -1118,14 +1018,14 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"p0.5"
-			"tall"			"p0.5"
+			"wide"			"20"
+			"tall"			"20"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
-			"pin_to_sibling"			"CallVoteButton"
+			"pin_to_sibling"			"MutePlayersButton"
 			"pin_corner_to_sibling" 	"PIN_TOPLEFT"
-			"pin_to_sibling_corner" 	"PIN_BOTTOMLEFT"
+			"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
 
 			"SubButton"
 			{
@@ -1140,7 +1040,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"NormalIcons"
+				"font"			"SmallIcons"
 				"textAlignment"	"center"
 				"labelText"		"!"
 				"use_proportional_insets" "1"
@@ -1149,31 +1049,15 @@
 				"actionsignallevel" "3"
 				"paintbackground"	"1"
 				"paintborder"		"0"
-				"textinsety"		"-20"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"FgColor"						"ColorWhite"
-				"defaultBgColor_override"		"Blank"
-				"armedBgColor_override"			"AccentMain"
-				"defaultFgColor_override"		"ColorWhite"
-				"armedFgColor_override"			"ColorBlack"
-			}
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"AccentMain"
 
-			"SubLabel"
-			{
-				"ControlName"		"CExLabel"
-				"fieldname"			"SubLabel"
-				"xpos"				"0"
-				"ypos"				"rs1"
-				"wide"				"f0"
-				"tall"				"15"
-				"proportionaltoparent"	"1"
-				"textalignment"		"Center"
-				"labelText"			"Report Player"
-				"bgcolor_override"	"PanelBlack3"
-				"mouseinputenabled"	"0"
+				"defaultBgColor_override" 	"Blank"
+				"armedBgColor_override" 	"AccentMainTransparent2"
 			}
 		}
 
@@ -1184,8 +1068,8 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"p0.5"
-			"tall"			"p0.5"
+			"wide"			"20"
+			"tall"			"20"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -1206,7 +1090,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"NormalIcons"
+				"font"			"SmallIcons"
 				"textAlignment"	"center"
 				"labelText"		"w"
 				"use_proportional_insets" "1"
@@ -1215,32 +1099,35 @@
 				"actionsignallevel" "2"
 				"paintbackground"	"1"
 				"paintborder"		"0"
-				"textinsety"		"-20"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"FgColor"						"ColorWhite"
-				"defaultBgColor_override"		"Blank"
-				"armedBgColor_override"			"AccentMain"
-				"defaultFgColor_override"		"ColorWhite"
-				"armedFgColor_override"			"ColorBlack"
-			}
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"AccentMain"
 
-			"SubLabel"
-			{
-				"ControlName"		"CExLabel"
-				"fieldname"			"SubLabel"
-				"xpos"				"0"
-				"ypos"				"rs1"
-				"wide"				"f0"
-				"tall"				"15"
-				"proportionaltoparent"	"1"
-				"textalignment"		"Center"
-				"labelText"			"Fix Issues"
-				"bgcolor_override"	"PanelBlack3"
-				"mouseinputenabled"	"0"
+				"defaultBgColor_override" 	"Blank"
+				"armedBgColor_override" 	"AccentMainTransparent2"
 			}
+		}
+
+		// filler bg goes here because a giant empty space looks ugly
+
+		"FillerBG"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"FillerBG"
+			"xpos"			"2"
+			"ypos"			"0"
+			"wide"			"f310"
+			"tall"			"20"
+			"bgcolor_override"	"PanelBlack2"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
+			
+			"pin_to_sibling"			"Section3BG"
+			"pin_corner_to_sibling" 	"PIN_TOPLEFT"
+			"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
 		}
 	}
 }

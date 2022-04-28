@@ -10,9 +10,9 @@
 		"wide"					"190"
 		"tall"					"100"
 		"visible"				"0"
-		"bgcolor_override"		"TransparentBlack"
+		"bgcolor_override"		"PanelBlack2"
 		"paintBackground"    	"1"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 		"paintBorder"			"0"
 
 		"model_ypos"			"10"
@@ -42,9 +42,9 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"HudFontSmallest"
-			"xpos"			"10"
-			"ypos"			"3"
+			"font"			"Font10"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"270"
 			"tall"			"15"
@@ -56,6 +56,9 @@
 			"textAlignment"	"Left"
 			"dulltext"		"0"
 			"brighttext"	"0"
+			"bgcolor_override"	"PanelBlack4"
+			"allcaps"		"1"
+			"textinsetx"	"10"
 		}
 	}
 }

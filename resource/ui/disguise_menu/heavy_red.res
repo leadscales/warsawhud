@@ -19,6 +19,7 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
+		"allcaps"			"1"
 	}
 
 	"ClassIcon"

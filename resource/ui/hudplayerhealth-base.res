@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Font24"
+		"font"			"Font20"
 		"fgcolor"		"Health Normal"
 	}
 

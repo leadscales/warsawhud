@@ -11,7 +11,7 @@
 		"tall"				"20"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"TransparentBlack"
+		"fillcolor"			"PanelBlack2"
 	}
 
 	"TargetIDBG"
@@ -42,12 +42,12 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"TargetIDBG_Spec_Blue"
 		"xpos"				"0"
-		"ypos"				"45"
+		"ypos"				"9999"
 		"zpos"				"1"
-		"wide"				"f0"
+		"wide"				"0"
 		"tall"	 			"35"
 		"visible"			"0"
-		"enabled"			"1"
+		"enabled"			"0"
 		"fillcolor"			"72 112 125 255"
 
 		"src_corner_height"		"23"
@@ -61,12 +61,12 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"TargetIDBG_Spec_Red"
 		"xpos"				"0"
-		"ypos"				"45"
+		"ypos"				"9999"
 		"zpos"				"1"
-		"wide"				"f0"
+		"wide"				"0"
 		"tall"	 			"35"
 		"visible"			"0"
-		"enabled"			"1"
+		"enabled"			"0"
 		"fillcolor"			"158 64 61 255"
 
 		"src_corner_height"		"23"
@@ -123,6 +123,7 @@
 		"enabled"			"1"
 		"labelText"			"%targetdata%"
 		"textAlignment"		"west"
+		"allcaps"			"1"
 	}
 
 	"SpectatorGUIHealth"
@@ -139,8 +140,8 @@
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"		"0.49"
 		"TFFont"					"HudFontSmall"
-		"HealthDeathWarningColor"	"HUDDeathWarning"
-		"TextColor"					"HudOffWhite"
+		"HealthDeathWarningColor"	"Health Hurt"
+		"TextColor"					"Health Normal"
 	}
 
 	"AmmoIcon"

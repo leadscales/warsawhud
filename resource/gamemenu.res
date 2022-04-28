@@ -1,10 +1,5 @@
 "GameMenu"
 {
-	"InGameButtonsPanel"
-	{
-		"command" 									"engine"
-		"OnlyInGame"								"1"
-	}
 	"CallVoteButton"
 	{
 		"label"										"c"

@@ -713,11 +713,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MenusContainer"
-		"xpos"			"cs-0.5"
-		"ypos"			"c0-s1-15"
+		"xpos"			"0"
+		"ypos"			"2"
 		"wide"			"540"
 		"tall"			"20"
 		"bgcolor_override"	"PanelBlack3"
+
+		"pin_to_sibling"	"ClassContainer"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 		"BackpackButton"
 		{

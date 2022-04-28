@@ -30,7 +30,7 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"Font10"
+		"font"				"Font8"
 		"bgcolor_override"	"PanelBlack3"
 	}
 
@@ -40,7 +40,7 @@
 		"fieldName"			"ItemEffectMeter"
 		"font"				"Default"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"1"
 		"zpos"				"2"
 		"wide"				"80"
 		"tall"				"1"

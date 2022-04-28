@@ -24,7 +24,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"MetalIcon"
-		"xpos"					"0"
+		"xpos"					"4"
 		"ypos"					"0"
 		"zpos"					"1"
 		"wide"					"15"
@@ -41,10 +41,10 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"AccountValue"
-		"xpos"					"15"
+		"xpos"					"20"
 		"ypos"					"0"
 		"zpos"					"2"
-		"wide"					"65"
+		"wide"					"60"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"

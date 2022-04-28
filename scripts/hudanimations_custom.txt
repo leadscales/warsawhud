@@ -1,15 +1,15 @@
 // Bonus Health Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthBonusImage	Alpha		"255"				Linear 0.0 0.1
-	Animate	PlayerStatusHealthBonusImage	Alpha		"0"					Linear 0.1 0.2
+	Animate	PlayerStatusHealthBonusImage	Alpha		"255"				Linear 0.0 0.0
+	Animate	PlayerStatusHealthBonusImage	Alpha		"0"					Linear 0.0 0.0
 
-	Animate	PlayerHealthValue				FgColor		"ColorBlack"		Linear 0.0 0.1
-	Animate	TargetHealthValue				FgColor		"Health Buff"		Linear 0.0 0.1
+	Animate	PlayerHealthValue				FgColor		"ColorBlack"		Linear 0.0 0.05
+	Animate	TargetHealthValue				FgColor		"Health Buff"		Linear 0.0 0.05
 
-	Animate PlayerHealthBackground			BgColor		"Health Buff"		Linear 0.0 0.1
+	Animate PlayerHealthBackground			BgColor		"Health Buff"		Linear 0.0 0.05
 
-	RunEvent HudHealthBonusPulseLoop		0.2
+	RunEvent HudHealthBonusPulseLoop		0.1
 }
 
 event HudHealthBonusPulseStop
@@ -17,24 +17,24 @@ event HudHealthBonusPulseStop
 	StopEvent HudHealthBonusPulse			0.0
 	StopEvent HudHealthBonusPulseLoop		0.0
 
-	Animate	PlayerHealthValue				FgColor		"Health Normal"			Linear 0.0 0.1
-	Animate	TargetHealthValue				FgColor		"Health Normal"			Linear 0.0 0.1
+	Animate	PlayerHealthValue				FgColor		"Health Normal"			Linear 0.0 0.05
+	Animate	TargetHealthValue				FgColor		"Health Normal"			Linear 0.0 0.05
 
-	Animate PlayerHealthBackground			BgColor		"PanelBlack2"			Linear 0.0 0.1
+	Animate PlayerHealthBackground			BgColor		"PanelBlack2"			Linear 0.0 0.05
 }
 //==================================================================================
 // Low Health Pulse
 event HudHealthDyingPulse
 {
-	Animate	PlayerStatusHealthBonusImage	Alpha		"255"					Linear 0.0 0.1
-	Animate	PlayerStatusHealthBonusImage	Alpha		"0"						Linear 0.1 0.2
+	Animate	PlayerStatusHealthBonusImage	Alpha		"255"					Linear 0.0 0.0
+	Animate	PlayerStatusHealthBonusImage	Alpha		"0"						Linear 0.0 0.0
 
-	Animate	PlayerHealthValue				FgColor		"ColorBlack"			Linear 0.0 0.1
-	Animate	TargetHealthValue				FgColor		"Health Hurt"			Linear 0.0 0.1
+	Animate	PlayerHealthValue				FgColor		"ColorBlack"			Linear 0.0 0.05
+	Animate	TargetHealthValue				FgColor		"Health Hurt"			Linear 0.0 0.05
 
-	Animate PlayerHealthBackground			BgColor		"Health Hurt"			Linear 0.0 0.1
+	Animate PlayerHealthBackground			BgColor		"Health Hurt"			Linear 0.0 0.05
 
-	RunEvent HudHealthDyingPulseLoop		0.2
+	RunEvent HudHealthDyingPulseLoop		0.1
 }
 
 event HudHealthDyingPulseStop
@@ -42,25 +42,25 @@ event HudHealthDyingPulseStop
 	StopEvent HudHealthDyingPulse 			0.0
 	StopEvent HudHealthDyingPulseLoop 		0.0
 
-	Animate PlayerHealthValue				FgColor		"Health Normal"			Linear 0.0 0.1
-	Animate TargetHealthValue				FgColor		"Health Normal"			Linear 0.0 0.1
+	Animate PlayerHealthValue				FgColor		"Health Normal"			Linear 0.0 0.05
+	Animate TargetHealthValue				FgColor		"Health Normal"			Linear 0.0 0.05
 
-	Animate PlayerHealthBackground			BgColor		"PanelBlack2"			Linear 0.0 0.1
+	Animate PlayerHealthBackground			BgColor		"PanelBlack2"			Linear 0.0 0.05
 }
 //==================================================================================
 // Low Ammo Pulse
 event HudLowAmmoPulse
 {
-	Animate	HudWeaponLowAmmoImage			Alpha		"255"					Linear 0.0 0.1
-	Animate	HudWeaponLowAmmoImage			Alpha		"0"						Linear 0.1 0.2
+	Animate	HudWeaponLowAmmoImage			Alpha		"255"					Linear 0.0 0.0
+	Animate	HudWeaponLowAmmoImage			Alpha		"0"						Linear 0.0 0.0
 
-	Animate	AmmoInClip						FgColor		"ColorBlack"			Linear 0.0 0.1
-	Animate	AmmoInReserve					FgColor		"Ammo In Reserve Low"	Linear 0.0 0.1
-	Animate	AmmoNoClip						FgColor		"ColorBlack"			Linear 0.0 0.1
+	Animate	AmmoInClip						FgColor		"ColorBlack"			Linear 0.0 0.05
+	Animate	AmmoInReserve					FgColor		"Ammo In Reserve Low"	Linear 0.0 0.05
+	Animate	AmmoNoClip						FgColor		"ColorBlack"			Linear 0.0 0.05
 
-	Animate	AmmoInClip						BgColor		"Ammo In Clip Low"		Linear 0.0 0.1
-	Animate	AmmoInReserve					BgColor		"PanelBlack1"			Linear 0.0 0.1
-	Animate	AmmoNoClip						BgColor		"Ammo In Clip Low"		Linear 0.0 0.1
+	Animate	AmmoInClip						BgColor		"Ammo In Clip Low"		Linear 0.0 0.05
+	Animate	AmmoInReserve					BgColor		"PanelBlack1"			Linear 0.0 0.05
+	Animate	AmmoNoClip						BgColor		"Ammo In Clip Low"		Linear 0.0 0.05
 
 	RunEvent HudLowAmmoPulseLoop			0.2
 }
@@ -70,13 +70,13 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 			0.0
 	StopEvent HudLowAmmoPulseLoop 		0.0
 
-	Animate AmmoInClip						FgColor		"Ammo In Clip"			Linear 0.0 0.1
-	Animate AmmoInReserve					FgColor		"Ammo In Reserve"		Linear 0.0 0.1
-	Animate AmmoNoClip						FgColor		"Ammo In Clip"			Linear 0.0 0.1
+	Animate AmmoInClip						FgColor		"Ammo In Clip"			Linear 0.0 0.05
+	Animate AmmoInReserve					FgColor		"Ammo In Reserve"		Linear 0.0 0.05
+	Animate AmmoNoClip						FgColor		"Ammo In Clip"			Linear 0.0 0.05
 
-	Animate	AmmoInClip						BgColor		"PanelBlack2"			Linear 0.0 0.1
-	Animate	AmmoInReserve					BgColor		"PanelBlack3"			Linear 0.0 0.1
-	Animate	AmmoNoClip						BgColor		"PanelBlack2"			Linear 0.0 0.1
+	Animate	AmmoInClip						BgColor		"PanelBlack2"			Linear 0.0 0.05
+	Animate	AmmoInReserve					BgColor		"PanelBlack3"			Linear 0.0 0.05
+	Animate	AmmoNoClip						BgColor		"PanelBlack2"			Linear 0.0 0.05
 }
 //==================================================================================
 // Ubercharge Meters
@@ -86,6 +86,7 @@ event HudMedicCharged
 	Animate	ChargeMeter 				FgColor		"Uber Charged 2"	Linear 0.2 0.4
 
 	Animate ChargeLabel					FgColor		"ColorBlack"		Linear 0.0 0.2
+	Animate IndividualChargesLabel		FgColor		"ColorBlack"		Linear 0.0 0.2
 	Animate ChargeBG					BgColor		"Uber Charged 1"	Linear 0.0 0.2
 
 	RunEvent HudMedicChargedLoop		0.4
@@ -103,6 +104,7 @@ event HudMedicChargedStop
 
 	Animate	ChargeMeter					FgColor		"Uber Bar Color"	Linear 0.0 0.2
 	Animate ChargeLabel					FgColor		"Ammo In Clip"		Linear 0.0 0.2
+	Animate IndividualChargesLabel		FgColor		"Ammo In Clip"		Linear 0.0 0.2
 	Animate ChargeBG					BgColor		"PanelBlack3"		Linear 0.0 0.2
 }
 //==================================================================================
@@ -155,11 +157,15 @@ event HudSnapShotReminderIn
 event TeamStatus_PlayerDead
 {
 	SetVisible	respawntime	1	0
+	Animate 	respawntime tall 20 spline 0.0 0.2
+	Animate 	respawntime ypos 0 linear 0.0 0.0
 }
 
 event TeamStatus_PlayerAlive
 {
-	SetVisible	respawntime	0	0.2
+	//SetVisible	respawntime	0	0.2
+	Animate 	respawntime tall 0 spline 0.0 0.2
+	Animate 	respawntime ypos 0 linear 0.0 0.0
 }
 
 //==================================================================================

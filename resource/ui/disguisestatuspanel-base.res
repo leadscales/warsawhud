@@ -35,9 +35,9 @@
 		"zpos"				"0"
 		"wide"				"150"
 		"tall"				"30"
-		"visible"			"1"
-		"enabled"			"1"
-		"bgcolor_override"	"PanelBlack1"
+		"visible"			"0"
+		"enabled"			"0"
+		"bgcolor_override"	"PanelBlack4"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -45,16 +45,16 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"DisguiseStatusBG"
-		"xpos"				"30"
+		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"0"
-		"wide"				"150"
-		"tall"				"15"
+		"wide"				"30"
+		"tall"				"30"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"PanelBlack3"
+		"bgcolor_override"	"PanelBlack1"
 
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
@@ -62,24 +62,41 @@
 		"draw_corner_height" 	"0"
 	}
 
+	"NameBG"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"NameBG"
+		"xpos"				"30"
+		"ypos"				"0"
+		"zpos"				"0"
+		"wide"				"120"
+		"tall"				"15"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override"	"PanelBlack2"
+	}
+
 	"DisguiseNameLabel"
 	{
 		"ControlName"		"Label"
 		"fieldName"			"DisguiseNameLabel"
 		"font"				"HudFontSmall"
-		"xpos"				"35"
+		"xpos"				"30"
 		"ypos"				"0"
 		"zpos"				"1"
-		"wide"				"115"
+		"wide"				"120"
 		"tall"				"15"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"%disguisename%"
-		"textAlignment"		"west"
+		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
+		"allcaps"			"1"
 	}
 
 	"DisguiseNameLabelShadow"
@@ -104,24 +121,41 @@
 		"pin_to_sibling"	"DisguiseNameLabel"
 	}
 
+	"WeaponBG"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"WeaponBG"
+		"xpos"				"30"
+		"ypos"				"15"
+		"zpos"				"0"
+		"wide"				"120"
+		"tall"				"15"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override"	"PanelBlack3"
+	}
+
 	"WeaponNameLabel"
 	{
 		"ControlName"		"Label"
 		"fieldName"			"WeaponNameLabel"
 		"font"				"HudFontSmallest"
-		"xpos"				"35"
+		"xpos"				"30"
 		"ypos"				"15"
 		"zpos"				"1"
-		"wide"				"115"
+		"wide"				"120"
 		"tall"				"15"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"%weaponname%"
-		"textAlignment"		"west"
+		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
+		"allcaps"			"1"
 	}
 	"WeaponNameLabelShadow"
 	{

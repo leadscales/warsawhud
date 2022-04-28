@@ -22,7 +22,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClip"
-		"font"				"Font24"
+		"font"				"Font20"
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"c0+100"
 		"ypos"				"c60"
@@ -66,7 +66,7 @@
 		"textAlignment"		"center"
 		"labelText"			"%AmmoInReserve%"
 		"fgcolor"			"Ammo In Reserve"
-		"bgcolor_override"	"PanelBlack3"
+		"bgcolor_override"	"PanelBlack2"
 
 		"pin_to_sibling"	"AmmoInClip"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -90,7 +90,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClip"
-		"font"				"Font24"
+		"font"				"Font20"
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"c0+100"
 		"ypos"				"c60"

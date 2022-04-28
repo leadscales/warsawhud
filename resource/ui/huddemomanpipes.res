@@ -49,7 +49,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"c75"
 		"zpos"			"1"
-		"wide"			"80"
+		"wide"			"100"
 		"tall"			"15"
 		"visible"		"1"
 		"bgcolor_override"	"Blank"
@@ -58,10 +58,10 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"15"
+			"xpos"			"20"
 			"ypos"			"0"
 			"zpos"			"2"
-			"wide"			"65"
+			"wide"			"60"
 			"tall"			"15"
 			"autoResize"	"1"
 			"pinCorner"		"2"
@@ -80,9 +80,9 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"NumPipesLabelBackground"
-			"xpos"			"15"
+			"xpos"			"20"
 			"ypos"			"0"
-			"wide"			"65"
+			"wide"			"60"
 			"tall"			"15"
 			"bgcolor_override"	"PanelBlack3"
 		}
@@ -91,7 +91,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PipesIcon"
-			"xpos"			"0"
+			"xpos"			"4"
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"15"
@@ -114,7 +114,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PipesIconBackground"
-			"xpos"			"0"
+			"xpos"			"4"
 			"ypos"			"0"
 			"wide"			"15"
 			"tall"			"15"
@@ -156,7 +156,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"c75"
 		"zpos"			"1"
-		"wide"			"80"
+		"wide"			"100"
 		"tall"			"15"
 		"visible"		"1"
 		"bgcolor_override"	"Blank"
@@ -165,10 +165,10 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"15"
+			"xpos"			"20"
 			"ypos"			"0"
 			"zpos"			"2"
-			"wide"			"65"
+			"wide"			"60"
 			"tall"			"15"
 			"autoResize"	"1"
 			"pinCorner"		"2"
@@ -187,9 +187,9 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"NumPipesLabelBackground"
-			"xpos"			"15"
+			"xpos"			"20"
 			"ypos"			"0"
-			"wide"			"65"
+			"wide"			"60"
 			"tall"			"15"
 			"bgcolor_override"	"PanelBlack3"
 		}
@@ -198,7 +198,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PipesIcon"
-			"xpos"			"0"
+			"xpos"			"4"
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"15"
@@ -221,7 +221,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"PipesIconBackground"
-			"xpos"			"0"
+			"xpos"			"4"
 			"ypos"			"0"
 			"wide"			"15"
 			"tall"			"15"

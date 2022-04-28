@@ -207,9 +207,9 @@
 			"fieldName"		"NameLabel"
 			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"170"
+			"wide"			"164"
 			"zpos"			"100"
-			"tall"			"20"
+			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
 			"font"			"Font14"
@@ -217,6 +217,7 @@
 			"textAlignment"	"center"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
+			"bgcolor_override"	"PanelBlack2"
 
 			if_mini
 			{
@@ -229,10 +230,10 @@
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine1"
 			"xpos"			"0"
-			"ypos"			"14"
+			"ypos"			"15"
 			"wide"			"170"
 			"zpos"			"100"
-			"tall"			"20"
+			"tall"			"18"
 			"visible"		"1"
 			"enabled"		"1"
 			"font"			"HudFontSmallest"
@@ -240,11 +241,13 @@
 			"textAlignment"	"center"
 			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
+			"bgcolor_override"	"PanelBlack3"
 
 			if_mini
 			{
 				"xpos"			"50"
 				"ypos"			"r35"
+				"bgcolor_override"	"Blank"
 			}
 		}
 

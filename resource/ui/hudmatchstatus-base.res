@@ -211,36 +211,36 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"c-25"
-		"ypos"				"0"
+		"ypos"				"5"
 		"zpos"				"2"
-		"wide"				"75"
-		"tall"				"50"
+		"wide"				"50"
+		"tall"				"20"
 		"visible"			"0"
 		"enabled"			"1"
 		"delta_item_x"			"20"
 		"delta_item_start_y"	"20"
 		"delta_item_end_y"		"35"
-		"PositiveColor"			"ColorGreen"
-		"NegativeColor"			"ColorRed"
+		"PositiveColor"			"ColorPositive"
+		"NegativeColor"			"ColorNegative"
 		"delta_lifetime"		"1"
-		"delta_item_font"		"HudFontMediumSmall"
+		"delta_item_font"		"Font12"
 
 		if_match
 		{
-			"font"				"HudFontSmall"
+			"font"				"Font12"
 		}
 
 		"TimePanelValue"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
+			"font"			"Font12"
 			"fgcolor"		"ColorWhite"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"50"
-			"tall"			"25"
+			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"	"center"
@@ -248,9 +248,9 @@
 
 			if_match
 			{
-				"ypos"			"4"
-				"tall"			"15"
-				"font"			"HudFontSmall"
+				"ypos"			"0"
+				"tall"			"20"
+				"font"			"Font12"
 			}
 		}
 	}
@@ -260,24 +260,24 @@
 		"ControlName"	"CTFTeamStatus"
 		"fieldName"		"TeamStatus"
 		"xpos"			"0"
-		"ypos"			"1"
+		"ypos"			"5"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"75"
 		"visible"		"1"
 		"enabled"		"1"
 
-		"max_size"		"20"
+		"max_size"		"16"
 		"6v6_gap"		"2"
 		"12v12_gap"		"2"
 
 		"team1_grow_dir" 	"west"
-		"team1_base_x"		"c-30"
-		"team1_max_expand"	"220"
+		"team1_base_x"		"c-27"
+		"team1_max_expand"	"180"
 
 		"team2_grow_dir"	"east"
-		"team2_base_x"		"c30"
-		"team2_max_expand"	"220"
+		"team2_base_x"		"c27"
+		"team2_max_expand"	"180"
 
 		"playerpanels_kv"
 		{
@@ -349,7 +349,7 @@
 				"fieldName"		"healthbar"
 				"font"			"Default"
 				"xpos"			"0"
-				"ypos"			"20"
+				"ypos"			"21"
 				"zpos"			"5"
 				"wide"			"f0"
 				"tall"			"1"
@@ -371,7 +371,7 @@
 				"fieldName"		"overhealbar"
 				"font"			"Default"
 				"xpos"			"0"
-				"ypos"			"20"
+				"ypos"			"21"
 				"zpos"			"6"
 				"wide"			"f0"
 				"tall"			"1"
@@ -414,18 +414,20 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"HudFontSmall"
+				"font"			"Font12"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"5"
 				"wide"			"f0"
-				"tall"			"19"
+				"tall"			"0"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"proportionaltoparent"	"1"
+				"bgcolor_override"	"PanelBlack3"
+				"fgcolor_override"	"ColorWhite"
 			}
 			"chargeamount"
 			{

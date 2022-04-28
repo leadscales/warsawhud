@@ -117,6 +117,16 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"Font8"
+		{
+			"1"
+			{
+				"name"			"Nudista"
+				"tall"			"8"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		
 		// DEFAULT
 		"Default"
