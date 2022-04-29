@@ -4,11 +4,11 @@
 	{
 		"ControlName"	"CTFArrowPanel"
 		"fieldName"		"Arrow"
-		"xpos"			"55"
-		"ypos"			"21"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"52"
-		"tall"			"52"
+		"wide"			"40"
+		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
@@ -23,8 +23,8 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"Briefcase"
-		"xpos"			"68"
-		"ypos"			"34"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"0"
 		"tall"			"0"
@@ -35,9 +35,10 @@
 
 		"if_mvm"
 		{
-			"ypos"		"14"
-			"wide"		"24"
-			"tall"		"24"
+			"xpos"		"5"
+			"ypos"		"5"
+			"wide"		"30"
+			"tall"		"30"
 		}
 
 		"if_specialdelivery"
@@ -50,11 +51,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"StatusIcon"
-		"xpos"			"65"
-		"ypos"			"31"
+		"xpos"			"5"
+		"ypos"			"5"
 		"zpos"			"3"
-		"wide"			"32"
-		"tall"			"32"
+		"wide"			"30"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_ico_flag_home"
