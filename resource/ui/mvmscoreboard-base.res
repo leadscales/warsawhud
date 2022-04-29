@@ -169,7 +169,7 @@
 			"tall"			"260"
 			"visible"		"0"
 			"enabled"		"1"
-			"bgcolor_override"		"ColorRed"
+			"bgcolor_override"		"ColorNegative"
 			"PaintBackgroundType"	"0"
 
 		}

@@ -4,26 +4,26 @@
 {
 	"ItemNameLabel"
 	{
-		"fgcolor"			"ColorGreen"
+		"fgcolor"			"ColorPositive"
 	}
 
 	"BuildingIcon"
 	{
-		"iconColor"			"ColorGreen"
+		"iconColor"			"ColorPositive"
 	}
 
 	"MetalIcon"
 	{
-		"iconColor"			"ColorGreen"
+		"iconColor"			"ColorPositive"
 	}
 
 	"CostLabel"
 	{
-		"fgcolor"			"ColorGreen"
+		"fgcolor"			"ColorPositive"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"			"ColorGreen"
+		"fgcolor"			"ColorPositive"
 	}
 }

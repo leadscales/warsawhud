@@ -29,8 +29,8 @@
 			"delta_item_x"			"10"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
-			"PositiveColor"			"ColorGreen"
-			"NegativeColor"			"ColorRed"
+			"PositiveColor"			"ColorPositive"
+			"NegativeColor"			"ColorNegative"
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"Font12"
 		}
@@ -86,8 +86,8 @@
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
-			"PositiveColor"			"ColorGreen"
-			"NegativeColor"			"ColorRed"
+			"PositiveColor"			"ColorPositive"
+			"NegativeColor"			"ColorNegative"
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"Font12"
 		}

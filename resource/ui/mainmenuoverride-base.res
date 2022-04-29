@@ -475,7 +475,7 @@
 
 			"friendpanel_kv"
 			{
-				"wide"			"160"
+				"wide"			"153"
 				"tall"			"20"
 			}
 
@@ -493,7 +493,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"AccentMainTransparent"
+					"fgcolor_override"	"AccentMain"
 				}
 
 				"UpButton"

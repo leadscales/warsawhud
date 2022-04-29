@@ -90,7 +90,7 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"icon"				"ico_metal"
-		"iconColor"			"ColorRed"
+		"iconColor"			"ColorNegative"
 	}
 
 	"MetalIcon2"

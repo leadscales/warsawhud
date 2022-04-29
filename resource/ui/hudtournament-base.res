@@ -282,7 +282,7 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"north"
-				"fgcolor"		"ColorGreen"
+				"fgcolor"		"ColorPositive"
 
 				if_mvm
 				{

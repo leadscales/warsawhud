@@ -21,7 +21,7 @@
 	"FixIssuesButton"
 	{
 		"label"										"w"
-		"command" 									"engine echo sus"
+		"command" 									"engine fix_issues"
 		"OnlyInGame"								"1"
 	}
 }

@@ -103,7 +103,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ColorPurple"
+		"fgcolor_override" "AccentMain"
 	}
 	"ClassLabel"
 	{

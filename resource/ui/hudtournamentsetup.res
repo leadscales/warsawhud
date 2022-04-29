@@ -109,15 +109,15 @@
 		"command"		"teamnotready"
 		"default"		"1"
 		"font"			"Font12"
-		"fgcolor"		"ColorRed"
+		"fgcolor"		"ColorNegative"
 		"allcaps"		"1"
 
 		"defaultBgColor_override"	"Blank"
 		"defaultFgColor_override" 	"ColorWhite"
 		"armedBgColor_override"		"Blank"
-		"armedFgColor_override" 	"ColorRed"
+		"armedFgColor_override" 	"ColorNegative"
 		"depressedBgColor_override"	"Blank"
-		"depressedFgColor_override" "ColorRed"
+		"depressedFgColor_override" "ColorNegative"
 	}
 
 	"TournamentReadyButton"
@@ -140,13 +140,13 @@
 		"command"		"teamready"
 		"default"		"1"
 		"font"			"Font12"
-		"fgcolor"		"ColorGreen"
+		"fgcolor"		"ColorPositive"
 
 		"defaultBgColor_override"	"Blank"
 		"defaultFgColor_override" 	"ColorWhite"
 		"armedBgColor_override"		"Blank"
-		"armedFgColor_override" 	"ColorGreen"
+		"armedFgColor_override" 	"ColorPositive"
 		"depressedBgColor_override"	"Blank"
-		"depressedFgColor_override" "ColorGreen"
+		"depressedFgColor_override" "ColorPositive"
 	}
 }

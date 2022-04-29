@@ -22,3 +22,26 @@ sv_unlockedchapters 99
 vgui_cache_res_files 0
 tf_contract_progress_show 2
 tf_hud_target_id_show_avatars 0
+
+// Aliases
+alias "warsaw_xhair_red" "cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 96"
+alias "warsaw_xhair_orange" "cl_crosshair_red 255; cl_crosshair_green 96; cl_crosshair_blue 0"
+alias "warsaw_xhair_yellow" "cl_crosshair_red 255; cl_crosshair_green 160; cl_crosshair_blue 0"
+alias "warsaw_xhair_green" "cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 128"
+alias "warsaw_xhair_cyan" "cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 224"
+alias "warsaw_xhair_blue" "cl_crosshair_red 0; cl_crosshair_green 160; cl_crosshair_blue 255"
+alias "warsaw_xhair_purple" "cl_crosshair_red 160; cl_crosshair_green 0; cl_crosshair_blue 255"
+alias "warsaw_xhair_magenta" "cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 160"
+alias "warsaw_xhair_white" "cl_crosshair_red 255; cl_crosshair_green 255; cl_crosshair_blue 255"
+
+alias "warsaw_dmg_red" "hud_combattext_red 255; hud_combattext_green 0; hud_combattext_blue 96"
+alias "warsaw_dmg_orange" "hud_combattext_red 255; hud_combattext_green 96; hud_combattext_blue 0"
+alias "warsaw_dmg_yellow" "hud_combattext_red 255; hud_combattext_green 160; hud_combattext_blue 0"
+alias "warsaw_dmg_green" "hud_combattext_red 0; hud_combattext_green 255; hud_combattext_blue 128"
+alias "warsaw_dmg_cyan" "hud_combattext_red 0; hud_combattext_green 255; hud_combattext_blue 224"
+alias "warsaw_dmg_blue" "hud_combattext_red 0; hud_combattext_green 160; hud_combattext_blue 255"
+alias "warsaw_dmg_purple" "hud_combattext_red 160; hud_combattext_green 0; hud_combattext_blue 255"
+alias "warsaw_dmg_magenta" "hud_combattext_red 255; hud_combattext_green 0; hud_combattext_blue 160"
+alias "warsaw_dmg_white" "hud_combattext_red 255; hud_combattext_green 255; hud_combattext_blue 255"
+
+alias "fix_issues" "hud_reloadscheme; snd_restart; stop; record fix; stop;" 

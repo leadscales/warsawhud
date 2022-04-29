@@ -60,7 +60,7 @@
 
 			"Slider"
 			{
-				"fgcolor_override"	"ColorRed"
+				"fgcolor_override"	"ColorNegative"
 			}
 
 			"UpButton"

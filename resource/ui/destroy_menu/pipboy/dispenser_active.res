@@ -5,7 +5,7 @@
 	"ItemNameLabel"
 	{
 		"labelText"			"#TF_Object_Dispenser"
-		"fgcolor_override"	"ColorGreen"
+		"fgcolor_override"	"ColorPositive"
 	}
 
 	"BuildingIcon"
@@ -15,11 +15,11 @@
 
 	"DestroyIcon"
 	{
-		"iconColor"			"ColorGreen"
+		"iconColor"			"ColorPositive"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor_override"	"ColorGreen"
+		"fgcolor_override"	"ColorPositive"
 	}
 }

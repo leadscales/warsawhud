@@ -18,7 +18,7 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor"			"ColorRed"
+		"fgcolor"			"ColorNegative"
 	}
 
 	"ItemBackground"
@@ -50,7 +50,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"hud_menu_sentry_build"
-		"iconColor"			"ColorRed"
+		"iconColor"			"ColorNegative"
 	}
 
 	"CantBuildReason"
@@ -58,7 +58,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"CantBuildReason"
 		"font"				"HudFontSmall"
-		"fgcolor"			"ColorRed"
+		"fgcolor"			"ColorNegative"
 		"xpos"				"0"
 		"ypos"				"60"
 		"zpos"				"2"
@@ -85,7 +85,7 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"icon"				"ico_metal"
-		"iconColor"			"ColorRed"
+		"iconColor"			"ColorNegative"
 	}
 
 	"CostLabel"
@@ -93,7 +93,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"CostLabel"
 		"font"				"HudFontSmall"
-		"fgcolor"			"ColorRed"
+		"fgcolor"			"ColorNegative"
 		"xpos"				"50"
 		"ypos"				"20"
 		"zpos"				"4"
@@ -170,7 +170,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
 		"font"				"HudFontMediumSecondary"
-		"fgcolor"			"ColorRed"
+		"fgcolor"			"ColorNegative"
 		"xpos"				"0"
 		"ypos"				"95"
 		"zpos"				"1"

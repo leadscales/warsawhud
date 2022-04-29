@@ -210,7 +210,7 @@
 				"wide"				"26"
 				"tall"				"18"
 				"font"				"HudFontSmallest"
-				"fgcolor"			"ColorMagenta"
+				"fgcolor"			"ColorWhite"
 				"visible"			"1"
 				"textAlignment"		"center"
 				"labelText"			"%respawntime%"

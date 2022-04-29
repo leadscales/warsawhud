@@ -21,16 +21,16 @@
 
 	"BuildIcon"
 	{
-		"iconColor"			"ColorGreen"
+		"iconColor"			"ColorPositive"
 	}
 
 	"TitleLabel"
 	{
-		"fgcolor"			"ColorGreen"
+		"fgcolor"			"ColorPositive"
 	}
 
 	"CancelLabel"
 	{
-		"fgcolor"			"ColorGreen"
+		"fgcolor"			"ColorPositive"
 	}
 }

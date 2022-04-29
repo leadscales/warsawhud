@@ -50,7 +50,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"hud_menu_sentry_build"
-		"iconColor"			"ColorRed"
+		"iconColor"			"ColorNegative"
 	}
 
 	"CantBuildReason"
@@ -104,7 +104,7 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"icon"				"ico_metal"
-		"iconColor"			"ColorRed"
+		"iconColor"			"ColorNegative"
 	}
 
 	"MetalIcon2"
