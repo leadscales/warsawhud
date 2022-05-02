@@ -7,7 +7,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
 		"zpos"			"-1"
-		"wide"			"p0.98"
+		"wide"			"f0"
 		"tall"			"p1"
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
@@ -19,7 +19,7 @@
 		{
 			"ControlName"	"CTFLocalPlayerBadgePanel"
 			"fieldName"		"RankImage"
-			"xpos"			"4"
+			"xpos"			"0"
 			"ypos"			"-8"
 			"zpos"			"110"
 			"wide"			"o1"
@@ -35,26 +35,26 @@
 		{
 			"ControlName"	"CPvPRankPanel"
 			"fieldName"		"RankPanel"
-			"xpos"			"0"
-			"ypos"			"-65"
+			"xpos"			"9999"
+			"ypos"			"9999"
 			"zpos"			"100"
-			"wide"			"330"
-			"tall"			"102"
-			"visible"		"1"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 			"matchgroup"	"MatchGroup_Casual_12v12"
 			"show_model"	"0"
 			"show_name"		"0"
-			"show_stats"	"1"
+			"show_stats"	"0"
 		}
 
 		"RestoreCasualSearchCriteria"
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"RestoreCasualSearchCriteria"
-			"xpos"			"rs1-27"
-			"ypos"			"38"
+			"xpos"			"rs1-22"
+			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
@@ -97,8 +97,8 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"SaveCasualSearchCriteria"
-			"xpos"			"rs1-7"
-			"ypos"			"38"
+			"xpos"			"rs1-5"
+			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"15"
 			"tall"			"o1"
@@ -151,15 +151,17 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"Title"
-			"xpos"			"10"
-			"ypos"			"35"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"0"
 			"wide"			"f0"
-			"tall"			"20"
+			"tall"			"15"
 			"proportionaltoparent"	"1"
 			"labeltext"		"#TF_Casual_MapSelection"
 			"textAlignment"	"west"
 			"font"			"HudFontSmall"
+			"allcaps"		"1"
+			//"auto_wide_tocontents"	"1"
 			"mouseinputenabled"	"0"
 		}
 
@@ -167,17 +169,21 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"SelectedCount"
-			"xpos"			"100"
-			"ypos"			"35"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"0"
 			"wide"			"f0"
-			"tall"			"20"
+			"tall"			"15"
 			"proportionaltoparent"	"1"
 			"labeltext"		"%selected_maps_count%"
 			"textAlignment"	"west"
 			"font"			"HudFontSmallest"
-			"fgcolor_override"	"TanDark"
+			"fgcolor_override"	"ColorWhiteTransparent"
 			"mouseinputenabled"	"1"
+
+			"pin_to_sibling"	"Title"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 		}
 
 		"QueueEstimation"
@@ -210,7 +216,7 @@
 			"tall"			"f63"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"border"		"InnerShadowBorder"
+			"border"		"NoBorder"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 		}
@@ -220,13 +226,13 @@
 			"ControlName"	"CScrollableList"
 			"fieldName"		"GameModesList"
 			"xpos"			"cs-0.5"
-			"ypos"			"55"
-			"wide"			"f15"
-			"tall"			"f63"
+			"ypos"			"35"
+			"wide"			"f0"
+			"tall"			"f50"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"
-			"border"		"MainMenuBGBorder"
+			"border"		"NoBorder"
 
 			"ScrollBar"
 			{
@@ -242,7 +248,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"TanDark"
+					"fgcolor_override"	"ColorWhite"
 				}
 
 				"UpButton"

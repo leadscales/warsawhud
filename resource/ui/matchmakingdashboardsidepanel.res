@@ -9,7 +9,7 @@
 		"zpos"			"1000"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
 		"bgcolor_override"		"ColorBlack"
@@ -91,7 +91,7 @@
 		"labelText"		">"
 		"ypos"			"0"
 		"zpos"			"10000"
-		"wide"			"15"
+		"wide"			"5"
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
@@ -99,10 +99,10 @@
 		"textAlignment"	"east"
 		"font"			"HudFontSmall"
 
-		"armedBgColor_override"		"Transparent"
-		"defaultBgColor_override"	"Transparent"
-		"defaultFgColor_override"	"White"
-		"armedFgColor_override"		"169 123 53 255"
+		"armedBgColor_override"		"Blank"
+		"defaultBgColor_override"	"Blank"
+		"defaultFgColor_override"	"Blank"
+		"armedFgColor_override"		"Blank"
 
 		if_left
 		{
@@ -119,7 +119,7 @@
 		"labelText"		"<"
 		"ypos"			"0"
 		"zpos"			"10000"
-		"wide"			"20"
+		"wide"			"5"
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
@@ -150,8 +150,8 @@
 		"wide"			"f0"
 		"tall"			"f-20"
 		"visible"		"1"
-		"border"		"TeamMenuBorder"
-		"bgcolor_override"		"PanelDark"
+		"border"		"NoBorder"
+		"bgcolor_override"		"PanelLight"
 		"proportionaltoparent"	"1"
 	}
 }
