@@ -6,10 +6,10 @@
 	{
 		"fieldName"		"MVMCriteria"
 		"xpos"			"r0"
-		"ypos"			"10"
+		"ypos"			"25"
 		"zpos"			"1002"
 		"wide"			"420"
-		"tall"			"f70"
+		"tall"			"f85"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
