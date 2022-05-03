@@ -8,7 +8,7 @@
 		"wide"		"f0"
 		"tall"		"17"
 		"proportionaltoparent"	"1"
-		"resize_time"	"0.2"
+		"resize_time"	"0.1"
 	}
 
 	"Container"
@@ -21,7 +21,7 @@
 		"tall"			"17"
 		"proportionaltoparent"	"1"
 
-		"bgcolor_override"	"0 0 0 120"
+		"bgcolor_override"	"Blank"
 
 		"EntryToggleButton"
 		{
@@ -38,10 +38,10 @@
 			"labeltext"		""
 
 			"border_default"	"NoBorder"
-			"defaultBgColor_override"	"0 0 0 0"
+			"defaultBgColor_override"	"PanelMain"
 
 			"border_armed"		"NoBorder"
-			"armedBgColor_override"	"235 226 202 20"
+			"armedBgColor_override"	"Button"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -52,9 +52,9 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"WinLabel"
-			"xpos"			"10"
+			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"f0"
+			"wide"			"40"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
 			"visible"		"0"
@@ -62,17 +62,17 @@
 
 			"labeltext"			"#TF_Competitive_MatchHistory_Win"
 			"font"				"HudFontSmallest"
-			"fgcolor_override"	"95 164 44 255"
-			"textAlignment"		"west"
+			"fgcolor_override"	"ColorPositive"
+			"textAlignment"		"center"
 		}
 
 		"LossLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"LossLabel"
-			"xpos"			"10"
+			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"f0"
+			"wide"			"40"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
 			"visible"		"0"
@@ -80,17 +80,17 @@
 
 			"labeltext"			"#TF_Competitive_MatchHistory_Loss"
 			"font"				"HudFontSmallest"
-			"fgcolor_override"	"141 63 63 255"
-			"textAlignment"		"west"
+			"fgcolor_override"	"ColorNegative"
+			"textAlignment"		"center"
 		}
 
 		"DateLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"DateLabel"
-			"xpos"			"p0.2"
+			"xpos"			"40"
 			"ypos"			"0"
-			"wide"			"f0"
+			"wide"			"130"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
@@ -99,16 +99,16 @@
 			"labeltext"			"%match_date%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"ColorWhite"
-			"textAlignment"		"west"
+			"textAlignment"		"center"
 		}
 
 		"MapNameLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"MapNameLabel"
-			"xpos"			"p0.60"
+			"xpos"			"170"
 			"ypos"			"0"
-			"wide"			"f0"
+			"wide"			"50"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
@@ -117,16 +117,16 @@
 			"labeltext"			"%map_name%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"ColorWhite"
-			"textAlignment"		"west"
+			"textAlignment"		"center"
 		}
 
 		"KDLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"KDLabel"
-			"xpos"			"p0.9"
+			"xpos"			"220"
 			"ypos"			"0"
-			"wide"			"100"
+			"wide"			"40"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
@@ -135,7 +135,7 @@
 			"labeltext"			"%kd_ratio%"
 			"font"				"MMenuPlayListDesc"
 			"fgcolor_override"	"ColorWhite"
-			"textAlignment"		"west"
+			"textAlignment"		"center"
 		}
 	}
 
