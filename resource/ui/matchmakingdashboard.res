@@ -230,7 +230,7 @@
 			"xpos"			"cs-0.5"
 			"ypos"			"-50"
 			"zpos"			"111"
-			"wide"			"220"
+			"wide"			"200"
 			"tall"			"f0"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
@@ -246,7 +246,7 @@
 				"tall"			"f0"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
-				"border"		"OuterShadowBorderThin"
+				"border"		"NoBorder"
 			}
 
 			"BGPanel"
@@ -260,8 +260,8 @@
 				"tall"			"f4"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
-				"border"		"ReplayDefaultBorder"
-				"bgcolor_override"	"PanelMain"
+				"border"		"NoBorder"
+				"bgcolor_override"	"PanelBlack3"
 			}
 
 			"QueueLogoButton"
@@ -392,7 +392,7 @@
 				"enabled"		"1"
 				"tabPosition"	"0"
 				"labeltext"		"x"
-				"font"			"CustomIcons"
+				"font"			"SmallIcons"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
