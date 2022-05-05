@@ -59,7 +59,7 @@ event HudLowAmmoPulse
 	Animate	AmmoNoClip						FgColor		"ColorBlack"			Linear 0.0 0.05
 
 	Animate	AmmoInClip						BgColor		"Ammo In Clip Low"		Linear 0.0 0.05
-	Animate	AmmoInReserve					BgColor		"PanelBlack1"			Linear 0.0 0.05
+	Animate	AmmoInReserve					BgColor		"PanelBlack2"			Linear 0.0 0.05
 	Animate	AmmoNoClip						BgColor		"Ammo In Clip Low"		Linear 0.0 0.05
 
 	RunEvent HudLowAmmoPulseLoop			0.2
