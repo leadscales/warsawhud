@@ -12,7 +12,7 @@
 		"ypos"				"cs-0.5"
 		"wide"				"f0"
 		"tall"				"f0"
-		"font"				"Size:18 | Outline:OFF"		// set the size and outline of the crosshair here
+		"font"				"Size:14 | Outline:OFF"		// set the size and outline of the crosshair here
 		"textAlignment"		"center"
 		"fgcolor"			"Hitmarker"                 // change this in colors.res
 		"alpha"				"0"

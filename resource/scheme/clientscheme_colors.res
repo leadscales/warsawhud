@@ -6,11 +6,11 @@ Scheme
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
-		"Orange"								"96 192 255 255"
-		"OrangeDim"								"96 192 255 255"
+		"Orange"								"0 176 255 255"
+		"OrangeDim"								"0 176 255 255"
 		"LightOrange"							"188 112 0 128"
 		"GoalOrange"							"255 133 0 255"
-		"TFOrange"								"96 192 255 255"
+		"TFOrange"								"0 176 255 255"
 		"Purple"								"137 69 99 255"
 
 		"HalloweenThemeColor2015_Light"			"238 126 17 255"
@@ -24,7 +24,7 @@ Scheme
 		"QuestMap_InactiveGrey"					"100 100 100 255"
 		"QuestMap_BGImages"						"56 58 60 255"
 
-		"PartyMember1"							"96 192 255 255"
+		"PartyMember1"							"0 176 255 255"
 		"PartyMember2"							"0 255 128 255"
 		"PartyMember3"							"255 192 64 255"
 		"PartyMember4"							"255 128 0  255"
@@ -56,7 +56,7 @@ Scheme
 		"HudWhite"								"255 255 255 255"
 		"HudOffWhite"							"192 192 192 255"
 		"HudBlack"								"16 16 16 230"
-		"ProgressBarBlue"						"96 192 255 255"
+		"ProgressBarBlue"						"0 176 255 255"
 		"CreditsGreen"							"0 192 128 255"
 
 		"Gray"									"160 160 160 255"
@@ -69,7 +69,7 @@ Scheme
 		"HudPanelBackground"					"123 110 59 184"
 		"HudPanelBorder"						"255 255 255 102"
 
-		"HudProgressBarActive"					"96 192 255 255"
+		"HudProgressBarActive"					"0 176 255 255"
 		"HudProgressBarInActive"				"64 128 160 255"
 		"HudProgressBarActiveLow"				"255 80 0 255"
 		"HudProgressBarInActiveLow"				"255 80 0 99"
@@ -116,7 +116,7 @@ Scheme
 		"ItemAttribPositive"					"0 255 224 255"
 		"ItemAttribNegative"					"255 80 0 255"
 
-		"ItemSetName"							"96 192 255 255"
+		"ItemSetName"							"0 176 255 255"
 		"ItemSetItemEquipped"					"224 224 224 255"
 		"ItemSetItemMissing"					"128 128 128 255"
 		"ItemIsotope"							"225 80 0 255"
@@ -209,7 +209,7 @@ Scheme
 		"UpgradeDefaultFg"						"96 96 96 255"
 		"UpgradeDefaultBg"						"128 128 128 255"
 		"UpgradeArmedFg"						"255 255 255 255"
-		"UpgradeArmedBg"						"96 192 255 255"
+		"UpgradeArmedBg"						"0 176 255 255"
 		"UpgradeDepressedFg"					"160 160 160 255"
 		"UpgradeDepressedBg"					"64 128 160 255"
 		"UpgradeSelectedFg"						"160 160 106 255"

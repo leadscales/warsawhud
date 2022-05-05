@@ -3,9 +3,9 @@ Scheme
 	Colors
 	{
 		// MAIN COLORS
-		"AccentMain"				"96 192 255 255"
-		"AccentMainTransparent"		"96 192 255 96"
-		"AccentMainTransparent2"	"96 192 255 32"
+		"AccentMain"				"0 176 255 255"
+		"AccentMainTransparent"		"0 176 255 96"
+		"AccentMainTransparent2"	"0 176 255 32"
 		"AccentMainDark"			"64 160 224 255"
 		"ColorNegative"				"255 80 0 255"
 		"ColorPositive"				"0 255 224 255"
