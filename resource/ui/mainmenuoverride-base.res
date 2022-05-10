@@ -114,7 +114,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"Transparent"
-		"noitem_textcolor"		"ColorGreyMid"
+		"noitem_textcolor"		"ColorGrey128"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"border"		"MainMenuBGBorder"
@@ -139,7 +139,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"ColorGreyMid"
+			"fgcolor"		"ColorGrey128"
 			"centerwrap"	"1"
 		}
 	}

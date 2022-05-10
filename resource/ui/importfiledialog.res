@@ -508,7 +508,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton1"
 		{
@@ -532,7 +532,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton2"
 		{
@@ -556,7 +556,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType" 	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton3"
 		{
@@ -580,7 +580,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton4"
 		{
@@ -604,7 +604,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton5"
 		{
@@ -628,7 +628,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton6"
 		{
@@ -652,7 +652,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton7"
 		{
@@ -676,7 +676,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton8"
 		{
@@ -700,7 +700,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorGreyMid"
+			"bgcolor_override"		"ColorGrey128"
 		}
 		"ClassButton9"
 		{
@@ -767,7 +767,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -789,7 +789,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -811,7 +811,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -833,7 +833,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -855,7 +855,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -877,7 +877,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -899,7 +899,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -921,7 +921,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -943,7 +943,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -1723,7 +1723,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdatePaintable0"
 			"border"				"NoBorder"
 		}
@@ -1745,7 +1745,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"ColorGreyMid"
+			"disabledfgcolor2_override"	"ColorGrey128"
 			"command"		"UpdatePaintable1"
 			"border"				"NoBorder"
 		}

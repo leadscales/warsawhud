@@ -226,7 +226,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ColorWhiteTransparent"
+		"fgcolor"		"ColorWhiteTransparent128"
 
 		"pin_to_sibling"	"ClassLabel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

@@ -171,9 +171,9 @@
 					"font"				"MarlettSmall"
 					"textAlignment"		"west"
 
-					"defaultFgColor_override"	"ColorGreyMid"
-					"armedFgColor_override"		"ColorGreyMid"
-					"selectedFgColor_override"	"ColorGreyMid"
+					"defaultFgColor_override"	"ColorGrey128"
+					"armedFgColor_override"		"ColorGrey128"
+					"selectedFgColor_override"	"ColorGrey128"
 				}
 
 				"ResultButton"
@@ -194,7 +194,7 @@
 					"paintbackground"		"0"
 					"border_default"		"SortCategoryBorder"
 
-					"defaultFgColor_override" 	"ColorWhiteTransparent"
+					"defaultFgColor_override" 	"ColorWhiteTransparent128"
 					"armedFgColor_override"		"ColorWhite"
 					"selectedFgColor_override"	"AccentMain"
 
@@ -227,7 +227,7 @@
 					"textAlignment"		"center"
 					"textinsetx"		"15"
 
-					"defaultFgColor_override" 	"ColorWhiteTransparent"
+					"defaultFgColor_override" 	"ColorWhiteTransparent128"
 					"armedFgColor_override"		"ColorWhite"
 					"selectedFgColor_override"	"AccentMain"
 
@@ -260,7 +260,7 @@
 					"textAlignment"		"center"
 					"textinsetx"		"15"
 
-					"defaultFgColor_override" 	"ColorWhiteTransparent"
+					"defaultFgColor_override" 	"ColorWhiteTransparent128"
 					"armedFgColor_override"		"ColorWhite"
 					"selectedFgColor_override"	"AccentMain"
 
@@ -291,7 +291,7 @@
 					"fgcolor_override"	"ColorWhite"
 					"textAlignment"		"center"
 
-					"defaultFgColor_override" 	"ColorWhiteTransparent"
+					"defaultFgColor_override" 	"ColorWhiteTransparent128"
 					"armedFgColor_override"		"ColorWhite"
 					"selectedFgColor_override"	"AccentMain"
 

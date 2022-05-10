@@ -119,7 +119,7 @@
 			"HealthDeathWarning"		"0.49"
 			"TFFont"					"HudFontSmallest"
 			"HealthDeathWarningColor"	"Health Hurt"
-			"TextColor"					"DullishWhite"
+			"TextColor"					"ColorGrey192"
 			"autoResize"				"1"
 		}
 	}

@@ -172,7 +172,7 @@
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
 				"HealthDeathWarningColor"	"Health Hurt"
-				"TextColor"					"DullishWhite"
+				"TextColor"					"ColorGrey192"
 
 				if_readymode
 				{

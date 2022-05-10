@@ -14,7 +14,7 @@
 		"wide_minmode"			"28"
 		"tall_minmode"			"14"
 		"MeterFG"				"ColorWhite"
-		"MeterBG"				"DullWhite"
+		"MeterBG"				"ColorGrey160"
 	}
 
 	"ItemEffectMeterLabel"

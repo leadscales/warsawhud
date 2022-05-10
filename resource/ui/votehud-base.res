@@ -100,7 +100,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
 			"wrap"				"1"
-			"fgcolor_override"	"ColorGreyMid"
+			"fgcolor_override"	"ColorGrey128"
 		}
 
 		"Issue"
@@ -147,7 +147,7 @@
 			"ypos"				"50"
 			"wide"				"130"
 			"tall"				"1"
-			"fillcolor"			"DullWhite"
+			"fillcolor"			"ColorGrey160"
 			"zpos"				"0"
 		}
 
@@ -359,7 +359,7 @@
 			"ypos"				"100"
 			"wide"				"130"
 			"tall"				"1"
-			"fillcolor"			"DullWhite"
+			"fillcolor"			"ColorGrey160"
 			"zpos"				"0"
 		}
 
@@ -378,7 +378,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"DullWhite"
+			"fgcolor_override"	"ColorGrey160"
 		}
 
 		// Vote Bar
@@ -564,7 +564,7 @@
 		"issue_width"				"180"
 		"issue_font"				"ItemFontNameSmall"
 		"issue_fgcolor"				"ColorWhite"
-		"issue_fgcolor_disabled"	"ColorGreyMid"
+		"issue_fgcolor_disabled"	"ColorGrey128"
 		"parameter_width"			"200"
 
 		"TitleLabel"

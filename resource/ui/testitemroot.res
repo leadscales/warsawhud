@@ -967,7 +967,7 @@
 
 			"image_armedcolor"		"ColorWhite"
 			"image_drawcolor"		"ColorWhite"
-			"image_selectedcolor"	"ColorGreyDarkerMid"
+			"image_selectedcolor"	"ColorGrey64"
 
 			"SubImage"
 			{

@@ -178,7 +178,7 @@
 			"labeltext"		"%selected_maps_count%"
 			"textAlignment"	"west"
 			"font"			"HudFontSmallest"
-			"fgcolor_override"	"ColorWhiteTransparent"
+			"fgcolor_override"	"ColorWhiteTransparent128"
 			"mouseinputenabled"	"1"
 
 			"pin_to_sibling"	"Title"

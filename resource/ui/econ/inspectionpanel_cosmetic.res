@@ -73,9 +73,9 @@
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
 				
-				"defaultFgColor_override"	"ColorGreyMid"
+				"defaultFgColor_override"	"ColorGrey128"
 				"armedFgColor_override"		"ColorWhite"
-				"depressedFgColor_override"	"ColorGreyMid"
+				"depressedFgColor_override"	"ColorGrey128"
 			}
 
 			"RotateRightButton"
@@ -102,9 +102,9 @@
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
 				
-				"defaultFgColor_override"	"ColorGreyMid"
+				"defaultFgColor_override"	"ColorGrey128"
 				"armedFgColor_override"		"ColorWhite"
-				"depressedFgColor_override"	"ColorGreyMid"
+				"depressedFgColor_override"	"ColorGrey128"
 			}
 
 			"ZoomButton"
@@ -133,9 +133,9 @@
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
 		
-				"defaultFgColor_override" 	"ColorGreyMid"
+				"defaultFgColor_override" 	"ColorGrey128"
 				"armedFgColor_override" 	"ColorWhite"
-				"depressedFgColor_override" "ColorGreyMid"
+				"depressedFgColor_override" "ColorGrey128"
 
 				"SubImage"
 				{
@@ -170,7 +170,7 @@
 		"Slider"
 		{
 			"PaintBackgroundType"	"2"
-			"fgcolor_override"		"ColorGreyMid"
+			"fgcolor_override"		"ColorGrey128"
 		}
 
 		"UpButton"
@@ -306,7 +306,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"RestrictionsLabel"
@@ -357,7 +357,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"UsedByTextLabel"
@@ -390,7 +390,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"SlotTextLabel"
@@ -722,9 +722,9 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
-		"defaultFgColor_override"	"ColorGreyMid"
+		"defaultFgColor_override"	"ColorGrey128"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override"	"ColorGreyMid"
+		"depressedFgColor_override"	"ColorGrey128"
 	}
 
 	"IconsMoveRightButton"
@@ -752,9 +752,9 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
-		"defaultFgColor_override"	"ColorGreyMid"
+		"defaultFgColor_override"	"ColorGrey128"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override"	"ColorGreyMid"
+		"depressedFgColor_override"	"ColorGrey128"
 	}
 
 	"ClassUsageMouseoverLabel"
@@ -901,10 +901,10 @@
 			"textAlignment"			"south-west"
 			"scaleImage"			"1"
 			
-			"fgcolor"					"ColorGreyMid"
-			"defaultFgColor_override" 	"ColorGreyMid"
+			"fgcolor"					"ColorGrey128"
+			"defaultFgColor_override" 	"ColorGrey128"
 			"armedFgColor_override" 	"ColorWhite"
-			"depressedFgColor_override" "ColorGreyMid"
+			"depressedFgColor_override" "ColorGrey128"
 
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
@@ -916,7 +916,7 @@
 
 			"paintborder"				"0"
 
-			"image_drawcolor"			"ColorGreyMid"
+			"image_drawcolor"			"ColorGrey128"
 			"image_armedcolor"			"ColorWhite"
 			"image_selectedcolor"		"ColorWhite"
 
@@ -1050,9 +1050,9 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override" 	"ColorGreyMid"
+		"defaultFgColor_override" 	"ColorGrey128"
 		"armedFgColor_override" 	"RedSolid"
-		"depressedFgColor_override" "ColorGreyMid"
+		"depressedFgColor_override" "ColorGrey128"
 	}
 
 	"mouseoveritempanel"

@@ -348,7 +348,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "AccentMain"
-		"bgcolor_override"	"ColorGreyDarkerMid"
+		"bgcolor_override"	"ColorGrey64"
 	}
 
 	"ScoreEntry"

@@ -501,10 +501,10 @@
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
 
-			"fgcolor"			"ColorGreyMid"
-			"defaultFgColor_override" "ColorGreyMid"
-			"armedFgColor_override" "ColorGreyMid"
-			"depressedFgColor_override" "ColorGreyMid"
+			"fgcolor"			"ColorGrey128"
+			"defaultFgColor_override" "ColorGrey128"
+			"armedFgColor_override" "ColorGrey128"
+			"depressedFgColor_override" "ColorGrey128"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -705,7 +705,7 @@
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
 		"Command"		"viewcart"
-		"defaultBgColor_override" "ColorGreyDarkerMid"
+		"defaultBgColor_override" "ColorGrey64"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}

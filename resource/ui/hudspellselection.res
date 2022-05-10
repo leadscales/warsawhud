@@ -27,7 +27,7 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"image"				"../signs/death_wheel_whammy"
-		"fgcolor"			"ColorGreyMid"
+		"fgcolor"			"ColorGrey128"
 	}
 
 	"ActionText"

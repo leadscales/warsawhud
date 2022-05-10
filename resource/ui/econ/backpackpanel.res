@@ -650,7 +650,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"TextLabel"
@@ -669,7 +669,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"CloseButton"
@@ -747,9 +747,9 @@
 			"Command"			"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "ColorGreyDarkerMid"
+			"defaultFgColor_override" "ColorGrey64"
 			"armedFgColor_override" "AccentMain"
-			"depressedFgColor_override" "ColorGreyDarkerMid"
+			"depressedFgColor_override" "ColorGrey64"
 			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"ColorWhite"
 
@@ -808,7 +808,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"TextLabel"
@@ -827,7 +827,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"CloseButton"
@@ -886,9 +886,9 @@
 			"Command"			"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "ColorGreyDarkerMid"
+			"defaultFgColor_override" "ColorGrey64"
 			"armedFgColor_override" "AccentMain"
-			"depressedFgColor_override" "ColorGreyDarkerMid"
+			"depressedFgColor_override" "ColorGrey64"
 			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"ColorWhite"
 
@@ -952,9 +952,9 @@
 			"Command"			"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "ColorGreyDarkerMid"
+			"defaultFgColor_override" "ColorGrey64"
 			"armedFgColor_override" "AccentMain"
-			"depressedFgColor_override" "ColorGreyDarkerMid"
+			"depressedFgColor_override" "ColorGrey64"
 			"image_drawcolor"	"ColorWhite"
 			"image_armedcolor"	"ColorWhite"
 
@@ -1013,7 +1013,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"TextLabel"
@@ -1032,7 +1032,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"CloseButton"
@@ -1091,9 +1091,9 @@
 			"Command"			"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"defaultFgColor_override"	"ColorGrey64"
 			"armedFgColor_override"		"AccentMain"
-			"depressedFgColor_override"	"ColorGreyDarkerMid"
+			"depressedFgColor_override"	"ColorGrey64"
 			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"ColorWhite"
 
@@ -1138,9 +1138,9 @@
 			"Command"			"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"defaultFgColor_override"	"ColorGrey64"
 			"armedFgColor_override"		"AccentMain"
-			"depressedFgColor_override"	"ColorGreyDarkerMid"
+			"depressedFgColor_override"	"ColorGrey64"
 			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"ColorWhite"
 
@@ -1219,7 +1219,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"TextLabel"
@@ -1238,7 +1238,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"CloseButton"
@@ -1297,9 +1297,9 @@
 			"Command"			"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"defaultFgColor_override"	"ColorGrey64"
 			"armedFgColor_override" 	"AccentMain"
-			"depressedFgColor_override"	"ColorGreyDarkerMid"
+			"depressedFgColor_override"	"ColorGrey64"
 			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"ColorWhite"
 
@@ -1344,9 +1344,9 @@
 			"Command"			"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"defaultFgColor_override"	"ColorGrey64"
 			"armedFgColor_override" 	"AccentMain"
-			"depressedFgColor_override" "ColorGreyDarkerMid"
+			"depressedFgColor_override" "ColorGrey64"
 			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"ColorWhite"
 
@@ -1424,7 +1424,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"TextLabel"
@@ -1443,7 +1443,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "ColorGreyDarkerMid"
+			"fgcolor_override" "ColorGrey64"
 		}
 
 		"CloseButton"
@@ -1502,9 +1502,9 @@
 			"Command"			"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"defaultFgColor_override"	"ColorGrey64"
 			"armedFgColor_override"		"AccentMain"
-			"depressedFgColor_override"	"ColorGreyDarkerMid"
+			"depressedFgColor_override"	"ColorGrey64"
 			"image_drawcolor"			"ColorWhite"
 			"image_armedcolor"			"ColorWhite"
 

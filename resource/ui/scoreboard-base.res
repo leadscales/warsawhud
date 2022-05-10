@@ -767,7 +767,7 @@
 				"tall"			"0"
 				"visible"		"1"
 				"PaintBackgroundType"	"2"
-				"bgcolor_override"	"ColorGreyMid"
+				"bgcolor_override"	"ColorGrey128"
 				"proportionaltoparent"	"1"
 			}
 			"AvatarImage"

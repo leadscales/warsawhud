@@ -283,6 +283,6 @@
 		"enabled"			"1"
 		"image"				""
 		"scaleImage"		"1"
-		"color_outline"		"ColorGreyMid"
+		"color_outline"		"ColorGrey128"
 	}
 }

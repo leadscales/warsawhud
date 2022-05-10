@@ -13,9 +13,9 @@ Scheme
 		ReplayBrowser.CollectionTitle.FgColor			"ColorNegative"
 		ReplayBrowser.Warning.FgColor					"ColorWhite"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor	"TransparentYellow"
-		ReplayBrowser.Search.BgColor					"ColorGreyMid"
+		ReplayBrowser.Search.BgColor					"ColorGrey128"
 		ReplayBrowser.Search.FgColor					"ColorWhite"
-		Replay.RenderDialog.BgColor						"ColorGreyMid"
+		Replay.RenderDialog.BgColor						"ColorGrey128"
 
 		Econ.Dialog.BgColor						"Blank"
 		Econ.Button.BgColor						"PanelBlack3"
@@ -85,7 +85,7 @@ Scheme
 		GraphPanel.FgColor						"AccentMain"
 		GraphPanel.BgColor						"PanelBlack1"
 
-		Label.TextDullColor						"DullWhite"
+		Label.TextDullColor						"ColorGrey160"
 		Label.TextColor							"ColorWhite"
 		Label.TextBrightColor					"ColorWhite"
 		Label.SelectedTextColor					"ColorWhite"
@@ -108,7 +108,7 @@ Scheme
 
 		Chat.TypingText							"AccentMain"
 
-		Panel.FgColor							"DullWhite"
+		Panel.FgColor							"ColorGrey160"
 		Panel.BgColor							"Blank"
 
 		HTML.BgColor							"Blank"
@@ -119,7 +119,7 @@ Scheme
 		CircularProgressBar.FgColor				"ColorWhite"
 		CircularProgressBar.BgColor				"ColorWhite"
 
-		"BuildingHealthBar.BgColor"				"ColorGreyDarkerMid"
+		"BuildingHealthBar.BgColor"				"ColorGrey64"
 		"BuildingHealthBar.Health"				"ColorWhite"
 		"BuildingHealthBar.LowHealth"			"Health Hurt"
 
@@ -130,19 +130,19 @@ Scheme
 		RadioButton.TextColor					"AccentMain"
 		RadioButton.SelectedTextColor			"AccentMain"
 
-		RichText.TextColor						"DullWhite"
+		RichText.TextColor						"ColorGrey160"
 		RichText.BgColor						"Blank"
-		RichText.SelectedTextColor				"DullWhite"
+		RichText.SelectedTextColor				"ColorGrey160"
 		RichText.SelectedBgColor				"Red"
 
-		ScrollBarButton.FgColor					"DullWhite"
+		ScrollBarButton.FgColor					"ColorGrey160"
 		ScrollBarButton.BgColor					"Blank"
-		ScrollBarButton.ArmedFgColor			"DullWhite"
+		ScrollBarButton.ArmedFgColor			"ColorGrey160"
 		ScrollBarButton.ArmedBgColor			"Blank"
 		ScrollBarButton.DepressedFgColor		"Black"
 		ScrollBarButton.DepressedBgColor		"Blank"
 
-		ScrollBarSlider.FgColor					"DullWhite"		// nob color
+		ScrollBarSlider.FgColor					"ColorGrey160"		// nob color
 		ScrollBarSlider.BgColor					"Blank"		// slider background color
 
 		SectionedListPanel.HeaderTextColor		"ColorWhite"
@@ -159,13 +159,13 @@ Scheme
 		Slider.NobColor							"ColorWhite"
 		Slider.TextColor						"ColorWhite"
 		Slider.TrackColor						"ColorWhite"
-		Slider.DisabledTextColor1				"DullWhite"
-		Slider.DisabledTextColor2				"ColorGreyMid"
+		Slider.DisabledTextColor1				"ColorGrey160"
+		Slider.DisabledTextColor2				"ColorGrey128"
 
 		TextEntry.TextColor						"ColorWhite"
 		TextEntry.BgColor						"Blank"
 		TextEntry.CursorColor					"ColorWhite"
-		TextEntry.DisabledTextColor				"ColorGreyMid"
+		TextEntry.DisabledTextColor				"ColorGrey128"
 		TextEntry.DisabledBgColor				"Blank"
 		TextEntry.SelectedTextColor				"ColorBlack"
 		TextEntry.SelectedBgColor				"AccentMain"
@@ -182,12 +182,12 @@ Scheme
 		WizardSubPanel.BgColor					"Blank"
 
 		TimerProgress.Active					"ColorWhite"
-		TimerProgress.InActive					"ColorGreyMid"
+		TimerProgress.InActive					"ColorGrey128"
 		TimerProgress.Warning					"HudTimerProgressWarning"
 
 		HudObjectives.FgColor					"PanelBlack2"
 		HudObjectives.BgColor					"PanelBlack2"
-		HudObjectives.BorderColor				"ColorWhiteTransparent"
+		HudObjectives.BorderColor				"ColorWhiteTransparent128"
 
 		HudProgressBar.Active					"AccentMain"
 		HudProgressBar.InActive					"PanelMain"
@@ -206,7 +206,7 @@ Scheme
 		"TeamRed"								"255 64 64 255"
 		"TeamBlue"								"153 204 255 255"
 
-		"MapDescriptionText"					"DullWhite" // the text used in the map description window
+		"MapDescriptionText"					"ColorGrey160" // the text used in the map description window
 		"HudIcon_Green"							"0 160 0 255"
 		"HudIcon_Red"							"160 0 0 255"
 

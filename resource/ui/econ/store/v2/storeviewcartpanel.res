@@ -23,8 +23,8 @@
 		"title_font"		"HudFontMedium"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
-		"titlebarfgcolor_override"			"DullishWhite"
-		"titlebardisabledfgcolor_override"	"DullishWhite"
+		"titlebarfgcolor_override"			"ColorGrey192"
+		"titlebardisabledfgcolor_override"	"ColorGrey192"
 		"titlebarbgcolor_override"			"PanelMain"
 
 		"clientinsetx_override"			"0"
@@ -146,7 +146,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"%price%"
-				"fgcolor_override" "DullWhite"
+				"fgcolor_override" "ColorGrey160"
 			}
 		}
 	}
@@ -314,7 +314,7 @@
 			"wide"			"600"
 			"tall"			"240"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override"	"DullWhite"	// Gets copied to the scrollbar fgcolor as part of ScrollableEditablePanel
+			"fgcolor_override"	"ColorGrey160"	// Gets copied to the scrollbar fgcolor as part of ScrollableEditablePanel
 			"bgcolor_override"	"PanelMain"
 			"autohide_buttons" "1"
 

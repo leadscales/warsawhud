@@ -900,7 +900,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyDarkerMid"
+					"color" "ColorGrey64"
 					"offset" "0 1"
 				}
 			}
@@ -908,7 +908,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyDarkerMid"
+					"color" "ColorGrey64"
 					"offset" "1 0"
 				}
 			}
@@ -916,7 +916,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyDarkerMid"
+					"color" "ColorGrey64"
 					"offset" "0 0"
 				}
 			}
@@ -924,7 +924,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyDarkerMid"
+					"color" "ColorGrey64"
 					"offset" "0 0"
 				}
 			}
@@ -1109,7 +1109,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"Grey"
+			"color"					"ColorGrey48"
 			"image"					"replay/thumbnails/panels/backpack"
 			"src_corner_height"		"4"				// pixels inside the image
 			"src_corner_width"		"4"
@@ -1121,7 +1121,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"Grey"
+			"color"					"ColorGrey48"
 			"image"					"replay/thumbnails/panels/backpack"
 			"src_corner_height"		"4"				// pixels inside the image
 			"src_corner_width"		"4"
@@ -1133,7 +1133,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"Grey"
+			"color"					"ColorGrey48"
 			"image"					"replay/thumbnails/panels/backpack_hover"
 			"src_corner_height"		"4"				// pixels inside the image
 			"src_corner_width"		"4"
@@ -2100,7 +2100,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyDarkerMid"
+					"color" "ColorGrey64"
 					"offset" "0 1"
 				}
 			}
@@ -2108,7 +2108,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyDarkerMid"
+					"color" "ColorGrey64"
 					"offset" "1 0"
 				}
 			}
@@ -2116,7 +2116,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyDarkerMid"
+					"color" "ColorGrey64"
 					"offset" "0 0"
 				}
 			}
@@ -2124,7 +2124,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyDarkerMid"
+					"color" "ColorGrey64"
 					"offset" "0 0"
 				}
 			}
@@ -2137,7 +2137,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyMid"
+					"color" "ColorGrey128"
 					"offset" "0 1"
 				}
 			}
@@ -2145,7 +2145,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyMid"
+					"color" "ColorGrey128"
 					"offset" "1 0"
 				}
 			}
@@ -2153,7 +2153,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyMid"
+					"color" "ColorGrey128"
 					"offset" "0 0"
 				}
 			}
@@ -2161,7 +2161,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorGreyMid"
+					"color" "ColorGrey128"
 					"offset" "0 0"
 				}
 			}
@@ -2499,7 +2499,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset"	"0 1"
 				}
 			}
@@ -2507,7 +2507,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset"	"1 0"
 				}
 			}
@@ -2515,7 +2515,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset"	"0 0"
 				}
 			}
@@ -2523,7 +2523,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset"	"0 0"
 				}
 			}
@@ -2536,7 +2536,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset"	"1 0"
 				}
 			}
@@ -2549,7 +2549,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset"	"0 1"
 				}
 			}
@@ -2557,7 +2557,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset"	"1 0"
 				}
 			}
@@ -2565,7 +2565,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset"	"0 0"
 				}
 			}
@@ -2573,7 +2573,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"ColorGreyMid"
+					"color"		"ColorGrey128"
 					"offset" 	"0 0"
 				}
 			}

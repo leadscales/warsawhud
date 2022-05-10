@@ -121,9 +121,9 @@
 		"depressedBgColor_override" "TransparentBlack"
 		"selectedBgColor_override" 	"PanelBlack1"
 
-		"defaultFgColor_override" 	"ColorGreyMid"
+		"defaultFgColor_override" 	"ColorGrey128"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override" "ColorGreyMid"
+		"depressedFgColor_override" "ColorGrey128"
 		"selectedFgColor_override" 	"ColorWhite"
 		
 		"sound_depressed"			"UI/buttonclick.wav"

@@ -64,7 +64,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"ModeLabel"
 		"font"				"DefaultSmall"
-		"fgcolor"			"ColorGreyMid"
+		"fgcolor"			"ColorGrey128"
 		"xpos"				"33"
 		"ypos"				"17"
 		"zpos"				"1"

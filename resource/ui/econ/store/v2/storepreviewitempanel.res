@@ -42,7 +42,7 @@
 		"Slider"
 		{
 			"PaintBackgroundType"	"0"
-			"fgcolor_override"		"DullWhite"
+			"fgcolor_override"		"ColorGrey160"
 		}
 
 		"UpButton"
@@ -179,7 +179,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"RestrictionsLabel"
@@ -230,7 +230,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"UsedByTextLabel"
@@ -263,7 +263,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"SlotTextLabel"
@@ -366,7 +366,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"TradableTextLabel"
@@ -399,7 +399,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"GiftableTextLabel"
@@ -432,7 +432,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"NameableTextLabel"
@@ -465,7 +465,7 @@
 					"visible"			"1"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"DullWhite"
+					"fgcolor"			"ColorGrey160"
 				}
 
 				"CraftableTextLabel"
@@ -937,9 +937,9 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
-		"defaultFgColor_override"	"ColorGreyMid"
+		"defaultFgColor_override"	"ColorGrey128"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override"	"ColorGreyMid"
+		"depressedFgColor_override"	"ColorGrey128"
 	}
 
 	"IconsMoveRightButton"
@@ -967,9 +967,9 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
-		"defaultFgColor_override"	"ColorGreyMid"
+		"defaultFgColor_override"	"ColorGrey128"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override"	"ColorGreyMid"
+		"depressedFgColor_override"	"ColorGrey128"
 	}
 
 	"ClassUsageMouseoverLabel"
@@ -1104,12 +1104,12 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"		"ColorGreyMid"
+		"image_drawcolor"		"ColorGrey128"
 		"image_armedcolor"		"ColorWhite"
 		
-		"defaultFgColor_override" 	"ColorGreyMid"
+		"defaultFgColor_override" 	"ColorGrey128"
 		"armedFgColor_override" 	"ColorWhite"
-		"depressedFgColor_override" "ColorGreyMid"
+		"depressedFgColor_override" "ColorGrey128"
 
 		"SubImage"
 		{
@@ -1249,10 +1249,10 @@
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
 
-			"fgcolor"			"ColorGreyMid"
-			"defaultFgColor_override" "ColorGreyMid"
-			"armedFgColor_override" "ColorGreyMid"
-			"depressedFgColor_override" "ColorGreyMid"
+			"fgcolor"			"ColorGrey128"
+			"defaultFgColor_override" "ColorGrey128"
+			"armedFgColor_override" "ColorGrey128"
+			"depressedFgColor_override" "ColorGrey128"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

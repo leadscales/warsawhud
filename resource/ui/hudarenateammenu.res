@@ -105,9 +105,9 @@
 		"selectedBgColor_override" 	"ColorWhite"
 		
 		"defaultFgColor_override" 	"ColorWhite"
-		"armedFgColor_override"		"ColorGreyMid"
+		"armedFgColor_override"		"ColorGrey128"
 		"depressedFgColor_override" "ColorWhite"
-		"selectedFgColor_override" 	"ColorGreyMid"
+		"selectedFgColor_override" 	"ColorGrey128"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
@@ -144,9 +144,9 @@
 		"selectedBgColor_override" 	"ColorWhite"
 		
 		"defaultFgColor_override" 	"ColorWhite"
-		"armedFgColor_override"		"ColorGreyMid"
+		"armedFgColor_override"		"ColorGrey128"
 		"depressedFgColor_override" "ColorWhite"
-		"selectedFgColor_override" 	"ColorGreyMid"
+		"selectedFgColor_override" 	"ColorGrey128"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"

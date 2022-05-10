@@ -354,9 +354,9 @@
 				"actionsignallevel"	"3"
 				"paintbackground"	"0"
 
-				"defaultFgColor_override" "ColorGreyDarkerMid"
+				"defaultFgColor_override" "ColorGrey64"
 				"armedFgColor_override" "ColorWhite"
-				"depressedFgColor_override" "ColorGreyDarkerMid"
+				"depressedFgColor_override" "ColorGrey64"
 
 				"image_drawcolor"	"TextColor"
 				"image_armedcolor"	"ColorNegative"

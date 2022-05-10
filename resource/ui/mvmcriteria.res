@@ -423,7 +423,7 @@
 			"ControlName"		"Label"
 			"fieldName"			"MissingTicketsLabel"
 			"font"				"FontRegular12"
-			"fgcolor_override"	"ColorGreyMid"
+			"fgcolor_override"	"ColorGrey128"
 			"labelText"			"#TF_Matchmaking_CantQueue_NoTicket"
 			"textAlignment"		"south-west"
 			"wrap"				"1"

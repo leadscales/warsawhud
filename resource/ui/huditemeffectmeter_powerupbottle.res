@@ -10,7 +10,7 @@
 		"wide"				"100"
 		"tall"				"60"
 		"MeterFG"			"ColorWhite"
-		"MeterBG"			"DullWhite"
+		"MeterBG"			"ColorGrey160"
 	}
 
 	"PowerupBG"

@@ -102,7 +102,7 @@
 			"proportionaltoparent"	"1"
 			"velocity"		"200"
 			"radius"		"30"
-			"fgcolor_override"	"ColorGreyMid"
+			"fgcolor_override"	"ColorGrey128"
 		}
 
 		"WorkingText"

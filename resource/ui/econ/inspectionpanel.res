@@ -71,7 +71,7 @@
 		"name_only"			"1"
 		"proportionaltoparent"	"0"
 		"bgcolor_override"		"Transparent"
-		"noitem_textcolor"		"ColorGreyMid"
+		"noitem_textcolor"		"ColorGrey128"
 		"PaintBackgroundType"	"2"
 
 		"consume_mode"
@@ -193,10 +193,10 @@
 			"labelText"			""
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
-			"fgcolor"					"ColorGreyMid"
-			"defaultFgColor_override" 	"ColorGreyMid"
-			"armedFgColor_override" 	"ColorGreyMid"
-			"depressedFgColor_override"	"ColorGreyMid"
+			"fgcolor"					"ColorGrey128"
+			"defaultFgColor_override" 	"ColorGrey128"
+			"armedFgColor_override" 	"ColorGrey128"
+			"depressedFgColor_override"	"ColorGrey128"
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 			"sound_armed"			"UI/buttonrollover.wav"
@@ -315,8 +315,8 @@
 
 			"defaultFgColor_override" "Transparent"
 			"armedFgColor_override" "AccentMain"
-			"depressedFgColor_override" "ColorGreyDarkerMid"
-			"image_drawcolor"	"ColorGreyMid"
+			"depressedFgColor_override" "ColorGrey64"
+			"image_drawcolor"	"ColorGrey128"
 			"image_armedcolor"	"AccentMain"
 
 			"SubImage"
@@ -366,7 +366,7 @@
 
 			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"Transparent"
-			"disabledFgColor_override" "ColorGreyMid"
+			"disabledFgColor_override" "ColorGrey128"
 			"disabledBgColor_override" "Transparent"
 			"selectionColor_override" "Transparent"
 			"selectionTextColor_override" "ColorWhite"
@@ -433,7 +433,7 @@
 
 			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"Transparent"
-			"disabledFgColor_override" "ColorGreyMid"
+			"disabledFgColor_override" "ColorGrey128"
 			"disabledBgColor_override" "Transparent"
 			"selectionColor_override" "Transparent"
 			"selectionTextColor_override" "ColorWhite"

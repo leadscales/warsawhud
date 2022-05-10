@@ -57,7 +57,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"color_outline"	"ColorGreyMid"
+				"color_outline"	"ColorGrey128"
 			}
 		}
 	}
@@ -134,7 +134,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "DullishWhite"
+			"fgcolor_override" "ColorGrey192"
 		}
 
 		"subbutton0"
@@ -238,7 +238,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "DullishWhite"
+			"fgcolor_override" "ColorGrey192"
 		}
 
 		"EmptyPlayerListLabel"
@@ -259,7 +259,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "DullishWhite"
+			"fgcolor_override" "ColorGrey192"
 		}
 	}
 
@@ -291,7 +291,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "DullishWhite"
+			"fgcolor_override" "ColorGrey192"
 		}
 
 		"EmptyPlayerListLabel"

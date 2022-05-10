@@ -539,7 +539,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"bgcolor_override"	"ColorGreyMid"
+			"bgcolor_override"	"ColorGrey128"
 		}
 
 		"UpgradeItemsDescriptionLabel"

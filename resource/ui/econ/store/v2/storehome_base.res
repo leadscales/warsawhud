@@ -273,11 +273,11 @@
 			"fgcolor"			"ColorWhite"
 			"allcaps"			"1"
 
-			"defaultBgColor_override"	"ColorGreyDarkerMid"
+			"defaultBgColor_override"	"ColorGrey64"
 			"defaultFgColor_override"	"ColorWhite"
-			"armedBgColor_override"		"ColorGreyMid"
+			"armedBgColor_override"		"ColorGrey128"
 			"armedFgColor_override"		"ColorWhite"
-			"selectedBgColor_override"	"ColorGreyMid"
+			"selectedBgColor_override"	"ColorGrey128"
 			"selectedFgColor_override"	"ColorWhite"
 
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -394,7 +394,7 @@
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
 		"Command"		"viewcart"
-		"defaultBgColor_override" "ColorGreyDarkerMid"
+		"defaultBgColor_override" "ColorGrey64"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
@@ -461,7 +461,7 @@
 		"default"		"1"
 		"Command"		"marketplace"
 		"paintbackground"	"1"
-		"defaultBgColor_override" "ColorGreyDarkerMid"
+		"defaultBgColor_override" "ColorGrey64"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}

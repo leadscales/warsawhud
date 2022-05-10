@@ -99,7 +99,7 @@
 			"HealthDeathWarning"		"0.40"
 			"TFFont"					"HudFontSmall"
 			"HealthDeathWarningColor"	"Health Hurt"
-			"TextColor"					"DullishWhite"
+			"TextColor"					"ColorGrey192"
 		}
 
 		"FreezeLabelKiller"
@@ -134,7 +134,7 @@
 			"enabled"			"1"
 			"image"				""
 			"scaleImage"		"1"
-			"color_outline"		"ColorGreyMid"
+			"color_outline"		"ColorGrey128"
 		}
 
 		"NemesisSubPanel"
