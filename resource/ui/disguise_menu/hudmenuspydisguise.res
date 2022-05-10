@@ -13,7 +13,7 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"icon"				"hud_menu_bg"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"TitleLabel"
@@ -329,7 +329,7 @@
 		"enabled"			"0"
 		"scaleImage"		"0"
 		"icon"				"ico_key_blank"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"NumberLabel1"
@@ -366,7 +366,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"ico_key_blank"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"NumberLabel2"
@@ -403,7 +403,7 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"icon"				"ico_key_blank"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"NumberLabel3"

@@ -665,7 +665,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "SaleGreen"
+					"color" "ColorPositive"
 					"offset" "0 1"
 				}
 			}
@@ -673,7 +673,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "SaleGreen"
+					"color" "ColorPositive"
 					"offset" "1 0"
 				}
 			}
@@ -681,7 +681,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "SaleGreen"
+					"color" "ColorPositive"
 					"offset" "0 0"
 				}
 			}
@@ -689,7 +689,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "SaleGreen"
+					"color" "ColorPositive"
 					"offset" "0 0"
 				}
 			}
@@ -820,7 +820,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"HUDRedTeamSolid"
+			"color"					"TeamColorRed"
 			
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -833,7 +833,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"HUDRedTeamSolid"
+			"color"					"TeamColorRed"
 
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -846,7 +846,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"HUDBlueTeamSolid"
+			"color"					"TeamColorBlu"
 			
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -859,7 +859,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"HUDBlueTeamSolid"
+			"color"					"TeamColorBlu"
 			
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -872,7 +872,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"HUDBlueTeamSolid"
+			"color"					"TeamColorBlu"
 			
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -900,7 +900,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "ColorGreyDarkerMid"
 					"offset" "0 1"
 				}
 			}
@@ -908,7 +908,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "ColorGreyDarkerMid"
 					"offset" "1 0"
 				}
 			}
@@ -916,7 +916,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "ColorGreyDarkerMid"
 					"offset" "0 0"
 				}
 			}
@@ -924,7 +924,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "ColorGreyDarkerMid"
 					"offset" "0 0"
 				}
 			}
@@ -2100,7 +2100,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "ColorGreyDarkerMid"
 					"offset" "0 1"
 				}
 			}
@@ -2108,7 +2108,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "ColorGreyDarkerMid"
 					"offset" "1 0"
 				}
 			}
@@ -2116,7 +2116,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "ColorGreyDarkerMid"
 					"offset" "0 0"
 				}
 			}
@@ -2124,7 +2124,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDarker"
+					"color" "ColorGreyDarkerMid"
 					"offset" "0 0"
 				}
 			}
@@ -2137,7 +2137,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "ColorGreyMid"
 					"offset" "0 1"
 				}
 			}
@@ -2145,7 +2145,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "ColorGreyMid"
 					"offset" "1 0"
 				}
 			}
@@ -2153,7 +2153,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "ColorGreyMid"
 					"offset" "0 0"
 				}
 			}
@@ -2161,7 +2161,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "ColorGreyMid"
 					"offset" "0 0"
 				}
 			}
@@ -2499,7 +2499,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset"	"0 1"
 				}
 			}
@@ -2507,7 +2507,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset"	"1 0"
 				}
 			}
@@ -2515,7 +2515,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset"	"0 0"
 				}
 			}
@@ -2523,7 +2523,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset"	"0 0"
 				}
 			}
@@ -2536,7 +2536,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset"	"1 0"
 				}
 			}
@@ -2549,7 +2549,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset"	"0 1"
 				}
 			}
@@ -2557,7 +2557,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset"	"1 0"
 				}
 			}
@@ -2565,7 +2565,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset"	"0 0"
 				}
 			}
@@ -2573,7 +2573,7 @@ Scheme
 			{
 				"1"
 				{
-					"color"		"TanDark"
+					"color"		"ColorGreyMid"
 					"offset" 	"0 0"
 				}
 			}
@@ -2691,7 +2691,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"HUDRedTeamSolid"
+			"color"					"TeamColorRed"
 			
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -2704,7 +2704,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"HUDBlueTeamSolid"
+			"color"					"TeamColorBlu"
 
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -2870,7 +2870,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 1"
 				}
 			}
@@ -2878,7 +2878,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "1 0"
 				}
 			}
@@ -2886,7 +2886,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 0"
 				}
 			}
@@ -2894,7 +2894,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 0"
 				}
 			}
@@ -2906,12 +2906,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 1"
 				}
 			}
@@ -2919,12 +2919,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "1 0"
 				}
 				"2"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "1 0"
 				}
 			}
@@ -2932,12 +2932,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 0"
 				}
 			}
@@ -2945,12 +2945,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "CreditsGreen"
+					"color" "ColorPositive"
 					"offset" "0 0"
 				}
 			}

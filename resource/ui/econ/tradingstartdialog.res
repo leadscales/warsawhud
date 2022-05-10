@@ -57,7 +57,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"color_outline"	"HudTimerProgressInActive"
+				"color_outline"	"ColorGreyMid"
 			}
 		}
 	}
@@ -134,7 +134,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "HudOffWhite"
+			"fgcolor_override" "DullishWhite"
 		}
 
 		"subbutton0"
@@ -238,7 +238,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "HudOffWhite"
+			"fgcolor_override" "DullishWhite"
 		}
 
 		"EmptyPlayerListLabel"
@@ -259,7 +259,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "HudOffWhite"
+			"fgcolor_override" "DullishWhite"
 		}
 	}
 
@@ -291,7 +291,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "HudOffWhite"
+			"fgcolor_override" "DullishWhite"
 		}
 
 		"EmptyPlayerListLabel"

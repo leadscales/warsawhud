@@ -1066,7 +1066,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -1085,7 +1085,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -1115,7 +1115,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" 	"ColorWhite"
-			"armedFgColor_override" 	"LightRed"
+			"armedFgColor_override" 	"ColorNegative"
 			"depressedFgColor_override" "ColorWhite"
 		}
 		"PositionLabel"
@@ -1162,11 +1162,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1224,7 +1224,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -1243,7 +1243,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -1273,7 +1273,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" 	"ColorWhite"
-			"armedFgColor_override" 	"LightRed"
+			"armedFgColor_override" 	"ColorNegative"
 			"depressedFgColor_override" "ColorWhite"
 		}
 
@@ -1303,11 +1303,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1370,11 +1370,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1431,7 +1431,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -1450,7 +1450,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -1480,7 +1480,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" 	"ColorWhite"
-			"armedFgColor_override" 	"LightRed"
+			"armedFgColor_override" 	"ColorNegative"
 			"depressedFgColor_override" "ColorWhite"
 		}
 
@@ -1510,11 +1510,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1577,11 +1577,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1638,7 +1638,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -1657,7 +1657,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -1687,7 +1687,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" 	"ColorWhite"
-			"armedFgColor_override" 	"LightRed"
+			"armedFgColor_override" 	"ColorNegative"
 			"depressedFgColor_override" "ColorWhite"
 		}
 
@@ -1717,11 +1717,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1784,11 +1784,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1845,7 +1845,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -1864,7 +1864,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -1894,7 +1894,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" 	"ColorWhite"
-			"armedFgColor_override" 	"LightRed"
+			"armedFgColor_override" 	"ColorNegative"
 			"depressedFgColor_override" "ColorWhite"
 		}
 
@@ -1924,11 +1924,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "LightRed"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
+			"armedFgColor_override" "ColorNegative"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1962,7 +1962,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "ColorNegative"
 		}
 
 		"NextButton"
@@ -1991,11 +1991,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "LightRed"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
+			"armedFgColor_override" "ColorNegative"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -2052,7 +2052,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -2071,7 +2071,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -2101,7 +2101,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" 	"ColorWhite"
-			"armedFgColor_override" 	"LightRed"
+			"armedFgColor_override" 	"ColorNegative"
 			"depressedFgColor_override" "ColorWhite"
 		}
 
@@ -2131,11 +2131,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -2198,11 +2198,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -2258,7 +2258,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -2277,7 +2277,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -2307,7 +2307,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override" 	"ColorWhite"
-			"armedFgColor_override" 	"LightRed"
+			"armedFgColor_override" 	"ColorNegative"
 			"depressedFgColor_override" "ColorWhite"
 		}
 
@@ -2337,11 +2337,11 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
 			"armedFgColor_override" "ColorWhite"
-			"depressedFgColor_override" "TanDarker"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{

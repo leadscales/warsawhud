@@ -11,7 +11,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"TFFont"		"HudFontSmall"
-		"TextColor"		"HudOffWhite"
+		"TextColor"		"DullishWhite"
 		"autoResize"	"1"
 	}
 
@@ -26,7 +26,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"TFFont"		"HudFontSmall"
-		"TextColor"		"HudOffWhite"
+		"TextColor"		"DullishWhite"
 		"autoResize"	"1"
 	}
 }

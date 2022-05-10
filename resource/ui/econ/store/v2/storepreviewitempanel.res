@@ -196,7 +196,7 @@
 					"visible"			"0"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"LightRed"
+					"fgcolor"			"AccentMain"
 				}
 
 				"RestrictionsTextLabel"
@@ -213,7 +213,7 @@
 					"visible"			"0"
 					"enabled"			"1"
 					"wrap"				"1"
-					"fgcolor"			"LightRed"
+					"fgcolor"			"AccentMain"
 				}
 
 				"UsedByLabel"
@@ -567,7 +567,7 @@
 		"panel_bgcolor"			"TextColor"
 		"image_indent"			"0"
 		"PaintBackgroundType"	"2"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 
 		"bgblockout"
 		{
@@ -617,7 +617,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"panel_bgcolor" "TextColor"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -669,7 +669,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"panel_bgcolor" "TextColor"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -721,7 +721,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"panel_bgcolor" "TextColor"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -773,7 +773,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"panel_bgcolor" "TextColor"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 		"image_indent"	"0"
 		"PaintBackgroundType"	"2"
 
@@ -829,7 +829,7 @@
 		"panel_bgcolor"			"TextColor"
 		"image_indent"			"2"
 		"PaintBackgroundType"	"2"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 	}
 	"ClassUsageImage2"
 	{
@@ -845,7 +845,7 @@
 		"panel_bgcolor" 		"TextColor"
 		"image_indent"			"2"
 		"PaintBackgroundType"	"2"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 	}
 	"ClassUsageImage3"
 	{
@@ -861,7 +861,7 @@
 		"panel_bgcolor"			"TextColor"
 		"image_indent"			"2"
 		"PaintBackgroundType"	"2"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 	}
 	"ClassUsageImage4"
 	{
@@ -877,7 +877,7 @@
 		"panel_bgcolor" 		"TextColor"
 		"image_indent"			"2"
 		"PaintBackgroundType"	"2"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 	}
 	"ClassUsageImage5"
 	{
@@ -893,7 +893,7 @@
 		"panel_bgcolor" 		"TextColor"
 		"image_indent"			"2"
 		"PaintBackgroundType"	"2"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 	}
 	"ClassUsageImage6"
 	{
@@ -909,7 +909,7 @@
 		"panel_bgcolor" 		"TextColor"
 		"image_indent"			"2"
 		"PaintBackgroundType"	"2"
-		"panel_bgcolor_mouseover" "White"
+		"panel_bgcolor_mouseover" "ColorWhite"
 	}
 
 	"IconsMoveLeftButton"
@@ -937,9 +937,9 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
-		"defaultFgColor_override"	"TanDark"
+		"defaultFgColor_override"	"ColorGreyMid"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"ColorGreyMid"
 	}
 
 	"IconsMoveRightButton"
@@ -967,9 +967,9 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 		
-		"defaultFgColor_override"	"TanDark"
+		"defaultFgColor_override"	"ColorGreyMid"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override"	"TanDark"
+		"depressedFgColor_override"	"ColorGreyMid"
 	}
 
 	"ClassUsageMouseoverLabel"
@@ -1104,12 +1104,12 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"image_drawcolor"		"TanDark"
+		"image_drawcolor"		"ColorGreyMid"
 		"image_armedcolor"		"ColorWhite"
 		
-		"defaultFgColor_override" 	"TanDark"
+		"defaultFgColor_override" 	"ColorGreyMid"
 		"armedFgColor_override" 	"ColorWhite"
-		"depressedFgColor_override" "TanDark"
+		"depressedFgColor_override" "ColorGreyMid"
 
 		"SubImage"
 		{
@@ -1249,10 +1249,10 @@
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
 
-			"fgcolor"			"TanDark"
-			"defaultFgColor_override" "TanDark"
-			"armedFgColor_override" "TanDark"
-			"depressedFgColor_override" "TanDark"
+			"fgcolor"			"ColorGreyMid"
+			"defaultFgColor_override" "ColorGreyMid"
+			"armedFgColor_override" "ColorGreyMid"
+			"depressedFgColor_override" "ColorGreyMid"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1266,7 +1266,7 @@
 
 			"image_drawcolor"		"255 255 255 77"
 			"image_armedcolor"		"255 255 255 128"
-			"image_selectedcolor"	"White"
+			"image_selectedcolor"	"ColorWhite"
 
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
@@ -1400,7 +1400,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override" 	"ColorWhite"
-		"armedFgColor_override" 	"LightRed"
+		"armedFgColor_override" 	"AccentMain"
 		"depressedFgColor_override" "ColorWhite"
 	}
 

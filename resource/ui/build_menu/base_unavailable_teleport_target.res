@@ -35,7 +35,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"hud_menu_item_bg"
-		"iconColor"			"ProgressOffWhite"
+		"iconColor"			"ColorWhite"
 	}
 
 	"CantBuildReason"
@@ -64,7 +64,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"ModeLabel"
 		"font"				"DefaultSmall"
-		"fgcolor"			"TanDark"
+		"fgcolor"			"ColorGreyMid"
 		"xpos"				"33"
 		"ypos"				"17"
 		"zpos"				"1"
@@ -91,7 +91,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"ico_key_blank"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"NumberLabel"

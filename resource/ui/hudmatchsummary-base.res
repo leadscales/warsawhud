@@ -399,7 +399,7 @@
 					"enabled"		"1"
 					"image"			""
 					"scaleImage"	"1"
-					"color_outline"	"HudTimerProgressInActive"
+					"color_outline"	"ColorGreyMid"
 
 					if_large
 					{
@@ -669,7 +669,7 @@
 					"enabled"		"1"
 					"image"			""
 					"scaleImage"	"1"
-					"color_outline"	"HudTimerProgressInActive"
+					"color_outline"	"ColorGreyMid"
 
 					if_large
 					{

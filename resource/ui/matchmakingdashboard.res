@@ -305,7 +305,7 @@
 				"proportionaltoparent"	"1"
 				"radius"		"10"
 				"velocity"		"100"
-				"fgcolor_override"	"TFOrange"
+				"fgcolor_override"	"AccentMain"
 			}
 
 			"QueueText"
@@ -354,12 +354,12 @@
 				"actionsignallevel"	"3"
 				"paintbackground"	"0"
 
-				"defaultFgColor_override" "TanDarker"
+				"defaultFgColor_override" "ColorGreyDarkerMid"
 				"armedFgColor_override" "ColorWhite"
-				"depressedFgColor_override" "TanDarker"
+				"depressedFgColor_override" "ColorGreyDarkerMid"
 
 				"image_drawcolor"	"TextColor"
-				"image_armedcolor"	"LightRed"
+				"image_armedcolor"	"ColorNegative"
 
 				"SubImage"
 				{
@@ -406,7 +406,7 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 
 				"defaultFgColor_override" 	"ColorWhite"
-				"armedFgColor_override" 	"LightRed"
+				"armedFgColor_override" 	"ColorNegative"
 				"depressedFgColor_override" "ColorWhite"
 			}
 		}
@@ -503,8 +503,8 @@
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"3"
 
-				"armedBgColor_override"		"CreditsGreen"
-				"defaultBgColor_override"	"SaleGreen"
+				"armedBgColor_override"		"ColorPositive"
+				"defaultBgColor_override"	"ColorPositive"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"

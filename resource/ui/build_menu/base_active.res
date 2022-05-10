@@ -50,7 +50,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"hud_menu_sentry_build"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"MetalIcon"
@@ -149,7 +149,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"ModeLabel"
 		"font"				"DefaultSmall"
-		"fgcolor"			"TanDarker"
+		"fgcolor"			"ColorGreyDarkerMid"
 		"xpos"				"33"
 		"ypos"				"17"
 		"zpos"				"1"
@@ -176,7 +176,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"ico_key_blank"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"NumberLabel"

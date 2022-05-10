@@ -117,13 +117,13 @@
 		"paintbackground"	"1"
 
 		"defaultBgColor_override" 	"TransparentBlack"
-		"armedBgColor_override"		"HudBlack"
+		"armedBgColor_override"		"PanelBlack1"
 		"depressedBgColor_override" "TransparentBlack"
-		"selectedBgColor_override" 	"HudBlack"
+		"selectedBgColor_override" 	"PanelBlack1"
 
-		"defaultFgColor_override" 	"TanDark"
+		"defaultFgColor_override" 	"ColorGreyMid"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override" "TanDark"
+		"depressedFgColor_override" "ColorGreyMid"
 		"selectedFgColor_override" 	"ColorWhite"
 		
 		"sound_depressed"			"UI/buttonclick.wav"

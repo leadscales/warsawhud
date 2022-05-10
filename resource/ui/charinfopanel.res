@@ -23,8 +23,8 @@
 		"title_font"						"HudFontMedium"
 		"titletextinsetX"					"40"
 		"titletextinsetY"					"0"
-		"titlebarfgcolor_override"			"HudOffWhite"
-		"titlebardisabledfgcolor_override"	"HudOffWhite"
+		"titlebarfgcolor_override"			"DullishWhite"
+		"titlebardisabledfgcolor_override"	"DullishWhite"
 		"titlebarbgcolor_override"			"PanelMain"
 
 		"clientinsetx_override"				"0"

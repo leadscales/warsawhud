@@ -347,8 +347,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "LightRed"
-		"bgcolor_override"	"TanDarker"
+		"fgcolor_override" "AccentMain"
+		"bgcolor_override"	"ColorGreyDarkerMid"
 	}
 
 	"ScoreEntry"

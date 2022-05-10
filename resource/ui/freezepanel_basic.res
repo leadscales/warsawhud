@@ -98,8 +98,8 @@
 			"HealthBonusPosAdj"			"0"
 			"HealthDeathWarning"		"0.40"
 			"TFFont"					"HudFontSmall"
-			"HealthDeathWarningColor"	"HUDDeathWarning"
-			"TextColor"					"HudOffWhite"
+			"HealthDeathWarningColor"	"Health Hurt"
+			"TextColor"					"DullishWhite"
 		}
 
 		"FreezeLabelKiller"
@@ -134,7 +134,7 @@
 			"enabled"			"1"
 			"image"				""
 			"scaleImage"		"1"
-			"color_outline"		"HudTimerProgressInActive"
+			"color_outline"		"ColorGreyMid"
 		}
 
 		"NemesisSubPanel"

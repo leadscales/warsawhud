@@ -96,7 +96,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"Font14"
-		"fgcolor"		"HUDBlueTeamSolid"
+		"fgcolor"		"TeamColorBlu"
 
 		"if_hybrid"
 		{
@@ -160,7 +160,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"Font14"
-		"fgcolor"		"HUDRedTeamSolid"
+		"fgcolor"		"TeamColorRed"
 		"textinsetx"	"10"
 
 		"if_hybrid"

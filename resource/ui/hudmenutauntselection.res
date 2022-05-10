@@ -13,7 +13,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"hud_menu_bg"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"Divider"
@@ -163,7 +163,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NumberLabel1"
@@ -261,7 +261,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NumberLabel2"
@@ -359,7 +359,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NumberLabel3"
@@ -457,7 +457,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NumberLabel4"
@@ -555,7 +555,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NumberLabel5"
@@ -653,7 +653,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NumberLabel6"
@@ -751,7 +751,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NumberLabel7"
@@ -849,7 +849,7 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NumberLabel8"
@@ -909,7 +909,7 @@
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	"PanelBlack1"
 		"PaintBackgroundType"	"2"
 	}
 }

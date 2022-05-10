@@ -331,7 +331,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "ColorNegative"
 			"bgcolor_override" "24 24 24 128"
 		}
 		"TestItemButton0"
@@ -415,7 +415,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "ColorNegative"
 			"bgcolor_override" "24 24 24 128"
 		}
 		"TestItemButton1"
@@ -499,7 +499,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "ColorNegative"
 			"bgcolor_override" "24 24 24 128"
 		}
 		"TestItemButton2"
@@ -583,7 +583,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "ColorNegative"
 			"bgcolor_override" "24 24 24 128"
 		}
 		"TestItemButton3"
@@ -967,7 +967,7 @@
 
 			"image_armedcolor"		"ColorWhite"
 			"image_drawcolor"		"ColorWhite"
-			"image_selectedcolor"	"TanDarker"
+			"image_selectedcolor"	"ColorGreyDarkerMid"
 
 			"SubImage"
 			{

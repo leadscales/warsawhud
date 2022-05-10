@@ -56,7 +56,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"wrap"				"1"
-		"fgcolor_override"	"LightRed"
+		"fgcolor_override"	"AccentMain"
 	}
 
 	"ExplanationLabel2"
@@ -76,7 +76,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"wrap"				"1"
-		"fgcolor_override"	"LightRed"
+		"fgcolor_override"	"AccentMain"
 	}
 
 	"ItemImagePanel"

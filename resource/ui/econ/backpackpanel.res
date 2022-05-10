@@ -282,7 +282,7 @@
 		"enabled"			"1"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"ColorWhite"
 		"bgcolor_override"	"Black"
 	}
 
@@ -650,7 +650,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -669,7 +669,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -698,9 +698,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"White"
-			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "White"
+			"defaultFgColor_override" 	"ColorWhite"
+			"armedFgColor_override" 	"AccentMain"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PositionLabel"
@@ -719,7 +719,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "AccentMain"
 		}
 
 		"NextButton"
@@ -747,11 +747,11 @@
 			"Command"			"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "LightRed"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -808,7 +808,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -827,7 +827,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -856,9 +856,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"White"
-			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "White"
+			"defaultFgColor_override" 	"ColorWhite"
+			"armedFgColor_override" 	"AccentMain"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -886,11 +886,11 @@
 			"Command"			"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "LightRed"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -924,7 +924,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "AccentMain"
 		}
 
 		"NextButton"
@@ -952,11 +952,11 @@
 			"Command"			"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override" "TanDarker"
-			"armedFgColor_override" "LightRed"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override" "ColorGreyDarkerMid"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"White"
+			"image_armedcolor"	"ColorWhite"
 
 			"SubImage"
 			{
@@ -1013,7 +1013,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -1032,7 +1032,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -1061,9 +1061,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"White"
-			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "White"
+			"defaultFgColor_override" 	"ColorWhite"
+			"armedFgColor_override" 	"AccentMain"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -1091,11 +1091,11 @@
 			"Command"			"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"TanDarker"
-			"armedFgColor_override"		"LightRed"
-			"depressedFgColor_override"	"TanDarker"
+			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"armedFgColor_override"		"AccentMain"
+			"depressedFgColor_override"	"ColorGreyDarkerMid"
 			"image_drawcolor"			"ColorWhite"
-			"image_armedcolor"			"White"
+			"image_armedcolor"			"ColorWhite"
 
 			"SubImage"
 			{
@@ -1138,11 +1138,11 @@
 			"Command"			"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"TanDarker"
-			"armedFgColor_override"		"LightRed"
-			"depressedFgColor_override"	"TanDarker"
+			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"armedFgColor_override"		"AccentMain"
+			"depressedFgColor_override"	"ColorGreyDarkerMid"
 			"image_drawcolor"			"ColorWhite"
-			"image_armedcolor"			"White"
+			"image_armedcolor"			"ColorWhite"
 
 			"SubImage"
 			{
@@ -1176,7 +1176,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 
@@ -1219,7 +1219,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -1238,7 +1238,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -1267,9 +1267,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"White"
-			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "White"
+			"defaultFgColor_override" 	"ColorWhite"
+			"armedFgColor_override" 	"AccentMain"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -1297,11 +1297,11 @@
 			"Command"			"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"TanDarker"
-			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override"	"TanDarker"
+			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"armedFgColor_override" 	"AccentMain"
+			"depressedFgColor_override"	"ColorGreyDarkerMid"
 			"image_drawcolor"			"ColorWhite"
-			"image_armedcolor"			"White"
+			"image_armedcolor"			"ColorWhite"
 
 			"SubImage"
 			{
@@ -1344,11 +1344,11 @@
 			"Command"			"nextexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"TanDarker"
-			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "TanDarker"
+			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"armedFgColor_override" 	"AccentMain"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
 			"image_drawcolor"			"ColorWhite"
-			"image_armedcolor"			"White"
+			"image_armedcolor"			"ColorWhite"
 
 			"SubImage"
 			{
@@ -1382,7 +1382,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 
@@ -1424,7 +1424,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"TextLabel"
@@ -1443,7 +1443,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "TanDarker"
+			"fgcolor_override" "ColorGreyDarkerMid"
 		}
 
 		"CloseButton"
@@ -1472,9 +1472,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"White"
-			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "White"
+			"defaultFgColor_override" 	"ColorWhite"
+			"armedFgColor_override" 	"AccentMain"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"PrevButton"
@@ -1502,11 +1502,11 @@
 			"Command"			"prevexplanation"
 			"paintbackground"	"0"
 
-			"defaultFgColor_override"	"TanDarker"
-			"armedFgColor_override"		"LightRed"
-			"depressedFgColor_override"	"TanDarker"
+			"defaultFgColor_override"	"ColorGreyDarkerMid"
+			"armedFgColor_override"		"AccentMain"
+			"depressedFgColor_override"	"ColorGreyDarkerMid"
 			"image_drawcolor"			"ColorWhite"
-			"image_armedcolor"			"White"
+			"image_armedcolor"			"ColorWhite"
 
 			"SubImage"
 			{
@@ -1540,7 +1540,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "LightRed"
+			"fgcolor_override" "AccentMain"
 		}
 	}
 }

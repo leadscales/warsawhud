@@ -88,12 +88,12 @@
 		"NumericInputOnly"		"0"
 		"unicode"				"0"
 
-		"fgcolor_override"					"White"
+		"fgcolor_override"					"ColorWhite"
 		"bgcolor_override"					"Black"
-		"disabledFgColor_override"			"White"
+		"disabledFgColor_override"			"ColorWhite"
 		"disabledBgColor_override"			"Black"
 		"selectionColor_override"			"Black"
-		"selectionTextColor_override" 		"White"
+		"selectionTextColor_override" 		"ColorWhite"
 		"defaultSelectionBG2Color_override"	"Black"
 	}
 

@@ -37,7 +37,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"obj_status_sentrygun_1"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"Icon_Sentry_2"
@@ -52,7 +52,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"obj_status_sentrygun_2"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"Icon_Sentry_3"
@@ -67,7 +67,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"obj_status_sentrygun_3"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NotBuiltPanel"
@@ -124,7 +124,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_1"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"Icon_Upgrade_2"
@@ -140,7 +140,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_2"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"Icon_Upgrade_3"
@@ -156,7 +156,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_3"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"AlertTray"
@@ -186,7 +186,7 @@
 			"enabled"		"0"
 			"scaleImage"	"1"
 			"icon"			"obj_status_icon_wrench"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"SapperIcon"
@@ -202,7 +202,7 @@
 			"enabled"		"0"
 			"scaleImage"	"1"
 			"icon"			"obj_status_icon_sapper"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"Health"
@@ -294,7 +294,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"../hud/hud_obj_status_kill_64"
-				"drawcolor"		"ProgressOffWhite"
+				"drawcolor"		"ColorWhite"
 			}
 
 			"KillsLabel"
@@ -314,7 +314,7 @@
 				"textAlignment"	"west"
 				"dulltext"		"0"
 				"brighttext"	"0"
-				"drawcolor"		"ProgressOffWhite"
+				"drawcolor"		"ColorWhite"
 			}
 
 			"ShellIcon"
@@ -330,7 +330,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"../hud/hud_obj_status_ammo_64"
-				"drawcolor"		"ProgressOffWhite"
+				"drawcolor"		"ColorWhite"
 			}
 
 			"Shells"
@@ -364,7 +364,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"../hud/hud_obj_status_rockets_64"
-				"drawcolor"		"ProgressOffWhite"
+				"drawcolor"		"ColorWhite"
 			}
 
 			"Rockets"
@@ -398,7 +398,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"icon"			"ico_metal"
-				"iconColor"		"ProgressOffWhite"
+				"iconColor"		"ColorWhite"
 			}
 
 			"Upgrade"

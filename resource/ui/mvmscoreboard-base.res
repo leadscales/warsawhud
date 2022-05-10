@@ -26,7 +26,7 @@
 		"ypos"				"0"
 		"wide"				"520"
 		"tall"				"20"
-		"fgcolor"			"HUDRedTeamSolid"
+		"fgcolor"			"TeamColorRed"
 
 		"pin_to_sibling"	"PlayerListTitlePanel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -101,7 +101,7 @@
 		"font"				"Font14"
 		"textAlignment"		"center"
 		"fgcolor"			"ColorBlack"
-		"bgcolor_override"	"HUDRedTeamSolid"
+		"bgcolor_override"	"TeamColorRed"
 
 		"pin_to_sibling"	"PlayerListTitlePanel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -122,7 +122,7 @@
 		"tabPosition"		"0"
 		"autoresize"		"3"
 		"linespacing"		"22"
-		"textcolor"			"White"
+		"textcolor"			"ColorWhite"
 		"font"				"HudFontMedium"
 	}
 

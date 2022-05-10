@@ -4,19 +4,19 @@
 {
 	"ItemNameLabel"
 	{
-		"fgcolor"			"HUDBlueTeamSolid"
+		"fgcolor"			"TeamColorBlu"
 		"labelText"			"#TF_Class_Name_Engineer"
 	}
 
 	"NewNumberLabel"
 	{
-		"fgcolor"			"HUDBlueTeamSolid"
+		"fgcolor"			"TeamColorBlu"
 		"labelText"			"3"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"			"HUDBlueTeamSolid"
+		"fgcolor"			"TeamColorBlu"
 		"labelText"			"6"
 	}
 }

@@ -44,7 +44,7 @@
 		"tall"			"30"
 		"visible"		"0"
 		"enabled"		"0"
-		"fgcolor_override" "White"
+		"fgcolor_override" "ColorWhite"
 		"proportionaltoparent"	"1"
 	}
 
@@ -102,7 +102,7 @@
 			"proportionaltoparent"	"1"
 			"velocity"		"200"
 			"radius"		"30"
-			"fgcolor_override"	"TanDark"
+			"fgcolor_override"	"ColorGreyMid"
 		}
 
 		"WorkingText"
@@ -149,7 +149,7 @@
 			"proportionaltoparent"	"1"
 			"velocity"		"0"
 			"radius"		"30"
-			"fgcolor_override"	"CreditsGreen"
+			"fgcolor_override"	"ColorPositive"
 		}
 
 		"SuccessText"
@@ -165,7 +165,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "CreditsGreen"
+			"fgcolor_override" "ColorPositive"
 			"proportionaltoparent"	"1"
 		}
 	}

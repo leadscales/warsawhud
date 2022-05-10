@@ -36,7 +36,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"fgcolor_override"		"White"
+		"fgcolor_override"		"ColorWhite"
 		"bgcolor_override"		"PanelDark"
 		"Font"					"Font14"
 	}

@@ -302,7 +302,7 @@
 		"paintborder"	"1"
 		"textinsetx"	"100"
 		"border"		"LoadoutItemPopupBorder"
-		"fgcolor"		"White"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"PrevPageButton"
@@ -408,7 +408,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"White"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"SubcategoryFiltersLabel"
@@ -427,7 +427,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"White"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"SortFilterLabel"
@@ -446,7 +446,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"White"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"ClassFilterLabel"
@@ -465,7 +465,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"White"
+		"fgcolor"		"ColorWhite"
 	}
 
 	"ClassFilterNavPanel"
@@ -501,10 +501,10 @@
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
 
-			"fgcolor"			"TanDark"
-			"defaultFgColor_override" "TanDark"
-			"armedFgColor_override" "TanDark"
-			"depressedFgColor_override" "TanDark"
+			"fgcolor"			"ColorGreyMid"
+			"defaultFgColor_override" "ColorGreyMid"
+			"armedFgColor_override" "ColorGreyMid"
+			"depressedFgColor_override" "ColorGreyMid"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -705,7 +705,7 @@
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
 		"Command"		"viewcart"
-		"defaultBgColor_override" "TanDarker"
+		"defaultBgColor_override" "ColorGreyDarkerMid"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}

@@ -71,7 +71,7 @@
 		"name_only"			"1"
 		"proportionaltoparent"	"0"
 		"bgcolor_override"		"Transparent"
-		"noitem_textcolor"		"TanDark"
+		"noitem_textcolor"		"ColorGreyMid"
 		"PaintBackgroundType"	"2"
 
 		"consume_mode"
@@ -193,10 +193,10 @@
 			"labelText"			""
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
-			"fgcolor"					"TanDark"
-			"defaultFgColor_override" 	"TanDark"
-			"armedFgColor_override" 	"TanDark"
-			"depressedFgColor_override"	"TanDark"
+			"fgcolor"					"ColorGreyMid"
+			"defaultFgColor_override" 	"ColorGreyMid"
+			"armedFgColor_override" 	"ColorGreyMid"
+			"depressedFgColor_override"	"ColorGreyMid"
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 			"sound_armed"			"UI/buttonrollover.wav"
@@ -206,7 +206,7 @@
 			"paintborder"			"0"
 			"image_drawcolor"		"255 255 255 77"
 			"image_armedcolor"		"255 255 255 128"
-			"image_selectedcolor"	"White"
+			"image_selectedcolor"	"ColorWhite"
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
 
@@ -314,10 +314,10 @@
 			"paintbackground"	"0"
 
 			"defaultFgColor_override" "Transparent"
-			"armedFgColor_override" "LightRed"
-			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"TanDark"
-			"image_armedcolor"	"LightRed"
+			"armedFgColor_override" "AccentMain"
+			"depressedFgColor_override" "ColorGreyDarkerMid"
+			"image_drawcolor"	"ColorGreyMid"
+			"image_armedcolor"	"AccentMain"
 
 			"SubImage"
 			{
@@ -366,7 +366,7 @@
 
 			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"Transparent"
-			"disabledFgColor_override" "TanDark"
+			"disabledFgColor_override" "ColorGreyMid"
 			"disabledBgColor_override" "Transparent"
 			"selectionColor_override" "Transparent"
 			"selectionTextColor_override" "ColorWhite"
@@ -433,7 +433,7 @@
 
 			"fgcolor_override"	"ColorWhite"
 			"bgcolor_override"	"Transparent"
-			"disabledFgColor_override" "TanDark"
+			"disabledFgColor_override" "ColorGreyMid"
 			"disabledBgColor_override" "Transparent"
 			"selectionColor_override" "Transparent"
 			"selectionTextColor_override" "ColorWhite"
@@ -461,7 +461,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 
 			"fixed_item"
 			{
@@ -529,7 +529,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 
 			"fixed_paintkit"
 			{

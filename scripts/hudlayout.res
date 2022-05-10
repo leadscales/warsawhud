@@ -81,8 +81,8 @@
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"480"
-		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterFG"			"ColorWhite"
+		"MeterBG"			"DullWhite"
 	}
 
 	"HudMedicCharge"
@@ -106,8 +106,8 @@
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"500"
-		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterFG"			"ColorWhite"
+		"MeterBG"			"DullWhite"
 	}
 
 	"HudBowCharge"
@@ -120,8 +120,8 @@
 		"zpos"				"1"
 		"wide"				"0"
 		"tall"				"500"
-		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterFG"			"ColorWhite"
+		"MeterBG"			"DullWhite"
 	}
 
 	"HudFlameRocketCharge"
@@ -134,8 +134,8 @@
 		"zpos"				"1"
 		"wide"				"60"
 		"tall"				"8"
-		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterFG"			"ColorWhite"
+		"MeterBG"			"DullWhite"
 	}
 
 	"HudBossHealth"
@@ -149,7 +149,7 @@
 		"wide"				"200"
 		"tall"				"50"
 		"MeterFG"			"Red"
-		"MeterBG"			"Gray"
+		"MeterBG"			"DullWhite"
 	}
 
 	"HudWeaponSelection"
@@ -471,8 +471,8 @@
 		"CornerRadius"			"0"
 		"RightJustify"			"1"
 		"TextFont"				"Font10"
-		"TeamBlue"				"HUDBlueTeamSolid"
-		"TeamRed"				"HUDRedTeamSolid"
+		"TeamBlue"				"TeamColorBlu"
+		"TeamRed"				"TeamColorRed"
 		"IconColor"				"ColorWhite"
 		"LocalPlayerColor"		"ColorBlack"
 		"BaseBackgroundColor"	"PanelBlack3"

@@ -209,7 +209,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor_override" "LightRed"
+		"fgcolor_override" "AccentMain"
 	}
 
 	"CancelButton"

@@ -390,9 +390,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" 	"White"
-			"armedFgColor_override" 	"LightRed"
-			"depressedFgColor_override" "White"
+			"defaultFgColor_override" 	"ColorWhite"
+			"armedFgColor_override" 	"ColorNegative"
+			"depressedFgColor_override" "ColorWhite"
 		}
 
 		"ButtonIconBrowse"
@@ -508,7 +508,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton1"
 		{
@@ -532,7 +532,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton2"
 		{
@@ -556,7 +556,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType" 	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton3"
 		{
@@ -580,7 +580,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton4"
 		{
@@ -604,7 +604,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton5"
 		{
@@ -628,7 +628,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton6"
 		{
@@ -652,7 +652,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton7"
 		{
@@ -676,7 +676,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton8"
 		{
@@ -700,7 +700,7 @@
 			"tall"			"20"
 			"visible"		"0"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TanDark"
+			"bgcolor_override"		"ColorGreyMid"
 		}
 		"ClassButton9"
 		{
@@ -767,7 +767,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -789,7 +789,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -811,7 +811,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -833,7 +833,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -855,7 +855,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -877,7 +877,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -899,7 +899,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -921,7 +921,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -943,7 +943,7 @@
 			"enabled"		"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdateBodygroup"
 			"border"		"NoBorder"
 		}
@@ -1011,9 +1011,9 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"LightRed"
-				"depressedFgColor_override" "White"
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"ColorNegative"
+				"depressedFgColor_override" "ColorWhite"
 			}
 			"ButtonLOD0Browse"
 			{
@@ -1129,9 +1129,9 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"LightRed"
-				"depressedFgColor_override" "White"
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"ColorNegative"
+				"depressedFgColor_override" "ColorWhite"
 			}
 			"ButtonLOD1Browse"
 			{
@@ -1250,9 +1250,9 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"LightRed"
-				"depressedFgColor_override" "White"
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"ColorNegative"
+				"depressedFgColor_override" "ColorWhite"
 			}
 			"ButtonLOD2Browse"
 			{
@@ -1723,7 +1723,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdatePaintable0"
 			"border"				"NoBorder"
 		}
@@ -1745,7 +1745,7 @@
 			"enabled"		"1"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"disabledfgcolor2_override"	"TanDark"
+			"disabledfgcolor2_override"	"ColorGreyMid"
 			"command"		"UpdatePaintable1"
 			"border"				"NoBorder"
 		}
@@ -1829,9 +1829,9 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"LightRed"
-				"depressedFgColor_override" "White"
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"ColorNegative"
+				"depressedFgColor_override" "ColorWhite"
 			}
 			"ButtonAnimationSourceBrowse"
 			{
@@ -1946,9 +1946,9 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"LightRed"
-				"depressedFgColor_override" "White"
+				"defaultFgColor_override" 	"ColorWhite"
+				"armedFgColor_override" 	"ColorNegative"
+				"depressedFgColor_override" "ColorWhite"
 			}
 			"ButtonAnimationVCDBrowse"
 			{

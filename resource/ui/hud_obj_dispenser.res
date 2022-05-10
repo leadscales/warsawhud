@@ -37,7 +37,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"obj_status_dispenser"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NotBuiltPanel"
@@ -93,7 +93,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_1"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"Icon_Upgrade_2"
@@ -109,7 +109,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_2"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"Icon_Upgrade_3"
@@ -125,7 +125,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"icon"			"obj_status_upgrade_3"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"AlertTray"
@@ -155,7 +155,7 @@
 			"enabled"		"0"
 			"scaleImage"	"1"
 			"icon"			"obj_status_icon_wrench"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"SapperIcon"
@@ -171,7 +171,7 @@
 			"enabled"		"0"
 			"scaleImage"	"1"
 			"icon"			"obj_status_icon_sapper"
-			"iconColor"		"White"
+			"iconColor"		"ColorWhite"
 		}
 
 		"Health"
@@ -263,7 +263,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"../hud/hud_obj_status_ammo_64"
-				"drawcolor"		"ProgressOffWhite"
+				"drawcolor"		"ColorWhite"
 			}
 
 			"Ammo"
@@ -297,7 +297,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"icon"			"ico_metal"
-				"iconColor"		"ProgressOffWhite"
+				"iconColor"		"ColorWhite"
 			}
 
 			"Upgrade"

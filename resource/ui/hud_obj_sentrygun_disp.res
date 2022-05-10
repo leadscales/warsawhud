@@ -37,7 +37,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"icon"			"obj_status_sentrygun_1"
-		"iconColor"		"White"
+		"iconColor"		"ColorWhite"
 	}
 
 	"NotBuiltPanel"
@@ -197,7 +197,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"../hud/hud_obj_status_kill_64"
-				"drawcolor"		"ProgressOffWhite"
+				"drawcolor"		"ColorWhite"
 			}
 
 			"KillsLabel"
@@ -217,7 +217,7 @@
 				"textAlignment"	"west"
 				"dulltext"		"0"
 				"brighttext"	"0"
-				"drawcolor"		"ProgressOffWhite"
+				"drawcolor"		"ColorWhite"
 			}
 
 			"ShellIcon"
@@ -233,7 +233,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"../hud/hud_obj_status_ammo_64"
-				"drawcolor"		"ProgressOffWhite"
+				"drawcolor"		"ColorWhite"
 			}
 
 			"Shells"

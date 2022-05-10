@@ -34,7 +34,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"hud_menu_item_bg_outline"
-		"iconColor"			"ProgressOffWhite"
+		"iconColor"			"ColorWhite"
 	}
 
 	"BuildingIcon"
@@ -50,7 +50,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"hud_menu_sentry_build"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"DestroyIcon"
@@ -66,7 +66,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"ico_demolish"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"NumberBg"
@@ -82,7 +82,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"ico_key_blank"
-		"iconColor"			"White"
+		"iconColor"			"ColorWhite"
 	}
 
 	"NumberLabel"

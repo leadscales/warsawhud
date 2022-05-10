@@ -93,9 +93,9 @@
 		"font"			"HudFontMedium"
 		"paintbackground"	"0"
 
-		"defaultFgColor_override" 	"TanDark"
+		"defaultFgColor_override" 	"ColorGreyMid"
 		"armedFgColor_override"		"ColorWhite"
-		"depressedFgColor_override" "TanDark"
+		"depressedFgColor_override" "ColorGreyMid"
 	}
 
 	"MapImage"

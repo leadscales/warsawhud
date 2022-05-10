@@ -26,7 +26,7 @@
 		"wide"			"500"
 		"tall"			"50"
 		"autoResize"	"0"
-		"fgcolor"		"White"
+		"fgcolor"		"ColorWhite"
 		"font_override"	"ScoreboardSmall"
 		"labelText"		""
 		"textAlignment" "center"

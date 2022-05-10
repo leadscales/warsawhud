@@ -45,7 +45,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
 			"wrap"				"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"PassedResult"
@@ -64,7 +64,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
 			"wrap"				"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 			"noshortcutsyntax"	"1"
 		}
 	}
@@ -168,7 +168,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"Option1Background_Selected"
@@ -200,7 +200,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"LabelOption2"
@@ -219,7 +219,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"Option2Background_Selected"
@@ -251,7 +251,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"LabelOption3"
@@ -270,7 +270,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"Option3Background_Selected"
@@ -302,7 +302,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"Option4Background_Selected"
@@ -334,7 +334,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"Option5Background_Selected"
@@ -466,7 +466,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
 			"wrap"				"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 	}
 
@@ -535,7 +535,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
 			"wrap"				"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 	}
 
@@ -564,7 +564,7 @@
 		"issue_width"				"180"
 		"issue_font"				"ItemFontNameSmall"
 		"issue_fgcolor"				"ColorWhite"
-		"issue_fgcolor_disabled"	"TanDark"
+		"issue_fgcolor_disabled"	"ColorGreyMid"
 		"parameter_width"			"200"
 
 		"TitleLabel"
@@ -661,12 +661,12 @@
 			"unicode"			"0"
 
 			"fgcolor_override"					"ColorWhite"
-			"bgcolor_override"					"LightRed"
+			"bgcolor_override"					"AccentMain"
 			"disabledFgColor_override"			"ColorWhite"
-			"disabledBgColor_override"			"LightRed"
-			"selectionColor_override"			"LightRed"
+			"disabledBgColor_override"			"AccentMain"
+			"selectionColor_override"			"AccentMain"
 			"selectionTextColor_override"		"ColorWhite"
-			"defaultSelectionBG2Color_override" "LightRed"
+			"defaultSelectionBG2Color_override" "AccentMain"
 		}
 
 		"CallVoteButton"

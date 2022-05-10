@@ -283,6 +283,6 @@
 		"enabled"			"1"
 		"image"				""
 		"scaleImage"		"1"
-		"color_outline"		"HudTimerProgressInActive"
+		"color_outline"		"ColorGreyMid"
 	}
 }

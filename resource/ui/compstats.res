@@ -171,9 +171,9 @@
 					"font"				"MarlettSmall"
 					"textAlignment"		"west"
 
-					"defaultFgColor_override"	"TanDark"
-					"armedFgColor_override"		"TanDark"
-					"selectedFgColor_override"	"TanDark"
+					"defaultFgColor_override"	"ColorGreyMid"
+					"armedFgColor_override"		"ColorGreyMid"
+					"selectedFgColor_override"	"ColorGreyMid"
 				}
 
 				"ResultButton"
@@ -198,7 +198,7 @@
 					"armedFgColor_override"		"ColorWhite"
 					"selectedFgColor_override"	"AccentMain"
 
-					"image_selectedcolor"	"White"
+					"image_selectedcolor"	"ColorWhite"
 					"image_armedcolor"		"Transparent"
 					"image_drawcolor"		"Transparent"
 
@@ -231,7 +231,7 @@
 					"armedFgColor_override"		"ColorWhite"
 					"selectedFgColor_override"	"AccentMain"
 
-					"image_selectedcolor"	"White"
+					"image_selectedcolor"	"ColorWhite"
 					"image_armedcolor"		"Transparent"
 					"image_drawcolor"		"Transparent"
 
@@ -264,7 +264,7 @@
 					"armedFgColor_override"		"ColorWhite"
 					"selectedFgColor_override"	"AccentMain"
 
-					"image_selectedcolor"	"White"
+					"image_selectedcolor"	"ColorWhite"
 					"image_armedcolor"		"Transparent"
 					"image_drawcolor"		"Transparent"
 
@@ -295,7 +295,7 @@
 					"armedFgColor_override"		"ColorWhite"
 					"selectedFgColor_override"	"AccentMain"
 
-					"image_selectedcolor"	"White"
+					"image_selectedcolor"	"ColorWhite"
 					"image_armedcolor"		"Transparent"
 					"image_drawcolor"		"Transparent"
 

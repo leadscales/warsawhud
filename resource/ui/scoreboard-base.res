@@ -100,7 +100,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"HUDBlueTeamSolid"
+		"fgcolor_override"	"TeamColorBlu"
 
 		"pin_to_sibling"		"BlueTeamScore"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -130,7 +130,7 @@
 		"enabled"		"1"
 		"TextInsetX"	"0"
 		"fgcolor_override"	"ColorBlack"
-		"bgcolor_override"	"HUDBlueTeamSolid"
+		"bgcolor_override"	"TeamColorBlu"
 
 		"pin_to_sibling"		"BlueScoreBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -184,7 +184,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"HUDRedTeamSolid"
+		"fgcolor_override"	"TeamColorRed"
 
 		"pin_to_sibling"		"RedTeamScore"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -214,7 +214,7 @@
 		"enabled"		"1"
 		"TextInsetX"	"0"
 		"fgcolor_override"	"ColorBlack"
-		"bgcolor_override"	"HUDRedTeamSolid"
+		"bgcolor_override"	"TeamColorRed"
 
 		"pin_to_sibling"		"RedScoreBG"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -767,7 +767,7 @@
 				"tall"			"0"
 				"visible"		"1"
 				"PaintBackgroundType"	"2"
-				"bgcolor_override"	"TanDark"
+				"bgcolor_override"	"ColorGreyMid"
 				"proportionaltoparent"	"1"
 			}
 			"AvatarImage"

@@ -22,7 +22,7 @@
 			"zpos"				"0"
 			"wide"				"410"
 			"tall"				"30"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"DifficultyLabel"
@@ -37,7 +37,7 @@
 			"zpos"				"0"
 			"wide"				"100"
 			"tall"				"30"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"CompleteLabel"
@@ -52,7 +52,7 @@
 			"zpos"				"0"
 			"wide"				"80"
 			"tall"				"30"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"TourLevelLabel"
@@ -67,7 +67,7 @@
 			"zpos"				"0"
 			"wide"				"80"
 			"tall"				"30"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 		}
 
 		"TourlistGroupBox"
@@ -423,7 +423,7 @@
 			"ControlName"		"Label"
 			"fieldName"			"MissingTicketsLabel"
 			"font"				"FontRegular12"
-			"fgcolor_override"	"TanDark"
+			"fgcolor_override"	"ColorGreyMid"
 			"labelText"			"#TF_Matchmaking_CantQueue_NoTicket"
 			"textAlignment"		"south-west"
 			"wrap"				"1"

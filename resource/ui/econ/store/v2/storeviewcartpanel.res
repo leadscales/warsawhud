@@ -23,8 +23,8 @@
 		"title_font"		"HudFontMedium"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
-		"titlebarfgcolor_override"			"HudOffWhite"
-		"titlebardisabledfgcolor_override"	"HudOffWhite"
+		"titlebarfgcolor_override"			"DullishWhite"
+		"titlebardisabledfgcolor_override"	"DullishWhite"
 		"titlebarbgcolor_override"			"PanelMain"
 
 		"clientinsetx_override"			"0"
@@ -420,7 +420,7 @@
 						"pinCorner"		"0"
 						"visible"		"1"
 						"enabled"		"1"
-						"fgcolor_override" "White"
+						"fgcolor_override" "ColorWhite"
 					}
 
 					"TotalSubtextLabelB"
@@ -439,7 +439,7 @@
 						"pinCorner"		"0"
 						"visible"		"1"
 						"enabled"		"1"
-						"fgcolor_override" "White"
+						"fgcolor_override" "ColorWhite"
 					}
 
 					"TotalPriceLabel"
@@ -458,7 +458,7 @@
 						"visible"		"1"
 						"enabled"		"1"
 						"labelText"		"%totalprice%"
-						"fgcolor_override" "White"
+						"fgcolor_override" "ColorWhite"
 					}
 				}
 			}

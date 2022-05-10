@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	"PanelBlack1"
 	}
 
 	"Container"

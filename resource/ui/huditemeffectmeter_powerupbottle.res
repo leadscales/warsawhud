@@ -9,8 +9,8 @@
 		"ypos"				"r66"
 		"wide"				"100"
 		"tall"				"60"
-		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterFG"			"ColorWhite"
+		"MeterBG"			"DullWhite"
 	}
 
 	"PowerupBG"

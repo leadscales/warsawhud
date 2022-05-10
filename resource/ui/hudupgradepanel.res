@@ -65,7 +65,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	"PanelBlack1"
 	}
 
 	"SelectWeaponPanel"
@@ -119,7 +119,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"HudBlack"
+			"fillcolor"		"PanelBlack1"
 		}
 		"BetweenBG"
 		{
@@ -158,7 +158,7 @@
 			"enabled"		"1"
 
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"White"
+			"bgcolor_override"	"ColorWhite"
 		}
 		"BottomBorder"
 		{
@@ -175,7 +175,7 @@
 			"enabled"		"0"
 
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"White"
+			"bgcolor_override"	"ColorWhite"
 		}
 		"LeftBorder"
 		{
@@ -192,7 +192,7 @@
 			"enabled"		"0"
 
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"White"
+			"bgcolor_override"	"ColorWhite"
 		}
 		"RightBorder"
 		{
@@ -209,7 +209,7 @@
 			"enabled"		"0"
 
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"White"
+			"bgcolor_override"	"ColorWhite"
 		}
 
 		"InnerBGPanel"
@@ -300,7 +300,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"White"
+			"bgcolor_override"	"ColorWhite"
 			"PaintBackgroundType"	"0"
 		}
 
@@ -539,7 +539,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"bgcolor_override"	"HudTimerProgressInActive"
+			"bgcolor_override"	"ColorGreyMid"
 		}
 
 		"UpgradeItemsDescriptionLabel"

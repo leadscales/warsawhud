@@ -400,10 +400,10 @@
 		"command"			"sv_cheats 1;r_skin 0"
 		"paintbackground"	"1"
 
-		"defaultFgColor_override"	"HUDRedTeamSolid"
+		"defaultFgColor_override"	"TeamColorRed"
 		"armedFgColor_override"		"ColorBlack"
 		"defaultBgColor_override"	"Blank"
-		"armedBgColor_override"		"HUDRedTeamSolid"
+		"armedBgColor_override"		"TeamColorRed"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -435,10 +435,10 @@
 		"command"			"sv_cheats 1;r_skin 1"
 		"paintbackground"	"1"
 
-		"defaultFgColor_override"	"HUDBlueTeamSolid"
+		"defaultFgColor_override"	"TeamColorBlu"
 		"armedFgColor_override"		"ColorBlack"
 		"defaultBgColor_override"	"Blank"
-		"armedBgColor_override"		"HUDBlueTeamSolid"
+		"armedBgColor_override"		"TeamColorBlu"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -474,7 +474,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override"		"White"
+		"defaultFgColor_override"		"ColorWhite"
 		"armedFgColor_override"			"ColorBlack"
 		"depressedFgColor_override" 	"ColorBlack"
 
@@ -511,7 +511,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override"		"White"
+		"defaultFgColor_override"		"ColorWhite"
 		"armedFgColor_override"			"ColorBlack"
 		"depressedFgColor_override" 	"ColorBlack"
 

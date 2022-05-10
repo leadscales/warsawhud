@@ -263,7 +263,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"font"			"HudFontSmallest"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ColorWhite"
 			"textAlignment"	"center"
 			"labelText"		"%desc2%"
 			"proportionaltoparent"	"1"
@@ -283,7 +283,7 @@
 
 			"colors"
 			{
-				"1"		"CreditsGreen"
+				"1"		"ColorPositive"
 				"2"		"ColorWhite"
 			}
 		}

@@ -6,16 +6,16 @@ Scheme
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		ReplayBrowser.BgColor							"DarkBrown"
+		ReplayBrowser.BgColor							"PanelLight"
 		ReplayBrowser.Details.TitleEdit.Carat.FgColor	"200 128 255 255"
 		ReplayBrowser.Button.ArmedBgColor				"TFOrange"
 		ReplayBrowser.Button.DepressedBgColor			"TFOrange"
-		ReplayBrowser.CollectionTitle.FgColor			"LightRed"
-		ReplayBrowser.Warning.FgColor					"White"
+		ReplayBrowser.CollectionTitle.FgColor			"ColorNegative"
+		ReplayBrowser.Warning.FgColor					"ColorWhite"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor	"TransparentYellow"
-		ReplayBrowser.Search.BgColor					"TanDark"
-		ReplayBrowser.Search.FgColor					"White"
-		Replay.RenderDialog.BgColor						"TanDark"
+		ReplayBrowser.Search.BgColor					"ColorGreyMid"
+		ReplayBrowser.Search.FgColor					"ColorWhite"
+		Replay.RenderDialog.BgColor						"ColorGreyMid"
 
 		Econ.Dialog.BgColor						"Blank"
 		Econ.Button.BgColor						"PanelBlack3"
@@ -88,7 +88,7 @@ Scheme
 		Label.TextDullColor						"DullWhite"
 		Label.TextColor							"ColorWhite"
 		Label.TextBrightColor					"ColorWhite"
-		Label.SelectedTextColor					"White"
+		Label.SelectedTextColor					"ColorWhite"
 		Label.BgColor							"Blank"
 		Label.DisabledFgColor1					"Blank"
 		Label.DisabledFgColor2					"ColorWhite"
@@ -108,7 +108,7 @@ Scheme
 
 		Chat.TypingText							"AccentMain"
 
-		Panel.FgColor							"Gray"
+		Panel.FgColor							"DullWhite"
 		Panel.BgColor							"Blank"
 
 		HTML.BgColor							"Blank"
@@ -116,40 +116,40 @@ Scheme
 		ProgressBar.FgColor						"ColorWhite"
 		ProgressBar.BgColor						"PanelBlack2"
 
-		CircularProgressBar.FgColor				"White"
-		CircularProgressBar.BgColor				"White"
+		CircularProgressBar.FgColor				"ColorWhite"
+		CircularProgressBar.BgColor				"ColorWhite"
 
-		"BuildingHealthBar.BgColor"				"HealthBgGrey"
-		"BuildingHealthBar.Health"				"ProgressOffWhite"
-		"BuildingHealthBar.LowHealth"			"LowHealthRed"
+		"BuildingHealthBar.BgColor"				"ColorGreyDarkerMid"
+		"BuildingHealthBar.Health"				"ColorWhite"
+		"BuildingHealthBar.LowHealth"			"Health Hurt"
 
-		PropertySheet.TextColor					"White"
-		PropertySheet.SelectedTextColor			"White"
+		PropertySheet.TextColor					"ColorWhite"
+		PropertySheet.SelectedTextColor			"ColorWhite"
 		PropertySheet.TransitionEffectTime		"0.25"		// time to change from one tab to another
 
 		RadioButton.TextColor					"AccentMain"
 		RadioButton.SelectedTextColor			"AccentMain"
 
-		RichText.TextColor						"Gray"
+		RichText.TextColor						"DullWhite"
 		RichText.BgColor						"Blank"
-		RichText.SelectedTextColor				"Gray"
+		RichText.SelectedTextColor				"DullWhite"
 		RichText.SelectedBgColor				"Red"
 
-		ScrollBarButton.FgColor					"Gray"
+		ScrollBarButton.FgColor					"DullWhite"
 		ScrollBarButton.BgColor					"Blank"
-		ScrollBarButton.ArmedFgColor			"Gray"
+		ScrollBarButton.ArmedFgColor			"DullWhite"
 		ScrollBarButton.ArmedBgColor			"Blank"
 		ScrollBarButton.DepressedFgColor		"Black"
 		ScrollBarButton.DepressedBgColor		"Blank"
 
-		ScrollBarSlider.FgColor					"Gray"		// nob color
+		ScrollBarSlider.FgColor					"DullWhite"		// nob color
 		ScrollBarSlider.BgColor					"Blank"		// slider background color
 
-		SectionedListPanel.HeaderTextColor		"White"
+		SectionedListPanel.HeaderTextColor		"ColorWhite"
 		SectionedListPanel.HeaderBgColor		"Blank"
 		SectionedListPanel.DividerColor			"Black"
-		SectionedListPanel.TextColor			"White"
-		SectionedListPanel.BrightTextColor		"White"
+		SectionedListPanel.TextColor			"ColorWhite"
+		SectionedListPanel.BrightTextColor		"ColorWhite"
 		SectionedListPanel.BgColor				"TransparentLightBlack"
 		SectionedListPanel.SelectedTextColor	"Black"
 		SectionedListPanel.SelectedBgColor		"Red"
@@ -172,7 +172,7 @@ Scheme
 		TextEntry.OutOfFocusSelectedBgColor		"Blank"
 		TextEntry.FocusEdgeColor				"Blank"
 
-		ToggleButton.SelectedTextColor			"White"
+		ToggleButton.SelectedTextColor			"ColorWhite"
 
 		Tooltip.TextColor						"TransparentBlack"
 		Tooltip.BgColor							"Red"
@@ -181,21 +181,21 @@ Scheme
 
 		WizardSubPanel.BgColor					"Blank"
 
-		TimerProgress.Active					"HudTimerProgressActive"
-		TimerProgress.InActive					"HudTimerProgressInActive"
+		TimerProgress.Active					"ColorWhite"
+		TimerProgress.InActive					"ColorGreyMid"
 		TimerProgress.Warning					"HudTimerProgressWarning"
 
-		HudObjectives.FgColor					"HudPanelForeground"
-		HudObjectives.BgColor					"HudPanelBackground"
-		HudObjectives.BorderColor				"HudPanelBorder"
+		HudObjectives.FgColor					"PanelBlack2"
+		HudObjectives.BgColor					"PanelBlack2"
+		HudObjectives.BorderColor				"ColorWhiteTransparent"
 
-		HudProgressBar.Active					"HudProgressBarActive"
-		HudProgressBar.InActive					"HudProgressBarInActive"
+		HudProgressBar.Active					"AccentMain"
+		HudProgressBar.InActive					"PanelMain"
 
-		HudCaptureIcon.Active					"HudProgressBarActive"
-		HudCaptureIcon.InActive					"HudProgressBarInActive"
-		HudCaptureProgressBar.Active			"HudProgressBarActive"
-		HudCaptureProgressBar.InActive			"HudProgressBarInActive"
+		HudCaptureIcon.Active					"AccentMain"
+		HudCaptureIcon.InActive					"PanelMain"
+		HudCaptureProgressBar.Active			"AccentMain"
+		HudCaptureProgressBar.InActive			"PanelMain"
 
 		// Scheme-Specific Colors
 		"FgColor"								"255 180 60 255"
@@ -206,14 +206,14 @@ Scheme
 		"TeamRed"								"255 64 64 255"
 		"TeamBlue"								"153 204 255 255"
 
-		"MapDescriptionText"					"Gray" // the text used in the map description window
+		"MapDescriptionText"					"DullWhite" // the text used in the map description window
 		"HudIcon_Green"							"0 160 0 255"
 		"HudIcon_Red"							"160 0 0 255"
 
 		// CHudMenu
 		"ItemColor"								"255 167 42 200"	// default 255 167 42 255
 		"MenuColor"								"255 255 255 255"
-		"MenuBoxBg"								"HudBlack"
+		"MenuBoxBg"								"PanelBlack1"
 
 		// Weapon Selection Colors
 		"SelectionNumberFg"						"251 235 202 255"
