@@ -184,7 +184,7 @@
 				"proportionaltoparent"		"1"
 				"HealthBonusPosAdj"			"-240"
 				"HealthDeathWarning"		"1.001"
-				"HealthDeathWarningColor"	"Health Hurt"
+				"HealthDeathWarningColor"	"HealthHurt"
 			}
 
 			"PanelBG"

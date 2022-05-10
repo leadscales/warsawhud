@@ -171,7 +171,7 @@
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
-				"HealthDeathWarningColor"	"Health Hurt"
+				"HealthDeathWarningColor"	"HealthHurt"
 				"TextColor"					"ColorGrey192"
 
 				if_readymode

@@ -50,7 +50,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"Font18"
-		"fgcolor_override"		"Health Normal"
+		"fgcolor_override"		"HealthNormal"
 	}
 
 	"TargetHealthShadow"

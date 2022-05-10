@@ -10,22 +10,22 @@ Scheme
 		"ColorNegative"				"255 80 0 255"
 		"ColorPositive"				"0 255 224 255"
 		// GAME PLAY
-		"Ammo In Clip"				"255 255 255 255"
-		"Ammo In Reserve"			"255 255 255 255"
-		"Ammo In Clip Low"			"255 80 0 255"
-		"Ammo In Reserve Low"		"255 80 0 255"
-		"Health Normal"				"255 255 255 255"
-		"Health Buff"				"0 255 224 255"
-		"Health Hurt"				"255 80 0 255"
-		"Heal Numbers"				"0 255 224 255"
-		"Damage Numbers"			"255 80 0 255"
+		"AmmoClip"					"255 255 255 255"
+		"AmmoRes"					"255 255 255 255"
+		"AmmoClipLow"				"255 80 0 255"
+		"AmmoResLow"				"255 80 0 255"
+		"HealthNormal"				"255 255 255 255"
+		"HealthBuff"				"0 255 224 255"
+		"HealthHurt"				"255 80 0 255"
+		"HealNum"					"0 255 224 255"
+		"DamageNum"					"255 80 0 255"
 		// CROSSHAIR COLORS
 		"Crosshair"					"255 255 255 255"
 		"Hitmarker"					"255 80 0 255"
 		// UBER COLORS
-		"Uber Bar Color"			"255 255 255 255"
-		"Uber Charged 1"			"0 255 224 255"
-		"Uber Charged 2"			"0 255 224 255"
+		"UberBar"					"255 255 255 255"
+		"UberBarCharged1"			"0 255 224 255"
+		"UberBarCharged2"			"0 255 224 255"
 
 		// VVV --- YOU PROBABLY SHOULDN'T EDIT THESE --- VVV
 

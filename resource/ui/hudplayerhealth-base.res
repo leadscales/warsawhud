@@ -75,7 +75,7 @@
 		"textAlignment"	"center"
 		"font"			"Font20"
 		"font_minmode"	"Font12"
-		"fgcolor"		"Health Normal"
+		"fgcolor"		"HealthNormal"
 	}
 
 	"PlayerHealthBackground"

@@ -98,7 +98,7 @@
 			"HealthBonusPosAdj"			"0"
 			"HealthDeathWarning"		"0.40"
 			"TFFont"					"HudFontSmall"
-			"HealthDeathWarningColor"	"Health Hurt"
+			"HealthDeathWarningColor"	"HealthHurt"
 			"TextColor"					"ColorGrey192"
 		}
 

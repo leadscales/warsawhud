@@ -5,9 +5,9 @@ event HudHealthBonusPulse
 	Animate	PlayerStatusHealthBonusImage	Alpha		"0"					Linear 0.0 0.0
 
 	Animate	PlayerHealthValue				FgColor		"ColorBlack"		Linear 0.0 0.05
-	Animate	TargetHealthValue				FgColor		"Health Buff"		Linear 0.0 0.05
+	Animate	TargetHealthValue				FgColor		"HealthBuff"		Linear 0.0 0.05
 
-	Animate PlayerHealthBackground			BgColor		"Health Buff"		Linear 0.0 0.05
+	Animate PlayerHealthBackground			BgColor		"HealthBuff"		Linear 0.0 0.05
 
 	RunEvent HudHealthBonusPulseLoop		0.1
 }
@@ -17,8 +17,8 @@ event HudHealthBonusPulseStop
 	StopEvent HudHealthBonusPulse			0.0
 	StopEvent HudHealthBonusPulseLoop		0.0
 
-	Animate	PlayerHealthValue				FgColor		"Health Normal"			Linear 0.0 0.05
-	Animate	TargetHealthValue				FgColor		"Health Normal"			Linear 0.0 0.05
+	Animate	PlayerHealthValue				FgColor		"HealthNormal"			Linear 0.0 0.05
+	Animate	TargetHealthValue				FgColor		"HealthNormal"			Linear 0.0 0.05
 
 	Animate PlayerHealthBackground			BgColor		"PanelBlack2"			Linear 0.0 0.05
 }
@@ -30,9 +30,9 @@ event HudHealthDyingPulse
 	Animate	PlayerStatusHealthBonusImage	Alpha		"0"						Linear 0.0 0.0
 
 	Animate	PlayerHealthValue				FgColor		"ColorBlack"			Linear 0.0 0.05
-	Animate	TargetHealthValue				FgColor		"Health Hurt"			Linear 0.0 0.05
+	Animate	TargetHealthValue				FgColor		"HealthHurt"			Linear 0.0 0.05
 
-	Animate PlayerHealthBackground			BgColor		"Health Hurt"			Linear 0.0 0.05
+	Animate PlayerHealthBackground			BgColor		"HealthHurt"			Linear 0.0 0.05
 
 	RunEvent HudHealthDyingPulseLoop		0.1
 }
@@ -42,8 +42,8 @@ event HudHealthDyingPulseStop
 	StopEvent HudHealthDyingPulse 			0.0
 	StopEvent HudHealthDyingPulseLoop 		0.0
 
-	Animate PlayerHealthValue				FgColor		"Health Normal"			Linear 0.0 0.05
-	Animate TargetHealthValue				FgColor		"Health Normal"			Linear 0.0 0.05
+	Animate PlayerHealthValue				FgColor		"HealthNormal"			Linear 0.0 0.05
+	Animate TargetHealthValue				FgColor		"HealthNormal"			Linear 0.0 0.05
 
 	Animate PlayerHealthBackground			BgColor		"PanelBlack2"			Linear 0.0 0.05
 }
@@ -55,12 +55,12 @@ event HudLowAmmoPulse
 	Animate	HudWeaponLowAmmoImage			Alpha		"0"						Linear 0.0 0.0
 
 	Animate	AmmoInClip						FgColor		"ColorBlack"			Linear 0.0 0.05
-	Animate	AmmoInReserve					FgColor		"Ammo In Reserve Low"	Linear 0.0 0.05
+	Animate	AmmoInReserve					FgColor		"AmmoResLow"	Linear 0.0 0.05
 	Animate	AmmoNoClip						FgColor		"ColorBlack"			Linear 0.0 0.05
 
-	Animate	AmmoInClip						BgColor		"Ammo In Clip Low"		Linear 0.0 0.05
+	Animate	AmmoInClip						BgColor		"AmmoClipLow"		Linear 0.0 0.05
 	Animate	AmmoInReserve					BgColor		"PanelBlack2"			Linear 0.0 0.05
-	Animate	AmmoNoClip						BgColor		"Ammo In Clip Low"		Linear 0.0 0.05
+	Animate	AmmoNoClip						BgColor		"AmmoClipLow"		Linear 0.0 0.05
 
 	RunEvent HudLowAmmoPulseLoop			0.2
 }
@@ -70,9 +70,9 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 			0.0
 	StopEvent HudLowAmmoPulseLoop 		0.0
 
-	Animate AmmoInClip						FgColor		"Ammo In Clip"			Linear 0.0 0.05
-	Animate AmmoInReserve					FgColor		"Ammo In Reserve"		Linear 0.0 0.05
-	Animate AmmoNoClip						FgColor		"Ammo In Clip"			Linear 0.0 0.05
+	Animate AmmoInClip						FgColor		"AmmoClip"			Linear 0.0 0.05
+	Animate AmmoInReserve					FgColor		"AmmoRes"		Linear 0.0 0.05
+	Animate AmmoNoClip						FgColor		"AmmoClip"			Linear 0.0 0.05
 
 	Animate	AmmoInClip						BgColor		"PanelBlack2"			Linear 0.0 0.05
 	Animate	AmmoInReserve					BgColor		"PanelBlack3"			Linear 0.0 0.05
@@ -82,12 +82,12 @@ event HudLowAmmoPulseStop
 // Ubercharge Meters
 event HudMedicCharged
 {
-	Animate	ChargeMeter 				FgColor		"Uber Charged 1"	Linear 0.0 0.2
-	Animate	ChargeMeter 				FgColor		"Uber Charged 2"	Linear 0.2 0.4
+	Animate	ChargeMeter 				FgColor		"UberBarCharged1"	Linear 0.0 0.2
+	Animate	ChargeMeter 				FgColor		"UberBarCharged2"	Linear 0.2 0.4
 
 	Animate ChargeLabel					FgColor		"ColorBlack"		Linear 0.0 0.2
 	Animate IndividualChargesLabel		FgColor		"ColorBlack"		Linear 0.0 0.2
-	Animate ChargeBG					BgColor		"Uber Charged 1"	Linear 0.0 0.2
+	Animate ChargeBG					BgColor		"UberBarCharged1"	Linear 0.0 0.2
 
 	RunEvent HudMedicChargedLoop		0.4
 }
@@ -102,9 +102,9 @@ event HudMedicChargedStop
 	StopEvent HudMedicCharged		0.0
 	StopEvent HudMedicChargedLoop	0.0
 
-	Animate	ChargeMeter					FgColor		"Uber Bar Color"	Linear 0.0 0.2
-	Animate ChargeLabel					FgColor		"Ammo In Clip"		Linear 0.0 0.2
-	Animate IndividualChargesLabel		FgColor		"Ammo In Clip"		Linear 0.0 0.2
+	Animate	ChargeMeter					FgColor		"UberBar"	Linear 0.0 0.2
+	Animate ChargeLabel					FgColor		"AmmoClip"		Linear 0.0 0.2
+	Animate IndividualChargesLabel		FgColor		"AmmoClip"		Linear 0.0 0.2
 	Animate ChargeBG					BgColor		"PanelBlack3"		Linear 0.0 0.2
 }
 //==================================================================================

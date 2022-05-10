@@ -5,8 +5,8 @@
 		"delta_item_x"			"8"
 		"delta_item_start_y"	"13"
 		"delta_item_end_y"		"30"
-		"PositiveColor"			"Heal Numbers"
-		"NegativeColor"			"Damage Numbers"
+		"PositiveColor"			"HealNum"
+		"NegativeColor"			"DamageNum"
 		"delta_lifetime"		"1.25"
 		"delta_item_font"		"HudFontMedium"
 	}

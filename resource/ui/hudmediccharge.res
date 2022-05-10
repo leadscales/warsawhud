@@ -36,7 +36,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"font"				"Font10"
-		"fgcolor"			"Ammo In Clip"
+		"fgcolor"			"AmmoClip"
 	}
 
 	"ChargeBG"
@@ -70,7 +70,7 @@
 		"labelText"			"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"		"center"
 		"font"				"Font10"
-		"fgcolor"			"Ammo In Clip"
+		"fgcolor"			"AmmoClip"
 	}
 
 	"ChargeMeterLabel"
@@ -112,7 +112,7 @@
 		"textAlignment"		"Left"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor_override"		"Uber Bar Color"
+		"fgcolor_override"		"UberBar"
 		"bgcolor_override"		"PanelBlack3"
 	}
 
@@ -133,7 +133,7 @@
 		"textAlignment"		"Left"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"Uber Bar Color"
+		"fgcolor_override"	"UberBar"
 	}
 
 	"ChargeMeter2"
@@ -153,7 +153,7 @@
 		"textAlignment"		"Left"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"Uber Bar Color"
+		"fgcolor_override"	"UberBar"
 
 		"pin_to_sibling"		"ChargeMeter1"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -177,7 +177,7 @@
 		"textAlignment"		"Left"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"Uber Bar Color"
+		"fgcolor_override"	"UberBar"
 
 		"pin_to_sibling"		"ChargeMeter2"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -201,7 +201,7 @@
 		"textAlignment"		"Left"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"Uber Bar Color"
+		"fgcolor_override"	"UberBar"
 
 		"pin_to_sibling"		"ChargeMeter3"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

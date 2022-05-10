@@ -121,7 +121,7 @@ Scheme
 
 		"BuildingHealthBar.BgColor"				"ColorGrey64"
 		"BuildingHealthBar.Health"				"ColorWhite"
-		"BuildingHealthBar.LowHealth"			"Health Hurt"
+		"BuildingHealthBar.LowHealth"			"HealthHurt"
 
 		PropertySheet.TextColor					"ColorWhite"
 		PropertySheet.SelectedTextColor			"ColorWhite"
