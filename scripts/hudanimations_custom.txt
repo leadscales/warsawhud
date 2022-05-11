@@ -166,13 +166,13 @@ event HudTournament_MoveChatWindow { }
 event ActiveTimerHighlight
 {
 	Animate TimePanelValue FgColor	ColorWhite		Linear 0.1 0.1
-	Animate TimePanelValue FgColor	ColorWhiteTransparent		Linear 0.3 0.1
+	Animate TimePanelValue FgColor	ColorWhiteTransparent128		Linear 0.3 0.1
 
 	Animate TimePanelValue FgColor	ColorWhite		Linear 0.5 0.1
-	Animate TimePanelValue FgColor	ColorWhiteTransparent		Linear 0.7 0.1
+	Animate TimePanelValue FgColor	ColorWhiteTransparent128		Linear 0.7 0.1
 
 	Animate TimePanelValue FgColor	ColorWhite		Linear 0.9 0.1
-	Animate TimePanelValue FgColor	ColorWhiteTransparent		Linear 1.1 0.1
+	Animate TimePanelValue FgColor	ColorWhiteTransparent128		Linear 1.1 0.1
 
 	Animate TimePanelValue FgColor	ColorWhite		Linear 1.3 0.3
 	
@@ -181,5 +181,5 @@ event ActiveTimerHighlight
 event ActiveTimerDim
 {
 	// Slow fade out
-	Animate TimePanelValue FgColor	ColorWhiteTransparent		Linear 0.0 0.4
+	Animate TimePanelValue FgColor	ColorWhiteTransparent128		Linear 0.0 0.4
 }
