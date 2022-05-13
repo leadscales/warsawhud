@@ -90,7 +90,7 @@
 		"tall"			"13"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"Transparent"
+		"bgcolor_override"	"PanelBlack1"
 		"fgcolor_override"	"ColorWhite"
 		"RoundedCorners"	"0"
 		"font"			"HudFontSmallest"

@@ -56,7 +56,7 @@
 		"zpos"				"-4"
 		"wide"				"f0"
 		"tall"				"f0"
-		"bgcolor_override"	"PanelBlack3"
+		"bgcolor_override"	"PanelBlack2"
 		"visible"			"1"
 	}
 
@@ -175,7 +175,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"1"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout scout"
@@ -204,6 +204,7 @@
 			"labelText"			"#TF_Scout"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassScout"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -223,7 +224,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"2"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout soldier"
@@ -256,6 +257,8 @@
 			"labelText"			"#TF_Soldier"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassSoldier"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -275,7 +278,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"3"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout pyro"
@@ -308,6 +311,7 @@
 			"labelText"			"#TF_Pyro"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassPyro"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -327,7 +331,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"4"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout demoman"
@@ -360,6 +364,7 @@
 			"labelText"			"#TF_Demoman"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassDemoman"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -379,7 +384,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"5"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout heavyweapons"
@@ -412,6 +417,7 @@
 			"labelText"			"#TF_HWGuy"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassHWGuy"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -431,7 +437,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"6"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout engineer"
@@ -464,6 +470,7 @@
 			"labelText"			"#TF_Engineer"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassEngineer"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -483,7 +490,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"7"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout medic"
@@ -516,6 +523,7 @@
 			"labelText"			"#TF_Medic"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassMedic"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -535,7 +543,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"8"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout sniper"
@@ -568,6 +576,7 @@
 			"labelText"			"#TF_Sniper"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassSniper"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -587,7 +596,7 @@
 			"font"					"ClassIcons"
 			"textalignment"			"center"
 			"labeltext"				"9"
-			"textinsety"			"-20"
+			"textinsety"			"0"
 			"actionsignallevel"		"2"
 
 			"command"				"loadout spy"
@@ -620,6 +629,7 @@
 			"labelText"			"#TF_Spy"
 			"bgcolor_override"	"PanelBlack3"
 			"mouseinputenabled"	"0"
+			"visible"			"0"
 
 			"pin_to_sibling"	"ClassSpy"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"

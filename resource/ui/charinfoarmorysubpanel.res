@@ -80,7 +80,7 @@
 		"zpos"				"-4"
 		"wide"				"f0"
 		"tall"				"f0"
-		"bgcolor_override"	"PanelBlack3"
+		"bgcolor_override"	"PanelBlack2"
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"
