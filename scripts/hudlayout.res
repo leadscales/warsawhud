@@ -191,7 +191,7 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"cs-0.5"
-		"ypos"					"c75"
+		"ypos"					"c90"
 		"xpos_minmode"			"rs3-5-6"
 		"ypos_minmode"			"rs1-5"
 		"zpos"					"0"
