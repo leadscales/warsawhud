@@ -232,11 +232,34 @@
 		"wide"			"179"
 		"tall"			"45"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../logo/tf2_logo_lt-blu"
 		"scaleImage"	"1"
 		"command"		"engine play vo/heavy_battlecry02.mp3"
 	}
+
+	"VersionLabel"
+	{
+		"ControlName"				"CExButton"
+		"fieldname"					"VersionLabel"
+		"xpos"						"rs1-5"
+		"ypos"						"rs1-5-20"
+		"zpos"						"12"
+		"wide"						"80"
+		"tall"						"20"
+		"proportionaltoparent"		"1"
+		"visible"					"1"
+		"labeltext"					"VERSION 0.6.1"
+		"font"						"Font10"
+		"textalignment"				"center"
+
+		"sound_released"			"ui/milk.mp3"
+		
+		"defaultBgColor_override"	"Blank"
+		"armedBgColor_override"		"Blank"
+		"defaultFgColor_override"	"ColorWhiteTransparent64"
+		"armedFgColor_override"		"ColorWhiteTransparent64"
+	}	
 
 	"RankModelPanel"
 	{

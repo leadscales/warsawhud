@@ -57,24 +57,6 @@
 		"bgcolor_override"	"PanelBlack2"
 	}
 
-	"PlayerStatusClassImage"
-	{
-		"ControlName"	"CTFClassImage"
-		"fieldName"		"PlayerStatusClassImage"
-		//"xpos"		"c210"
-		//"ypos"		"r60"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"2"
-		//"wide"			"60"
-		//"tall"			"60"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../hud/class_scoutred"
-		"scaleImage"	"1"
-	}
 	"PlayerStatusSpyImage"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -107,44 +89,6 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classmodelpanelBG"
 		"xpos"			"9999"
-	}
-
-	"classmodelpanel"
-	{
-		"ControlName"		"CTFPlayerModelPanel"
-		"fieldName"			"classmodelpanel"
-		//"xpos"				"r210"
-		//"ypos"				"r148"
-		"xpos"				"9999"
-		"ypos"				"9999"
-		"zpos"				"2"
-		//"wide"				"150"
-		//"tall"				"200"
-		"wide"				"0"
-		"tall"				"0"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"render_texture"	"0"
-		"fov"				"20"
-		"allow_rot"			"1"
-
-		"model"
-		{
-			"force_pos"			"1"
-			"angles_x" 			"0"
-			"angles_y" 			"172"
-			"angles_z" 			"0"
-			"origin_x" 			"200"
-			"origin_y" 			"0"
-			"origin_z" 			"-60"
-			"frame_origin_x" 	"0"
-			"frame_origin_y" 	"0"
-			"frame_origin_z"	"0"
-			"spotlight" 		"1"
-			"modelname"			""
-		}
 	}
 
 	"CarryingWeapon"
