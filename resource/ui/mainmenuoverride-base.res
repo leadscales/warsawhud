@@ -703,7 +703,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"HudSettingsBG"
-			"xpos"			"0"
+			"xpos"			"2"
 			"ypos"			"0"
 			"wide"			"20"
 			"tall"			"20"
@@ -991,7 +991,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Section4BG"
-			"xpos"			"rs1"
+			"xpos"			"rs1-2"
 			"ypos"			"0"
 			"wide"			"80"
 			"tall"			"20"
