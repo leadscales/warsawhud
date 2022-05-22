@@ -242,14 +242,14 @@
 	{
 		"ControlName"				"CExButton"
 		"fieldname"					"VersionLabel"
-		"xpos"						"rs1-5"
-		"ypos"						"rs1-5-20"
+		"xpos"						"rs1"
+		"ypos"						"rs1-20"
 		"zpos"						"12"
 		"wide"						"80"
-		"tall"						"20"
+		"tall"						"15"
 		"proportionaltoparent"		"1"
 		"visible"					"1"
-		"labeltext"					"VERSION 0.6.2"
+		"labeltext"					"VERSION 0.6.3"
 		"font"						"Font10"
 		"textalignment"				"center"
 
@@ -469,7 +469,7 @@
 		"ypos"			"2"
 		"zpos"			"5"
 		"wide"			"164"
-		"tall"			"356"
+		"tall"			"358"
 		"visible"		"1"
 		"border"		"NoBorder"
 		"bgcolor_override"	"Transparent"
@@ -693,11 +693,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"SecondaryButtonsPanel"	
-		"xpos"			"5"
-		"ypos"			"rs1-5"
-		"wide"			"f10"
+		"xpos"			"0"
+		"ypos"			"rs1"
+		"wide"			"f0"
 		"tall"			"20"
-		"bgcolor_override"	"Blank"
+		"bgcolor_override"	"PanelBlack3"
 
 		"HudSettingsBG"
 		{
@@ -707,7 +707,7 @@
 			"ypos"			"0"
 			"wide"			"20"
 			"tall"			"20"
-			"bgcolor_override"	"PanelBlack2"
+			"bgcolor_override"	"Blank"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 		}
@@ -742,15 +742,32 @@
 			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}
 
+		"Splitter1"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter1"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelBlack4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"HudSettingsBG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
 		"Section1BG"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Section1BG"
-			"xpos"			"2"
+			"xpos"			"5"
 			"ypos"			"0"
 			"wide"			"80"
 			"tall"			"20"
-			"bgcolor_override"	"PanelBlack2"
+			"bgcolor_override"	"Blank"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -813,7 +830,6 @@
 
 			"defaultBgColor_override" 	"Blank"
 			"armedBgColor_override" 	"AccentMainTransparent2"
-
 			"pin_to_sibling"			"AchievementsButton"
 			"pin_corner_to_sibling"		"PIN_TOPLEFT"
 			"pin_to_sibling_corner"		"PIN_TOPRIGHT"
@@ -879,21 +895,55 @@
 			"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 		}
 
+		"Splitter2"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter2"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelBlack4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"Section1BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
 		// servers.res goes here
 
 		"Section2BG"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Section2BG"
-			"xpos"			"2"
+			"xpos"			"5"
 			"ypos"			"0"
 			"wide"			"60"
 			"tall"			"20"
-			"bgcolor_override"	"PanelBlack2"
+			"bgcolor_override"	"Blank"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"pin_to_sibling"	"Section1BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
+		"Splitter3"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter3"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelBlack4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"Section2BG"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
@@ -904,15 +954,32 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Section3BG"
-			"xpos"			"2"
+			"xpos"			"5"
 			"ypos"			"0"
 			"wide"			"60"
 			"tall"			"20"
-			"bgcolor_override"	"PanelBlack2"
+			"bgcolor_override"	"Blank"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
 			"pin_to_sibling"	"Section2BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
+		"Splitter4"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter4"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelBlack4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"Section3BG"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
@@ -928,7 +995,7 @@
 			"ypos"			"0"
 			"wide"			"80"
 			"tall"			"20"
-			"bgcolor_override"	"PanelBlack2"
+			"bgcolor_override"	"Blank"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 		}
@@ -1134,23 +1201,21 @@
 			}
 		}
 
-		// filler bg goes here because a giant empty space looks ugly
-
-		"FillerBG"
+		"Splitter5"
 		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"FillerBG"
-			"xpos"			"2"
-			"ypos"			"0"
-			"wide"			"f310"
-			"tall"			"20"
-			"bgcolor_override"	"PanelBlack2"
-			"visible"		"1"
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter5"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelBlack4"
+			"visible"				"1"
 			"proportionaltoparent"	"1"
-			
-			"pin_to_sibling"			"Section3BG"
-			"pin_corner_to_sibling" 	"PIN_TOPLEFT"
-			"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
+
+			"pin_to_sibling"		"Section4BG"
+			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}
 	}
 }

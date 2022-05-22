@@ -24,4 +24,9 @@
 		"command" 									"engine fix_issues"
 		"OnlyInGame"								"1"
 	}
+	"Splitter5"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
 }

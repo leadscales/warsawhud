@@ -794,7 +794,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"PanelDark"
+			"color"					"TeamColorRed"
 			
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -807,7 +807,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/panels/solid"
-			"color"					"PanelDark"
+			"color"					"TeamColorRed"
 			
 			"src_corner_height"		"24"			// pixels inside the image
 			"src_corner_width"		"24"
