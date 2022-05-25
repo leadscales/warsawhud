@@ -4,13 +4,7 @@
 {
 	"HudItemEffectMeter"
 	{
-		"tall"				"20"
-	}
-	"ItemEffectMeterBG"
-	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"			"ItemEffectMeterBG"
-		"xpos"				"9999"
+		"tall"				"10"
 	}
 
 	"ItemEffectIcon"
@@ -35,9 +29,29 @@
 
 	"ItemEffectMeter"
 	{
-		"wide"				"40"
+		"wide"				"20"
 		"wide_minmode"		"30"
 		"tall_minmode"		"2"
+	}
+
+	"ItemEffectMeterBarBG2"
+	{
+		"wide"				"20"
+	}
+
+	"ItemEffectMeterBarBG3"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"ItemEffectMeterBarBG2"
+		"xpos"				"58"
+		"ypos"				"2"
+		"zpos"				"1"
+		"wide"				"20"
+		"tall"				"5"
+		"tall_minmode"		"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override"	"PanelBlack4"
 	}
 
 	"ItemEffectMeter2"
@@ -45,13 +59,13 @@
 		"ControlName"		"ContinuousProgressBar"
 		"fieldName"			"ItemEffectMeter2"
 		"font"				"Default"
-		"xpos"				"40"
-		"ypos"				"1"
+		"xpos"				"58"
+		"ypos"				"2"
 		"xpos_minmode"		"30"
 		"ypos_minmode"		"0"
 		"zpos"				"2"
-		"wide"				"40"
-		"tall"				"1"
+		"wide"				"20"
+		"tall"				"5"
 		"wide_minmode"		"30"
 		"tall_minmode"		"2"
 		"autoResize"		"0"
@@ -61,5 +75,6 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
+		"paintbackground"	"0"
 	}
 }
