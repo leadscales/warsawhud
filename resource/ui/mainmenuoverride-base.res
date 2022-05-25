@@ -242,14 +242,14 @@
 	{
 		"ControlName"				"CExButton"
 		"fieldname"					"VersionLabel"
-		"xpos"						"rs1"
+		"xpos"						"rs1-2"
 		"ypos"						"rs1-20"
 		"zpos"						"12"
 		"wide"						"80"
 		"tall"						"15"
 		"proportionaltoparent"		"1"
 		"visible"					"1"
-		"labeltext"					"VERSION 0.6.3"
+		"labeltext"					"VERSION 0.7.0"
 		"font"						"Font10"
 		"textalignment"				"center"
 
