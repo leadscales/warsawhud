@@ -24,9 +24,50 @@
 		"command" 									"engine fix_issues"
 		"OnlyInGame"								"1"
 	}
+	"Splitter1"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
+	"Splitter2"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
+	"Splitter3"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
+	"Splitter4"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
+	"Splitter1IG"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
+	"Splitter2IG"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
+	"Splitter3IG"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
+	"Splitter4IG"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
 	"Splitter5"
 	{
 		"command"									"engine"
 		"OnlyInGame"								"1"
 	}
+
 }

@@ -759,6 +759,23 @@
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
 
+		"Splitter1IG"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter1IG"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelWhite4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"HudSettingsBG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
 		"Section1BG"
 		{
 			"ControlName"	"EditablePanel"
@@ -912,6 +929,23 @@
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
 
+		"Splitter2IG"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter2IG"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelWhite4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"Section1BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
 		// servers.res goes here
 
 		"Section2BG"
@@ -948,6 +982,23 @@
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
 
+		"Splitter3IG"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter3IG"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelWhite4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"Section2BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
 		// after servers.res, bookmarks.res will go here
 
 		"Section3BG"
@@ -976,6 +1027,23 @@
 			"wide"					"1"
 			"tall"					"f4"
 			"bgcolor_override"		"PanelBlack4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"Section3BG"
+			"pin_corner_to_sibling"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		}
+
+		"Splitter4IG"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter4IG"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelWhite4"
 			"visible"				"1"
 			"proportionaltoparent"	"1"
 
@@ -1209,7 +1277,7 @@
 			"ypos"					"-2"
 			"wide"					"1"
 			"tall"					"f4"
-			"bgcolor_override"		"PanelBlack4"
+			"bgcolor_override"		"PanelWhite4"
 			"visible"				"1"
 			"proportionaltoparent"	"1"
 

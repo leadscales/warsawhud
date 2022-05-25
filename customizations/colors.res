@@ -76,6 +76,7 @@ Scheme
 		"PanelWhite1"				"255 255 255 192"
 		"PanelWhite2"				"255 255 255 160"
 		"PanelWhite3"				"255 255 255 128"
+		"PanelWhite4"				"255 255 255 64"
 		// EXTRA GUI COLORS
 		"ButtonTransparent"			"48 48 48 64"
 		"PanelLightTransparent"		"24 24 24 255"
