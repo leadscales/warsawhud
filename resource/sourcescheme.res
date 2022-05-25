@@ -9,14 +9,14 @@ Scheme
 	{
 		// HUD COLORS
 		//---------------------------------------------
-		"Yellow"					"0 176 255 255"
+		"Yellow"					"96 192 255 255"
 		"White"						"255 255 255 255"
 		"DullWhite"					"128 128 128 255"
 		"DarkGrey"					"32 32 32 255"
 		"Black"						"16 16 16 255"
 		"Blank"						"0 0 0 0"
 		"HudBlack"					"0 0 0 192"
-		"Cyan"						"0 176 255 255"
+		"Cyan"						"96 192 255 255"
 
 		// BASE COLORS
 		//---------------------------------------------
@@ -29,7 +29,7 @@ Scheme
 	    "TFTanLightBright"          "255 255 255 90"
 	    "TFTanLightDark"            "96 96 96 90"
 
-	    "TFOrangeBright"            "0 176 255 255"
+	    "TFOrangeBright"            "96 192 255 255"
 
 	    "TFTextBright"              "255 255 255 150"
 	    "TFTextLight"               "192 192 192 255"
@@ -41,7 +41,7 @@ Scheme
 	    "TFMediumBrown"				"64 64 64 255"
 
 	    "QuickListBGDeselected"		"0 0 0 0"
-	    "QuickListBGSelected"		"0 176 255 255"
+	    "QuickListBGSelected"		"96 192 255 255"
 
 	    "Blank"						"0 0 0 0"
 

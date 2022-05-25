@@ -3,29 +3,29 @@ Scheme
 	Colors
 	{
 		// MAIN COLORS
-		"AccentMain"				"0 176 255 255"
-		"AccentMainTransparent"		"0 176 255 96"
-		"AccentMainTransparent2"	"0 176 255 32"
+		"AccentMain"				"96 192 255 255"
+		"AccentMainTransparent"		"96 192 255 96"
+		"AccentMainTransparent2"	"96 192 255 32"
 		"AccentMainDark"			"64 160 224 255"
-		"ColorNegative"				"255 80 0 255"
-		"ColorPositive"				"0 255 224 255"
+		"ColorNegative"				"255 96 64 255"
+		"ColorPositive"				"64 224 255 255"
 		// GAME PLAY
 		"AmmoClip"					"255 255 255 255"
 		"AmmoRes"					"255 255 255 255"
-		"AmmoClipLow"				"255 80 0 255"
-		"AmmoResLow"				"255 80 0 255"
+		"AmmoClipLow"				"255 96 64 255"
+		"AmmoResLow"				"255 96 64 255"
 		"HealthNormal"				"255 255 255 255"
-		"HealthBuff"				"0 255 224 255"
-		"HealthHurt"				"255 80 0 255"
-		"HealNum"					"0 255 224 255"
-		"DamageNum"					"255 80 0 255"
+		"HealthBuff"				"64 224 255 255"
+		"HealthHurt"				"255 96 64 255"
+		"HealNum"					"64 224 255 255"
+		"DamageNum"					"255 96 64 255"
 		// CROSSHAIR COLORS
 		"Crosshair"					"255 255 255 255"
-		"Hitmarker"					"255 80 0 255"
+		"Hitmarker"					"255 96 64 255"
 		// UBER COLORS
 		"UberBar"					"255 255 255 255"
-		"UberBarCharged1"			"0 255 224 255"
-		"UberBarCharged2"			"0 255 224 255"
+		"UberBarCharged1"			"64 224 255 255"
+		"UberBarCharged2"			"64 224 255 255"
 
 		// VVV --- YOU PROBABLY SHOULDN'T EDIT THESE --- VVV
 

@@ -46,6 +46,22 @@
 		"scaleImage"		"1"
 	}
 
+	"BackgroundPanel"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"BackgroundPanel"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"-2"
+		"wide"				"f0"
+		"tall"				"480"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override"	"0 0 0 96"
+	}
+
 	"FooterLine"
 	{
 		"ControlName"		"EditablePanel"
