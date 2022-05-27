@@ -10,7 +10,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -20,7 +20,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"40"
 				"additive"		"0"
 				"antialias"		"1"
@@ -30,7 +30,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -40,7 +40,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -50,7 +50,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -60,7 +60,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -71,7 +71,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"20"
 				"additive"		"0"
 				"antialias"		"1"
@@ -81,7 +81,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
@@ -91,7 +91,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias"		"1"
@@ -101,7 +101,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
 				"additive"		"0"
 				"antialias"		"1"
@@ -111,7 +111,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -121,7 +121,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"8"
 				"additive"		"0"
 				"antialias"		"1"
@@ -133,26 +133,26 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 			"2"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
 				"range"			"0x0000 0x00FF"
-				"weight"		"800"
+				"weight"		"400"
 			}
 		}
 		"DefaultOutline"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"outline"		"1"
 			}
@@ -161,114 +161,114 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"underline"		"1"
 				"range"			"0x0000 0x017F"
 			}
 			"2"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"11"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
+				"weight"		"400"
 			}
 		}
 		"DefaultSmall"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"13"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"20"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"22"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"0"
+				"weight"		"400"
 			}
 		}
 		"DefaultVerySmall"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"16"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1200 6000"
 				"antialias"		"1"
@@ -278,60 +278,60 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"21"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"22"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"28"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"30"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"900"
+				"weight"		"400"
 			}
 			"7"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
+				"weight"		"400"
 			}
 		}
 
@@ -339,10 +339,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"name"			"Helvetica" [$OSX]
 				"tall"			"18"
-				"weight"		"900"
+				"weight"		"400"
 				"antialias"		"1"
 				"additive"		"1"
 			}
@@ -352,9 +352,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"6"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -364,37 +364,37 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"480 599"
 			}
 			"2"
 			{
 				"name"			"Verdana"
 				"tall"			"13"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"600 767"
 			}
 			"3"
 			{
 				"name"			"Verdana"
 				"tall"			"14"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"768 1023"
 			}
 			"4"
 			{
 				"name"			"Verdana"
 				"tall"			"20"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"1024 1199"
 			}
 			"5"
 			{
 				"name"			"Verdana"
 				"tall"			"24"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"1200 10000"
 			}
 		}
@@ -403,45 +403,45 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 				"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"32"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 				"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"44"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 				"yres"			"768 1023"
 			}
 			"4"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"48"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 				"yres"			"1024 1199"
 			}
 			"5"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"52"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 				"yres"			"1200 10000"
@@ -451,9 +451,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"44"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -462,9 +462,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"35"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -473,9 +473,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"35"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -484,9 +484,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"30"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -495,9 +495,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"30"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -506,9 +506,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -517,9 +517,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"20"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -528,9 +528,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -539,9 +539,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -550,9 +550,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -561,9 +561,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -572,9 +572,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -583,9 +583,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -594,9 +594,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -605,9 +605,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 				"dropshadow"	"1"
@@ -617,9 +617,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -628,9 +628,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 				"dropshadow"	"1"
@@ -640,9 +640,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -652,9 +652,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"6"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -664,7 +664,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -675,9 +675,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				//"weight"		"500"
+				//"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -686,9 +686,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"0"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -697,9 +697,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"9"
-				"weight"		"0"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -708,9 +708,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"9"
-				"weight"		"0"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -719,7 +719,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
 				"weight"		"400"
 				"additive"		"0"
@@ -731,9 +731,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -803,9 +803,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -815,9 +815,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -829,7 +829,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"8"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -841,7 +841,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"9"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -852,7 +852,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"8"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -863,7 +863,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"8"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -873,9 +873,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"15"
-				"weight"		"700"
+				"weight"		"400"
 				"antialias" 	"1"
 				"yres"			"1 599"
 				"range"			"0x0000 0x017F"
@@ -883,9 +883,9 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"15"
-				"weight"		"700"
+				"weight"		"400"
 				"antialias" 	"1"
 				"yres"			"600 767"
 				"range"			"0x0000 0x017F"
@@ -893,27 +893,27 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"900"
+				"weight"		"400"
 				"antialias" 	"1"
 				"yres"			"768 1023"
 				"range"			"0x0000 0x017F"
 			}
 			"4"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"21"
-				"weight"		"900"
+				"weight"		"400"
 				"antialias" 	"1"
 				"yres"			"1024 1199"
 				"range"			"0x0000 0x017F"
 			}
 			"5"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
-				"weight"		"1000"
+				"weight"		"400"
 				"antialias" 	"1"
 				"yres"			"1200 10000"
 				"range"			"0x0000 0x017F"
@@ -938,7 +938,7 @@ Scheme
 			{
 				"name"  		"tfd"
 				"tall"  		"28"
-				"weight" 		"0"
+				"weight"		"400"
 				"additive" 		"0"
 				"antialias" 	"1"
 			}
@@ -950,7 +950,7 @@ Scheme
 			 {
 				"name"  		"Team Fortress"
 				"tall"  		"28"
-				"weight" 		"0"
+				"weight"		"400"
 				"additive" 		"1"
 				"antialias" 	"1"
 			}
@@ -962,7 +962,7 @@ Scheme
 			{
 				"name"			"Courier New"
 				"tall"			"90"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias" 	"1"
 				"additive"		"0"
@@ -975,7 +975,7 @@ Scheme
 			{
 				"name"  		"Team Fortress"
 				"tall"  		"28"
-				"weight" 		"0"
+				"weight"		"400"
 				"additive" 		"1"
 				"antialias" 	"1"
 			}
@@ -983,7 +983,7 @@ Scheme
 			{
 				"name"  		"Verdana"
 				"tall"  		"28"
-				"weight" 		"0"
+				"weight"		"400"
 				"additive" 		"1"
 				"antialias" 	"1"
 			}
@@ -993,10 +993,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
 				"antialias" 	"1"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 			}
 		}
@@ -1004,10 +1004,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
 				"antialias" 	"1"
-				"weight"		"500"
+				"weight"		"400"
 				"italic"		"1"
 				"range"			"0x0000 0x017F"
 			}
@@ -1016,10 +1016,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
 				"antialias" 	"1"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 			}
 		}
@@ -1027,10 +1027,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
 				"antialias" 	"1"
-				"weight"		"900"
+				"weight"		"400"
 				"italic"		"1"
 				"range"			"0x0000 0x017F"
 			}
@@ -1039,10 +1039,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
 				"antialias" 	"1"
-				"weight"		"900"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 			}
 		}
@@ -1053,7 +1053,7 @@ Scheme
 			{
 				"name"			"Marlett"
 				"tall"			"20"
-				"weight"		"0"
+				"weight"		"400"
 				"symbol"		"1"
 				"range"			"0x0000 0x007F"
 			}
@@ -1064,7 +1064,7 @@ Scheme
 			{
 				"name"			"Marlett"
 				"tall"			"14"
-				"weight"		"0"
+				"weight"		"400"
 				"symbol"		"1"
 				"range"			"0x0000 0x007F"
 			}
@@ -1074,30 +1074,30 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
 				"antialias" 	"1"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"MenuClassBuckets"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
 				"antialias" 	"1"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"MenuKeys"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
 				"antialias" 	"1"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 
@@ -1107,7 +1107,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"13"
-				"weight"		"800"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1117,45 +1117,45 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"28"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"ChalkboardTitleBig"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"40"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"ChalkboardTitleMedium"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
 				"antialias" 	"1"
 				"custom"		"1" [$OSX]
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"ChalkboardText"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 
@@ -1174,7 +1174,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1185,7 +1185,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1196,9 +1196,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias" 	"1"
 				"additive"		"0"
@@ -1208,9 +1208,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"20"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias" 	"1"
 				"additive"		"0"
@@ -1220,9 +1220,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"20"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias" 	"1"
 				"additive"		"0"
@@ -1232,9 +1232,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias" 	"1"
 				"additive"		"0"
@@ -1244,9 +1244,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias"		"1"
 				"additive"		"0"
@@ -1256,9 +1256,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"34"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias" 	"1"
 				"additive"		"0"
@@ -1270,7 +1270,7 @@ Scheme
 			{
 				"name"			"TF2"
 				"tall"			"36"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1279,7 +1279,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"52"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1288,7 +1288,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"72"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1297,7 +1297,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"100"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1306,7 +1306,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"140"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1315,7 +1315,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"180"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1328,9 +1328,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"36"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias" 	"1"
 				"additive"		"0"
@@ -1340,7 +1340,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1351,7 +1351,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"20"
 				"weight"		"400"
 				"additive"		"0"
@@ -1363,7 +1363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1375,7 +1375,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1386,7 +1386,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"7"
 				"weight"		"400"
 				"additive"		"0"
@@ -1398,7 +1398,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1412,7 +1412,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"12"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"480 599"
 				"dropshadow"	"0"
 			}
@@ -1420,7 +1420,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"13"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"600 767"
 				"dropshadow"	"0"
 			}
@@ -1428,7 +1428,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"14"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"768 1023"
 				"dropshadow"	"0"
 			}
@@ -1436,7 +1436,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"20"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"1024 1199"
 				"dropshadow"	"0"
 			}
@@ -1444,7 +1444,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"24"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"1200 10000"
 				"dropshadow"	"0"
 			}
@@ -1456,7 +1456,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"12"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"480 599"
 				"dropshadow"	"1"
 			}
@@ -1464,7 +1464,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"13"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"600 767"
 				"dropshadow"	"1"
 			}
@@ -1472,7 +1472,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"14"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"768 1023"
 				"dropshadow"	"1"
 			}
@@ -1480,7 +1480,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"20"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"1024 1199"
 				"dropshadow"	"1"
 			}
@@ -1488,7 +1488,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"24"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"1200 10000"
 				"dropshadow"	"1"
 			}
@@ -1499,7 +1499,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"10"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"480 599"
 				"dropshadow"	"1"
 			}
@@ -1507,7 +1507,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"10"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"600 767"
 				"dropshadow"	"1"
 			}
@@ -1515,7 +1515,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"13"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"768 1023"
 				"dropshadow"	"1"
 			}
@@ -1523,7 +1523,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"14"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"1024 1199"
 				"dropshadow"	"1"
 			}
@@ -1531,7 +1531,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"15"
-				"weight"		"700"
+				"weight"		"400"
 				"yres"			"1200 10000"
 				"dropshadow"	"1"
 			}
@@ -1544,7 +1544,7 @@ Scheme
 				"name"			"Arial Black"
 				"tall"			"8"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"300"
+				"weight"		"400"
 				"antialias"		"1"
 			}
 		}
@@ -1552,10 +1552,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"300"
+				"weight"		"400"
 				"antialias"		"1"
 			}
 		}
@@ -1564,9 +1564,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"TextColor"		"Black"
 				"antialias" 	"1"
@@ -1576,9 +1576,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"TextColor"		"Black"
 				"antialias" 	"1"
@@ -1591,7 +1591,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"8"
-				"weight"		"0"
+				"weight"		"400"
 				"additive"		"1"
 				"antialias" 	"1"
 			}
@@ -1615,7 +1615,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"12"	[!$OSX]
 				"tall"			"9"		[$OSX]
-				"weight"		"800"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1625,63 +1625,63 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"36"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"MatchmakingDialogSessionOptionsTitle"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"30"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"MatchmakingDialogMenuLarge"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"28"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"MatchmakingDialogMenuBrowserHostname"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"22"
-				"weight"		"900"
+				"weight"		"400"
 			}
 		}
 		"MatchmakingDialogMenuBrowserDetails"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"900"
+				"weight"		"400"
 			}
 		}
 		"MatchmakingDialogMenuMedium"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"22"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"MatchmakingDialogMenuMediumSmall"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"MatchmakingDialogMenuSmall"
@@ -1690,7 +1690,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"22"
-				"weight"		"900"
+				"weight"		"400"
 			}
 		}
 		"MatchmakingDialogMenuSmallest"
@@ -1699,7 +1699,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"18"
-				"weight"		"900"
+				"weight"		"400"
 			}
 		}
 
@@ -1709,7 +1709,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"15"
-				"weight"		"900"
+				"weight"		"400"
 			}
 		}
 
@@ -1717,9 +1717,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"36"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1728,9 +1728,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"600"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1740,7 +1740,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
 				"weight"		"400"
 				"additive"		"0"
@@ -1752,9 +1752,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"900"
+				"weight"		"400"
 				"antialias" 	"1"
 			}
 		}
@@ -1765,7 +1765,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"10"
-				"weight"		"600"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1776,7 +1776,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"10"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1786,7 +1786,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1801,7 +1801,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"10"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"480 599"
 				"antialias"		"1"
@@ -1810,7 +1810,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"600 1199"
 				"antialias"		"1"
@@ -1819,7 +1819,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"15"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1200 6000"
 				"antialias"		"1"
@@ -1830,9 +1830,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1841,9 +1841,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1852,9 +1852,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1863,9 +1863,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1874,9 +1874,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1885,19 +1885,19 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"antialias"		"1"
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"ItemFontAttribSmall"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1906,9 +1906,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1917,9 +1917,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -1929,9 +1929,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -1940,9 +1940,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"500"
+				"weight"		"400"
 				"blur"			"3"
 				"additive"		"1"
 				"antialias" 	"1"
@@ -1952,9 +1952,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
-				"weight"		"0"
+				"weight"		"400"
 				"additive"		"1"
 				"antialias" 	"1"
 			}
@@ -1966,7 +1966,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"7"
-				"weight"		"0"
+				"weight"		"400"
 				"additive"		"1"
 				"antialias" 	"1"
 			}
@@ -1977,7 +1977,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"7"
-				"weight"		"0"
+				"weight"		"400"
 				"antialias" 	"1"
 			}
 		}
@@ -1987,7 +1987,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"7"
-				"weight"		"0"
+				"weight"		"400"
 				"blur"			"3"
 				"additive"		"1"
 				"antialias" 	"1"
@@ -2000,7 +2000,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"7"
-				"weight"		"0"
+				"weight"		"400"
 				"antialias" 	"1"
 			}
 		}
@@ -2041,7 +2041,7 @@ Scheme
 			{
 				"name"			"ocra"
 				"tall"			"10"
-				"weight"		"800"
+				"weight"		"400"
 				"yres"			"480 599"
 				"additive"		"0"
 				"antialias"		"1"
@@ -2050,7 +2050,7 @@ Scheme
 			{
 				"name"			"ocra"
 				"tall"			"14"
-				"weight"		"800"
+				"weight"		"400"
 				"additive"		"0"
 				"yres"			"600 1023"
 				"antialias"		"1"
@@ -2059,7 +2059,7 @@ Scheme
 			{
 				"name"			"ocra"
 				"tall"			"18"
-				"weight"		"800"
+				"weight"		"400"
 				"additive"		"0"
 				"yres"			"1024 6000"
 				"antialias"		"1"
@@ -2084,7 +2084,7 @@ Scheme
 				"tall"			"20"
 				"antialias" 	"1"
 				"custom"		"1" [$OSX]
-				"weight"		"500"
+				"weight"		"400"
 			}
 		}
 		"QuestInstructionText_Merasmus"
@@ -2156,7 +2156,7 @@ Scheme
 			{
 				"name"			"TF2 Secondary"
 				"tall"			"10"
-				"weight"		"800"
+				"weight"		"400"
 				"yres"			"480 599"
 				"additive"		"0"
 				"antialias"		"1"
@@ -2165,7 +2165,7 @@ Scheme
 			{
 				"name"			"TF2 Secondary"
 				"tall"			"14"
-				"weight"		"800"
+				"weight"		"400"
 				"additive"		"0"
 				"yres"			"600 1023"
 				"antialias"		"1"
@@ -2174,7 +2174,7 @@ Scheme
 			{
 				"name"			"TF2 Secondary"
 				"tall"			"18"
-				"weight"		"800"
+				"weight"		"400"
 				"additive"		"0"
 				"yres"			"1024 6000"
 				"antialias"		"1"
@@ -2231,7 +2231,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"8"
-				"weight"		"0"
+				"weight"		"400"
 				"antialias" 	"1"
 			}
 		}
@@ -2267,7 +2267,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"480 599"
 			}
@@ -2275,7 +2275,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"600 767"
 			}
@@ -2283,7 +2283,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"768 1023"
 				"antialias"		"1"
@@ -2292,7 +2292,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"14"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1024 1199"
 				"antialias"		"1"
@@ -2301,7 +2301,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"16"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1200 6000"
 				"antialias"		"1"
@@ -2311,9 +2311,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -2324,7 +2324,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"12"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"480 599"
 			}
@@ -2332,7 +2332,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"13"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"600 767"
 			}
@@ -2340,7 +2340,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"14"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"768 1023"
 				"antialias"		"1"
@@ -2349,7 +2349,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"20"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1024 1199"
 				"antialias"		"1"
@@ -2358,7 +2358,7 @@ Scheme
 			{
 				"name"			"Verdana"
 				"tall"			"22"
-				"weight"		"0"
+				"weight"		"400"
 				"range"			"0x0000 0x017F"
 				"yres"			"1200 6000"
 				"antialias"		"1"
@@ -2368,16 +2368,16 @@ Scheme
 				"name"			"Arial"
 				"tall"			"12"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"0"
+				"weight"		"400"
 			}
 		}
 		"ReplayMediumSmall"
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -2386,9 +2386,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -2397,9 +2397,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -2408,9 +2408,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -2419,9 +2419,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"18"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -2432,9 +2432,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"14"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -2443,9 +2443,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"24"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -2455,9 +2455,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"15"
-				"weight"		"500"
+				"weight"		"400"
 				"range"			"0x0000 0x007F"
 				"antialias"		"1"
 				"additive"		"0"
@@ -2468,7 +2468,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2480,9 +2480,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"antialias" 	"1"
 				"custom"		"1"
 			}
@@ -2491,9 +2491,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"blur"			"3"
 				"additive"		"1"
 				"antialias" 	"1"
@@ -2504,9 +2504,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nudista"
+				"name"			"Neusa"
 				"tall"			"12"
-				"weight"		"500"
+				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
 				"dropshadow"	"1"
@@ -2519,7 +2519,7 @@ Scheme
 			{
 				"name"			"ocra"
 				"tall"			"7"
-				"weight"		"0"
+				"weight"		"400"
 				"blur"			"3"
 				"additive"		"1"
 				"antialias" 	"1"
@@ -2706,8 +2706,8 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/Nudista.ttf"
-			"name"	"Nudista"
+			"font"	"resource/fonts/Neusa.ttf"
+			"name"	"Neusa"
 		}
 		"9"
 		{
