@@ -36,7 +36,7 @@
 		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../console/background_upward_widescreen"
+		"image"			"replay/thumbnails/what"
 		"scaleImage"	"1"
 	}
 
