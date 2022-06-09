@@ -4,10 +4,10 @@ event HudHealthBonusPulse
 	Animate	PlayerStatusHealthBonusImage	Alpha		"255"				Linear 0.0 0.0
 	Animate	PlayerStatusHealthBonusImage	Alpha		"0"					Linear 0.0 0.0
 
-	Animate	PlayerHealthValue				FgColor		"ColorBlack"		Linear 0.0 0.05
+	Animate	PlayerHealthValue				FgColor		"HealthBuff"		Linear 0.0 0.05
 	Animate	TargetHealthValue				FgColor		"HealthBuff"		Linear 0.0 0.05
 
-	Animate PlayerHealthBackground			BgColor		"HealthBuff"		Linear 0.0 0.05
+	Animate PlayerHealthBackground			BgColor		"HealthBuffTransparent"		Linear 0.0 0.05
 
 	RunEvent HudHealthBonusPulseLoop		0.1
 }
@@ -29,10 +29,10 @@ event HudHealthDyingPulse
 	Animate	PlayerStatusHealthBonusImage	Alpha		"255"					Linear 0.0 0.0
 	Animate	PlayerStatusHealthBonusImage	Alpha		"0"						Linear 0.0 0.0
 
-	Animate	PlayerHealthValue				FgColor		"ColorBlack"			Linear 0.0 0.05
+	Animate	PlayerHealthValue				FgColor		"HealthHurt"			Linear 0.0 0.05
 	Animate	TargetHealthValue				FgColor		"HealthHurt"			Linear 0.0 0.05
 
-	Animate PlayerHealthBackground			BgColor		"HealthHurt"			Linear 0.0 0.05
+	Animate PlayerHealthBackground			BgColor		"HealthHurtTransparent"	Linear 0.0 0.05
 
 	RunEvent HudHealthDyingPulseLoop		0.1
 }
@@ -54,13 +54,13 @@ event HudLowAmmoPulse
 	Animate	HudWeaponLowAmmoImage			Alpha		"255"					Linear 0.0 0.0
 	Animate	HudWeaponLowAmmoImage			Alpha		"0"						Linear 0.0 0.0
 
-	Animate	AmmoInClip						FgColor		"ColorBlack"			Linear 0.0 0.05
-	Animate	AmmoInReserve					FgColor		"AmmoResLow"	Linear 0.0 0.05
-	Animate	AmmoNoClip						FgColor		"ColorBlack"			Linear 0.0 0.05
+	Animate	AmmoInClip						FgColor		"AmmoClipLow"			Linear 0.0 0.05
+	Animate	AmmoInReserve					FgColor		"AmmoResLow"			Linear 0.0 0.05
+	Animate	AmmoNoClip						FgColor		"AmmoClipLow"			Linear 0.0 0.05
 
-	Animate	AmmoInClip						BgColor		"AmmoClipLow"		Linear 0.0 0.05
-	Animate	AmmoInReserve					BgColor		"PanelBlack2"			Linear 0.0 0.05
-	Animate	AmmoNoClip						BgColor		"AmmoClipLow"		Linear 0.0 0.05
+	Animate	AmmoInClip						BgColor		"AmmoClipLowTransparent"	Linear 0.0 0.05
+	Animate	AmmoInReserve					BgColor		"AmmoResLowTransparent"		Linear 0.0 0.05
+	Animate	AmmoNoClip						BgColor		"AmmoClipLowTransparent"	Linear 0.0 0.05
 
 	RunEvent HudLowAmmoPulseLoop			0.2
 }
@@ -75,7 +75,7 @@ event HudLowAmmoPulseStop
 	Animate AmmoNoClip						FgColor		"AmmoClip"			Linear 0.0 0.05
 
 	Animate	AmmoInClip						BgColor		"PanelBlack2"			Linear 0.0 0.05
-	Animate	AmmoInReserve					BgColor		"PanelBlack3"			Linear 0.0 0.05
+	Animate	AmmoInReserve					BgColor		"PanelBlack2"			Linear 0.0 0.05
 	Animate	AmmoNoClip						BgColor		"PanelBlack2"			Linear 0.0 0.05
 }
 //==================================================================================

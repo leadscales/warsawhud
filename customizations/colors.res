@@ -3,29 +3,33 @@ Scheme
 	Colors
 	{
 		// MAIN COLORS
-		"AccentMain"				"96 192 255 255"
-		"AccentMainTransparent"		"96 192 255 96"
-		"AccentMainTransparent2"	"96 192 255 32"
-		"AccentMainDark"			"64 160 224 255"
-		"ColorNegative"				"255 96 64 255"
-		"ColorPositive"				"64 224 255 255"
+		"AccentMain"				"0 176 255 255"
+		"AccentMainTransparent"		"0 176 255 96"
+		"AccentMainTransparent2"	"0 176 255 32"
+		"AccentMainDark"			"0 112 192 255"
+		"ColorNegative"				"255 80 0 255"
+		"ColorPositive"				"0 255 176 255"
 		// GAME PLAY
 		"AmmoClip"					"255 255 255 255"
 		"AmmoRes"					"255 255 255 255"
-		"AmmoClipLow"				"255 96 64 255"
-		"AmmoResLow"				"255 96 64 255"
+		"AmmoClipLow"				"255 80 0 255"
+		"AmmoResLow"				"255 80 0 255"
 		"HealthNormal"				"255 255 255 255"
-		"HealthBuff"				"64 224 255 255"
-		"HealthHurt"				"255 96 64 255"
-		"HealNum"					"64 224 255 255"
-		"DamageNum"					"255 96 64 255"
+		"HealthBuff"				"0 255 176 255"
+		"HealthHurt"				"255 80 0 255"
+		"AmmoClipLowTransparent"	"255 80 0 64"
+		"AmmoResLowTransparent"		"255 80 0 64"
+		"HealthBuffTransparent"		"0 255 176 64"
+		"HealthHurtTransparent"		"255 80 0 64"
+		"HealNum"					"0 255 176 255"
+		"DamageNum"					"255 80 0 255"
 		// CROSSHAIR COLORS
 		"Crosshair"					"255 255 255 255"
-		"Hitmarker"					"255 96 64 255"
+		"Hitmarker"					"255 80 0 255"
 		// UBER COLORS
 		"UberBar"					"255 255 255 255"
-		"UberBarCharged1"			"64 224 255 255"
-		"UberBarCharged2"			"64 224 255 255"
+		"UberBarCharged1"			"0 255 176 255"
+		"UberBarCharged2"			"0 255 176 255"
 
 		// VVV --- YOU PROBABLY SHOULDN'T EDIT THESE --- VVV
 
@@ -59,10 +63,14 @@ Scheme
 		"ColorGrey16"				"16 16 16 255"
 		"TextColor"					"255 255 255 255"
 		// TEAM COLORS
-		"TeamColorRed"				"255 0 96 255"	
-		"TeamColorBlu"				"0 160 255 255"
-		"TeamColorRedTransparent"	"255 0 96 128"
-		"TeamColorBluTransparent"	"0 160 255 128"
+		// "TeamColorRed"				"255 64 56 255"	
+		// "TeamColorBlu"				"80 176 255 255"
+		// "TeamColorRedTransparent"	"255 64 56 128"
+		// "TeamColorBluTransparent"	"80 176 255 128"
+		"TeamColorRed"					"255 0 0 255"
+		"TeamColorBlu"					"0 255 255 255"
+		"TeamColorRedTransparent"		"255 0 0 128"
+		"TeamColorBluTransparent"		"0 255 255 128"
 		// GUI COLORS
 		"Button"					"48 48 48 255"
 		"PanelLight"				"24 24 24 255"

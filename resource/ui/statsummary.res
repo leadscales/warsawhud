@@ -26,20 +26,6 @@
 		"scaleImage"	"1"
 	}
 
-	"Background"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Background"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"replay/thumbnails/what"
-		"scaleImage"	"1"
-	}
-
 	"MapInfo"
 	{
 		"ControlName"	"EditablePanel"
