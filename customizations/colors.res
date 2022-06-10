@@ -9,6 +9,8 @@ Scheme
 		"AccentMainDark"			"0 112 192 255"
 		"ColorNegative"				"255 80 0 255"
 		"ColorPositive"				"0 255 176 255"
+		"ColorNegativeTransparent"	"255 80 0 64"
+		"ColorPositiveTransparent"	"0 255 176 64"
 		// GAME PLAY
 		"AmmoClip"					"255 255 255 255"
 		"AmmoRes"					"255 255 255 255"

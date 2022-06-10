@@ -163,7 +163,7 @@
 			"armedFgColor_override" 	"ColorBlack"
 			"depressedFgColor_override" "ColorBlack"
 
-			"defaultBgColor_override" 	"PanelBlack4"
+			"defaultBgColor_override" 	"Blank"
 			"armedBgColor_override" 	"ColorNegative"
 			"depressedBgColor_override" "ColorNegative"
 		}
@@ -200,7 +200,7 @@
 			"armedFgColor_override" 	"ColorBlack"
 			"depressedFgColor_override" "ColorBlack"
 
-			"defaultBgColor_override" 	"PanelBlack4"
+			"defaultBgColor_override" 	"Blank"
 			"armedBgColor_override" 	"AccentMain"
 			"depressedBgColor_override" "AccentMain"
 

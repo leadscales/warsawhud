@@ -60,8 +60,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerHealthValue"
-		"xpos"			"c0-s1-100"
-		"ypos"			"c60"
+		"xpos"			"c0-s2"
+		"ypos"			"cs2"
 		"xpos_minmode"	"rs1-5-16"
 		"ypos_minmode"	"rs2-5-18"
 		"zpos"			"5"

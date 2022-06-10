@@ -191,11 +191,11 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"cs-0.5"
-		"ypos"					"c90"
+		"ypos"					"cs6+2"
 		"xpos_minmode"			"rs3-5-6"
 		"ypos_minmode"			"rs1-5"
 		"zpos"					"0"
-		"wide"					"100"
+		"wide"					"60"
 		"tall"  				"15"
 		"wide_minmode"			"28"
 		"tall_minmode"			"14"
@@ -208,7 +208,7 @@
 	"CHealthAccountPanel"
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c0-s1-100"
+		"xpos"					"c0-s2+s0.5-5"
 		"ypos"					"0"
 		"wide"					"60"
 		"tall"  				"480"
@@ -475,8 +475,8 @@
 		"TeamRed"				"TeamColorRed"
 		"IconColor"				"ColorWhite"
 		"LocalPlayerColor"		"ColorBlack"
-		"BaseBackgroundColor"	"PanelBlack3"
-		"LocalBackgroundColor"	"PanelWhite3"
+		"BaseBackgroundColor"	"PanelBlack4"
+		"LocalBackgroundColor"	"PanelWhite4"
 	}
 
 	"HudVehicle"

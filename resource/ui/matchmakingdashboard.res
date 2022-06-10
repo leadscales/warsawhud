@@ -61,7 +61,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labeltext"		"v"
-			"font"			"CustomIcons"
+			"font"			"SmallIcons"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"

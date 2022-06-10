@@ -249,7 +249,7 @@
 		"tall"						"15"
 		"proportionaltoparent"		"1"
 		"visible"					"1"
-		"labeltext"					"VERSION 0.7.1"
+		"labeltext"					"VERSION 0.7.2"
 		"font"						"Font10"
 		"textalignment"				"center"
 
@@ -307,9 +307,9 @@
 		"armedFgColor_override" 	"AccentMain"
 		"depressedFgColor_override" "ColorWhite"
 
-		"defaultBgColor_override"	"PanelBlack4"
-		"armedBgColor_override"		"PanelBlack4"
-		"depressedBgColor_override"	"PanelBlack4"
+		"defaultBgColor_override"	"Blank"
+		"armedBgColor_override"		"Blank"
+		"depressedBgColor_override"	"Blank"
 
 		"pin_to_sibling"		"RankPanel"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -516,7 +516,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"AccentMain"
+					"fgcolor_override"	"PanelBlack3"
 				}
 
 				"UpButton"
