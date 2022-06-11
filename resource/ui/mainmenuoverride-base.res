@@ -243,13 +243,13 @@
 		"ControlName"				"CExButton"
 		"fieldname"					"VersionLabel"
 		"xpos"						"rs1-2"
-		"ypos"						"rs1-20"
+		"ypos"						"rs1-25"
 		"zpos"						"12"
 		"wide"						"80"
-		"tall"						"15"
+		"tall"						"10"
 		"proportionaltoparent"		"1"
 		"visible"					"1"
-		"labeltext"					"VERSION 0.7.2"
+		"labeltext"					"VERSION 0.7.4"
 		"font"						"Font10"
 		"textalignment"				"center"
 
@@ -259,7 +259,30 @@
 		"armedBgColor_override"		"Blank"
 		"defaultFgColor_override"	"ColorWhiteTransparent64"
 		"armedFgColor_override"		"ColorWhiteTransparent64"
-	}	
+	}
+
+	"DateLabel"
+	{
+		"ControlName"				"CExButton"
+		"fieldname"					"DateLabel"
+		"xpos"						"rs1-2"
+		"ypos"						"rs1-35"
+		"zpos"						"12"
+		"wide"						"80"
+		"tall"						"10"
+		"proportionaltoparent"		"1"
+		"visible"					"1"
+		"labeltext"					"JUN 11 2022"
+		"font"						"Font10"
+		"textalignment"				"center"
+
+		"sound_released"			"ui/milk.mp3"
+		
+		"defaultBgColor_override"	"Blank"
+		"armedBgColor_override"		"Blank"
+		"defaultFgColor_override"	"ColorWhiteTransparent64"
+		"armedFgColor_override"		"ColorWhiteTransparent64"
+	}
 
 	"RankModelPanel"
 	{

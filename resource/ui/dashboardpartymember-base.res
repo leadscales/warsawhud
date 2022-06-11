@@ -4,11 +4,11 @@
 	{
 		// "ControlName"	"CAvatarImagePanel"
 		"fieldName"		"avatar"
-		"xpos"			"1"
-		"ypos"			"1"
+		"xpos"			"2"
+		"ypos"			"2"
 		"zpos"			"101"
-		"wide"			"f2"
-		"tall"			"f2"
+		"wide"			"f4"
+		"tall"			"f4"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
@@ -126,8 +126,8 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5"
 		"zpos"			"200"
-		"wide"			"f1"
-		"tall"			"f1"
+		"wide"			"f2"
+		"tall"			"f2"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
@@ -148,10 +148,10 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override"	"Blank"
-		"armedBgColor_override"		"Blank"
+		"armedBgColor_override"		"PanelBlack4"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"ButtonHover"
+		"border_armed"		"NoBorder"
 	}
 
 	"Spinner"

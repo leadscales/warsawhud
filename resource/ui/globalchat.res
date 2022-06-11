@@ -35,10 +35,10 @@
 		// "ControlName"	"richtext"
 		"fieldName"		"chatlog"
 		"xpos"			"cs-0.5"
-		"ypos"			"5"
+		"ypos"			"10"
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"f20"
+		"tall"			"f25"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"RoundedCorners"	"0"
@@ -60,7 +60,7 @@
 
 			"Slider"
 			{
-				"fgcolor_override"	"ColorNegative"
+				"fgcolor_override"	"PanelWhite2"
 			}
 
 			"UpButton"
@@ -84,7 +84,7 @@
 		// "ControlName"	"TextEntry"
 		"fieldName"		"chatentry"
 		"xpos"					"cs-0.5"
-		"ypos"					"rs1+18"
+		"ypos"					"rs1+13"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"13"
