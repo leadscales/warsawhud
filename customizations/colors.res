@@ -77,8 +77,8 @@ Scheme
 		"Button"					"48 48 48 255"
 		"PanelLight"				"24 24 24 255"
 		"PanelMain"					"16 16 16 255"
-		"PanelDark"					"8 8 8 255"
-		"PanelDarkest"				"4 4 4 255"
+		"PanelDark"					"12 12 12 255"
+		"PanelDarkest"				"8 8 8 255"
 		"PanelBlack1"				"0 0 0 224" 		// Title bar
 		"PanelBlack2"				"0 0 0 192"			// Important element or cat.
 		"PanelBlack3"				"0 0 0 160" 		// Information
