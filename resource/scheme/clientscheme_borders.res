@@ -304,64 +304,6 @@ Scheme
 			}
 		}
 
-		ScanlinePanel
-		{
-			"bordertype"			"image"
-			"backgroundtype"		"0"
-
-			"image"					"replay/thumbnails/panels/scanlines2"
-			"tiled"					"1"
-		}
-
-		ScanlineBorder
-		{
-			"inset"	"0 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color"	"PanelMain"
-				}
-				"2"
-				{
-					"color"	"PanelMain"
-				}
-			}
-			Right
-			{
-				"1"
-				{
-					"color"	"PanelMain"
-				}
-				"2"
-				{
-					"color"	"PanelMain"
-				}
-			}
-			Top
-			{
-				"1"
-				{
-					"color"	"PanelMain"
-				}
-				"2"
-				{
-					"color"	"PanelMain"
-				}
-			}
-			Bottom
-			{
-				"1"
-				{
-					"color"	"PanelMain"
-				}
-				"2"
-				{
-					"color"	"PanelMain"
-				}
-			}
-		}
-
 		ButtonDefaultBorder
 		{
 			"inset"	"0 0 0 0"
