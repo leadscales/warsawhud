@@ -807,11 +807,11 @@
 		"fieldName"			"WinPanel"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"c-100"
-		"ypos"				"270"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"1"
-		"wide"				"200"
-		"tall"				"300"
+		"wide"				"f0"
+		"tall"				"480"
 	}
 
 	"ArenaWinPanel"

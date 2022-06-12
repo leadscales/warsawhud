@@ -65,7 +65,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5"
 		"wide"			"f0"
-		"tall"			"25"
+		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
