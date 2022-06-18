@@ -249,7 +249,7 @@
 		"tall"						"10"
 		"proportionaltoparent"		"1"
 		"visible"					"1"
-		"labeltext"					"VERSION 0.7.4"
+		"labeltext"					"VERSION 0.8.0"
 		"font"						"Font10"
 		"textalignment"				"center"
 
@@ -272,7 +272,7 @@
 		"tall"						"10"
 		"proportionaltoparent"		"1"
 		"visible"					"1"
-		"labeltext"					"JUN 11 2022"
+		"labeltext"					"JUN 17 2022"
 		"font"						"Font10"
 		"textalignment"				"center"
 

@@ -156,7 +156,7 @@
 		"ControlName"				"EditablePanel"
 		"fieldName"					"ClassContainer"
 		"xpos"						"cs-0.5"
-		"ypos"						"140"
+		"ypos"						"rs2-cs-0.5"
 		"zpos"						"7"
 		"wide"						"540"
 		"tall"						"60"

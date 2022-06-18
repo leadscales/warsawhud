@@ -18,12 +18,12 @@
 		"infocus_bgcolor_override"		"PanelMain"
 		"outoffocus_bgcolor_override"	"PanelMain"
 
-		"item_xpos_offcenter_a"			"-300"
-		"item_xpos_offcenter_b"			"-198"
+		"item_xpos_offcenter_a"			"-250"
+		"item_xpos_offcenter_b"			"150"
 		//"item_ypos"						"25"
-		"item_ypos"						"28"
-		"item_ydelta"					"80"
-		"item_mod_wide"					"40"
+		"item_ypos"						"40"
+		"item_ydelta"					"82"
+		"item_mod_wide"					"0"
 
 		"item_backpack_offcenter_x"		"-288"
 		"item_backpack_xdelta"			"4"
@@ -40,7 +40,7 @@
 			"xpos"					"c-70"
 			"ypos"					"270"
 			"wide"					"100"
-			"tall"					"78"
+			"tall"					"80"
 			"visible"				"0"
 			"bgcolor_override"		"Transparent"
 			"noitem_textcolor"		"TextColor"
@@ -157,9 +157,9 @@
 		"labelText"			"#ClassBeingEquipped"
 		"textAlignment"		"center"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"20"
 		"zpos"				"6"
-		"wide"				"600"
+		"wide"				"f0"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -167,10 +167,6 @@
 		"enabled"			"1"
 		"allcaps"			"1"
 		"bgcolor_override"	"Blank"
-
-		"pin_to_sibling"		"LoadoutPanel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntCaratLabel"
@@ -204,11 +200,11 @@
 	{
 		"ControlName"		"CTFPlayerModelPanel"
 		"fieldName"			"classmodelpanel"
-		"xpos"				"c0"
+		"xpos"				"c-150"
 		"ypos"				"25"
 		"zpos"				"8"
 		"wide"				"300"
-		"tall"				"325"
+		"tall"				"300"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
@@ -223,9 +219,9 @@
 			"angles_x" 			"0"
 			"angles_y" 			"170"
 			"angles_z" 			"0"
-			"origin_x" 			"190"
+			"origin_x" 			"220"
 			"origin_y" 			"0"
-			"origin_z" 			"-48"
+			"origin_z" 			"-40"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
@@ -278,7 +274,7 @@
 		"fieldName"			"PassiveAttribsLabel"
 		"font"				"ItemFontAttribLarge"
 		"xpos"				"0"
-		"ypos"				"-25"
+		"ypos"				"0"
 		"zpos"				"20"
 		"wide"				"300"
 		"tall"				"240"
@@ -287,13 +283,13 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			""
-		"textAlignment"		"south"
+		"textAlignment"		"north"
 		"fgcolor"			"ColorWhite"
 		"centerwrap"		"1"
 
-		"pin_to_sibling"		"ClassPanel"
-		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling"		"classmodelpanel"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"loadout_preset_panel"
@@ -383,10 +379,10 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"RedButton"
-		"xpos"				"0"
+		"xpos"				"p0.5"
 		"ypos"				"0"
 		"zpos"				"12"
-		"wide"				"150"
+		"wide"				"p0.25"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -402,26 +398,22 @@
 
 		"defaultFgColor_override"	"TeamColorRed"
 		"armedFgColor_override"		"ColorBlack"
-		"defaultBgColor_override"	"Blank"
+		"defaultBgColor_override"	"PanelBlack4"
 		"armedBgColor_override"		"TeamColorRed"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"sound_armed"		"UI/buttonrollover.wav"
-
-		"pin_to_sibling"		"ClassPanel"
-		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
 	}
 
 	"BlueButton"
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"BlueButton"
-		"xpos"				"0"
+		"xpos"				"p0.75"
 		"ypos"				"0"
 		"zpos"				"12"
-		"wide"				"150"
+		"wide"				"p0.25"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -437,16 +429,12 @@
 
 		"defaultFgColor_override"	"TeamColorBlu"
 		"armedFgColor_override"		"ColorBlack"
-		"defaultBgColor_override"	"Blank"
+		"defaultBgColor_override"	"PanelBlack4"
 		"armedBgColor_override"		"TeamColorBlu"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"sound_armed"		"UI/buttonrollover.wav"
-
-		"pin_to_sibling"		"RedButton"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"CharacterLoadoutButton"
@@ -456,7 +444,7 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"2"
-		"wide"				"150"
+		"wide"				"p0.25"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -478,22 +466,18 @@
 		"armedFgColor_override"			"ColorBlack"
 		"depressedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack4"
 		"depressedBgColor_override" 	"Blank"
-
-		"pin_to_sibling"		"LoadoutPanel"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"TauntLoadoutButton"
 	{
 		"ControlName"		"CExButton"
 		"fieldName"			"TauntLoadoutButton"
-		"xpos"				"0"
+		"xpos"				"p0.25"
 		"ypos"				"0"
 		"zpos"				"2"
-		"wide"				"150"
+		"wide"				"p0.25"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -515,24 +499,8 @@
 		"armedFgColor_override"			"ColorBlack"
 		"depressedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"Blank"
+		"defaultBgColor_override"		"PanelBlack4"
 		"depressedBgColor_override" 	"Blank"
-
-		"pin_to_sibling"		"CharacterLoadoutButton"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
-	}
-
-	"BottomButtonsBG"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"BottomButtonsBG"
-		"xpos"				"0"
-		"ypos"				"r126"
-		"zpos"				"0"
-		"wide"				"f0"
-		"tall"				"80"
-		"bgcolor_override"	"Blank"
 	}
 
 	"TauntsExplanation"
