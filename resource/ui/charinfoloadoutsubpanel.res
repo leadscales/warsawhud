@@ -151,6 +151,20 @@
 		"tall"						"0"
 	}
 
+	"ClassContainerBG"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"ClassContainerBG"
+		"xpos"				"0"
+		"ypos"				"rs2-cs-0.5"
+		"zpos"				"-1"
+		"wide"				"f0"
+		"tall"				"60"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override"	"PanelBlack4"
+	}
+
 	"ClassContainer"
 	{
 		"ControlName"				"EditablePanel"
@@ -160,7 +174,7 @@
 		"zpos"						"7"
 		"wide"						"540"
 		"tall"						"60"
-		"bgcolor_override"			"PanelBlack3"
+		"bgcolor_override"			"Blank"
 		
 		"ClassScout"
 		{
@@ -719,15 +733,33 @@
 		"command"		"loadout spy"
 	}
 
+	"MenusContainerBG"
+	{
+		"ControlName"			"EditablePanel"
+		"fieldName"				"MenusContainerBG"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"0"
+		"wide"					"f0"
+		"tall"					"20"
+		"visible"				"1"
+		"enabled"				"1"
+		"bgcolor_override"		"PanelBlack3"
+
+		"pin_to_sibling"		"ClassContainerBG"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+	}
+
 	"MenusContainer"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MenusContainer"
 		"xpos"			"0"
-		"ypos"			"2"
+		"ypos"			"0"
 		"wide"			"540"
 		"tall"			"20"
-		"bgcolor_override"	"PanelBlack3"
+		"bgcolor_override"	"Blank"
 
 		"pin_to_sibling"	"ClassContainer"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
