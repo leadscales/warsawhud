@@ -1,1 +1,1 @@
-"#base" "scoreboard-base.res"
+"#base" "../../customizations/scoreboard.res"
