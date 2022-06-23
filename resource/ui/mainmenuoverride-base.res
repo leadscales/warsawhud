@@ -249,7 +249,7 @@
 		"tall"						"10"
 		"proportionaltoparent"		"1"
 		"visible"					"1"
-		"labeltext"					"VERSION 0.8.4"
+		"labeltext"					"VERSION 0.8.5"
 		"font"						"Font10"
 		"textalignment"				"center"
 

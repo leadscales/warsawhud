@@ -1313,11 +1313,11 @@
 		"fieldName" 		"HudMenuTauntSelection"
 		"visible" 			"1"
 		"enabled" 			"1"
-		"xpos"				"c-235"
-		"ypos"				"c135"
+		"xpos"				"cs-0.5"
+		"ypos"				"rs1-5"
 		"zpos"				"0"
-		"wide"				"470"
-		"tall"				"200"
+		"wide"				"424"
+		"tall"				"90"
 		"PaintBackgroundType" "0"
 	}
 
