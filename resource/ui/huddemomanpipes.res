@@ -203,8 +203,7 @@
 			"brighttext"	"0"
 			"font"			"Font12"
 			"font_minmode"	"Font10"
-			"fgcolor"		"ColorNegative"
-			"fgcolor_minmode"	"ColorBlack"
+			"fgcolor"		"ColorWhite"
 		}
 
 		"NumPipesLabelBackground"
@@ -218,8 +217,8 @@
 			"tall"			"15"
 			"wide_minmode"	"28"
 			"tall_minmode"	"14"
-			"bgcolor_override"	"ColorNegativeTransparent"
-			"bgcolor_override_minmode"	"ColorNegative"
+			"bgcolor_override"	"PanelBlack3"
+			"bgcolor_override_minmode"	"PanelBlack2"
 		}
 
 		"PipesIcon"
