@@ -42,7 +42,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"fillcolor"		"PanelBlack1"
+		"fillcolor"		"PanelBlack3"
 	}
 
 	"SysMenu"
@@ -116,7 +116,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -158,7 +157,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -202,7 +200,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -246,7 +243,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -290,7 +286,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -334,7 +329,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -378,7 +372,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -422,7 +415,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -466,7 +458,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -512,14 +503,13 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"PanelBlack1"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 		
 		"pin_to_sibling"			"scout"
 		"pin_corner_to_sibling"		"PIN_BOTTOMLEFT"
@@ -554,7 +544,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 		
 		"pin_to_sibling"			"random2"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -587,14 +576,13 @@
 		"depressedFgColor_override" "ColorBlack"
 		"selectedFgColor_override" 	"ColorBlack"
 
-		"defaultBgColor_override"		"PanelBlack1"
+		"defaultBgColor_override"		"PanelBlack3"
 		"armedBgColor_override"			"AccentMain"
 		"depressedFgColor_override" 	"AccentMain"
 		"selectedFgColor_override" 		"AccentMain"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 		
 		"pin_to_sibling"			"medic"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"

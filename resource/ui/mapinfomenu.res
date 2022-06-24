@@ -12,6 +12,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"bgcolor_override"	"Blank"
 	}
 
 	"MainBG"
@@ -26,7 +27,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fillcolor"		"PanelBlack4"
+		"fillcolor"		"PanelBlack3"
 	}
 
 	"MapInfoTitle"

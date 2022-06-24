@@ -13,6 +13,22 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
+		"bgcolor_override"	"Blank"
+	}
+
+	"MainBG"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"MainBG"
+		"xpos"				"0"
+		"ypos"				"0"
+		"wide"				"f0"
+		"tall"				"f0"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"fillcolor"			"PanelBlack3"
 	}
 
 	"SysMenu"
@@ -34,10 +50,10 @@
 	{
 		"ControlName"	"HTML"
 		"fieldName"		"MapInfo"
-		"xpos"			"100"
-		"ypos"			"34"
-		"wide"			"450"
-		"tall"			"365"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"	"3"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -64,13 +80,13 @@
 
 	"teambutton0"
 	{
-		"ControlName"	"CTFTeamButton"
+		"ControlName"	"CExButton"
 		"fieldName"		"teambutton0"
-		"xpos"			"c0-s1-1"
+		"xpos"			"c0-s1-32"
 		"ypos"			"cs-0.5"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"100"
+		"wide"			"60"
+		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -84,30 +100,44 @@
 		"command"		"jointeam blue"
 		"team"			"3"		// Blue Team
 		"font"			"Font20"
+
+		"fgcolor"					"TeamColorBlu"
+		"fgcolor_override"			"TeamColorBlu"
 		
-		"defaultBgColor_override" 	"TeamColorBluTransparent"
+		"defaultBgColor_override" 	"PanelBlack3"
 		"armedBgColor_override"		"TeamColorBlu"
-		"depressedBgColor_override" "TeamColorBluTransparent"
+		"depressedBgColor_override" "PanelBlack3"
 		"selectedBgColor_override" 	"TeamColorBlu"
 		
-		"defaultFgColor_override" 	"ColorWhite"
+		"defaultFgColor_override" 	"TeamColorBlu"
 		"armedFgColor_override"		"ColorBlack"
-		"depressedFgColor_override" "ColorWhite"
+		"depressedFgColor_override" "TeamColorBlu"
 		"selectedFgColor_override" 	"ColorBlack"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 	}
 
+	"square"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"square"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
+		"wide"			"60"
+		"tall"			"60"
+		"bgcolor_override"	"Blank"
+	}
+
 	"teambutton1"
 	{
-		"ControlName"	"CTFTeamButton"
+		"ControlName"	"CExButton"
 		"fieldName"		"teambutton1"
-		"xpos"			"c1"
+		"xpos"			"c32"
 		"ypos"			"cs-0.5"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"100"
+		"wide"			"60"
+		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -121,15 +151,18 @@
 		"command"		"jointeam red"
 		"team"			"4"		// Red Team
 		"font"			"Font20"
+
+		"fgcolor"					"TeamColorRed"
+		"fgcolor_override"			"TeamColorRed"
 		
-		"defaultBgColor_override" 	"TeamColorRedTransparent"
+		"defaultBgColor_override" 	"PanelBlack3"
 		"armedBgColor_override"		"TeamColorRed"
-		"depressedBgColor_override" "TeamColorRedTransparent"
+		"depressedBgColor_override" "PanelBlack3"
 		"selectedBgColor_override" 	"TeamColorRed"
 		
-		"defaultFgColor_override" 	"ColorWhite"
+		"defaultFgColor_override" 	"TeamColorRed"
 		"armedFgColor_override"		"ColorBlack"
-		"depressedFgColor_override" "ColorWhite"
+		"depressedFgColor_override" "TeamColorRed"
 		"selectedFgColor_override" 	"ColorBlack"
 		
 		"sound_depressed"			"UI/buttonclick.wav"
@@ -138,13 +171,13 @@
 
 	"teambutton2"
 	{
-		"ControlName"	"CTFTeamButton"
+		"ControlName"	"CExButton"
 		"fieldName"		"teambutton2"
 		"xpos"			"cs-0.5"
-		"ypos"			"c0-s1-52"
+		"ypos"			"c0-s1-32"
 		"zpos"			"1"
-		"wide"			"202"
-		"tall"			"20"
+		"wide"			"60"
+		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -174,13 +207,13 @@
 
 	"teambutton3"
 	{
-		"ControlName"	"CTFTeamButton"
+		"ControlName"	"CExButton"
 		"fieldName"		"teambutton3"
 		"xpos"			"cs-0.5"
-		"ypos"			"c52"
+		"ypos"			"c32"
 		"zpos"			"1"
-		"wide"			"202"
-		"tall"			"20"
+		"wide"			"60"
+		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -214,8 +247,8 @@
 		"fieldName"		"MenuBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"480"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -227,12 +260,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueCount"
-		"xpos"			"0"
+		"xpos"			"2"
 		"ypos"			"0"
 		"zpos"			"2"
 		"zpos"			"3"
-		"wide"			"100"
-		"tall"			"20"
+		"wide"			"29"
+		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -242,24 +275,24 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"Font12"
-		"fgcolor"		"ColorWhite"
-		"bgcolor_override"	"Blank"
+		"fgcolor"		"TeamColorBlu"
+		"bgcolor_override"	"PanelBlack3"
 		"mouseinputenabled"	"0"
 		
 		"pin_to_sibling"		"teambutton0"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"RedCount"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedCount"
-		"xpos"			"0"
+		"xpos"			"2"
 		"ypos"			"0"
 		"zpos"			"3"
-		"wide"			"100"
-		"tall"			"20"
+		"wide"			"29"
+		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -269,12 +302,12 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"Font12"
-		"fgcolor"		"ColorWhite"
-		"bgcolor_override"	"Blank"
+		"fgcolor"		"TeamColorRed"
+		"bgcolor_override"	"PanelBlack3"
 		"mouseinputenabled"	"0"
 		
 		"pin_to_sibling"		"teambutton1"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
@@ -307,12 +340,12 @@
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"6"
-		"wide"			"105"
-		"tall"			"35"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"labelText"		"#TF_Teams_Full"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -341,7 +374,7 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"&4"
+		"labelText"		"&a"
 		"command"		"jointeam blue"
 		"team"			"3"
 	}
@@ -354,7 +387,7 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"&3"
+		"labelText"		"&d"
 		"command"		"jointeam red"
 		"team"			"4"
 	}
@@ -367,7 +400,7 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"&2"
+		"labelText"		"&w"
 		"command"		"jointeam auto"
 	}
 
@@ -379,7 +412,7 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"&1"
+		"labelText"		"&s"
 		"command"		"jointeam spectate"
 	}
 }
