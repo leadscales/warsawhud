@@ -1143,7 +1143,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"0"
-		"ypos"				"r30"
+		"ypos"				"27"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"25"
