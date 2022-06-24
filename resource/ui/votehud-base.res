@@ -11,9 +11,9 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		"border"				"CyanBorder"
-		"bgcolor_override"		"TransparentBlack"
-		"PaintBackgroundType"	"2"
+		"border"				"NoBorder"
+		"bgcolor_override"		"PanelBlack1"
+		"PaintBackgroundType"	"0"
 
 		"PassedIcon"
 		{
@@ -80,9 +80,9 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		"border"				"CyanBorder"
-		"bgcolor_override"		"TransparentBlack"
-		"PaintBackgroundType"	"2"
+		"border"				"NoBorder"
+		"bgcolor_override"		"PanelBlack1"
+		"PaintBackgroundType"	"0"
 
 		"Header"
 		{
@@ -413,9 +413,9 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		"border"				"CyanBorder"
-		"bgcolor_override"		"TransparentBlack"
-		"PaintBackgroundType"	"2"
+		"border"				"NoBorder"
+		"bgcolor_override"		"PanelBlack1"
+		"PaintBackgroundType"	"0"
 
 		"FailedIcon"
 		{
@@ -482,9 +482,9 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		"border"				"CyanBorder"
-		"bgcolor_override"		"TransparentBlack"
-		"PaintBackgroundType"	"2"
+		"border"				"NoBorder"
+		"bgcolor_override"		"PanelBlack1"
+		"PaintBackgroundType"	"0"
 
 		"FailedIcon"
 		{
@@ -554,10 +554,10 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 		"paintborder"			"1"
-		"border"				"CyanBorder"
+		"border"				"NoBorder"
 		"bgcolor_override"		"PanelMain"
 		"PaintBackground"		"1"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 
 		"header_font"				"ItemFontNameLarge"
 		"header_fgcolor"			"AccentMain"
@@ -689,6 +689,11 @@
 			"Command"			"CallVote"
 			"Default"			"0"
 			"font"				"HudFontMediumSmall"
+
+			"defaultBgColor_override"	"PanelBlack4"
+			"armedBgColor_override"		"PanelWhite3"
+			"defaultFgColor_override"	"ColorWhite"
+			"armedBgColor_override"		"ColorWhite"
 		}
 		"Button1"
 		{
@@ -710,6 +715,11 @@
 			"Command"			"Close"
 			"Default"			"0"
 			"font"				"HudFontMediumSmall"
+
+			"defaultBgColor_override"	"PanelBlack4"
+			"armedBgColor_override"		"PanelWhite3"
+			"defaultFgColor_override"	"ColorWhite"
+			"armedBgColor_override"		"ColorWhite"
 		}
 	}
 }

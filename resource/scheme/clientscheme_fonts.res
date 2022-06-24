@@ -540,7 +540,7 @@ Scheme
 			"1"
 			{
 				"name"			"Neusa"
-				"tall"			"18"
+				"tall"			"16"
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -551,7 +551,7 @@ Scheme
 			"1"
 			{
 				"name"			"Neusa"
-				"tall"			"18"
+				"tall"			"16"
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -562,7 +562,7 @@ Scheme
 			"1"
 			{
 				"name"			"Neusa"
-				"tall"			"18"
+				"tall"			"16"
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
