@@ -819,11 +819,11 @@
 		"fieldName"			"ArenaWinPanel"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"c-225"
-		"ypos"				"r125"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"10"
-		"wide"				"450"
-		"tall"				"300"
+		"wide"				"f0"
+		"tall"				"480"
 	}
 
 	"PVEWinPanel"
