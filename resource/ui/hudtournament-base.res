@@ -328,14 +328,14 @@
 	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"HudTournamentBLUEBG"
-		"xpos"					"c-125"
-		"ypos"					"0"
+		"xpos"					"c0-s1-27"
+		"ypos"					"28"
 		"zpos"					"-1"
 		"wide"					"125"
-		"tall"					"16"
+		"tall"					"20"
 		"visible"				"1"
 		"enabled"				"1"
-		"fillcolor"				"BlueSolid"
+		"fillcolor"				"PanelBlack2"
 
 		if_mvm
 		{
@@ -377,12 +377,12 @@
 	{
 		"ControlName"			"Label"
 		"fieldName"				"TournamentBLUELabel"
-		"font"					"HudFontMediumSmall"
-		"xpos"					"0"
+		"font"					"Font12"
+		"xpos"					"-5"
 		"ypos"					"0"
 		"zpos"					"1"
 		"wide"					"125"
-		"tall"					"16"
+		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -390,7 +390,9 @@
 		"wrap"					"0"
 		"labelText"				"%bluenamelabel%"
 		"textAlignment"			"west"
-		"textinsetx"			"5"
+		"textinsetx"			"0"
+		"fgcolor"				"TeamColorBlu"
+		"fgcolor_override"		"TeamColorBlu"
 
 		"pin_to_sibling"		"HudTournamentBLUEBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -416,12 +418,12 @@
 	{
 		"ControlName"			"Label"
 		"fieldName"				"TournamentBLUEStateLabel"
-		"font"					"HudFontSmallest"
-		"xpos"					"0"
+		"font"					"Font12"
+		"xpos"					"-5"
 		"ypos"					"0"
 		"zpos"					"1"
 		"wide"					"125"
-		"tall"					"16"
+		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -429,7 +431,8 @@
 		"wrap"					"0"
 		"labelText"				"%bluestate%"
 		"textAlignment"			"east"
-		"textinsetx"			"5"
+		"textinsetx"			"0"
+		"allcaps"				"1"
 
 		"pin_to_sibling"		"HudTournamentBLUEBG"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -455,14 +458,14 @@
 	{
 		"ControlName"			"ImagePanel"
 		"fieldName"				"HudTournamentREDBG"
-		"xpos"					"c0"
-		"ypos"					"0"
+		"xpos"					"c27"
+		"ypos"					"28"
 		"zpos"					"-1"
 		"wide"					"125"
-		"tall"					"16"
+		"tall"					"20"
 		"visible"				"1"
 		"enabled"				"1"
-		"fillcolor"				"RedSolid"
+		"fillcolor"				"PanelBlack2"
 
 		if_mvm
 		{
@@ -500,12 +503,12 @@
 	{
 		"ControlName"			"Label"
 		"fieldName"				"TournamentREDLabel"
-		"font"					"HudFontMediumSmall"
-		"xpos"					"0"
+		"font"					"Font12"
+		"xpos"					"-5"
 		"ypos"					"0"
 		"zpos"					"1"
 		"wide"					"125"
-		"tall"					"16"
+		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -513,7 +516,9 @@
 		"wrap"					"0"
 		"labelText"				"%rednamelabel%"
 		"textAlignment"			"east"
-		"textinsetx"			"5"
+		"textinsetx"			"0"
+		"fgcolor"				"TeamColorRed"
+		"fgcolor_override"		"TeamColorRed"
 
 		"pin_to_sibling"		"HudTournamentREDBG"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -539,12 +544,12 @@
 	{
 		"ControlName"			"Label"
 		"fieldName"				"TournamentREDStateLabel"
-		"font"					"HudFontSmallest"
-		"xpos"					"0"
+		"font"					"Font12"
+		"xpos"					"-5"
 		"ypos"					"0"
 		"zpos"					"1"
 		"wide"					"125"
-		"tall"					"16"
+		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -552,7 +557,8 @@
 		"wrap"					"0"
 		"labelText"				"%redstate%"
 		"textAlignment"			"west"
-		"textinsetx"			"5"
+		"textinsetx"			"0"
+		"allcaps"				"1"
 
 		"pin_to_sibling"		"HudTournamentREDBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -581,7 +587,7 @@
 		"font"					"HudFontSmallest"
 		"fgcolor"				"ColorWhite"
 		"xpos"					"c-125"
-		"ypos"					"16"
+		"ypos"					"60"
 		"zpos"					"1"
 		"wide"					"250"
 		"tall"					"16"
@@ -600,7 +606,7 @@
 
 		if_competitive
 		{
-			"ypos"				"25"
+			"ypos"				"60"
 		}
 	}
 
@@ -617,7 +623,7 @@
 		"fieldName"				"TournamentInstructionsLabel"
 		"font"					"HudFontSmallest"
 		"xpos"					"c-125"
-		"ypos"					"30"
+		"ypos"					"50"
 		"wide"					"250"
 		"tall"					"16"
 		"zpos"					"1"
@@ -628,6 +634,7 @@
 		"wrap"					"0"
 		"labelText"				"%readylabel%"
 		"textAlignment"			"center"
+		"allcaps"				"1"
 
 		if_mvm
 		{
@@ -636,7 +643,7 @@
 
 		if_competitive
 		{
-			"ypos"				"36"
+			"ypos"				"50"
 		}
 	}
 
