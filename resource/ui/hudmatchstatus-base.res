@@ -54,7 +54,7 @@
 		"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"PanelBlack1"
 		"proportionaltoparent"	"1"
 	}
 

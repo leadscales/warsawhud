@@ -230,7 +230,7 @@
 				"visible"			"1"
 				"labelText"			"%respawntime%"
 				"textAlignment"		"center"
-				"fgcolor"			"TransparentBlack"
+				"fgcolor"			"PanelBlack1"
 				"pin_to_sibling"	"respawntime"
 			}
 

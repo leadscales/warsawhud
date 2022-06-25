@@ -351,7 +351,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"Font12"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"PanelBlack1"
 		"centerwrap"	"1"
 
 		"pin_to_sibling"		"TeamsFullLabel"

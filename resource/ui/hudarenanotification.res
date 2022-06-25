@@ -11,7 +11,7 @@
 		"tall"			"75"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"		"TransparentBlack"
+		"bgcolor_override"		"PanelBlack1"
 		"PaintBackgroundType"	"2"
 		"border"				"CyanBorderThick"
 	}

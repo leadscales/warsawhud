@@ -174,10 +174,10 @@ Scheme
 
 		ToggleButton.SelectedTextColor			"ColorWhite"
 
-		Tooltip.TextColor						"TransparentBlack"
+		Tooltip.TextColor						"PanelBlack1"
 		Tooltip.BgColor							"Red"
 
-		TreeView.BgColor						"TransparentBlack"
+		TreeView.BgColor						"PanelBlack1"
 
 		WizardSubPanel.BgColor					"Blank"
 
@@ -199,7 +199,7 @@ Scheme
 
 		// Scheme-Specific Colors
 		"FgColor"								"255 180 60 255"
-		"BgColor"								"TransparentBlack"
+		"BgColor"								"PanelBlack1"
 
 		"ViewportBG"							"Blank"
 		"TeamSpec"								"204 204 204 255"

@@ -105,7 +105,7 @@
 		"enabled"			"0"
 		"labelText"			"%targetname%"
 		"textAlignment"		"west"
-		"fgcolor_override"	"TransparentBlack"
+		"fgcolor_override"	"PanelBlack1"
 		"pin_to_sibling"	"TargetNameLabel"
 	}
 
@@ -214,7 +214,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"icon"			"obj_status_alert_background_tall_nocolor"
-			"iconColor"		"TransparentBlack"
+			"iconColor"		"PanelBlack1"
 			"scaleImage"	"1"
 		}
 

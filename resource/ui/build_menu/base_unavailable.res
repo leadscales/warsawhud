@@ -34,7 +34,7 @@
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"icon"				"hud_menu_item_bg_outline"
-		"iconColor"			"TransparentBlack"
+		"iconColor"			"PanelBlack1"
 	}
 
 	"BuildingIcon"
@@ -112,7 +112,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"CostLabelShadow"
 		"font"				"HudFontSmall"
-		"fgcolor"			"TransparentBlack"
+		"fgcolor"			"PanelBlack1"
 		"xpos"				"-1"
 		"ypos"				"-1"
 		"zpos"				"0"

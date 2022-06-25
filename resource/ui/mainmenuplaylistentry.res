@@ -44,7 +44,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"TransparentBlack"
+		"bgcolor_override"	"PanelBlack1"
 	}
 
 	"ToolTipHack"

@@ -66,7 +66,7 @@
 		"textAlignment"	"east"
 		"labelText"		"%bluescore%"
 		"font"			"Font40"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"PanelBlack1"
 		"textinsetx"	"10"
 		"pin_to_sibling"	"BlueScore"
 	}
@@ -102,7 +102,7 @@
 		"textAlignment"	"west"
 		"labelText"		"%redscore%"
 		"font"			"Font40"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"PanelBlack1"
 		"textinsetx"	"10"
 		"pin_to_sibling"	"RedScore"
 	}

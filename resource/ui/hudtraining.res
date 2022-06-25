@@ -37,7 +37,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"GoalLabelShadow"
-		"fgcolor"			"TransparentBlack"
+		"fgcolor"			"PanelBlack1"
 		"xpos"				"-1"
 		"ypos"				"-1"
 		"zpos"				"3"
@@ -108,7 +108,7 @@
 		"tall"				"205"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"TransparentBlack"
+		"bgcolor_override"	"PanelBlack1"
 		"PaintBackgroundType"	"2"
 	}
 }

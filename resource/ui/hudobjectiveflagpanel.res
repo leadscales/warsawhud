@@ -127,7 +127,7 @@
 		"textAlignment"	"east"
 		"labelText"		"%bluescore%"
 		"font"			"Font40"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"PanelBlack1"
 		"textinsetx"	"10"
 
 		"if_hybrid"
@@ -193,7 +193,7 @@
 		"textAlignment"	"west"
 		"labelText"		"%redscore%"
 		"font"			"Font40"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"PanelBlack1"
 		"textinsetx"	"10"
 
 		"if_hybrid"

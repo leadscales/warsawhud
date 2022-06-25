@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"font"			"HudFontMediumSmall"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"PanelBlack1"
 		"labeltext"		"%Health%"
 	}
 }

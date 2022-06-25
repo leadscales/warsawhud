@@ -60,7 +60,7 @@
 			"font"				"Font28"
 			"labelText"			"%blue_alive%"
 			"textAlignment"		"east"
-			"fgcolor"			"TransparentBlack"
+			"fgcolor"			"PanelBlack1"
 			"textinsetx"		"10"
 			"pin_to_sibling"	"count"
 		}
@@ -141,7 +141,7 @@
 			"font"				"Font28"
 			"labelText"			"%red_alive%"
 			"textAlignment"		"west"
-			"fgcolor"			"TransparentBlack"
+			"fgcolor"			"PanelBlack1"
 			"textinsetx"		"10"
 			"pin_to_sibling"	"count"
 		}

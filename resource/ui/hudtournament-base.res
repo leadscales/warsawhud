@@ -77,7 +77,7 @@
 			"tall"			"35"
 			"zpos"			"1"
 			"color_ready"		"0 255 0 220"
-			"color_notready"	"TransparentBlack"
+			"color_notready"	"PanelBlack1"
 
 			"PanelBG"
 			{
@@ -92,7 +92,7 @@
 				"pinCorner"		"0"
 				"visible"		"0"
 				"enabled"		"1"
-				"fillcolor"		"TransparentBlack"
+				"fillcolor"		"PanelBlack1"
 			}
 
 			"playername"
@@ -153,7 +153,7 @@
 				"tall"			"24"
 				"visible"		"0"
 				"enabled"		"1"
-				"bgcolor_override"		"TransparentBlack"
+				"bgcolor_override"		"PanelBlack1"
 				"PaintBackgroundType"	"0"
 			}
 
@@ -691,7 +691,7 @@
 		"wrap"					"0"
 		"labelText"				"%tournamentstatelabel%"
 		"textAlignment"			"center"
-		"fgcolor"				"TransparentBlack"
+		"fgcolor"				"PanelBlack1"
 		"proportionaltoparent"	"1"
 	}
 }

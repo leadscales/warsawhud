@@ -361,7 +361,7 @@
 		"tall"				"122"
 		"visible"			"1"
 		"border"			"NoBorder"
-		"bgcolor_override"	"TransparentBlack"
+		"bgcolor_override"	"PanelBlack1"
 		"PaintBackgroundType"	"2"
 
 		"ButtonIconClear"

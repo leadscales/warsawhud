@@ -67,7 +67,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"Font18"
-		"fgcolor"		"TransparentBlack"
+		"fgcolor"		"PanelBlack1"
 
 		"pin_to_sibling"		"TargetHealthValue"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

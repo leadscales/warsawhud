@@ -30,7 +30,7 @@
 		"tall"					"25"
 		"visible"				"1"
 		"enabled"				"1"
-		"fillcolor"				"TransparentBlack"
+		"fillcolor"				"PanelBlack1"
 	}
 
 	"TeamNameRedBG"
@@ -44,7 +44,7 @@
 		"tall"					"25"
 		"visible"				"1"
 		"enabled"				"1"
-		"fillcolor"				"TransparentBlack"
+		"fillcolor"				"PanelBlack1"
 	}
 
 	"TeamNameBlu"
@@ -82,7 +82,7 @@
 		"textinsetx"			"20"
 		"textAlignment"			"east"
 		"visible"				"1"
-		"fgcolor_override"		"TransparentBlack"
+		"fgcolor_override"		"PanelBlack1"
 		"auto_wide_tocontents"	"1"
 
 		"pin_to_sibling"		"TeamNameBlu"
@@ -138,7 +138,7 @@
 		"labelText"				"%blueteamscore%"
 		"textAlignment"			"center"
 		"visible"				"1"
-		"fgcolor_override"		"TransparentBlack"
+		"fgcolor_override"		"PanelBlack1"
 
 		"pin_to_sibling"		"TeamScoreBlu"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -189,7 +189,7 @@
 		"labelText"				"%redteamscore%"
 		"textAlignment"			"center"
 		"visible"				"1"
-		"fgcolor_override"		"TransparentBlack"
+		"fgcolor_override"		"PanelBlack1"
 
 		"pin_to_sibling"		"TeamScoreRed"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -232,7 +232,7 @@
 		"textAlignment"			"west"
 		"visible"				"1"
 		"auto_wide_tocontents"	"1"
-		"fgcolor_override"		"TransparentBlack"
+		"fgcolor_override"		"PanelBlack1"
 
 		"pin_to_sibling"		"TeamNameRed"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

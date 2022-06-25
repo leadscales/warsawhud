@@ -30,7 +30,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"TransparentBlack"
+		"fillcolor"		"PanelBlack1"
 
 		"player-dead" {
 			//"visible"	"0"
@@ -192,7 +192,7 @@
         "dulltext"		"0"
         "brighttext"	"0"
         "font"			"Font14"
-		"fgcolor_override"	"TransparentBlack"
+		"fgcolor_override"	"PanelBlack1"
 
 		"pin_to_sibling" 		"MedigunPanelChargeLabel"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"
@@ -300,7 +300,7 @@
 		"brighttext"	"0"
 		"textinsetx"	"6"
 		"font"			"HudFontSmall"
-		"fgcolor_override"		"TransparentBlack"
+		"fgcolor_override"		"PanelBlack1"
 		"proportionaltoparent"	"1"
 
 		"pin_to_sibling" 		"MedigunPanelNameLabel"
