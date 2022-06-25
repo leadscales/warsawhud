@@ -15,6 +15,21 @@
 		"tabPosition"	"0"
 	}
 
+	"MainBG"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"MainBG"
+		"xpos"				"0"
+		"ypos"				"0"
+		"wide"				"f0"
+		"tall"				"f0"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"fillcolor"			"PanelBlack3"
+	}
+
 	"SidePanelBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -84,8 +99,8 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5"
 		"zpos"			"1"
-		"wide"			"100"
-		"tall"			"100"
+		"wide"			"60"
+		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -120,7 +135,7 @@
 		"xpos"			"0"
 		"ypos"			"2"
 		"zpos"			"1"
-		"wide"			"100"
+		"wide"			"60"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"2"
