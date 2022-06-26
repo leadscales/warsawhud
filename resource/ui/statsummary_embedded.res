@@ -37,7 +37,7 @@
 		"zpos"				"-4"
 		"wide"				"f0"
 		"tall"				"f0"
-		"bgcolor_override"	"PanelBlack2"
+		"bgcolor_override"	"PanelBlack3"
 		"visible"			"1"
 	}
 

@@ -124,7 +124,7 @@
 		"zpos"				"-4"
 		"wide"				"f0"
 		"tall"				"f0"
-		"fillcolor"			"PanelBlack2"
+		"fillcolor"			"PanelBlack3"
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"

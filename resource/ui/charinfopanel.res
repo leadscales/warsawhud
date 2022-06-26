@@ -59,7 +59,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"0 0 0 96"
+		"bgcolor_override"	"0 0 0 0"
 	}
 
 	"FooterLine"
@@ -119,6 +119,22 @@
 			"selectedBgColor_override"	"10 10 10 0"
 		}
 	}
+
+	"TopCover"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"TopCover"
+		"xpos"				"0"
+		"ypos"				"25"
+		"zpos"				"-2"
+		"wide"				"f0"
+		"tall"				"15"
+		"visible"			"1"
+		"enabled"			"1"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"		"PanelBlack2"
+	}
+
 
 	"BackButton"
 	{
