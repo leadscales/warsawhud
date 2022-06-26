@@ -269,7 +269,7 @@
 				"visible"			"1"
 				"labelText"			"%chargeamount%"
 				"textAlignment"		"east"
-				"fgcolor"			"0 255 255 255"
+				"fgcolor"			"ColorWhite"
 			}
 		}
 	}

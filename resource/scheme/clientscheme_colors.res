@@ -32,10 +32,10 @@ Scheme
 		"PartyMember6"							"255 0 160 255"
 
 		"White"									"255 255 255 255"
-		"Red"									"255 0 0 150"
-		"RedSolid"								"255 0 0 255"
-		"Blue"									"0 255 255 150"
-		"BlueSolid"								"0 255 255 255"
+		"Red"									"255 64 64 150"
+		"RedSolid"								"255 64 64 255"
+		"Blue"									"64 160 255 150"
+		"BlueSolid"								"64 160 255 255"
 		"Yellow"								"255 255 255 255"
 		"TransparentYellow"						"255 255 255 140"
 		"BrightYellow"							"255 192 0 255"
@@ -47,11 +47,11 @@ Scheme
 		"TransparentLightBlack"					"0 0 0 90"
 		"FooterBGBlack"							"48 48 48 255"
 
-		"HUDBlueTeam"							"0 255 255 127"
-		"HUDRedTeam"							"255 0 0 127"
+		"HUDBlueTeam"							"64 160 255 127"
+		"HUDRedTeam"							"255 64 64 127"
 		"HUDSpectator"							"128 128 128 127"
-		"HUDBlueTeamSolid"						"0 255 255 255"
-		"HUDRedTeamSolid"						"255 0 0 255"
+		"HUDBlueTeamSolid"						"64 160 255 255"
+		"HUDRedTeamSolid"						"255 64 64 255"
 		"HUDDeathWarning"						"255 80 0 255"
 		"HudWhite"								"255 255 255 255"
 		"HudOffWhite"							"192 192 192 255"
@@ -99,8 +99,8 @@ Scheme
 
 		"BuildMenuActive"						"255 255 255 255"
 
-		"DisguiseMenuIconRed"					"255 0 0 255"
-		"DisguiseMenuIconBlue"					"0 255 255 255"
+		"DisguiseMenuIconRed"					"255 64 64 255"
+		"DisguiseMenuIconBlue"					"64 160 255 255"
 
 		"ProgressOffWhiteTransparent"			"192 192 192 128"
  		"MatchmakingDialogTitleColor"			"255 255 255 255"
