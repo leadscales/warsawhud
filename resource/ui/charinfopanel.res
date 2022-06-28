@@ -87,7 +87,7 @@
 		"tabheight"			"15"
 		"tabfittotext"		"1"
 		"transition_time" 	"0"
-		"yoffset"			"25"
+		"yoffset"			"20"
 
 		"HeaderLine"
 		{
@@ -125,10 +125,10 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"TopCover"
 		"xpos"				"0"
-		"ypos"				"25"
+		"ypos"				"20"
 		"zpos"				"-2"
 		"wide"				"f0"
-		"tall"				"15"
+		"tall"				"20"
 		"visible"			"1"
 		"enabled"			"1"
 		"PaintBackgroundType"	"0"
