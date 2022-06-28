@@ -8,8 +8,8 @@ Scheme
 		//---------------------------------------------
 		"Orange"								"0 176 255 255"
 		"OrangeDim"								"0 176 255 255"
-		"LightOrange"							"188 112 0 128"
-		"GoalOrange"							"255 133 0 255"
+		"LightOrange"							"0 176 255 128"
+		"GoalOrange"							"0 176 255 255"
 		"TFOrange"								"0 176 255 255"
 		"Purple"								"137 69 99 255"
 
@@ -43,8 +43,8 @@ Scheme
 
 		"Black"									"32 32 32 255"
 		"Transparent"							"0 0 0 0"
-		"TransparentBlack"						"0 0 0 230"
-		"TransparentLightBlack"					"0 0 0 90"
+		"TransparentBlack"						"0 0 0 208"
+		"TransparentLightBlack"					"0 0 0 128"
 		"FooterBGBlack"							"48 48 48 255"
 
 		"HUDBlueTeam"							"64 160 255 127"

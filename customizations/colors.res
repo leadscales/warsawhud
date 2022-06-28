@@ -80,8 +80,8 @@ Scheme
 		"PanelDark"					"12 12 12 255"
 		"PanelDarkest"				"8 8 8 255"
 		"PanelBlack1"				"0 0 0 224" 		// Title bar
-		"PanelBlack2"				"0 0 0 192"			// Important element or cat.
-		"PanelBlack3"				"0 0 0 160" 		// Information
+		"PanelBlack2"				"0 0 0 208"			// Important element or cat.
+		"PanelBlack3"				"0 0 0 192" 		// Information
 		"PanelBlack4"				"0 0 0 128" 		// Background if applicable
 		"PanelWhite1"				"255 255 255 192"
 		"PanelWhite2"				"255 255 255 160"
