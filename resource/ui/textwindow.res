@@ -12,7 +12,9 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"Blank"
+		"tabPosition"		"0"
+		"settitlebarvisible"	"0"
+		"paintbackground"	"0"
 	}
 
 	"MainBG"
@@ -176,7 +178,7 @@
 		"tall"				"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"labelText"			"&E"
+		"labelText"			"&D"
 		"command"			"okay"
 	}
 }

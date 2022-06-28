@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		"autoResize"	"0"
+		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"Blank"
+		"paintbackground"	"0"
 	}
 
 	"MainBG"
@@ -25,8 +25,8 @@
 		"tall"			"f0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"PanelBlack3"
 	}
 
@@ -223,7 +223,7 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"&E"
+		"labelText"		"&D"
 		"command"		"continue"
 	}
 
@@ -235,7 +235,7 @@
 		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"&Q"
+		"labelText"		"&A"
 		"command"		"back"
 	}
 }

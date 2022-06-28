@@ -13,6 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
+		"paintbackground"	"0"
 	}
 
 	"SidePanelBG"
@@ -255,7 +256,7 @@
 
 	"heavyweapons"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"		"CExImageButton"
 		"fieldName"			"heavyweapons"
 		"xpos"				"2"
 		"ypos"				"0"
@@ -298,7 +299,7 @@
 
 	"engineer"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"		"CExImageButton"
 		"fieldName"			"engineer"
 		"xpos"				"2"
 		"ypos"				"0"
@@ -467,7 +468,6 @@
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}
-
 	// I believe Valve hardcoded part of this control for some reason.
 	// Using the same control with a different name fixes it.
 	"random"

@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"bgcolor_override"	"Blank"
+		"paintbackground"	"0"
 	}
 
 	"MainBG"
@@ -243,17 +243,17 @@
 
 	"MenuBG"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"MenuBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"0"
-		"tall"			"0"
+		"wide"			"f0"
+		"tall"			"480"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"fillcolor"		"255 255 255 7"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"PanelBlack4"
 	}
 
 	"BlueCount"
