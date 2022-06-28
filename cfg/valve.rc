@@ -22,6 +22,10 @@ sv_unlockedchapters 99
 vgui_cache_res_files 0
 tf_contract_progress_show 2
 tf_hud_target_id_show_avatars 0
+cl_disablehtmlmotd 1
+
+// Disable dashboard dimmer
+wait 5; showconsole; wait 5; mat_aaquality 2; hideconsole; wait 5; mat_aaquality 0;
 
 // Aliases
 alias "warsaw_xhair_red" "cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 96"

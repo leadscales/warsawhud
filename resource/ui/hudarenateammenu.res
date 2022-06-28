@@ -167,6 +167,24 @@
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 	}
 
+	"teambutton2SC"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"teambutton2SC"
+		"xpos"			"9999"
+		"command"		"jointeam spectate"
+		"labelText"		"&w"
+	}
+
+	"teambutton3SC"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"teambutton3SC"
+		"xpos"			"9999"
+		"command"		"jointeam spectatearena"
+		"labelText"		"&s"
+	}
+
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"

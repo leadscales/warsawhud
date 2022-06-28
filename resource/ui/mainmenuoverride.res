@@ -20,6 +20,12 @@
 		"scaleImage"		"1"
 	}
 
+	"DashboardDimmer"
+	{
+		"wide"			"0"
+		"tall"			"0"
+	}
+
 	"Notifications_Panel"
 	{
 		"ControlName"	"EditablePanel"
