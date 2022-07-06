@@ -16,8 +16,7 @@
 			"labeltext"		"*"
 			"font"			"SmallIcons"
 			"textalignment"	"center"
-			// VVV Replace with a connection string, such as "engine connect 127.0.0.1:27015" VVV
-			"command"		"engine showconsole; clear; echo Go to customizations/servers.res to add a favorite server. Instructions are inside the file." 
+			"command"		"engine server1" 
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -47,8 +46,7 @@
 			"labeltext"		"*"
 			"font"			"SmallIcons"
 			"textalignment"	"center"
-			// VVV Replace with a connection string, such as "engine connect 127.0.0.1:27015" VVV
-			"command"		"engine showconsole; clear; echo Go to customizations/servers.res to add a favorite server. Instructions are inside the file." 
+			"command"		"engine server2" 
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -78,8 +76,7 @@
 			"labeltext"		"*"
 			"font"			"SmallIcons"
 			"textalignment"	"center"
-			// VVV Replace with a connection string, such as "engine connect 127.0.0.1:27015" VVV
-			"command"		"engine showconsole; clear; echo Go to customizations/servers.res to add a favorite server. Instructions are inside the file." 
+			"command"		"engine server3" 
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

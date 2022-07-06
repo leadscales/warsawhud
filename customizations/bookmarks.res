@@ -13,12 +13,10 @@
 			"tall"			"20"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			// VVV Replace with what you want the button to say VVV
 			"labeltext"		"B"
 			"font"			"SmallIcons"
 			"textalignment"	"center"
-			// VVV Replace with a command, such as "engine map pl_badwater; sv_cheats 1" VVV
-			"command"		"engine showconsole; clear; echo Go to customizations/bookmarks.res to add a custom command. Instructions are inside the file." 
+			"command"		"engine bookmark1" 
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -45,12 +43,10 @@
 			"tall"			"20"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			// VVV Replace with what you want the button to say VVV
 			"labeltext"		"B"
 			"font"			"SmallIcons"
 			"textalignment"	"center"
-			// VVV Replace with a command, such as "engine map pl_badwater; sv_cheats 1" VVV
-			"command"		"engine showconsole; clear; echo Go to customizations/bookmarks.res to add a custom command. Instructions are inside the file." 
+			"command"		"engine bookmark2" 
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -77,12 +73,10 @@
 			"tall"			"20"
 			"proportionaltoparent"	"1"
 			"visible"		"1"
-			// VVV Replace with what you want the button to say VVV
 			"labeltext"		"B"
 			"font"			"SmallIcons"
 			"textalignment"	"center"
-			// VVV Replace with a command, such as "engine map pl_badwater; sv_cheats 1" VVV
-			"command"		"engine showconsole; clear; echo Go to customizations/bookmarks.res to add a custom command. Instructions are inside the file." 
+			"command"		"engine bookmark3" 
 			"actionsignallevel"	"2"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

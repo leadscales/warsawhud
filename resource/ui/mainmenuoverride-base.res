@@ -296,7 +296,7 @@
 			"tall"						"20"
 			"proportionaltoparent"		"1"
 			"visible"					"1"
-			"labeltext"					"BETA - 0.9.3 - JUL 6 2022"
+			"labeltext"					"BETA - 0.9.4 - JUL 6 2022"
 			"font"						"Font10"
 			"textalignment"				"center"
 			"actionsignallevel"			"2"

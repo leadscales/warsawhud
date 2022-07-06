@@ -52,3 +52,8 @@ alias "warsaw_info" "clear; showconsole; echo WARSAWHUD by Lead/p3tr1ch0r; echo 
 alias "warsaw_beta_warning" "clear; showconsole; echo WARSAWHUD is in BETA!; echo Things are and will be broken!; echo Report any and all bugs found on the github repo issue page.; echo A link to it can be found on the main menu.;"
 
 alias "fix_issues" "hud_reloadscheme; snd_restart; stop; record fix; stop;" 
+
+// Bookmarks and servers
+
+exec bookmarks.cfg
+exec fav_servers.cfg
