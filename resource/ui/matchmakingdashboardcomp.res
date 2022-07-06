@@ -6,10 +6,10 @@
 	{
 		"fieldName"				"CompStats"
 		"xpos"					"r0"
-		"ypos"					"25"
+		"ypos"					"40"
 		"zpos"					"1002"
 		"wide"					"270"
-		"tall"					"f85"
+		"tall"					"f60"
 		"visible"				"1"
 		"proportionaltoparent"	"1"
 	}
@@ -22,7 +22,7 @@
 		"ypos"					"0"
 		"zpos"					"99"
 		"wide"					"f0"
-		"tall"					"30"
+		"tall"					"20"
 		"proportionaltoparent"	"1"
 		"labeltext"				"#TF_Matchmaking_HeaderCompetitive"
 		"textAlignment"			"center"

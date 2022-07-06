@@ -6,23 +6,24 @@
 	{
 		"fieldName"				"ExpandableList"
 		"xpos"					"r0"
-		"ypos"					"r60"
-		"zpos"					"2001"
-		"wide"					"f0"
-		"tall"					"f0"
+		"ypos"					"0"
+		"zpos"					"10002"
+		"wide"					"853"
+		"tall"					"20"
 		"visible"				"1"
 		"proportionaltoparent"	"1"
+		"mouseinputenabled"		"1"
 	}
 
 	"Title"
 	{
 		"ControlName"			"Label"
 		"fieldName"				"Title"
-		"xpos"					"10"
-		"ypos"					"12"
+		"xpos"					"9999"
+		"ypos"					"9999"
 		"zpos"					"99"
-		"wide"					"150"
-		"tall"					"40"
+		"wide"					"0"
+		"tall"					"0"
 		"proportionaltoparent"	"1"
 		"labeltext"				"#TF_Matchmaking_HeaderModeSelect"
 		"textAlignment"			"west"
@@ -40,7 +41,7 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"100"
-		"wide"					"f0"
+		"wide"					"853"
 		"tall"					"f0"
 		"visible"				"1"
 		"proportionaltoparent"	"1"
@@ -53,12 +54,47 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"1000"
-		"wide"					"f0"
-		"tall"					"f0"
+		"wide"					"0"
+		"tall"					"0"
 		"visible"				"0"
 		"PaintBackgroundType"	"2"
 		"border"				"InnerShadowBorder"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
+	}
+
+	"BGPanel"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+		"mouseinputenabled"	"0"
+	}
+
+	"CloseButton"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"CloseButton"
+		"xpos"			"rs1"
+		"labelText"		"x"
+		"ypos"			"0"
+		"zpos"			"10000"
+		"wide"			"20"
+		"tall"			"f0"
+		"visible"		"1"
+		"proportionaltoparent"	"1"
+		"command"		"nav_close"
+		"textAlignment"	"center"
+		"font"			"SmallIcons"
+
+		"defaultBgColor_override"	"Blank"
+		"armedBgColor_override"		"ColorNegative"
+		"defaultFgColor_override"	"ColorWhite"
+		"armedFgColor_override"		"ColorBlack"
+
+		if_left
+		{
+			"xpos"		"0"
+			"labelText"	"<"
+		}
 	}
 }

@@ -8,7 +8,7 @@
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
-		"tall"			"p1"
+		"tall"			"f0"
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"proportionaltoparent"	"1"
@@ -75,7 +75,8 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"169 123 53 255"
+			"image_armedcolor"	"AccentMain"
+			"paintbackground"	"0"
 
 			"SubImage"
 			{
@@ -118,8 +119,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
-			"image_drawcolor"	"ColorWhite"
-			"image_armedcolor"	"169 123 53 255"
+			"image_armedcolor"	"AccentMain"
+			"paintbackground"	"0"
 
 			"SubImage"
 			{
@@ -228,7 +229,7 @@
 			"xpos"			"cs-0.5"
 			"ypos"			"35"
 			"wide"			"f0"
-			"tall"			"f50"
+			"tall"			"f45"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"

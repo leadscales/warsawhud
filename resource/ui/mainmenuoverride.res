@@ -31,7 +31,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_Panel"
 		"xpos"			"171"
-		"ypos"			"92"
+		"ypos"			"82"
 		"zpos"			"100"
 		"wide"			"190"
 		"tall"			"80"

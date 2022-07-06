@@ -41,7 +41,7 @@
 			"mouseinputenabled"	"0"
 		
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"0 0 0 255"
+			"bgcolor_override"	"PanelMain"
 		}
 
 		"BGImage"
@@ -138,6 +138,7 @@
 			"proportionaltoparent"	"1"
 			"labeltext"		""
 			"smallcheckimage"	"1"
+			"bgcolor_override"	"Blank"
 
 			"sound_depressed"	"UI/buttonclickrelease.wav"	
 			"button_activation_type"	"1"
@@ -250,7 +251,7 @@
 		"zpos"			"1"
 		"wide"			"p1.5"
 		"tall"			"1000"
-		"visible"		"1"
+		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"InnerShadowBorder"
 		"proportionaltoparent"	"1"
@@ -270,7 +271,7 @@
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
 
-		"border"		"InnerShadowBorder"
+		"border"		"NoBorder"
 
 		"pinCorner"		"2"
 		"autoResize"	"1"

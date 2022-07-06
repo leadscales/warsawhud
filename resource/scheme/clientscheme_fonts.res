@@ -117,6 +117,16 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"Font9"
+		{
+			"1"
+			{
+				"name"			"Neusa"
+				"tall"			"9"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		"Font8"
 		{
 			"1"

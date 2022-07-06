@@ -189,7 +189,7 @@
 			"brighttext"		"0"
 			"default"			"0"
 			"actionsignallevel"	"2"
-			"Command"			"engine clear; showconsole; echo WARSAWHUD by Lead/p3tr1ch0r; echo Based off of rayshud by raysfire"
+			"Command"			"engine warsaw_info"
 			"paintbackground"	"1"
 			"proportionaltoparent"	"1"
 

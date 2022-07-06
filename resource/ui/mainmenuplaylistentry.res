@@ -44,7 +44,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"PanelBlack1"
+		"bgcolor_override"	"PanelBlack2"
 	}
 
 	"ToolTipHack"
@@ -75,7 +75,7 @@
 		"enabled"		"1"
 		"labelText"		"%button_token%"
 		"use_proportional_insets" "1"
-		"font"			"Font14"
+		"font"			"Font12"
 		"allcaps"		"1"
 		"textAlignment"	"center"
 		"dulltext"		"0"
