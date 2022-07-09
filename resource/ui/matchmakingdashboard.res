@@ -6,14 +6,23 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"-10"
 		"zpos"					"10001"
 		"wide"					"f0"
 		"tall"					"20"
 		"keyboardinputenabled"	"0"
-		"collapsed_height"		"0"
-		"expanded_height"		"20"
+		"collapsed_height"		"30"
+		"expanded_height"		"30"
 		"resize_time"			"0.0"
+		// I had to jump through so many goddamn hoops for the invite notification
+		// to be aligned with the rest of the dashboard. I'm assuming that it includes
+		// the match join notification too.
+
+		// For a dashboard size of 20, you need to offset it by 10 units to get it to line up with the rest of the dashboard.
+		// I'm assuming for all dashboard sizes its placed 10 units inward from the bottom of the dashboard.
+		// There is no ypos control for the invite notification, its directly controlled by the dashboard.
+		// I hope whoever made vgui steps on 20 thumbtacks
+
 	}
 
 	"TopBar"
@@ -352,7 +361,7 @@
 			{
 				"ControlName" 	"CExLabel"
 				"fieldName"		"QueueText2"
-				"xpos"			"148"
+				"xpos"			"132"
 				"ypos"			"2"
 				"zpos"			"1000"
 				"wide"			"195"
@@ -373,7 +382,7 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"MultiQueuesManageButton"
-				"xpos"			"130"
+				"xpos"			"327"
 				"ypos"			"2"
 				"zpos"			"10"
 				"wide"			"16"
@@ -411,7 +420,7 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"CloseButton"
-				"xpos"			"130"
+				"xpos"			"327"
 				"ypos"			"2"
 				"zpos"			"1000"
 				"wide"			"16"
@@ -451,10 +460,10 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"JoinPartyLobbyContainer"
-			"xpos"			"cs-0.5"
+			"xpos"			"130"
 			"ypos"			"-50"
 			"zpos"			"110"
-			"wide"			"220"
+			"wide"			"213"
 			"tall"			"f0"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
@@ -466,40 +475,40 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"-1"
-				"wide"			"f0"
-				"tall"			"f0"
-				"visible"		"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
 				"proportionaltoparent"	"1"
-				"border"		"OuterShadowBorderThin"
+				"border"		"NoBorder"
 			}
 
 			"BGPanel"
 			{
 				"ControlName"	"Panel"
 				"fieldName"		"BGPanel"
-				"xpos"			"cs-0.5"
+				"xpos"			"0"
 				"ypos"			"cs-0.5"
 				"zpos"			"0"
-				"wide"			"f6"
-				"tall"			"f6"
+				"wide"			"213"
+				"tall"			"f4"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
-				"border"		"ReplayDefaultBorder"
-				"bgcolor_override"	"PanelMain"
+				"border"		"NoBorder"
+				"bgcolor_override"	"Blank"
 			}
 
 			"PromptText"
 			{
 				"ControlName"	"Label"
 				"fieldName"		"PromptText"
-				"xpos"			"cs-0.5"
-				"ypos"			"1"
-				"wide"			"f35"
+				"xpos"			"2"
+				"ypos"			"2"
+				"wide"			"195"
 				"zpos"			"100"
-				"tall"			"f0"
+				"tall"			"16"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontSmallestBold"
+				"font"			"Font12"
 				"fgcolor_override"	"ColorWhite"
 				"textAlignment"	"west"
 				"labelText"		"#TF_MM_JoinPartyLobby_Prompt"
@@ -511,16 +520,16 @@
 			{
 				"ControlName"	"CExButton"
 				"fieldName"		"JoinNowButton"
-				"xpos"			"rs1-10"
-				"ypos"			"rs1-9"
-				"wide"			"40"
+				"xpos"			"rs1"
+				"ypos"			"2"
+				"wide"			"16"
 				"zpos"			"100"
-				"tall"			"15"
+				"tall"			"16"
 
 				if_queued
 				{
-					"xpos"			"cs-0.5"
-					"wide"			"150"
+					"xpos"			"rs1"
+					"wide"			"16"
 				}
 
 				"autoResize"	"0"
@@ -528,19 +537,23 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"HudFontSmallestBold"
+				"font"			"SmallIcons"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"join_party_match"
 				"proportionaltoparent"	"1"
-				"labeltext"		"#TF_MM_JoinPartyLobby_Join"
+				"labeltext"		"V"
 				"mouseinputenabled"	"1"
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"3"
 
+				"defaultBgColor_override"	"ColorPositiveTransparent"
 				"armedBgColor_override"		"ColorPositive"
-				"defaultBgColor_override"	"ColorPositive"
+				"defaultFgColor_override"	"ColorPositive"
+				"armedFgColor_override"		"ColorBlack"
+
+				"fgcolor"					"ColorPositive"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
