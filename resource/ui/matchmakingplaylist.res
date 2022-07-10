@@ -12,6 +12,8 @@
 		"button_command"		"play_event"
 	}
 
+	// ============================================================================================ 
+
 	// Order from right to left
 	// Casual, 
 	// Community, 
@@ -26,8 +28,8 @@
 	{
 		"ControlName"			"CPlayListEntry"
 		"fieldName"				"CasualEntry"
-		"xpos"					"rs1-22"
-		"ypos"					"2"
+		"xpos"					"2"
+		"ypos"					"0"
 		"tall"					"16"
 		"wide"					"120"
 		"proportionaltoparent"	"0"
@@ -36,6 +38,10 @@
 		"button_command"		"play_casual"
 		"desc_token"			"#MMenu_PlayList_Casual_Desc"
 		"matchgroup"			"7" // k_eTFMatchGroup_Casual_12v12
+
+		"pin_to_sibling"		"ServerBrowserEntry"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"ServerBrowserEntry"
@@ -52,9 +58,9 @@
 		"button_command"		"play_community"
 		"desc_token"			"#MMenu_PlayList_ServerBrowser_Desc"
 
-		"pin_to_sibling"		"CasualEntry"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling"		"MvMEntry"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"MvMEntry"
@@ -72,17 +78,17 @@
 		"desc_token"			"#MMenu_PlayList_MvM_Desc"
 		"matchgroup"			"1" // k_eTFMatchGroup_MvM_MannUp
 		
-		"pin_to_sibling"		"ServerBrowserEntry"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling"		"CompetitiveEntry"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"CompetitiveEntry"
 	{
 		"ControlName"			"CPlayListEntry"
 		"fieldName"				"CompetitiveEntry"
-		"xpos"					"2"
-		"ypos"					"0"
+		"xpos"					"0"
+		"ypos"					"2"
 		"tall"					"16"
 		"wide"					"120"
 		"proportionaltoparent"	"0"
@@ -91,11 +97,9 @@
 		"button_command"		"play_competitive"
 		"desc_token"			"#MMenu_PlayList_Competitive_Desc"
 		"matchgroup"			"2" // k_eTFMatchGroup_Ladder_6v6
-		
-		"pin_to_sibling"		"MvMEntry"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
+
+	// ============================================================================================ 
 
 	"TrainingEntry"
 	{
@@ -113,8 +117,8 @@
 		"desc_token"			"#MMenu_PlayList_Training_Desc"
 
 		"pin_to_sibling"		"CompetitiveEntry"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"CreateServerEntry"

@@ -1,3 +1,5 @@
+#base "../../customizations/branding.res"
+
 "Resource/UI/CharInfoPanel.res"
 {
 	"character_info"
@@ -84,7 +86,7 @@
 		"tabxindent"		"10"
 		"tabxdelta"			"5"
 		"tabwidth"			"240"
-		"tabheight"			"15"
+		"tabheight"			"20"
 		"tabfittotext"		"1"
 		"transition_time" 	"0"
 		"yoffset"			"20"
@@ -107,7 +109,8 @@
 		"tabskv"
 		{
 			"textinsetx"				"2"
-			"textinsety"				"0"
+			"textinsety"				"-3"
+			"use_proportional_insets"	"1"
 			"font"						"Font12"
 			"selectedcolor"				"AccentMain"
 			"unselectedcolor"			"ColorWhiteTransparent128"

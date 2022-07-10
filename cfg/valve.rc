@@ -28,28 +28,24 @@ cl_disablehtmlmotd 1
 wait 120; showconsole; wait 5; mat_aaquality 2; hideconsole; wait 5; mat_aaquality 0;
 
 // Aliases
-alias "warsaw_xhair_red" "cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 96"
+alias "warsaw_xhair_red" "cl_crosshair_red 255; cl_crosshair_green 64; cl_crosshair_blue 0"
 alias "warsaw_xhair_orange" "cl_crosshair_red 255; cl_crosshair_green 96; cl_crosshair_blue 0"
-alias "warsaw_xhair_yellow" "cl_crosshair_red 255; cl_crosshair_green 160; cl_crosshair_blue 0"
-alias "warsaw_xhair_green" "cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 128"
-alias "warsaw_xhair_cyan" "cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 224"
-alias "warsaw_xhair_blue" "cl_crosshair_red 0; cl_crosshair_green 160; cl_crosshair_blue 255"
-alias "warsaw_xhair_purple" "cl_crosshair_red 160; cl_crosshair_green 0; cl_crosshair_blue 255"
+alias "warsaw_xhair_yellow" "cl_crosshair_red 255; cl_crosshair_green 192; cl_crosshair_blue 0"
+alias "warsaw_xhair_green" "cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 176"
+alias "warsaw_xhair_blue" "cl_crosshair_red 0; cl_crosshair_green 192; cl_crosshair_blue 255"
 alias "warsaw_xhair_magenta" "cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 160"
 alias "warsaw_xhair_white" "cl_crosshair_red 255; cl_crosshair_green 255; cl_crosshair_blue 255"
 
-alias "warsaw_dmg_red" "hud_combattext_red 255; hud_combattext_green 0; hud_combattext_blue 96"
+alias "warsaw_dmg_red" "hud_combattext_red 255; hud_combattext_green 64; hud_combattext_blue 0"
 alias "warsaw_dmg_orange" "hud_combattext_red 255; hud_combattext_green 96; hud_combattext_blue 0"
-alias "warsaw_dmg_yellow" "hud_combattext_red 255; hud_combattext_green 160; hud_combattext_blue 0"
-alias "warsaw_dmg_green" "hud_combattext_red 0; hud_combattext_green 255; hud_combattext_blue 128"
-alias "warsaw_dmg_cyan" "hud_combattext_red 0; hud_combattext_green 255; hud_combattext_blue 224"
-alias "warsaw_dmg_blue" "hud_combattext_red 0; hud_combattext_green 160; hud_combattext_blue 255"
-alias "warsaw_dmg_purple" "hud_combattext_red 160; hud_combattext_green 0; hud_combattext_blue 255"
+alias "warsaw_dmg_yellow" "hud_combattext_red 255; hud_combattext_green 192; hud_combattext_blue 0"
+alias "warsaw_dmg_green" "hud_combattext_red 0; hud_combattext_green 255; hud_combattext_blue 176"
+alias "warsaw_dmg_blue" "hud_combattext_red 0; hud_combattext_green 192; hud_combattext_blue 255"
 alias "warsaw_dmg_magenta" "hud_combattext_red 255; hud_combattext_green 0; hud_combattext_blue 160"
 alias "warsaw_dmg_white" "hud_combattext_red 255; hud_combattext_green 255; hud_combattext_blue 255"
 
 alias "warsaw_info" "clear; showconsole; echo WARSAWHUD by Lead/p3tr1ch0r; echo Based off of rayshud by raysfire"
-alias "warsaw_beta_warning" "clear; showconsole; echo WARSAWHUD is in BETA!; echo Things are and will be broken!; echo Report any and all bugs found on the github repo issue page.; echo A link to it can be found on the main menu.;"
+alias "warsaw_beta_warning" "clear; showconsole; echo WARSAWHUD is in BETA!; echo Things are and will be broken!; echo Report any and all bugs found on the github repo issue page.; echo A link to it can be found on the items menu.;"
 
 alias "fix_issues" "hud_reloadscheme; snd_restart; stop; record fix; stop;" 
 

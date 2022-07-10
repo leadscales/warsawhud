@@ -238,108 +238,6 @@
 		"command"		"engine play vo/heavy_battlecry02.mp3"
 	}
 
-	"VersionInfoContainer"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"VersionInfoContainer"
-		"xpos"			"-5"
-		"ypos"			"5"
-		"zpos"			"0"
-		"wide"			"120"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"PanelBlack3"
-		"mouseinputenabled"	"1"
-
-		"pin_to_sibling"	"SecondaryButtonsPanel"
-		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
-
-		"BetaIcon"
-		{
-			"ControlName"				"CExButton"
-			"fieldname"					"BetaIcon"
-			"xpos"						"0"
-			"ypos"						"0"
-			"zpos"						"2"
-			"wide"						"20"
-			"tall"						"20"
-			"proportionaltoparent"		"1"
-			"visible"					"1"
-			"labeltext"					"!"
-			"font"						"SmallerIcons"
-			"textalignment"				"center"
-			"actionsignallevel"			"2"
-
-			"sound_depressed"			"UI/buttonclick.wav"
-			"sound_released"			"UI/buttonclickrelease.wav"
-
-			"command"					"engine warsaw_beta_warning"
-
-			"defaultBgColor_override"	"ColorNegativeTransparent"
-			"armedBgColor_override"		"ColorNegative"
-			"defaultFgColor_override"	"ColorNegative"
-			"armedFgColor_override"		"ColorBlack"
-		}
-
-		"BetaWarning"
-		{
-			"ControlName"				"CExButton"
-			"fieldname"					"BetaWarning"
-			"xpos"						"0"
-			"ypos"						"0"
-			"zpos"						"2"
-			"wide"						"f20"
-			"tall"						"20"
-			"proportionaltoparent"		"1"
-			"visible"					"1"
-			"labeltext"					"BETA - 0.9.4 - JUL 6 2022"
-			"font"						"Font10"
-			"textalignment"				"center"
-			"actionsignallevel"			"2"
-
-			"sound_depressed"			"UI/buttonclick.wav"
-			"sound_released"			"UI/buttonclickrelease.wav"
-
-			"command"					"engine warsaw_beta_warning"
-			
-			"defaultBgColor_override"	"Blank"
-			"armedBgColor_override"		"Blank"
-			"defaultFgColor_override"	"ColorNegative"
-			"armedFgColor_override"		"ColorNegative"
-
-			"pin_to_sibling"			"BetaIcon"
-			"pin_corner_to_sibling"		"PIN_TOPLEFT"
-			"pin_to_sibling_corner"		"PIN_TOPRIGHT"
-		}
-	}
-
-	"GithubLink"
-	{
-		"ControlName"		"URLLabel"
-		"fieldName"			"GithubLink"
-		"xpos"				"0"
-		"ypos"				"2"
-		"zpos"				"0"
-		"wide"				"120"
-		"tall"				"20"
-		"autoResize"		"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"labelText"			"GITHUB"
-		"font"				"Font10"
-		"textAlignment"		"center"
-		"urltext"			"https://github.com/p3tr1ch0r/warsawhud"
-		"bgcolor_override"	"PanelBlack3"
-		
-		"pin_to_sibling"	"VersionInfoContainer"
-		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
-	}
-
 	"RankModelPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
@@ -391,8 +289,8 @@
 		"depressedBgColor_override"	"Blank"
 
 		"pin_to_sibling"		"RankPanel"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"RankTooltipPanel"
@@ -419,7 +317,7 @@
 		"xpos"			"-5"
 		"ypos"			"5"
 		"zpos"			"0"
-		"wide"			"164"
+		"wide"			"160"
 		"tall"			"35"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
@@ -430,8 +328,8 @@
 		"bgcolor_override"	"Blank"
 
 		"pin_to_sibling"	"MainButtonsPanel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
 	}
 
 	"NoGCMessage"
@@ -547,7 +445,7 @@
 		"xpos"			"0"
 		"ypos"			"2"
 		"zpos"			"5"
-		"wide"			"164"
+		"wide"			"160"
 		"tall"			"373"
 		"visible"		"1"
 		"border"		"NoBorder"
@@ -577,7 +475,7 @@
 
 			"friendpanel_kv"
 			{
-				"wide"			"154"
+				"wide"			"150"
 				"tall"			"20"
 			}
 

@@ -8,7 +8,7 @@
 		"xpos"					"r0"
 		"ypos"					"0"
 		"zpos"					"10002"
-		"wide"					"853"
+		"wide"					"508"
 		"tall"					"20"
 		"visible"				"1"
 		"proportionaltoparent"	"1"
@@ -41,11 +41,11 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"100"
-		"wide"					"853"
-		"tall"					"f0"
+		"wide"					"486"
+		"tall"					"20"
 		"visible"				"1"
 		"proportionaltoparent"	"1"
-	}
+		}
 
 	"PlayListDropShadow"
 	{
