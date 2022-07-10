@@ -32,7 +32,12 @@ Scheme
 		"UberBar"					"255 255 255 255"		// Uber bar color
 		"UberBarCharged1"			"0 255 176 255"			// Uber bar charged color 1 (alternates between this and UberBarCharged2)
 		"UberBarCharged2"			"0 255 176 255"			// Uber bar charged color 2 (alternates between this and UberBarCharged1)
-
+		// ETC 
+		"ColorPipboy"				"0 255 64 255"			// Pipboy color
+		"ColorPipboyBackground1"	"0 128 32 224"			
+		"ColorPipboyBackground2"	"0 128 32 208"
+		"ColorPipboyBackground3"	"0 128 32 192"
+		"ColorPipboyBackground4"	"0 128 32 128"
 		// VVV --- YOU PROBABLY SHOULDN'T EDIT THESE --- VVV
 
 		// HUD COLORS

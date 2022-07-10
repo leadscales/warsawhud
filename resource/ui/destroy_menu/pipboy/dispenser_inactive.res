@@ -5,5 +5,10 @@
 	"ItemNameLabel"
 	{
 		"labelText"			"#TF_Object_Dispenser"
+		"bgcolor_override"	"ColorNegativeTransparent"
+	}
+	"NotBuiltLabel"
+	{
+		"bgcolor_override"	"ColorNegativeTransparent"
 	}
 }

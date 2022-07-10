@@ -5,5 +5,10 @@
 	"ItemNameLabel"
 	{
 		"labelText"			"#TF_Object_Tele_Exit_360"
+		"bgcolor_override"	"ColorNegativeTransparent"
+	}
+	"NotBuiltLabel"
+	{
+		"bgcolor_override"	"ColorNegativeTransparent"
 	}
 }

@@ -11,7 +11,7 @@
 		"zpos"				"0"
 		"wide"				"200"
 		"tall"				"120"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"image"				"pipboy_overlay"
@@ -26,7 +26,8 @@
 
 	"TitleLabel"
 	{
-		"fgcolor"			"ColorPositive"
+		"fgcolor"			"ColorPipboy"
+		"bgcolor_override"	"ColorPipboyBackground1"
 	}
 
 	"CancelLabel"

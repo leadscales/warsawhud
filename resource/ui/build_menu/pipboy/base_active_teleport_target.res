@@ -4,16 +4,18 @@
 {
 	"ItemNameLabel"
 	{
-		"fgcolor"			"ColorPositive"
+		"fgcolor"			"ColorPipboy"
+		"bgcolor_override"	"ColorPipboyBackground3"
 	}
 
 	"BuildingIcon"
 	{
-		"iconColor"			"ColorPositive"
+		"iconColor"			"ColorPipboy"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"			"ColorPositive"
+		"fgcolor"			"ColorPipboy"
+		"bgcolor_override"	"ColorPipboyBackground2"
 	}
 }

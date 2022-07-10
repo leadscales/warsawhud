@@ -4,26 +4,35 @@
 {
 	"ItemNameLabel"
 	{
-		"fgcolor"			"ColorPositive"
+		"fgcolor"			"ColorPipboy"
+		"bgcolor_override"	"ColorPipboyBackground3"
 	}
 
 	"BuildingIcon"
 	{
-		"iconColor"			"ColorPositive"
+		"iconColor"			"ColorPipboy"
 	}
 
 	"MetalIcon"
 	{
-		"iconColor"			"ColorPositive"
+		"iconColor"			"ColorPipboy"
+	}
+
+	"MetalIcon2"
+	{
+		"fgcolor_override"	"ColorPipboy"
+		"bgcolor_override"	"ColorPipboyBackground2"
 	}
 
 	"CostLabel"
 	{
-		"fgcolor"			"ColorPositive"
+		"fgcolor"			"ColorPipboy"
+		"bgcolor_override"	"ColorPipboyBackground3"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"			"ColorPositive"
+		"fgcolor"			"ColorPipboy"
+		"bgcolor_override"	"ColorPipboyBackground2"
 	}
 }

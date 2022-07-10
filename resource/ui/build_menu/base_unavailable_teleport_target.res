@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ItemNameLabel"
-		"font"				"HudFontSmall"
+		"font"				"Font14"
 		"xpos"				"20"
 		"ypos"				"0"
 		"zpos"				"1"
@@ -42,7 +42,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CantBuildReason"
-		"font"				"HudFontSmall"
+		"font"				"Font14"
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"2"
@@ -63,7 +63,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ModeLabel"
-		"font"				"DefaultSmall"
+		"font"				"Font14"
 		"fgcolor"			"ColorGrey128"
 		"xpos"				"33"
 		"ypos"				"17"

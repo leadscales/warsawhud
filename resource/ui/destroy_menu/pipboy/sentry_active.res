@@ -6,6 +6,7 @@
 	{
 		"labelText"			"#TF_Object_Sentry"
 		"fgcolor_override"	"ColorPositive"
+		"bgcolor_override"	"ColorPositiveTransparent"
 	}
 
 	"BuildingIcon"
@@ -21,5 +22,6 @@
 	"NumberLabel"
 	{
 		"fgcolor_override"	"ColorPositive"
+		"bgcolor_override"	"ColorPositiveTransparent"
 	}
 }
