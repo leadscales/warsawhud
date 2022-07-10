@@ -30,7 +30,7 @@
 			"proportionaltoparent"		"1"
 			"fgcolor_override"			"ColorWhiteTransparent64"
 			"font"						"Font12"
-			"labelText"					"WARSAWHUD BETA 0.9.6"
+			"labelText"					"WARSAWHUD BETA 0.9.8"
 			"textalignment"				"east"
 			"urltext"					"https://github.com/p3tr1ch0r/warsawhud"
 		}
