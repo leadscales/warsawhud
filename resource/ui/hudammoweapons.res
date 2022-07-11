@@ -37,7 +37,7 @@
 		"labelText"			"%Ammo%"
 		"fgcolor"			"AmmoClip"
 		"bgcolor_override"			"PanelBlack2"
-		"bgcolor_override_minmode"	"Blank"
+		"bgcolor_override_minmode"	"PanelBlack2"
 	}
 
 	"AmmoInClipShadow"
@@ -70,7 +70,7 @@
 		"labelText"			"%AmmoInReserve%"
 		"fgcolor"			"AmmoRes"
 		"bgcolor_override"	"PanelBlack2"
-		"bgcolor_override_minmode"	"Blank"
+		"bgcolor_override_minmode"	"PanelBlack2"
 
 		"pin_to_sibling"	"AmmoInClip"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -109,7 +109,7 @@
 		"labelText"			"%Ammo%"
 		"fgcolor"			"AmmoClip"
 		"bgcolor_override"			"PanelBlack2"
-		"bgcolor_override_minmode"	"Blank"
+		"bgcolor_override_minmode"	"PanelBlack2"
 	}
 
 	"AmmoNoClipShadow"

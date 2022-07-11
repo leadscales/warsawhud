@@ -135,6 +135,8 @@ event HudLowAmmoPulse
 	Animate		AmmoInReserve					BgColor	"AmmoResLowTransparent"		Linear	0.0 0.1
 	Animate		AmmoNoClip						BgColor	"AmmoClipLowTransparent"	Linear	0.0 0.1
 
+	//Animate		MinmodePanel					BgColor	"Blank"						Linear	0.0	0.1
+
 	// Events
 	RunEvent	HudLowAmmoPulseLoop 			0.1
 }
@@ -153,6 +155,8 @@ event HudLowAmmoPulseStop
 	Animate		AmmoInClip						BgColor		"PanelBlack2"			Linear 0.0 0.1
 	Animate		AmmoInReserve					BgColor		"PanelBlack2"			Linear 0.0 0.1
 	Animate		AmmoNoClip						BgColor		"PanelBlack2"			Linear 0.0 0.1
+
+	//Animate		MinmodePanel					BgColor		"PanelBlack2"			Linear 0.0 0.1
 }
 
 // +++ +++ +++ +++ -|=== |> UBER <| ===|- +++ +++ +++ +++

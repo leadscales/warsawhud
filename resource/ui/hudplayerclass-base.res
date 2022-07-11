@@ -55,9 +55,9 @@
 		"wide"				"60"
 		"tall"				"30"
 		"visible"			"0"
-		"visible_minmode"	"1"
+		"visible_minmode"	"0"
 		"enabled"			"1"
-		"bgcolor_override"	"PanelBlack2"
+		"bgcolor_override"	"Blank"
 	}
 
 	"UpperMinmodePanel"
