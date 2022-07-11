@@ -3,6 +3,7 @@
 #base "../../resource/tools.res"
 #base "../../customizations/servers.res"
 #base "../../customizations/bookmarks.res"
+#base "../../customizations/ingame_menu_color_overlay.res"
 
 "Resource/UI/MainMenuOverride.res"
 {

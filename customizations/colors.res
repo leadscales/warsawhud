@@ -86,6 +86,7 @@ Scheme
 		"PanelBlack2"				"0 0 0 208"			// Important element or cat.
 		"PanelBlack3"				"0 0 0 192" 		// Information
 		"PanelBlack4"				"0 0 0 128" 		// Background if applicable
+		"PanelBlack5"				"0 0 0 64" 			// Background if applicable
 		"PanelWhite1"				"255 255 255 192"
 		"PanelWhite2"				"255 255 255 160"
 		"PanelWhite3"				"255 255 255 128"

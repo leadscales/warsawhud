@@ -635,7 +635,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ResumeButton"
 			"xpos"			"rs1-31-120"
-			"ypos"			"0"
+			"ypos"			"-20"
 			"zpos"			"100"
 			"wide"			"20"
 			"tall"			"20"

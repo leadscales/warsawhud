@@ -69,5 +69,9 @@
 		"command"									"engine"
 		"OnlyInGame"								"1"
 	}
-
+	"InGameColorOverlay"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
 }

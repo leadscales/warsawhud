@@ -9,7 +9,7 @@
 		"zpos"				"100"
 		//"wide"				"f176"
 		"wide"				"160"
-		"tall"				"140"
+		"tall"				"220"
 		"visible"			"0"
 		"paintbackground"	"1"
 		"paintborder"		"0"
@@ -71,7 +71,7 @@
 				"dulltext"			"0"
 				"brighttext"		"0"
 				"default"			"0"
-				"actionsignallevel"	"2"
+				"actionsignallevel"	"3"
 				"Command"			"motd_hide"
 				"paintbackground"	"1"
 				"proportionaltoparent"	"1"
@@ -761,14 +761,14 @@
 				"zpos"						"11"
 				"wide"						"15"
 				"tall"						"10"
-				"defaultbgcolor_override"	"PanelBlack4"
-				"armedbgcolor_override"		"PanelBlack3"
-				"armedfgColor_override"		"ColorWhite"
+				"defaultbgcolor_override"	"Blank"
+				"armedbgcolor_override"		"PanelWhite3"
+				"armedfgColor_override"		"ColorBlack"
 				"labeltext"					"r"
 				"font"						"SmallerIcons"
 				"textalignment"				"center"
 				"actionsignallevel"			"3"
-				"command"					"engine cl_crosshair_scale 64"
+				"command"					"engine cl_crosshair_scale 32"
 				"proportionaltoparent"		"1"
 
 				"sound_depressed"			"UI/buttonclick.wav"
@@ -1074,7 +1074,7 @@
 			"xpos"					"0"
 			"ypos"					"0"
 			"wide"					"f0"
-			"tall"					"50"
+			"tall"					"130"
 			"visible"				"1"
 			"bgcolor_override"		"Blank"
 			"proportionaltoparent"	"1"
@@ -1222,6 +1222,193 @@
 					"pin_to_sibling"			"Fastswitch"
 					"pin_corner_to_sibling"		"PIN_TOPLEFT"
 					"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+				}
+			}
+
+			"MiscSlidersContainer"
+			{
+				"ControlName"			"EditablePanel"
+				"fieldName"				"MiscButtonsContainer"
+				"xpos"					"0"
+				"ypos"					"0"
+				"wide"					"f0"
+				"tall"					"80"
+				"visible"				"1"
+				"bgcolor_override"		"Blank"
+				"proportionaltoparent"	"1"
+
+				"pin_to_sibling"		"MiscButtonsContainer"
+				"pin_corner_to_sibling"	"PIN_TOPLEFT"
+				"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+
+				"LabelsContainer"
+				{
+					"ControlName"			"EditablePanel"
+					"fieldName"				"LabelsContainer"
+					"xpos"					"0"
+					"ypos"					"0"
+					"wide"					"40"
+					"tall"					"f0"
+					"visible"				"1"
+					"bgcolor_override"		"PanelBlack4"
+					"proportionaltoparent"	"1"
+
+					"SENS"
+					{
+						"ControlName"			"CExLabel"
+						"fieldName"				"FOV"
+						"xpos"					"0"
+						"ypos"					"0"
+						"wide"					"f0"
+						"tall"					"20"
+						"proportionaltoparent"	"1"
+						"font"					"Font10"
+						"textalignment"			"center"
+						"labeltext"				"SENS"
+					}
+
+					"VMFOV"
+					{
+						"ControlName"			"CExLabel"
+						"fieldName"				"VMFOV"
+						"xpos"					"0"
+						"ypos"					"0"
+						"wide"					"f0"
+						"tall"					"20"
+						"proportionaltoparent"	"1"
+						"font"					"Font10"
+						"textalignment"			"center"
+						"labeltext"				"VM FOV"
+
+						"pin_to_sibling"		"FOV"
+						"pin_corner_to_sibling"	"PIN_TOPLEFT"
+						"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+					}
+
+					"VOL"
+					{
+						"ControlName"			"CExLabel"
+						"fieldName"				"VOL"
+						"xpos"					"0"
+						"ypos"					"0"
+						"wide"					"f0"
+						"tall"					"20"
+						"proportionaltoparent"	"1"
+						"font"					"Font10"
+						"textalignment"			"center"
+						"labeltext"				"VOL"
+
+						"pin_to_sibling"		"VMFOV"
+						"pin_corner_to_sibling"	"PIN_TOPLEFT"
+						"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+					}
+
+					"TIMESCALE"
+					{
+						"ControlName"			"CExLabel"
+						"fieldName"				"TIMESCALE"
+						"xpos"					"0"
+						"ypos"					"0"
+						"wide"					"f0"
+						"tall"					"20"
+						"proportionaltoparent"	"1"
+						"font"					"Font10"
+						"textalignment"			"center"
+						"labeltext"				"TSCALE"
+
+						"pin_to_sibling"		"VOL"
+						"pin_corner_to_sibling"	"PIN_TOPLEFT"
+						"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+					}
+				}
+
+				"SlidersContainer"
+				{
+					"ControlName"			"EditablePanel"
+					"fieldName"				"LabelsContainer"
+					"xpos"					"0"
+					"ypos"					"0"
+					"wide"					"120"
+					"tall"					"f0"
+					"visible"				"1"
+					"bgcolor_override"		"PanelBlack5"
+					"proportionaltoparent"	"1"
+
+					"pin_to_sibling"		"LabelsContainer"
+					"pin_corner_to_sibling"	"PIN_TOPLEFT"
+					"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+
+					"SENS"
+					{
+						"ControlName"			"CCvarSlider"
+						"fieldName"				"SENS"
+						"xpos"					"2"
+						"ypos"					"2"
+						"wide"					"f4"
+						"tall"					"16"
+						"proportionaltoparent"	"1"
+						"cvar_name"				"sensitivity"
+						"use_convar_minmax"		"0"
+						"minvalue"				"0.5"
+						"maxvalue"				"10"
+					}
+
+					"VMFOV"
+					{
+						"ControlName"			"CCvarSlider"
+						"fieldName"				"VMFOV"
+						"xpos"					"0"
+						"ypos"					"4"
+						"wide"					"f4"
+						"tall"					"16"
+						"proportionaltoparent"	"1"
+						"cvar_name"				"viewmodel_fov"
+						"use_convar_minmax"		"0"
+						"minvalue"				"40"
+						"maxvalue"				"120"
+
+						"pin_to_sibling"		"SENS"
+						"pin_corner_to_sibling"	"PIN_TOPLEFT"
+						"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+					}
+
+					"VOL"
+					{
+						"ControlName"			"CCvarSlider"
+						"fieldName"				"VOL"
+						"xpos"					"0"
+						"ypos"					"4"
+						"wide"					"f4"
+						"tall"					"16"
+						"proportionaltoparent"	"1"
+						"cvar_name"				"volume"
+						"use_convar_minmax"		"0"
+						"minvalue"				"0"
+						"maxvalue"				"1"
+
+						"pin_to_sibling"		"VMFOV"
+						"pin_corner_to_sibling"	"PIN_TOPLEFT"
+						"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+					}
+
+					"TIMESCALE"
+					{
+						"ControlName"			"CCvarSlider"
+						"fieldName"				"TIMESCALE"
+						"xpos"					"0"
+						"ypos"					"4"
+						"wide"					"f4"
+						"tall"					"16"
+						"proportionaltoparent"	"1"
+						"cvar_name"				"host_timescale"
+						"use_convar_minmax"		"0"
+						"minvalue"				"0.1"
+						"maxvalue"				"50"
+
+						"pin_to_sibling"		"VOL"
+						"pin_corner_to_sibling"	"PIN_TOPLEFT"
+						"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+					}
 				}
 			}
 		}
