@@ -13,7 +13,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -21,7 +21,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -29,7 +29,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -37,7 +37,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "AccentMain"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -217,7 +217,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "0 4"
 				}
 			}
@@ -225,7 +225,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -233,7 +233,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -241,7 +241,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -254,12 +254,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "1 0"
 				}
 			}
@@ -267,12 +267,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "1 0"
 				}
 			}
@@ -280,12 +280,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "1 0"
 				}
 			}
@@ -293,12 +293,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorWhite"
+					"color" "Blank"
 					"offset" "1 0"
 				}
 			}
@@ -360,44 +360,44 @@ Scheme
 			{
 				"1"
 				{
-					"color"	"AccentMain"
+					"color"	"Blank"
 				}
 				"2"
 				{
-					"color"	"AccentMain"
+					"color"	"Blank"
 				}
 			}
 			Right
 			{
 				"1"
 				{
-					"color"	"AccentMain"
+					"color"	"Blank"
 				}
 				"2"
 				{
-					"color"	"AccentMain"
+					"color"	"Blank"
 				}
 			}
 			Top
 			{
 				"1"
 				{
-					"color"	"AccentMain"
+					"color"	"Blank"
 				}
 				"2"
 				{
-					"color"	"AccentMain"
+					"color"	"Blank"
 				}
 			}
 			Bottom
 			{
 				"1"
 				{
-					"color"	"AccentMain"
+					"color"	"Blank"
 				}
 				"2"
 				{
-					"color"	"AccentMain"
+					"color"	"Blank"
 				}
 			}
 		}
