@@ -7,7 +7,7 @@
 		"xpos"			"rs1-15"
 		"ypos"			"20"
 		"zpos"			"0"
-		"wide"			"120"
+		"wide"			"90"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -30,7 +30,7 @@
 			"proportionaltoparent"		"1"
 			"fgcolor_override"			"ColorWhiteTransparent64"
 			"font"						"Font12"
-			"labelText"					"WARSAWHUD BETA 0.9.9.2"
+			"labelText"					"WARSAWHUD 1.0.0"
 			"textalignment"				"east"
 			"urltext"					"https://github.com/p3tr1ch0r/warsawhud"
 		}
