@@ -28,7 +28,7 @@ Scheme
 		"PartyMember2"							"0 255 128 255"
 		"PartyMember3"							"255 192 0 255"
 		"PartyMember4"							"255 128 0  255"
-		"PartyMember5"							"255 80 0 255"
+		"PartyMember5"							"255 0 72 255"
 		"PartyMember6"							"255 0 160 255"
 
 		"White"									"255 255 255 255"
@@ -52,7 +52,7 @@ Scheme
 		"HUDSpectator"							"128 128 128 127"
 		"HUDBlueTeamSolid"						"64 160 255 255"
 		"HUDRedTeamSolid"						"255 64 64 255"
-		"HUDDeathWarning"						"255 80 0 255"
+		"HUDDeathWarning"						"255 0 72 255"
 		"HudWhite"								"255 255 255 255"
 		"HudOffWhite"							"192 192 192 255"
 		"HudBlack"								"16 16 16 230"
@@ -71,12 +71,12 @@ Scheme
 
 		"HudProgressBarActive"					"0 176 255 255"
 		"HudProgressBarInActive"				"64 128 160 255"
-		"HudProgressBarActiveLow"				"255 80 0 255"
-		"HudProgressBarInActiveLow"				"255 80 0 99"
+		"HudProgressBarActiveLow"				"255 0 72 255"
+		"HudProgressBarInActiveLow"				"255 0 72 99"
 
 		"HudTimerProgressActive"				"255 255 255 255"
 		"HudTimerProgressInActive"				"64 64 64 255"
-		"HudTimerProgressWarning"				"255 80 0 255"
+		"HudTimerProgressWarning"				"255 0 72 255"
 
 		// Training
 		"HudTrainingHint"						"212 160 23 255"
@@ -89,7 +89,7 @@ Scheme
 		"StoreGreen"							"0 192 128 255"
 
 		// Building HUD Specific
-		"LowHealthRed"							"255 80 0 255"
+		"LowHealthRed"							"255 0 72 255"
 		"ProgressOffWhite"						"255 255 255 255"
 		"ProgressBackground"					"255 255 255 64"
 		"HealthBgGrey"							"64 64 64 255"
@@ -114,13 +114,13 @@ Scheme
 		"ItemAttribLevel"						"192 192 192 255"
 		"ItemAttribNeutral"						"255 255 255 255"
 		"ItemAttribPositive"					"0 255 176 255"
-		"ItemAttribNegative"					"255 80 0 255"
+		"ItemAttribNegative"					"255 0 72 255"
 
 		"ItemSetName"							"0 176 255 255"
 		"ItemSetItemEquipped"					"224 224 224 255"
 		"ItemSetItemMissing"					"128 128 128 255"
 		"ItemIsotope"							"225 80 0 255"
-		"ItemBundleItem"						"255 80 0 255"
+		"ItemBundleItem"						"255 0 72 255"
 		"ItemLimitedUse"						"255 128 0 255"
 		"ItemFlags"								"96 96 96 255"
 		"ItemLimitedQuantity"					"255 128 0 255"
@@ -201,8 +201,8 @@ Scheme
 		"QualityColorPaintkitWeapon_GreyedOut"	"60 60 60 255"
 
 		"SaleGreen"								"0 192 128 255"
-		"LightRed"								"255 80 0 255"
-		"LighterRed"							"255 80 0 255"
+		"LightRed"								"255 0 72 255"
+		"LighterRed"							"255 0 72 255"
 		"LighterDarkBrown"						"64 64 64 255"
 		"DarkBrown"								"48 48 48 255"
 

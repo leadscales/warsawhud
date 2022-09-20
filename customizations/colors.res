@@ -7,27 +7,27 @@ Scheme
 		"AccentMainTransparent"		"0 176 255 96"			// Main accent color with transparency
 		"AccentMainTransparent2"	"0 176 255 32"			// Main accent color with transparency
 		"AccentMainDark"			"0 112 192 255"			// Unused
-		"ColorNegative"				"255 80 0 255"			// Negative color (Canceling, quitting, etc.)
+		"ColorNegative"				"255 0 72 255"			// Negative color (Canceling, quitting, etc.)
 		"ColorPositive"				"0 255 176 255"			// Positive color (Accepting, joining a round, etc.)
-		"ColorNegativeTransparent"	"255 80 0 64"			// Negative color with transparency
+		"ColorNegativeTransparent"	"255 0 72 64"			// Negative color with transparency
 		"ColorPositiveTransparent"	"0 255 176 64"			// Positive color with transparency
 		// GAME PLAY
 		"AmmoClip"					"255 255 255 255"		// Ammo in your clip (or total if your weapon doesnt have a clip)
 		"AmmoRes"					"255 255 255 255"		// Ammo in your reserve
-		"AmmoClipLow"				"255 80 0 255"			// Ammo in your clip when your total ammo is low
-		"AmmoResLow"				"255 80 0 255"			// Ammo in your reserve when your total ammo is low
+		"AmmoClipLow"				"255 0 72 255"			// Ammo in your clip when your total ammo is low
+		"AmmoResLow"				"255 0 72 255"			// Ammo in your reserve when your total ammo is low
 		"HealthNormal"				"255 255 255 255"		// Your health (and enemy health)
 		"HealthBuff"				"0 255 176 255"			// Your health when you have overheal
-		"HealthHurt"				"255 80 0 255"			// Your health when you have less than 50% health
+		"HealthHurt"				"255 0 72 255"			// Your health when you have less than 50% health
 		"AmmoClipLowTransparent"	"128 40 0 192"			// This is the color of the box behind your ammo when it's low
 		"AmmoResLowTransparent"		"128 40 0 192"			// This is the color of the box behind your ammo when it's low
 		"HealthBuffTransparent"		"0 128 88 192"			// This is the color of the box behind your health when you have overheal
 		"HealthHurtTransparent"		"128 40 0 192"			// This is the color of the box behind your health when you have less than 50% health
 		"HealNum"					"0 255 176 255"			// Healing from medkits, medigun, dispensers, etc.
-		"DamageNum"					"255 80 0 255"			// Unused (?) controlled by in-game commands now
+		"DamageNum"					"255 0 72 255"			// Unused (?) controlled by in-game commands now
 		// CROSSHAIR COLORS
 		"Crosshair"					"255 255 255 255"		// Crosshair color
-		"Hitmarker"					"255 80 0 255"			// Hitmarker color
+		"Hitmarker"					"255 0 72 255"			// Hitmarker color
 		// UBER COLORS
 		"UberBar"					"255 255 255 255"		// Uber bar color
 		"UberBarCharged1"			"0 255 176 255"			// Uber bar charged color 1 (alternates between this and UberBarCharged2)
