@@ -460,7 +460,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"bgcolor_override"	"PanelBlack3"
+			"bgcolor_override"	"Blank"
 			"border"			"HudMenuBorderUpperAlt"
 
 			"if_single_with_hills_blue"
