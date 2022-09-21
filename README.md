@@ -92,3 +92,15 @@ You can add custom favorited servers that you can quick-join in the main menu. T
 
 ## And more
 Check the rest of `./customizations/`. There are plenty more things you can edit there, such as the HUD colors and in-game player model.
+
+# Screenshots
+![Main Menu](./screenshots/main_menu.jpg)
+![Items](./screenshots/items.jpg)
+![Backpack](./screenshots/backpack.jpg)
+![Loadout](./screenshots/loadout.jpg)
+![Team Select](./screenshots/team_select.jpg)
+![Class Select](./screenshots/class_select.jpg)
+![Payload](./screenshots/payload.jpg)
+![CTF](./screenshots/ctf.jpg)
+![CP](./screenshots/cp.jpg)
+![KOTH](./screenshots/koth.jpg)
