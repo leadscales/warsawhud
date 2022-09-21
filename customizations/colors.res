@@ -22,7 +22,7 @@ Scheme
 		"AmmoClipLowTransparent"	"128 40 0 192"			// This is the color of the box behind your ammo when it's low
 		"AmmoResLowTransparent"		"128 40 0 192"			// This is the color of the box behind your ammo when it's low
 		"HealthBuffTransparent"		"0 128 88 192"			// This is the color of the box behind your health when you have overheal
-		"HealthHurtTransparent"		"128 40 0 192"			// This is the color of the box behind your health when you have less than 50% health
+		"HealthHurtTransparent"		"128 0 36 192"			// This is the color of the box behind your health when you have less than 50% health
 		"HealNum"					"0 255 176 255"			// Healing from medkits, medigun, dispensers, etc.
 		"DamageNum"					"255 0 72 255"			// Unused (?) controlled by in-game commands now
 		// CROSSHAIR COLORS
