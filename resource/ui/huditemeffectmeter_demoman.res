@@ -55,7 +55,7 @@
 		"visible_minmode"		"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"p"
+		"labelText"				"Z"
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"

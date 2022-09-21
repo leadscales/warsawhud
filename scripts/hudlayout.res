@@ -210,6 +210,7 @@
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"c0-s2+s0.5-5"
 		"ypos"					"0"
+		"ypos_minmode"			"r0"
 		"wide"					"60"
 		"tall"  				"480"
 		"visible" 				"1"
