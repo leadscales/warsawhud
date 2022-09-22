@@ -1026,20 +1026,101 @@
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
 
-		// buttons that only show up in-game will go here
-		// vote calling, muting, reporting, etc.
-
 		"Section4BG"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Section4BG"
 			"xpos"			"rs1-2"
 			"ypos"			"0"
+			"wide"			"20"
+			"tall"			"20"
+			"bgcolor_override"	"Blank"
+			"visible"		"1"
+			"proportionaltoparent"	"1"
+		}
+
+		"InfoButton"
+		{
+			"ControlName"	"CExButton"
+			"fieldname"		"InfoButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"12"
+			"wide"			"20"
+			"tall"			"20"
+			"proportionaltoparent"	"1"
+			"visible"		"1"
+			"labeltext"		"i"
+			"font"			"SmallIcons"
+			"textalignment"	"center"
+			"command"		"engine warsaw_info"
+			"actionsignallevel"	"2"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override" 	"ColorWhite"
+			"armedFgColor_override" 	"AccentMain"
+
+			"defaultBgColor_override" 	"Blank"
+			"armedBgColor_override" 	"AccentMainTransparent2"
+
+			"pin_to_sibling"			"Section4BG"
+			"pin_corner_to_sibling"		"PIN_TOPLEFT"
+			"pin_to_sibling_corner"		"PIN_TOPLEFT"
+		}
+
+		"Splitter5"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter5"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelBlack4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"Section4BG"
+			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		}
+
+		"Splitter5IG"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"Splitter5IG"
+			"xpos"					"2"
+			"ypos"					"-2"
+			"wide"					"1"
+			"tall"					"f4"
+			"bgcolor_override"		"PanelWhite4"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"		"Section4BG"
+			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		}
+
+		// buttons that only show up in-game will go here
+		// vote calling, muting, reporting, etc.
+
+		"Section5BG"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Section5BG"
+			"xpos"			"5"
+			"ypos"			"0"
 			"wide"			"80"
 			"tall"			"20"
 			"bgcolor_override"	"Blank"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
+
+			"pin_to_sibling"	"Section4BG"
+			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}
 
 		"CallVoteButton"
@@ -1054,7 +1135,7 @@
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
-			"pin_to_sibling"	"Section4BG"
+			"pin_to_sibling"	"Section5BG"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 
@@ -1243,10 +1324,10 @@
 			}
 		}
 
-		"Splitter5"
+		"Splitter6"
 		{
 			"ControlName"			"EditablePanel"
-			"fieldName"				"Splitter5"
+			"fieldName"				"Splitter6"
 			"xpos"					"2"
 			"ypos"					"-2"
 			"wide"					"1"
@@ -1255,7 +1336,7 @@
 			"visible"				"1"
 			"proportionaltoparent"	"1"
 
-			"pin_to_sibling"		"Section4BG"
+			"pin_to_sibling"		"Section5BG"
 			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
 			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		}

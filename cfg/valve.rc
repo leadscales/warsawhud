@@ -44,8 +44,7 @@ alias "warsaw_dmg_blue" "hud_combattext_red 0; hud_combattext_green 192; hud_com
 alias "warsaw_dmg_magenta" "hud_combattext_red 255; hud_combattext_green 0; hud_combattext_blue 160"
 alias "warsaw_dmg_white" "hud_combattext_red 255; hud_combattext_green 255; hud_combattext_blue 255"
 
-alias "warsaw_info" "clear; showconsole; echo WARSAWHUD by Lead/p3tr1ch0r; echo Based off of rayshud by raysfire"
-alias "warsaw_beta_warning" "clear; showconsole; echo WARSAWHUD is in BETA!; echo Things are and will be broken!; echo Report any and all bugs found on the github repo issue page.; echo A link to it can be found on the items menu.;"
+alias "warsaw_info" "clear; showconsole; echo WARSAWHUD by Lead/p3tr1ch0r; echo Based off of rayshud by raysfire; echo Check Github often for updates, bugs are fixed regularly; echo You can find the link by clicking on the version number in the Items menu."
 
 alias "fix_issues" "hud_reloadscheme; snd_restart; stop; record fix; stop;" 
 

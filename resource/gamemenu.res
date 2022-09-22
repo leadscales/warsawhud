@@ -44,6 +44,11 @@
 		"command"									"engine"
 		"OnlyAtMenu"								"1"
 	}
+	"Splitter5"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
 	"Splitter1IG"
 	{
 		"command"									"engine"
@@ -64,7 +69,12 @@
 		"command"									"engine"
 		"OnlyInGame"								"1"
 	}
-	"Splitter5"
+	"Splitter5IG"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
+	"Splitter6"
 	{
 		"command"									"engine"
 		"OnlyInGame"								"1"
