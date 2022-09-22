@@ -336,7 +336,7 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"99"
-		"wide"				"164"
+		"wide"				"160"
 		"tall"				"35"
 		"visible"			"1"
 		"centerwrap"				"1"
