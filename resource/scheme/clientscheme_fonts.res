@@ -2719,10 +2719,5 @@ Scheme
 			"font"	"resource/fonts/Neusa.ttf"
 			"name"	"Neusa"
 		}
-		"9"
-		{
-			"font"	"resource/fonts/OpenSans.ttf"
-			"name"	"Open Sans Medium"
-		}
 	}
 }
