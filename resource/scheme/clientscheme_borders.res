@@ -1014,8 +1014,8 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"PanelMain"
-			"image"					"replay/thumbnails/panels/backpack_hover"
+			"color"					"ColorBlack"
+			"image"					"replay/thumbnails/panels/solid"
 			"src_corner_height"		"4"				// pixels inside the image
 			"src_corner_width"		"4"
 			"draw_corner_width"		"1"					// screen size of the corners ( and sides ), proportional
