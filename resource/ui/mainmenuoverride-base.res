@@ -257,8 +257,8 @@
 		"fieldName"		"CycleRankTypeButton"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"15"
-		"tall"			"15"
+		"wide"			"20"
+		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
@@ -311,11 +311,11 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
-		"xpos"			"-5"
-		"ypos"			"5"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"160"
-		"tall"			"35"
+		"tall"			"40"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
@@ -440,10 +440,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FriendsContainer"
 		"xpos"			"0"
-		"ypos"			"2"
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"160"
-		"tall"			"373"
+		"tall"			"380"
 		"visible"		"1"
 		"border"		"NoBorder"
 		"bgcolor_override"	"Transparent"
@@ -483,14 +483,14 @@
 				"xpos"			"r2"
 				"ypos"			"0"
 				"tall"			"f0"
-				"wide"			"3"
+				"wide"			"2"
 				"zpos"			"1000"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
 
 				"Slider"
 				{
-					"fgcolor_override"	"PanelBlack3"
+					"fgcolor_override"	"AccentMain"
 				}
 
 				"UpButton"
@@ -522,7 +522,7 @@
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			"bgcolor_override"	"PanelBlack2"
+			"bgcolor_override"	"PanelBlack5"
 		}
 	}
 
@@ -530,7 +530,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainButtonsPanel"
-		"xpos"			"cs-0.5"
+		"xpos"			"0"
 		"ypos"			"20"
 		"wide"			"f0"
 		"tall"			"20"
@@ -671,7 +671,7 @@
 		"ypos"			"rs1"
 		"wide"			"f0"
 		"tall"			"20"
-		"bgcolor_override"	"PanelBlack3"
+		"bgcolor_override"	"PanelBlack2"
 
 		"HudSettingsBG"
 		{

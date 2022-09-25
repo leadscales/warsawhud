@@ -88,8 +88,8 @@
 			"defaultFgColor_override"	"ColorWhite"
 			"armedFgColor_override"		"AccentMain"
 
-			"armedBgColor_override"		"PanelBlack4"
-			"defaultBgColor_override"	"PanelBlack4"
+			"armedBgColor_override"		"Blank"
+			"defaultBgColor_override"	"Blank"
 		}
 
 		"PartySlot0"
@@ -589,10 +589,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			
 			"FgColor"						"ColorWhite"
-			"defaultBgColor_override"		"PanelBlack3"
-			"armedBgColor_override"			"ColorNegative"
+			"defaultBgColor_override"		"Blank"
+			"armedBgColor_override"			"ColorNegativeTransparent"
 			"defaultFgColor_override"		"ColorWhite"
-			"armedFgColor_override"			"ColorBlack"
+			"armedFgColor_override"			"ColorNegative"
 		}
 
 		"DisconnectButton"
@@ -624,10 +624,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			
 			"FgColor"						"ColorWhite"
-			"defaultBgColor_override"		"PanelBlack3"
-			"armedBgColor_override"			"ColorNegative"
+			"defaultBgColor_override"		"Blank"
+			"armedBgColor_override"			"ColorNegativeTransparent"
 			"defaultFgColor_override"		"ColorWhite"
-			"armedFgColor_override"			"ColorBlack"
+			"armedFgColor_override"			"ColorNegative"
 		}
 
 		"ResumeButton"
@@ -659,10 +659,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			
 			"FgColor"						"ColorWhite"
-			"defaultBgColor_override"		"PanelBlack3"
-			"armedBgColor_override"			"ColorPositive"
+			"defaultBgColor_override"		"Blank"
+			"armedBgColor_override"			"ColorPositiveTransparent"
 			"defaultFgColor_override"		"ColorWhite"
-			"armedFgColor_override"			"ColorBlack"
+			"armedFgColor_override"			"ColorPositive"
 		}
 
 		"FindAGameButton"
@@ -694,10 +694,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			
 			"FgColor"						"ColorWhite"
-			"defaultBgColor_override"		"PanelBlack3"
-			"armedBgColor_override"			"ColorPositive"
+			"defaultBgColor_override"		"Blank"
+			"armedBgColor_override"			"ColorPositiveTransparent"
 			"defaultFgColor_override"		"ColorWhite"
-			"armedFgColor_override"			"ColorBlack"
+			"armedFgColor_override"			"ColorPositive"
 		}
 	}
 }

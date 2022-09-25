@@ -209,7 +209,7 @@
 			"ypos"			"0"
 			"wide"			"160"
 			"zpos"			"100"
-			"tall"			"15"
+			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
 			"font"			"Font12"
@@ -217,7 +217,7 @@
 			"textAlignment"	"center"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"PanelBlack2"
+			"bgcolor_override"	"PanelBlack3"
 
 			if_mini
 			{
@@ -230,7 +230,7 @@
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine1"
 			"xpos"			"0"
-			"ypos"			"15"
+			"ypos"			"20"
 			"wide"			"160"
 			"zpos"			"100"
 			"tall"			"18"
@@ -241,7 +241,7 @@
 			"textAlignment"	"center"
 			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"PanelBlack3"
+			"bgcolor_override"	"PanelBlack4"
 
 			if_mini
 			{
@@ -293,7 +293,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
 			"xpos"			"0"
-			"ypos"			"10"
+			"ypos"			"15"
 			"wide"			"260"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -414,6 +414,7 @@
 						"progress"		"0"
 
 						"fgcolor_override"	"ColorPositive"
+						"bgcolor_override"	"ColorPositiveTransparent"
 					}
 
 					"Frame"

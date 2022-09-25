@@ -95,6 +95,7 @@ Check the rest of `./customizations/`. There are plenty more things you can edit
 
 # Screenshots
 ![Main Menu](./screenshots/main_menu.jpg)
+![Tools Menu](./screenshots/main_menu_tools.jpg)
 ![Items](./screenshots/items.jpg)
 ![Backpack](./screenshots/backpack.jpg)
 ![Loadout](./screenshots/loadout.jpg)
