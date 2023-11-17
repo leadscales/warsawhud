@@ -336,6 +336,22 @@
 		"PaintBackgroundType"	"2"
 	}
 
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"r105"
+		"ypos"				"r45"
+		"xpos_minmode"		"rs1-67"
+		"ypos_minmode"		"rs1-21"
+		"wide"				"100"
+		"tall"				"20"
+		"wide_minmode"		"45"
+		"tall_minmode"		"14"
+		"visible" 			"0"
+		"enabled" 			"1"
+	}
+
 	"HudProgressBar"
 	{
 		"fieldName" 			"HudProgressBar"
