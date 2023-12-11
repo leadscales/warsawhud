@@ -613,7 +613,7 @@
 			"actionsignallevel" "2"
 			"default"		"1"
 			"NumericInputOnly"	"1"
-			"maxchars"		"18"
+			"maxchars"		"20"
 			"textAlignment"	"center"
 			"defaultFgColor_override"	"PanelMain"
 			"defaultBgColor_override"	"ColorWhite"
